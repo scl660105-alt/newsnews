@@ -1,16 +1,42 @@
 {
-  "lastUpdated": "2026-06-30T03:42:59Z",
+  "lastUpdated": "2026-06-30T03:50:08Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 3276,
+  "count": 3278,
   "news": [
+    {
+      "title": "[인사] 교보증권",
+      "description": "<선임> ◇실장 ▲경영기획실 서보건 <승진> ◇담당 ▲WM전략 전인봉 ◇부서장 ▲WM지원부 구향자 ◇파트장 ▲투자컨설팅파트 한정숙 <이동> ◇담당 ▲그룹시너지 정원일 ◇부서장 ▲디지털PB센터 정능환...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139680",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139680",
+      "press": "",
+      "pubDate": "2026-06-30T12:48:00+09:00",
+      "date": "2026-06-30",
+      "companies": [
+        "교보증권"
+      ]
+    },
+    {
+      "title": "코스피 랠리에 100억 이상 투자자 2배…평균 자산 23% 증가",
+      "description": "한국경제신문이 29일 삼성증권, 미래에셋증권, NH투자증권 등 국내 대형 증권사 세 곳에 의뢰해 집계한 결과 이달 19일 기준 예탁자산이 100억원 이상인 투자자는 4510명이었다. 이는 1년 전(2195명) 대비 105% 늘어난...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=309545",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=309545",
+      "press": "",
+      "pubDate": "2026-06-30T12:46:00+09:00",
+      "date": "2026-06-30",
+      "companies": [
+        "미래에셋증권",
+        "NH투자증권",
+        "삼성증권"
+      ]
+    },
     {
       "title": "\"아이에스티이, 수주잔고가 증명하는 2026년 흑자전환…FOUP 클리너 성장...",
       "description": "키움증권은 30일 아이에스티이에 대해 투자의견과 목표주가를 제시하지 않았다. 직전거래일 29일 기준 주가는 8160원에 거래를 마쳤다. 아이에스티이는 반도체 장비 전문 업체로, FOUP Cleaner, Sorter, EFEM 등을 개발...",
       "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=268777",
       "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=268777",
       "press": "",
-      "pubDate": "2026-06-30T12:40:00+09:00",
+      "pubDate": "2026-06-30T03:40:00+00:00",
       "date": "2026-06-30",
       "companies": [
         "키움증권"
@@ -22,7 +48,7 @@
       "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2216829",
       "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2216829",
       "press": "",
-      "pubDate": "2026-06-30T12:40:00+09:00",
+      "pubDate": "2026-06-30T03:40:00+00:00",
       "date": "2026-06-30",
       "companies": [
         "신한투자증권",
@@ -35,7 +61,7 @@
       "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1326178",
       "originallink": "https://www.incheonilbo.com/news/articleView.html?idxno=1326178",
       "press": "",
-      "pubDate": "2026-06-30T12:40:00+09:00",
+      "pubDate": "2026-06-30T03:40:00+00:00",
       "date": "2026-06-30",
       "companies": [
         "메리츠증권"
