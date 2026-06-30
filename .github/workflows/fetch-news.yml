@@ -28,12 +28,20 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: ./scripts/collect-news.ps1
 
+      - name: Notify Telegram
+        shell: pwsh
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: ./scripts/notify-telegram.ps1
+
       - name: Commit if changed
         shell: pwsh
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/news_history.json
+          git add data/news.json data/news_history.json data/alerted.json 2>$null
+          git add data/   # alerted.json 신규 생성 등 누락 방지
           git diff --cached --quiet
           if ($LASTEXITCODE -ne 0) {
             git commit -m "chore: update securities news [skip ci]"

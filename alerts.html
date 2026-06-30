@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🔔 텔레그램 알림 설정</title>
+<style>
+  :root{
+    --bg:#f5f6f7; --panel:#fff; --line:#e3e5e8; --txt:#222226; --muted:#8a8f99;
+    --accent:#03c75a; --tg:#229ED2; --chipOn:#e7f8ee; --warn:#e0405a;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",sans-serif;font-size:13px;line-height:1.55}
+  a{color:inherit}
+  header{padding:14px 20px 12px;background:#fff;border-bottom:3px solid var(--accent);position:sticky;top:0;z-index:5}
+  h1{margin:0;font-size:18px;font-weight:800;letter-spacing:-.3px}
+  h1::before{content:"";display:inline-block;width:6px;height:18px;background:var(--accent);border-radius:2px;margin-right:8px;vertical-align:-2px}
+  .back{float:right;font-size:12px;font-weight:700;color:#555;text-decoration:none;border:1px solid #d5d8dc;padding:5px 10px;border-radius:4px}
+  .wrap{max-width:760px;margin:0 auto;padding:18px 20px 60px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:16px 18px;margin-bottom:14px}
+  .card h2{margin:0 0 4px;font-size:14px;font-weight:800}
+  .card .desc{color:var(--muted);font-size:12px;margin-bottom:12px}
+  label{display:block;font-size:12px;font-weight:700;color:#555;margin:10px 0 5px}
+  input[type=text],input[type=password],input[type=number],select{width:100%;background:#fff;border:1px solid #d5d8dc;
+    color:var(--txt);border-radius:5px;padding:9px 11px;font-size:13px;outline:none;font-family:inherit}
+  input:focus{border-color:var(--accent)}
+  .rowi{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .rowi input[type=text]{flex:1;min-width:160px}
+  .btn{background:#fff;border:1px solid #d5d8dc;color:#333;border-radius:5px;padding:9px 14px;
+    font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  .btn.primary:hover{filter:brightness(.95);color:#fff}
+  .btn.tg{background:#229ED2;border-color:#229ED2;color:#fff}
+  .btn.tg:hover{filter:brightness(.95);color:#fff}
+  .btn:disabled{opacity:.5;cursor:not-allowed}
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:6px}
+  .chip{display:inline-flex;align-items:center;gap:6px;background:var(--chipOn);border:1px solid #a5e3c2;color:#0a8f47;
+    border-radius:999px;padding:6px 8px 6px 12px;font-size:13px;font-weight:600}
+  .chip .x{cursor:pointer;color:#0a8f47;opacity:.6;font-size:12px;font-weight:800}
+  .chip .x:hover{opacity:1;color:var(--warn)}
+  .seg{display:inline-flex;border:1px solid #d5d8dc;border-radius:5px;overflow:hidden}
+  .seg .s{padding:8px 16px;font-size:12px;font-weight:700;cursor:pointer;background:#fff;color:#555}
+  .seg .s.on{background:var(--accent);color:#fff}
+  .seg .s + .s{border-left:1px solid #d5d8dc}
+  .status{font-size:12px;margin-top:10px;padding:9px 12px;border-radius:5px;display:none}
+  .status.show{display:block}
+  .status.ok{background:#e7f8ee;color:#0a8f47}
+  .status.err{background:#fdeaed;color:var(--warn)}
+  .status.info{background:#eef4fb;color:#1a4eab}
+  .pill{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;margin-left:6px}
+  .pill.on{background:#e7f8ee;color:#0a8f47}
+  .pill.off{background:#fdeaed;color:var(--warn)}
+  .savebar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  details{margin-top:10px}
+  summary{cursor:pointer;color:var(--muted);font-size:12px;font-weight:700}
+  .adv{display:flex;gap:14px;flex-wrap:wrap;margin-top:10px}
+  .adv > div{flex:1;min-width:120px}
+  code{background:#f0f1f3;padding:1px 6px;border-radius:4px;font-size:12px}
+  .help{font-size:11.5px;color:var(--muted);margin-top:6px;line-height:1.6}
+  .help a{color:#1a4eab}
+</style>
+</head>
+<body>
+<header>
+  <a class="back" href="index.html">← 모니터로</a>
+  <h1>텔레그램 알림 설정</h1>
+</header>
+
+<div class="wrap">
+
+  <!-- 1) GitHub 연결 -->
+  <div class="card">
+    <h2>1. GitHub 연결 <span id="connPill" class="pill off">미연결</span></h2>
+    <div class="desc">키워드를 저장소(<code>data/alerts.json</code>)에 반영하려면 GitHub 토큰이 필요합니다. 토큰은 <b>이 브라우저에만</b> 저장되고 저장소엔 들어가지 않습니다.</div>
+    <label>GitHub Personal Access Token</label>
+    <div class="rowi">
+      <input type="password" id="pat" placeholder="github_pat_... 또는 ghp_...">
+      <button class="btn primary" id="saveTok">저장</button>
+      <button class="btn" id="clearTok">지우기</button>
+    </div>
+    <div class="help">
+      Fine-grained 토큰 생성 → <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens</a><br>
+      • Repository access: <code>scl660105-alt/newsnews</code> 만 선택<br>
+      • Permissions → <b>Contents: Read and write</b> (필수) · <b>Actions: Read and write</b> (선택 — "지금 적용" 버튼용)
+    </div>
+  </div>
+
+  <!-- 2) 알림 키워드 -->
+  <div class="card">
+    <h2>2. 알림 키워드</h2>
+    <div class="desc">이 단어 중 <b id="logicWord">하나라도</b> 제목·요약에 들어간 새 기사를 텔레그램 채널로 전송합니다.</div>
+    <div class="rowi">
+      <input type="text" id="kwIn" placeholder="키워드 입력 후 Enter (예: 먹통, 과태료)">
+      <button class="btn primary" id="kwAdd">+ 추가</button>
+    </div>
+    <div class="chips" id="chips"></div>
+
+    <details>
+      <summary>고급 설정</summary>
+      <div class="adv">
+        <div>
+          <label>키워드 결합</label>
+          <span class="seg" id="logicSeg">
+            <span class="s on" data-logic="OR">OR (하나라도)</span>
+            <span class="s" data-logic="AND">AND (전부)</span>
+          </span>
+        </div>
+        <div>
+          <label>최근 N시간 내 기사만</label>
+          <input type="number" id="recentHours" min="1" max="720" value="72">
+        </div>
+        <div>
+          <label>1회 최대 전송 건수</label>
+          <input type="number" id="maxPerRun" min="1" max="100" value="30">
+        </div>
+      </div>
+    </details>
+  </div>
+
+  <!-- 3) 저장/적용 -->
+  <div class="card">
+    <h2>3. 저장 & 적용</h2>
+    <div class="desc">저장하면 <code>data/alerts.json</code>이 갱신됩니다. 매시 자동수집 때 새 키워드가 적용되며, "지금 적용"을 누르면 수집·전송을 즉시 1회 실행합니다.</div>
+    <div class="savebar">
+      <button class="btn primary" id="save" disabled>💾 저장</button>
+      <button class="btn tg" id="runNow" disabled>⚡ 지금 적용(즉시 실행)</button>
+      <button class="btn" id="reload">↻ 새로고침</button>
+    </div>
+    <div class="status" id="status"></div>
+  </div>
+
+</div>
+
+<script>
+const REPO = { owner:'scl660105-alt', repo:'newsnews', path:'data/alerts.json', branch:'main', workflow:'fetch-news.yml' };
+const TOK_KEY = 'gh_pat_newsnews';
+const state = { keywords:[], logic:'OR', recentHours:72, maxPerRun:30, sha:null };
+
+const $ = id => document.getElementById(id);
+function b64e(s){ return btoa(unescape(encodeURIComponent(s))); }
+function b64d(b){ return decodeURIComponent(escape(atob((b||'').replace(/\s/g,'')))); }
+function token(){ return localStorage.getItem(TOK_KEY) || ''; }
+function ghHeaders(){ const h={'Accept':'application/vnd.github+json'}; if(token()) h['Authorization']='Bearer '+token(); return h; }
+function status(msg, kind){ const e=$('status'); e.className='status show '+(kind||'info'); e.textContent=msg; }
+
+function refreshConn(){
+  const has=!!token();
+  $('connPill').className='pill '+(has?'on':'off');
+  $('connPill').textContent=has?'연결됨':'미연결';
+  $('save').disabled=!has; $('runNow').disabled=!has;
+}
+
+function renderChips(){
+  const el=$('chips'); el.innerHTML='';
+  if(!state.keywords.length){ el.innerHTML='<span class="help">키워드가 없습니다. 위에서 추가하세요.</span>'; }
+  state.keywords.forEach((k,i)=>{
+    const s=document.createElement('span'); s.className='chip';
+    s.innerHTML=`${k.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}<span class="x" title="삭제">✕</span>`;
+    s.querySelector('.x').onclick=()=>{ state.keywords.splice(i,1); renderChips(); };
+    el.appendChild(s);
+  });
+  $('logicWord').textContent = state.logic==='AND' ? '전부' : '하나라도';
+  document.querySelectorAll('#logicSeg .s').forEach(b=>b.classList.toggle('on',b.dataset.logic===state.logic));
+}
+
+function addKw(){
+  const inp=$('kwIn'); const raw=inp.value.trim();
+  if(!raw) return;
+  raw.split(/[,\n]/).map(s=>s.trim()).filter(Boolean).forEach(t=>{
+    if(!state.keywords.some(k=>k.toLowerCase()===t.toLowerCase())) state.keywords.push(t);
+  });
+  inp.value=''; inp.focus(); renderChips();
+}
+
+async function loadAlerts(){
+  status('현재 설정을 불러오는 중…','info');
+  try{
+    const url=`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${REPO.path}?ref=${REPO.branch}`;
+    const r=await fetch(url,{headers:ghHeaders(),cache:'no-store'});
+    if(r.status===404){ state.sha=null; state.keywords=[]; renderChips(); status('alerts.json이 없어 새로 만듭니다. 키워드를 추가 후 저장하세요.','info'); return; }
+    if(!r.ok) throw new Error('HTTP '+r.status+(r.status===401?' (토큰 확인)':''));
+    const j=await r.json();
+    state.sha=j.sha;
+    const cfg=JSON.parse(b64d(j.content));
+    state.keywords=Array.isArray(cfg.keywords)?cfg.keywords:[];
+    state.logic=(cfg.logic||'OR').toUpperCase();
+    state.recentHours=cfg.recentHours||72;
+    state.maxPerRun=cfg.maxPerRun||30;
+    $('recentHours').value=state.recentHours; $('maxPerRun').value=state.maxPerRun;
+    renderChips();
+    status(`불러옴 — 키워드 ${state.keywords.length}개`,'ok');
+  }catch(e){ status('불러오기 실패: '+e.message,'err'); }
+}
+
+async function save(){
+  if(!token()){ status('먼저 GitHub 토큰을 저장하세요.','err'); return; }
+  state.recentHours=Math.max(1,parseInt($('recentHours').value)||72);
+  state.maxPerRun=Math.max(1,parseInt($('maxPerRun').value)||30);
+  const payload={ _comment:"텔레그램 알림 키워드. alerts.html에서 편집됨.", keywords:state.keywords, logic:state.logic, recentHours:state.recentHours, maxPerRun:state.maxPerRun };
+  const content=b64e(JSON.stringify(payload,null,2)+'\n');
+  const url=`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${REPO.path}`;
+  async function put(sha){
+    const body={ message:'chore: update alert keywords via alerts.html', content, branch:REPO.branch };
+    if(sha) body.sha=sha;
+    return fetch(url,{method:'PUT',headers:{...ghHeaders(),'Content-Type':'application/json'},body:JSON.stringify(body)});
+  }
+  status('저장 중…','info');
+  try{
+    let r=await put(state.sha);
+    if(r.status===409){ // sha 충돌 → 재조회 후 재시도
+      const g=await fetch(url+`?ref=${REPO.branch}`,{headers:ghHeaders(),cache:'no-store'});
+      if(g.ok){ state.sha=(await g.json()).sha; r=await put(state.sha); }
+    }
+    if(!r.ok){ const t=await r.text(); throw new Error('HTTP '+r.status+' '+t.slice(0,120)); }
+    const j=await r.json();
+    state.sha=j.content && j.content.sha ? j.content.sha : state.sha;
+    status(`저장 완료 ✓ 키워드 ${state.keywords.length}개. 다음 자동수집(매시)부터 적용됩니다. 즉시 보려면 "지금 적용".`,'ok');
+  }catch(e){ status('저장 실패: '+e.message,'err'); }
+}
+
+async function runNow(){
+  if(!token()){ status('먼저 GitHub 토큰을 저장하세요.','err'); return; }
+  status('워크플로 실행 요청 중…','info');
+  try{
+    const url=`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/actions/workflows/${REPO.workflow}/dispatches`;
+    const r=await fetch(url,{method:'POST',headers:{...ghHeaders(),'Content-Type':'application/json'},body:JSON.stringify({ref:REPO.branch})});
+    if(r.status===204){ status('실행 요청 완료 ✓ 약 1분 뒤 수집·전송이 돌아갑니다. (Actions 탭에서 진행 확인)','ok'); return; }
+    if(r.status===403||r.status===404){ status('실행 권한이 없습니다. 토큰에 Actions: Read and write 권한이 필요해요. (저장만으로도 매시 자동 적용됩니다)','err'); return; }
+    throw new Error('HTTP '+r.status);
+  }catch(e){ status('실행 요청 실패: '+e.message,'err'); }
+}
+
+// 이벤트
+$('saveTok').onclick=()=>{ const v=$('pat').value.trim(); if(!v){return;} localStorage.setItem(TOK_KEY,v); $('pat').value=''; refreshConn(); status('토큰 저장됨(이 브라우저).','ok'); loadAlerts(); };
+$('clearTok').onclick=()=>{ localStorage.removeItem(TOK_KEY); refreshConn(); status('토큰을 지웠습니다.','info'); };
+$('kwAdd').onclick=addKw;
+$('kwIn').addEventListener('keydown',e=>{ if(e.key==='Enter'){ e.preventDefault(); addKw(); } });
+document.querySelectorAll('#logicSeg .s').forEach(b=>b.onclick=()=>{ state.logic=b.dataset.logic; renderChips(); });
+$('save').onclick=save;
+$('runNow').onclick=runNow;
+$('reload').onclick=loadAlerts;
+
+refreshConn();
+renderChips();
+loadAlerts();
+</script>
+</body>
+</html>

@@ -83,6 +83,21 @@ python -m http.server 8080
 
 ---
 
+## 텔레그램 알림 (키워드 매칭 기사 자동 전송)
+
+키워드에 매칭되는 **새 기사**를 텔레그램 채널/그룹으로 자동 전송한다.
+
+- **동작**: 매시 수집(`collect-news.ps1`) 직후 `notify-telegram.ps1` 이 `data/alerts.json` 의 키워드로 `data/news.json` 을 매칭 → 미전송 기사만 텔레그램 전송 → 보낸 기사는 `data/alerted.json` 에 기록(중복 방지).
+- **첫 실행은 시드**: 과거 매칭분은 "이미 본 것"으로만 표시하고 전송하지 않음(폭주 방지). 이후 새 기사만 전송.
+- **Secrets**: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` (Settings → Secrets). 미설정 시 전송 단계는 조용히 skip.
+- **키워드 설정**: 사이트 우상단 **🔔 알림 설정**(`alerts.html`)에서 편집. GitHub 토큰(Contents 쓰기)을 브라우저에 1회 저장하면 키워드 변경이 `data/alerts.json` 으로 커밋됨. 또는 `data/alerts.json` 을 직접 수정해도 됨.
+- **alerts.json 스키마**: `{ keywords:[...], logic:"OR"|"AND", recentHours:72, maxPerRun:30 }`
+
+### 봇/채널 준비
+1. @BotFather → `/newbot` → 토큰
+2. 채널 생성 → 봇을 **관리자(메시지 게시 권한)** 로 추가 → 채널에 글 1개 게시
+3. chat id: 봇이 관리자인 상태에서 `https://api.telegram.org/bot<TOKEN>/getUpdates` 의 `channel_post.chat.id`(`-100...`)
+
 ## 참고 / 한계
 - 네이버 검색 API 는 **날짜 범위 파라미터가 없어** 최신순(`sort=date`)으로만 조회 → 과거 날짜대는 **가동 이후 누적분**에서 검색됩니다(첫 실행 시점부터 쌓임).
 - 언론사명은 API 가 직접 주지 않아 `originallink` 호스트로 추정합니다(미상이면 공백). `collect-news.ps1` 의 `$PRESS_MAP` 에서 보강 가능.
