@@ -1,0 +1,7 @@
+# Playwright/MCP 산출물·스크린샷
+.playwright-mcp/
+*.png
+
+# 로컬 환경
+.env
+*.local
