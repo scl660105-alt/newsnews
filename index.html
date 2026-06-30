@@ -6,75 +6,79 @@
 <title>증권사 뉴스 모니터</title>
 <style>
   :root{
-    --bg:#0f1116; --panel:#171a21; --panel2:#1d2129; --line:#2a2f3a;
-    --txt:#e6e9ef; --muted:#8b93a3; --accent:#4c8dff; --accent2:#2b5fb3;
-    --chip:#222733; --chipOn:#26406e; --hi:#ffd76a;
+    --bg:#f5f6f7; --panel:#ffffff; --panel2:#f7f8f9; --line:#e3e5e8;
+    --txt:#222226; --muted:#8a8f99; --accent:#03c75a; --accent2:#1a4eab;
+    --chip:#f4f5f6; --chipOn:#e7f8ee; --hi:#03c75a;
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--txt);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Malgun Gothic",sans-serif;font-size:14px;line-height:1.5}
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",sans-serif;font-size:13px;line-height:1.5}
   a{color:inherit;text-decoration:none}
-  header{padding:18px 22px 12px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
-  h1{margin:0;font-size:18px;font-weight:700;letter-spacing:-.2px}
-  .sub{color:var(--muted);font-size:12px;margin-top:4px}
-  .wrap{padding:16px 22px 60px;max-width:1100px;margin:0 auto}
+  header{padding:14px 20px 12px;position:sticky;top:0;background:#fff;border-bottom:3px solid var(--accent);z-index:5}
+  h1{margin:0;font-size:18px;font-weight:800;letter-spacing:-.3px;color:#222}
+  h1::before{content:"";display:inline-block;width:6px;height:18px;background:var(--accent);border-radius:2px;margin-right:8px;vertical-align:-2px}
+  .sub{color:var(--muted);font-size:12px;margin-top:6px}
+  .wrap{padding:14px 20px 60px;max-width:1080px;margin:0 auto}
 
-  .filters{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
-  .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
-  .row + .row{margin-top:12px}
-  label.fl{color:var(--muted);font-size:12px;min-width:54px}
-  input[type=date],input[type=text]{background:var(--panel2);border:1px solid var(--line);color:var(--txt);
-    border-radius:8px;padding:8px 10px;font-size:13px;outline:none}
+  .filters{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .row + .row{margin-top:10px;padding-top:10px;border-top:1px solid #f0f1f3}
+  label.fl{color:#555;font-size:12px;font-weight:700;min-width:50px}
+  input[type=date],input[type=text]{background:#fff;border:1px solid #d5d8dc;color:var(--txt);
+    border-radius:4px;padding:8px 10px;font-size:13px;outline:none;font-family:inherit}
   input[type=text]{flex:1;min-width:200px}
   input:focus{border-color:var(--accent)}
-  .btn{background:var(--chip);border:1px solid var(--line);color:var(--txt);border-radius:8px;
-    padding:7px 12px;font-size:12px;cursor:pointer;user-select:none}
-  .btn:hover{border-color:var(--accent)}
-  .btn.on{background:var(--chipOn);border-color:var(--accent)}
-  .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .btn{background:#fff;border:1px solid #d5d8dc;color:#444;border-radius:4px;
+    padding:7px 12px;font-size:12px;font-weight:600;cursor:pointer;user-select:none}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
+  .btn.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .seg{display:inline-flex;border:1px solid #d5d8dc;border-radius:4px;overflow:hidden}
   .seg .btn{border:0;border-radius:0}
-  .seg .btn + .btn{border-left:1px solid var(--line)}
-  .chips{display:flex;flex-wrap:wrap;gap:7px}
-  .chip{background:var(--chip);border:1px solid var(--line);color:var(--muted);border-radius:999px;
-    padding:5px 11px;font-size:12px;cursor:pointer;user-select:none}
+  .seg .btn + .btn{border-left:1px solid #d5d8dc}
+  .seg .btn.on{background:var(--accent);color:#fff}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{background:#fff;border:1px solid #d5d8dc;color:#555;border-radius:4px;
+    padding:6px 11px;font-size:12px;cursor:pointer;user-select:none}
   .chip:hover{border-color:var(--accent)}
-  .chip.on{background:var(--chipOn);border-color:var(--accent);color:var(--txt)}
-  .kwbar{display:flex;flex-wrap:wrap;gap:7px;align-items:center;flex:1}
-  .kwlab{color:var(--muted);font-size:11px;font-weight:600}
-  .kwlab:not(:first-child){margin-left:10px;padding-left:10px;border-left:1px solid var(--line)}
-  .kwchip{background:var(--chip);border:1px solid var(--line);color:var(--muted);border-radius:999px;
-    padding:4px 10px;font-size:12px;cursor:pointer;user-select:none}
-  .kwchip:hover{border-color:var(--hi)}
-  .kwchip.on{background:#3a2c12;border-color:var(--hi);color:#ffe7a3}
+  .chip.on{background:var(--chipOn);border-color:#a5e3c2;color:#0a8f47}
+  .kwbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;flex:1}
+  .kwlab{color:#888;font-size:11px;font-weight:700}
+  .kwlab:not(:first-child){margin-left:8px;padding-left:8px;border-left:1px solid var(--line)}
+  .kwchip{background:#fff;border:1px solid #d5d8dc;color:#555;border-radius:4px;
+    padding:6px 10px;font-size:12px;cursor:pointer;user-select:none}
+  .kwchip:hover{border-color:var(--accent)}
+  .kwchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
   .kwchip .x{margin-left:6px;display:none;font-size:11px}
   #kwpresets.editing .kwchip{padding-right:8px}
-  #kwpresets.editing .kwchip .x{display:inline;color:#ff8b8b}
-  .kwchip .x:hover{color:#ff4d4d}
-  .sel{background:var(--panel2);border:1px solid var(--line);color:var(--txt);border-radius:8px;padding:8px 10px;font-size:13px}
+  #kwpresets.editing .kwchip .x{display:inline;color:#e0405a}
+  .kwchip.on .x{color:#fff}
+  .kwchip .x:hover{color:#e0405a}
+  .sel{background:#fff;border:1px solid #d5d8dc;color:var(--txt);border-radius:4px;padding:8px 10px;font-size:13px;font-family:inherit}
 
-  .summary{display:flex;justify-content:space-between;align-items:baseline;margin:4px 2px 12px;color:var(--muted);font-size:12px}
-  .summary b{color:var(--txt);font-size:14px}
+  .summary{display:flex;justify-content:space-between;align-items:baseline;margin:4px 2px 10px;color:var(--muted);font-size:12px}
+  .summary b{color:#222;font-size:14px;font-weight:800}
 
-  .list{display:flex;flex-direction:column;gap:10px}
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;transition:border-color .12s}
-  .card:hover{border-color:var(--accent2)}
-  .ctitle{font-size:15px;font-weight:600;line-height:1.45}
-  .ctitle a:hover{color:var(--accent)}
-  .cmeta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:7px;color:var(--muted);font-size:12px}
-  .badge{background:var(--chipOn);color:#cfe0ff;border-radius:6px;padding:2px 7px;font-size:11px}
-  .press{color:var(--muted)}
+  .list{display:flex;flex-direction:column;gap:0;background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+  .card{background:#fff;border:0;border-bottom:1px solid #f0f1f3;border-radius:0;padding:14px 16px;transition:background .1s}
+  .card:last-child{border-bottom:0}
+  .card:hover{background:#fafbfc}
+  .ctitle{font-size:15px;font-weight:700;line-height:1.45;color:#1a1a1e}
+  .ctitle a:hover{color:var(--accent2);text-decoration:underline}
+  .cmeta{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin-top:6px;color:var(--muted);font-size:12px}
+  .badge{background:var(--chipOn);color:#0a8f47;border-radius:3px;padding:2px 7px;font-size:11px;font-weight:700}
+  .press{color:#888;font-weight:600}
   .dot{opacity:.4}
-  .cdesc{margin-top:8px;color:#c4cad6;font-size:13px}
-  mark{background:transparent;color:var(--hi);font-weight:700;padding:0}
+  .cdesc{margin-top:6px;color:#555;font-size:13px;line-height:1.5}
+  mark{background:#fff6a8;color:#222;font-weight:700;padding:0 1px}
 
   .empty{padding:48px 16px;text-align:center;color:var(--muted)}
-  .empty .big{font-size:15px;color:var(--txt);margin-bottom:6px}
-  code{background:var(--panel2);padding:1px 6px;border-radius:5px;font-size:12px}
+  .empty .big{font-size:15px;color:#222;margin-bottom:6px;font-weight:700}
+  code{background:#f4f5f6;padding:2px 6px;border-radius:4px;font-size:12px}
 </style>
 </head>
 <body>
 <header>
-  <h1>📰 증권사 뉴스 모니터</h1>
+  <h1>증권사 뉴스 모니터</h1>
   <div class="sub" id="sub">데이터 로딩 중…</div>
 </header>
 
