@@ -127,16 +127,29 @@ foreach($m in $cands){
   $press = if($m.press){ " · $($m.press)" } else { '' }
   $link = if($m.link){$m.link}else{$m.originallink}
   $text = "🔔 [$kw] $($m.title)`n🏷 $co$press · $when`n$link"
-  try{
-    $body = @{ chat_id=$ChatId; text=$text; disable_web_page_preview=$false }
-    Invoke-RestMethod -Uri $api -Method Post -Body $body -TimeoutSec 20 | Out-Null
+  $body = @{ chat_id=$ChatId; text=$text; disable_web_page_preview=$false }
+  $sentOk=$false
+  for($try=0; $try -lt 4 -and -not $sentOk; $try++){
+    try{
+      Invoke-RestMethod -Uri $api -Method Post -Body $body -TimeoutSec 20 | Out-Null
+      $sentOk=$true
+    }catch{
+      $code=0; try{ $code=[int]$_.Exception.Response.StatusCode }catch{}
+      if($code -eq 429){
+        $ra=5; try{ $d=$_.ErrorDetails.Message | ConvertFrom-Json; if($d.parameters.retry_after){ $ra=[int]$d.parameters.retry_after } }catch{}
+        Write-Host "[알림] 429 rate limit — $ra초 대기 후 재시도"
+        Start-Sleep -Seconds ([Math]::Min(60,$ra+1))
+      } else {
+        Write-Warning "[알림] 전송 실패: $($_.Exception.Message)"; break
+      }
+    }
+  }
+  if($sentOk){
     [void]$sent.Add($(if($m.link){$m.link}else{$m.title}))
     if($nt){ [void]$sentTitles.Add($nt) }
     $ok++
-    Start-Sleep -Milliseconds 1200   # 텔레그램 rate limit 여유
-  }catch{
-    Write-Warning "[알림] 전송 실패: $($_.Exception.Message)"
   }
+  Start-Sleep -Milliseconds 3500   # 채널 전송 rate limit 여유(약 17건/분)
 }
 Save-Alerted
 Write-Host "[알림] 전송 완료 $ok/$($cands.Count)건"
