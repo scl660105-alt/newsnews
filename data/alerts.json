@@ -23,5 +23,6 @@
   "logic": "OR",
   "recentHours": 72,
   "maxPerRun": 30,
-  "dedupeByTitle": true
+  "dedupeByTitle": true,
+  "requireCompanyInTitle": true
 }

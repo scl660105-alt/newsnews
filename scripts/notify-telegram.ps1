@@ -8,8 +8,9 @@
   - 인증: 환경변수 TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID (GitHub Secrets). 없으면 조용히 skip.
   - 첫 실행(alerted.json 없음) 시에는 현재 매칭분을 "이미 보낸 것"으로 시드만 하고 전송하지 않음
     → 과거 누적분이 한꺼번에 쏟아지는 것을 방지. 다음 실행부터 진짜 새 기사만 전송.
-  - alerts.json: { keywords:[...], logic:"OR"|"AND", recentHours:72, maxPerRun:30, dedupeByTitle:true }
+  - alerts.json: { keywords:[...], logic:"OR"|"AND", recentHours:72, maxPerRun:30, dedupeByTitle:true, requireCompanyInTitle:true }
   - dedupeByTitle=true 면 같은 헤드라인(정규화 제목 일치)은 URL이 달라도 1건만 전송(언론사 중복 컷).
+  - requireCompanyInTitle=true 면 제목에 (태그된) 증권사명이 든 기사만 전송(본문 스쳐 언급·시황 제외).
 #>
 [CmdletBinding()]
 param(
@@ -33,6 +34,7 @@ $logic       = if($cfg.logic){ "$($cfg.logic)".ToUpper() } else { 'OR' }
 $recentHours = if($cfg.recentHours){ [int]$cfg.recentHours } else { 72 }
 $maxPerRun   = if($cfg.maxPerRun){ [int]$cfg.maxPerRun } else { 30 }
 $dedupeByTitle = if($null -ne $cfg.dedupeByTitle){ [bool]$cfg.dedupeByTitle } else { $true }
+$requireCompanyInTitle = if($null -ne $cfg.requireCompanyInTitle){ [bool]$cfg.requireCompanyInTitle } else { $true }
 
 # ---- 현재 수집분 로드 ----
 $newsPath = Join-Path $DataDir 'news.json'
@@ -52,9 +54,16 @@ function Get-MatchedKeywords($item){
 }
 # 정규화 제목(공백·특수문자 제거, 소문자) — 언론사 중복 컷용
 function Norm-Title($t){ if([string]::IsNullOrWhiteSpace($t)){ return '' }; return (($t -replace '[^0-9A-Za-z가-힣]','')).ToLower() }
+# 제목에 (태그된) 증권사명이 들어가야 '진짜 증권사 기사'로 간주(본문 스쳐 언급·시황 제외)
+function Test-CompanyInTitle($item){
+  if(-not $requireCompanyInTitle){ return $true }
+  $t = "$($item.title)"
+  foreach($c in @($item.companies)){ if($c -and $t.Contains($c)){ return $true } }
+  return $false
+}
 
-$matched = @($news | Where-Object { Test-Match $_ })
-Write-Host "[알림] 키워드 매칭 $($matched.Count)건 (logic=$logic, recentHours=$recentHours)"
+$matched = @($news | Where-Object { (Test-Match $_) -and (Test-CompanyInTitle $_) })
+Write-Host "[알림] 키워드 매칭 $($matched.Count)건 (logic=$logic, recentHours=$recentHours, 제목에증권사명=$requireCompanyInTitle)"
 
 # ---- dedup 저장소 ----
 $alertedPath = Join-Path $DataDir 'alerted.json'

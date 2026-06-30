@@ -121,6 +121,12 @@
             <input type="checkbox" id="dedupeByTitle" checked style="width:auto"> 같은 헤드라인은 1건만 (다른 언론사 같은 기사 중복 컷)
           </label>
         </div>
+        <div style="flex-basis:100%">
+          <label>증권사 기사만</label>
+          <label style="font-weight:400;display:flex;align-items:center;gap:7px;margin:0">
+            <input type="checkbox" id="requireCompanyInTitle" checked style="width:auto"> 제목에 증권사명이 있는 기사만 (본문 스쳐 언급·시황 제외)
+          </label>
+        </div>
       </div>
     </details>
   </div>
@@ -142,7 +148,7 @@
 <script>
 const REPO = { owner:'scl660105-alt', repo:'newsnews', path:'data/alerts.json', branch:'main', workflow:'fetch-news.yml' };
 const TOK_KEY = 'gh_pat_newsnews';
-const state = { keywords:[], logic:'OR', recentHours:72, maxPerRun:30, dedupeByTitle:true, sha:null };
+const state = { keywords:[], logic:'OR', recentHours:72, maxPerRun:30, dedupeByTitle:true, requireCompanyInTitle:true, sha:null };
 
 const $ = id => document.getElementById(id);
 function b64e(s){ return btoa(unescape(encodeURIComponent(s))); }
@@ -195,8 +201,10 @@ async function loadAlerts(){
     state.recentHours=cfg.recentHours||72;
     state.maxPerRun=cfg.maxPerRun||30;
     state.dedupeByTitle=cfg.dedupeByTitle!==false;
+    state.requireCompanyInTitle=cfg.requireCompanyInTitle!==false;
     $('recentHours').value=state.recentHours; $('maxPerRun').value=state.maxPerRun;
     $('dedupeByTitle').checked=state.dedupeByTitle;
+    $('requireCompanyInTitle').checked=state.requireCompanyInTitle;
     renderChips();
     status(`불러옴 — 키워드 ${state.keywords.length}개`,'ok');
   }catch(e){ status('불러오기 실패: '+e.message,'err'); }
@@ -207,7 +215,8 @@ async function save(){
   state.recentHours=Math.max(1,parseInt($('recentHours').value)||72);
   state.maxPerRun=Math.max(1,parseInt($('maxPerRun').value)||30);
   state.dedupeByTitle=$('dedupeByTitle').checked;
-  const payload={ _comment:"텔레그램 알림 키워드. alerts.html에서 편집됨.", keywords:state.keywords, logic:state.logic, recentHours:state.recentHours, maxPerRun:state.maxPerRun, dedupeByTitle:state.dedupeByTitle };
+  state.requireCompanyInTitle=$('requireCompanyInTitle').checked;
+  const payload={ _comment:"텔레그램 알림 키워드. alerts.html에서 편집됨.", keywords:state.keywords, logic:state.logic, recentHours:state.recentHours, maxPerRun:state.maxPerRun, dedupeByTitle:state.dedupeByTitle, requireCompanyInTitle:state.requireCompanyInTitle };
   const content=b64e(JSON.stringify(payload,null,2)+'\n');
   const url=`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${REPO.path}`;
   async function put(sha){
