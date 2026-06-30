@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>증권사 뉴스 모니터</title>
+<style>
+  :root{
+    --bg:#f5f6f7; --panel:#ffffff; --panel2:#f7f8f9; --line:#e3e5e8;
+    --txt:#222226; --muted:#8a8f99; --accent:#03c75a; --accent2:#1a4eab;
+    --chip:#f4f5f6; --chipOn:#e7f8ee; --hi:#03c75a;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","맑은 고딕",sans-serif;font-size:13px;line-height:1.5}
+  a{color:inherit;text-decoration:none}
+  header{padding:14px 20px 12px;position:sticky;top:0;background:#fff;border-bottom:3px solid var(--accent);z-index:5}
+  h1{margin:0;font-size:18px;font-weight:800;letter-spacing:-.3px;color:#222}
+  h1::before{content:"";display:inline-block;width:6px;height:18px;background:var(--accent);border-radius:2px;margin-right:8px;vertical-align:-2px}
+  .sub{color:var(--muted);font-size:12px;margin-top:6px}
+  .wrap{padding:14px 20px 60px;max-width:1080px;margin:0 auto}
+
+  .filters{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .row + .row{margin-top:10px;padding-top:10px;border-top:1px solid #f0f1f3}
+  label.fl{color:#555;font-size:12px;font-weight:700;min-width:50px}
+  input[type=date],input[type=text]{background:#fff;border:1px solid #d5d8dc;color:var(--txt);
+    border-radius:4px;padding:8px 10px;font-size:13px;outline:none;font-family:inherit}
+  input[type=text]{flex:1;min-width:200px}
+  input:focus{border-color:var(--accent)}
+  .btn{background:#fff;border:1px solid #d5d8dc;color:#444;border-radius:4px;
+    padding:7px 12px;font-size:12px;font-weight:600;cursor:pointer;user-select:none}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
+  .btn.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .seg{display:inline-flex;border:1px solid #d5d8dc;border-radius:4px;overflow:hidden}
+  .seg .btn{border:0;border-radius:0}
+  .seg .btn + .btn{border-left:1px solid #d5d8dc}
+  .seg .btn.on{background:var(--accent);color:#fff}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{background:#fff;border:1px solid #d5d8dc;color:#555;border-radius:4px;
+    padding:6px 11px;font-size:12px;cursor:pointer;user-select:none}
+  .chip:hover{border-color:var(--accent)}
+  .chip.on{background:var(--chipOn);border-color:#a5e3c2;color:#0a8f47}
+  .kwbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;flex:1}
+  .kwlab{color:#888;font-size:11px;font-weight:700}
+  .kwlab:not(:first-child){margin-left:8px;padding-left:8px;border-left:1px solid var(--line)}
+  .kwchip{background:#fff;border:1px solid #d5d8dc;color:#555;border-radius:4px;
+    padding:6px 10px;font-size:12px;cursor:pointer;user-select:none}
+  .kwchip:hover{border-color:var(--accent)}
+  .kwchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .kwchip .x{margin-left:6px;display:none;font-size:11px}
+  #kwpresets.editing .kwchip{padding-right:8px}
+  #kwpresets.editing .kwchip .x{display:inline;color:#e0405a}
+  .kwchip.on .x{color:#fff}
+  .kwchip .x:hover{color:#e0405a}
+  .sel{background:#fff;border:1px solid #d5d8dc;color:var(--txt);border-radius:4px;padding:8px 10px;font-size:13px;font-family:inherit}
+
+  .summary{display:flex;justify-content:space-between;align-items:baseline;margin:4px 2px 10px;color:var(--muted);font-size:12px}
+  .summary b{color:#222;font-size:14px;font-weight:800}
+
+  .list{display:flex;flex-direction:column;gap:0;background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+  .card{background:#fff;border:0;border-bottom:1px solid #f0f1f3;border-radius:0;padding:14px 16px;transition:background .1s}
+  .card:last-child{border-bottom:0}
+  .card:hover{background:#fafbfc}
+  .ctitle{font-size:15px;font-weight:700;line-height:1.45;color:#1a1a1e}
+  .ctitle a:hover{color:var(--accent2);text-decoration:underline}
+  .cmeta{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin-top:6px;color:var(--muted);font-size:12px}
+  .badge{background:var(--chipOn);color:#0a8f47;border-radius:3px;padding:2px 7px;font-size:11px;font-weight:700}
+  .press{color:#888;font-weight:600}
+  .dot{opacity:.4}
+  .cdesc{margin-top:6px;color:#555;font-size:13px;line-height:1.5}
+  mark{background:#fff6a8;color:#222;font-weight:700;padding:0 1px}
+
+  .empty{padding:48px 16px;text-align:center;color:var(--muted)}
+  .empty .big{font-size:15px;color:#222;margin-bottom:6px;font-weight:700}
+  code{background:#f4f5f6;padding:2px 6px;border-radius:4px;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1>증권사 뉴스 모니터</h1>
+  <div class="sub" id="sub">데이터 로딩 중…</div>
+</header>
+
+<div class="wrap">
+  <div class="filters">
+    <div class="row">
+      <label class="fl">날짜</label>
+      <input type="date" id="from"> <span class="dot">~</span> <input type="date" id="to">
+      <span class="seg">
+        <span class="btn" data-preset="today">오늘</span>
+        <span class="btn on" data-preset="7">7일</span>
+        <span class="btn" data-preset="30">30일</span>
+        <span class="btn" data-preset="all">전체</span>
+      </span>
+    </div>
+    <div class="row">
+      <label class="fl">키워드</label>
+      <input type="text" id="kw" placeholder="제목·요약 검색 (공백으로 여러 단어)">
+      <span class="seg" title="여러 키워드 결합 방식">
+        <span class="btn on" data-logic="OR">OR</span>
+        <span class="btn" data-logic="AND">AND</span>
+      </span>
+      <span class="btn" id="clearkw">지우기</span>
+    </div>
+    <div class="row" style="align-items:flex-start">
+      <label class="fl">관심어</label>
+      <div class="kwbar" id="kwpresets"></div>
+      <span class="btn" id="kwedit">✎ 편집</span>
+    </div>
+    <div class="row" id="kwaddrow" style="display:none">
+      <label class="fl"></label>
+      <input type="text" id="kwAddTerm" placeholder="검색어 (필수)" style="flex:0 0 160px;min-width:120px">
+      <input type="text" id="kwAddLabel" placeholder="표시명 (선택)" style="flex:0 0 150px;min-width:110px">
+      <select id="kwAddCat" class="sel">
+        <option value="risk">🚨 장애·리스크</option>
+        <option value="market">📊 시장·실적</option>
+        <option value="customer">👥 고객·상품</option>
+        <option value="etc">🔖 기타</option>
+      </select>
+      <span class="btn" id="kwAdd">+ 추가</span>
+      <span class="btn" id="kwReset">기본값 복원</span>
+    </div>
+    <div class="row">
+      <label class="fl">증권사</label>
+      <div class="chips" id="chips"></div>
+    </div>
+    <div class="row">
+      <span class="btn" id="allco">전체 선택</span>
+      <span class="btn" id="noco">전체 해제</span>
+    </div>
+  </div>
+
+  <div class="summary">
+    <div>총 <b id="cnt">0</b>건 표시 <span id="cobrk"></span></div>
+    <div id="updated"></div>
+  </div>
+
+  <div class="list" id="list"></div>
+</div>
+
+<script>
+const state = { all:[], companies:[], selCo:new Set(), logic:'OR', preset:'7', kw:[], kwEdit:false };
+
+function fmtDate(iso){ // 2026-06-30T09:12:00+09:00 → 06.30 09:12
+  if(!iso) return '';
+  const m = iso.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/);
+  return m ? `${m[2]}.${m[3]} ${m[4]}:${m[5]}` : iso.slice(0,10);
+}
+function esc(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+function highlight(text, terms){
+  let h = esc(text);
+  terms.filter(Boolean).forEach(t=>{
+    const re = new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
+    h = h.replace(re,'<mark>$1</mark>');
+  });
+  return h;
+}
+
+async function load(){
+  let data=null;
+  for(const f of ['data/news_history.json','data/news.json']){
+    try{ const r=await fetch(f,{cache:'no-store'}); if(r.ok){ data=await r.json(); break; } }catch(e){}
+  }
+  if(!data){
+    document.getElementById('sub').textContent='데이터 파일을 찾을 수 없습니다.';
+    document.getElementById('list').innerHTML =
+      `<div class="empty"><div class="big">아직 수집된 뉴스가 없습니다.</div>
+       수집기를 먼저 실행하세요: <code>pwsh scripts/collect-news.ps1</code><br>
+       (file:// 로 직접 열면 막힙니다 — <code>python -m http.server</code> 또는 GitHub Pages 로 여세요.)</div>`;
+    return;
+  }
+  state.all = (data.news||[]).map(n=>({...n, companies: n.companies||[]}));
+  state.companies = [...new Set(state.all.flatMap(n=>n.companies))].sort();
+  state.selCo = new Set(state.companies);
+  document.getElementById('updated').textContent =
+    data.lastUpdated ? '갱신 '+fmtDate(data.lastUpdated.replace('Z','+00:00')) : '';
+  document.getElementById('sub').textContent =
+    `누적 ${state.all.length}건 · 증권사 ${state.companies.length}곳 · 네이버 뉴스 검색 API`;
+  renderChips();
+  applyPreset('7');
+}
+
+function renderChips(){
+  const el=document.getElementById('chips'); el.innerHTML='';
+  state.companies.forEach(c=>{
+    const s=document.createElement('span');
+    s.className='chip on'; s.textContent=c; s.dataset.co=c;
+    s.onclick=()=>{ s.classList.toggle('on'); s.classList.contains('on')?state.selCo.add(c):state.selCo.delete(c); render(); };
+    el.appendChild(s);
+  });
+}
+
+function applyPreset(p){
+  state.preset=p;
+  document.querySelectorAll('[data-preset]').forEach(b=>b.classList.toggle('on',b.dataset.preset===p));
+  const to=new Date(), from=new Date();
+  if(p==='today'){ /* from=today */ }
+  else if(p==='7'){ from.setDate(to.getDate()-6); }
+  else if(p==='30'){ from.setDate(to.getDate()-29); }
+  else if(p==='all'){ document.getElementById('from').value=''; document.getElementById('to').value=''; render(); return; }
+  const iso=d=>d.toISOString().slice(0,10);
+  document.getElementById('from').value=iso(from);
+  document.getElementById('to').value=iso(to);
+  render();
+}
+
+function render(){
+  const from=document.getElementById('from').value;
+  const to=document.getElementById('to').value;
+  const kwRaw=document.getElementById('kw').value.trim();
+  const terms=kwRaw?kwRaw.split(/\s+/):[];
+  const lowTerms=terms.map(t=>t.toLowerCase());
+  document.querySelectorAll('.kwchip').forEach(c=>c.classList.toggle('on',lowTerms.includes(c.dataset.kw.toLowerCase())));
+
+  let rows=state.all.filter(n=>{
+    if(from && (!n.date || n.date<from)) return false;
+    if(to && (!n.date || n.date>to)) return false;
+    if(!(n.companies||[]).some(c=>state.selCo.has(c))) return false;
+    if(terms.length){
+      const hay=((n.title||'')+' '+(n.description||'')).toLowerCase();
+      const hit=terms.map(t=>hay.includes(t.toLowerCase()));
+      if(state.logic==='AND'? !hit.every(Boolean) : !hit.some(Boolean)) return false;
+    }
+    return true;
+  });
+
+  document.getElementById('cnt').textContent=rows.length;
+  // 증권사별 건수 요약(상위 6)
+  const brk={}; rows.forEach(n=>(n.companies||[]).forEach(c=>brk[c]=(brk[c]||0)+1));
+  const top=Object.entries(brk).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([c,n])=>`${c} ${n}`).join(' · ');
+  document.getElementById('cobrk').textContent = top?('— '+top):'';
+
+  const list=document.getElementById('list');
+  if(!rows.length){
+    list.innerHTML=`<div class="empty"><div class="big">조건에 맞는 뉴스가 없습니다.</div>날짜·키워드·증권사 필터를 조정해 보세요.</div>`;
+    return;
+  }
+  list.innerHTML=rows.map(n=>`
+    <div class="card">
+      <div class="ctitle"><a href="${esc(n.link||n.originallink||'#')}" target="_blank" rel="noopener">${highlight(n.title,terms)}</a></div>
+      <div class="cmeta">
+        ${(n.companies||[]).map(c=>`<span class="badge">${esc(c)}</span>`).join('')}
+        ${n.press?`<span class="press">${esc(n.press)}</span>`:''}
+        <span class="dot">·</span><span>${fmtDate(n.pubDate)}</span>
+      </div>
+      ${n.description?`<div class="cdesc">${highlight(n.description,terms)}</div>`:''}
+    </div>`).join('');
+}
+
+// 이벤트
+document.querySelectorAll('[data-preset]').forEach(b=>b.onclick=()=>applyPreset(b.dataset.preset));
+document.querySelectorAll('[data-logic]').forEach(b=>b.onclick=()=>{
+  state.logic=b.dataset.logic;
+  document.querySelectorAll('[data-logic]').forEach(x=>x.classList.toggle('on',x===b)); render();
+});
+['from','to'].forEach(id=>document.getElementById(id).addEventListener('change',()=>{
+  state.preset=''; document.querySelectorAll('[data-preset]').forEach(b=>b.classList.remove('on')); render();
+}));
+document.getElementById('kw').addEventListener('input',render);
+document.getElementById('clearkw').onclick=()=>{document.getElementById('kw').value='';render();};
+// ---- 관심어(키워드) 프리셋: 화면에서 직접 편집, localStorage 저장 ----
+const KW_STORE='kwPresets_v1';
+const CATS=[
+  {id:'risk',     label:'🚨 장애·리스크'},
+  {id:'market',   label:'📊 시장·실적'},
+  {id:'customer', label:'👥 고객·상품'},
+  {id:'etc',      label:'🔖 기타'}
+];
+const DEFAULT_KW=[
+  {kw:'장애',cat:'risk'},{kw:'전산',cat:'risk'},{kw:'지연',cat:'risk'},{kw:'제재',cat:'risk'},
+  {kw:'과징금',cat:'risk'},{kw:'횡령',cat:'risk'},{kw:'소송',cat:'risk'},{kw:'해킹',cat:'risk'},
+  {kw:'점유율',label:'점유율(M/S)',cat:'market'},{kw:'거래대금',cat:'market'},{kw:'약정',cat:'market'},
+  {kw:'실적',cat:'market'},{kw:'수수료',cat:'market'},{kw:'적자',cat:'market'},
+  {kw:'신규계좌',cat:'customer'},{kw:'MAU',cat:'customer'},{kw:'이벤트',cat:'customer'},
+  {kw:'환전',cat:'customer'},{kw:'해외주식',cat:'customer'},{kw:'소수점',cat:'customer'}
+];
+function loadKw(){
+  try{ const s=JSON.parse(localStorage.getItem(KW_STORE)); if(Array.isArray(s)&&s.length){ state.kw=s; return; } }catch(e){}
+  state.kw=JSON.parse(JSON.stringify(DEFAULT_KW));
+}
+function saveKw(){ try{ localStorage.setItem(KW_STORE,JSON.stringify(state.kw)); }catch(e){} }
+function toggleTerm(term){
+  const box=document.getElementById('kw');
+  let t=box.value.trim().split(/\s+/).filter(Boolean);
+  const i=t.findIndex(x=>x.toLowerCase()===term.toLowerCase());
+  if(i>=0) t.splice(i,1); else t.push(term);
+  box.value=t.join(' '); render();
+}
+function renderKwChips(){
+  const bar=document.getElementById('kwpresets');
+  bar.classList.toggle('editing',!!state.kwEdit);
+  let html='';
+  CATS.forEach(cat=>{
+    const items=state.kw.filter(k=>(k.cat||'etc')===cat.id);
+    if(!items.length) return;
+    html+=`<span class="kwlab">${esc(cat.label)}</span>`;
+    items.forEach(k=>{
+      html+=`<span class="kwchip" data-kw="${esc(k.kw)}">${esc(k.label||k.kw)}<span class="x" title="삭제">✕</span></span>`;
+    });
+  });
+  bar.innerHTML=html||'<span class="kwlab">관심어가 없습니다 — ✎ 편집에서 추가하세요</span>';
+  bar.querySelectorAll('.kwchip').forEach(c=>{
+    c.querySelector('.x').onclick=(e)=>{ e.stopPropagation(); deleteKw(c.dataset.kw); };
+    c.onclick=()=>toggleTerm(c.dataset.kw);
+  });
+  render();
+}
+function deleteKw(term){ state.kw=state.kw.filter(k=>k.kw!==term); saveKw(); renderKwChips(); }
+function addKw(){
+  const tEl=document.getElementById('kwAddTerm'), t=tEl.value.trim();
+  if(!t){ tEl.focus(); return; }
+  if(state.kw.some(k=>k.kw.toLowerCase()===t.toLowerCase())){ alert('이미 있는 검색어입니다'); return; }
+  const label=document.getElementById('kwAddLabel').value.trim();
+  const cat=document.getElementById('kwAddCat').value;
+  state.kw.push({kw:t,...(label?{label}:{}),cat}); saveKw();
+  tEl.value=''; document.getElementById('kwAddLabel').value=''; tEl.focus();
+  renderKwChips();
+}
+function resetKw(){
+  if(!confirm('관심어를 기본값으로 되돌릴까요?')) return;
+  state.kw=JSON.parse(JSON.stringify(DEFAULT_KW)); saveKw(); renderKwChips();
+}
+document.getElementById('kwedit').onclick=()=>{
+  state.kwEdit=!state.kwEdit;
+  document.getElementById('kwaddrow').style.display=state.kwEdit?'':'none';
+  const b=document.getElementById('kwedit');
+  b.classList.toggle('on',state.kwEdit); b.textContent=state.kwEdit?'✓ 완료':'✎ 편집';
+  renderKwChips();
+};
+document.getElementById('kwAdd').onclick=addKw;
+document.getElementById('kwAddTerm').addEventListener('keydown',e=>{ if(e.key==='Enter') addKw(); });
+document.getElementById('kwReset').onclick=resetKw;
+loadKw(); renderKwChips();
+document.getElementById('allco').onclick=()=>{state.selCo=new Set(state.companies);document.querySelectorAll('.chip').forEach(c=>c.classList.add('on'));render();};
+document.getElementById('noco').onclick=()=>{state.selCo.clear();document.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));render();};
+
+load();
+</script>
+</body>
+</html>
