@@ -14,9 +14,16 @@
 #>
 [CmdletBinding()]
 param(
-  [string]$DataDir = (Join-Path $PSScriptRoot '..' 'data')
+  [string]$DataDir = (Join-Path $PSScriptRoot '..' 'data'),
+  [string]$NewsPath,      # 기본: <DataDir>/news.json
+  [string]$AlertsPath,    # 기본: <DataDir>/alerts.json
+  [string]$AlertedPath,   # 기본: <DataDir>/alerted.json
+  [string]$Tag = '🔔'     # 메시지 접두(해외는 🌐 등)
 )
 $ErrorActionPreference = 'Stop'
+if(-not $NewsPath){    $NewsPath    = Join-Path $DataDir 'news.json' }
+if(-not $AlertsPath){  $AlertsPath  = Join-Path $DataDir 'alerts.json' }
+if(-not $AlertedPath){ $AlertedPath = Join-Path $DataDir 'alerted.json' }
 
 $Token  = $env:TELEGRAM_BOT_TOKEN
 $ChatId = $env:TELEGRAM_CHAT_ID
@@ -25,8 +32,8 @@ if([string]::IsNullOrWhiteSpace($Token) -or [string]::IsNullOrWhiteSpace($ChatId
 }
 
 # ---- 설정 로드 ----
-$alertsPath = Join-Path $DataDir 'alerts.json'
-if(-not (Test-Path $alertsPath)){ Write-Host "[알림] alerts.json 없음 — skip"; return }
+$alertsPath = $AlertsPath
+if(-not (Test-Path $alertsPath)){ Write-Host "[알림] $alertsPath 없음 — skip"; return }
 $cfg = Get-Content $alertsPath -Raw -Encoding UTF8 | ConvertFrom-Json
 $keywords = @($cfg.keywords | Where-Object { $_ -and $_.Trim() })
 if($keywords.Count -eq 0){ Write-Host "[알림] 키워드 비어있음 — skip"; return }
@@ -37,8 +44,8 @@ $dedupeByTitle = if($null -ne $cfg.dedupeByTitle){ [bool]$cfg.dedupeByTitle } el
 $requireCompanyInTitle = if($null -ne $cfg.requireCompanyInTitle){ [bool]$cfg.requireCompanyInTitle } else { $true }
 
 # ---- 현재 수집분 로드 ----
-$newsPath = Join-Path $DataDir 'news.json'
-if(-not (Test-Path $newsPath)){ Write-Host "[알림] news.json 없음 — skip"; return }
+$newsPath = $NewsPath
+if(-not (Test-Path $newsPath)){ Write-Host "[알림] $newsPath 없음 — skip"; return }
 $news = @((Get-Content $newsPath -Raw -Encoding UTF8 | ConvertFrom-Json).news)
 
 # ---- 매칭 ----
@@ -66,7 +73,7 @@ $matched = @($news | Where-Object { (Test-Match $_) -and (Test-CompanyInTitle $_
 Write-Host "[알림] 키워드 매칭 $($matched.Count)건 (logic=$logic, recentHours=$recentHours, 제목에증권사명=$requireCompanyInTitle)"
 
 # ---- dedup 저장소 ----
-$alertedPath = Join-Path $DataDir 'alerted.json'
+$alertedPath = $AlertedPath
 $firstRun = -not (Test-Path $alertedPath)
 $sent = New-Object System.Collections.Generic.HashSet[string]
 $sentTitles = New-Object System.Collections.Generic.HashSet[string]
@@ -126,7 +133,7 @@ foreach($m in $cands){
   $when = if($m.pubDate){ try{ ([DateTimeOffset]$m.pubDate).ToString('MM-dd HH:mm') }catch{ $m.date } } else { $m.date }
   $press = if($m.press){ " · $($m.press)" } else { '' }
   $link = if($m.link){$m.link}else{$m.originallink}
-  $text = "🔔 [$kw] $($m.title)`n🏷 $co$press · $when`n$link"
+  $text = "$Tag [$kw] $($m.title)`n🏷 $co$press · $when`n$link"
   $body = @{ chat_id=$ChatId; text=$text; disable_web_page_preview=$false }
   $sentOk=$false
   for($try=0; $try -lt 4 -and -not $sentOk; $try++){

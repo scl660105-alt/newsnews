@@ -1,0 +1,21 @@
+{
+  "_comment": "해외 외신 수집 토픽. category=화면 카테고리, query=GNews 검색식(OR/AND/따옴표 지원), firms=제목·요약에서 태그할 브로커명(선택). 자유롭게 편집하세요.",
+  "topics": [
+    {
+      "category": "broker",
+      "label": "리테일브로커",
+      "query": "\"Charles Schwab\" OR \"Robinhood\" OR \"Interactive Brokers\" OR \"Webull\" OR \"E*Trade\" OR \"Fidelity brokerage\"",
+      "firms": ["Charles Schwab", "Schwab", "Robinhood", "Fidelity", "Interactive Brokers", "Webull", "E*Trade", "ETrade"]
+    },
+    {
+      "category": "theme",
+      "label": "업계테마",
+      "query": "(\"fractional shares\" OR \"24-hour trading\" OR \"zero commission\" OR \"tokenized stocks\" OR \"tokenization\" OR \"AI trading\") AND (brokerage OR broker OR investing OR stock)"
+    },
+    {
+      "category": "market",
+      "label": "거래소·규제",
+      "query": "(SEC OR FINRA OR Nasdaq OR NYSE) AND (brokerage OR \"online broker\" OR \"retail trading\" OR \"trading app\" OR \"retail investor\")"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "해외(GNews) 텔레그램 알림 키워드. 제목·요약에 keywords 중 하나라도(logic=OR) 들어가면 전송. requireCompanyInTitle=false (테마 기사는 제목에 회사명이 없을 수 있음). 직접 편집 가능.",
+  "keywords": [
+    "launch", "launches", "unveils", "new service", "rolls out",
+    "acquires", "acquisition", "merger", "partnership", "IPO",
+    "lawsuit", "fine", "penalty", "outage",
+    "fractional shares", "tokeniz", "24-hour", "zero commission"
+  ],
+  "logic": "OR",
+  "recentHours": 168,
+  "maxPerRun": 15,
+  "dedupeByTitle": true,
+  "requireCompanyInTitle": false
+}

@@ -1,0 +1,55 @@
+name: fetch-overseas
+
+# 해외 외신(GNews)을 6시간마다 수집해 data/overseas*.json 갱신 + 키워드 매칭분 텔레그램 전송.
+# cron 은 UTC. 0 */6 * * * = 00/06/12/18 UTC.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-overseas
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Collect overseas news
+        shell: pwsh
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: ./scripts/collect-overseas.ps1
+
+      - name: Notify Telegram (overseas)
+        shell: pwsh
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: >
+          ./scripts/notify-telegram.ps1
+          -NewsPath data/overseas.json
+          -AlertsPath data/alerts-overseas.json
+          -AlertedPath data/alerted-overseas.json
+          -Tag "🌐"
+
+      - name: Commit if changed
+        shell: pwsh
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet
+          if ($LASTEXITCODE -ne 0) {
+            git commit -m "chore: update overseas news [skip ci]"
+            git push
+            Write-Host "갱신 커밋/푸시 완료"
+          } else {
+            Write-Host "변경 없음 — 커밋 생략"
+          }

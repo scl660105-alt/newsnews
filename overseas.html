@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>증권사 뉴스 모니터</title>
+<title>해외 외신 모니터</title>
 <style>
   :root{
     --bg:#f5f6f7; --panel:#ffffff; --panel2:#f7f8f9; --line:#e3e5e8;
-    --txt:#222226; --muted:#8a8f99; --accent:#03c75a; --accent2:#1a4eab;
-    --chip:#f4f5f6; --chipOn:#e7f8ee; --hi:#03c75a;
+    --txt:#222226; --muted:#8a8f99; --accent:#2d6cdf; --accent2:#1a4eab;
+    --chip:#f4f5f6; --chipOn:#e8f0fe; --hi:#2d6cdf;
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--txt);
@@ -18,6 +18,7 @@
   h1{margin:0;font-size:18px;font-weight:800;letter-spacing:-.3px;color:#222}
   h1::before{content:"";display:inline-block;width:6px;height:18px;background:var(--accent);border-radius:2px;margin-right:8px;vertical-align:-2px}
   .sub{color:var(--muted);font-size:12px;margin-top:6px}
+  .nav{float:right;font-size:12px;font-weight:700;color:var(--accent);text-decoration:none;border:1px solid var(--accent);padding:5px 10px;border-radius:4px}
   .wrap{padding:14px 20px 60px;max-width:1080px;margin:0 auto}
 
   .filters{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin-bottom:12px}
@@ -40,7 +41,7 @@
   .chip{background:#fff;border:1px solid #d5d8dc;color:#555;border-radius:4px;
     padding:6px 11px;font-size:12px;cursor:pointer;user-select:none}
   .chip:hover{border-color:var(--accent)}
-  .chip.on{background:var(--chipOn);border-color:#a5e3c2;color:#0a8f47}
+  .chip.on{background:var(--chipOn);border-color:#b6d0fb;color:var(--accent2)}
   .kwbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;flex:1}
   .kwlab{color:#888;font-size:11px;font-weight:700}
   .kwlab:not(:first-child){margin-left:8px;padding-left:8px;border-left:1px solid var(--line)}
@@ -61,11 +62,11 @@
   .list{display:flex;flex-direction:column;gap:0;background:#fff;border:1px solid var(--line);border-radius:6px;overflow:hidden}
   .card{background:#fff;border:0;border-bottom:1px solid #f0f1f3;border-radius:0;padding:14px 16px;transition:background .1s}
   .card:last-child{border-bottom:0}
-  .card:hover{background:#fafbfc}
+  .card:hover{background:#fafbff}
   .ctitle{font-size:15px;font-weight:700;line-height:1.45;color:#1a1a1e}
   .ctitle a:hover{color:var(--accent2);text-decoration:underline}
   .cmeta{display:flex;flex-wrap:wrap;gap:7px;align-items:center;margin-top:6px;color:var(--muted);font-size:12px}
-  .badge{background:var(--chipOn);color:#0a8f47;border-radius:3px;padding:2px 7px;font-size:11px;font-weight:700}
+  .badge{background:var(--chipOn);color:var(--accent2);border-radius:3px;padding:2px 7px;font-size:11px;font-weight:700}
   .press{color:#888;font-weight:600}
   .dot{opacity:.4}
   .cdesc{margin-top:6px;color:#555;font-size:13px;line-height:1.5}
@@ -78,9 +79,8 @@
 </head>
 <body>
 <header>
-  <a href="alerts.html" style="float:right;font-size:12px;font-weight:700;color:#03c75a;text-decoration:none;border:1px solid #03c75a;padding:5px 10px;border-radius:4px">🔔 알림 설정</a>
-  <a href="overseas.html" style="float:right;margin-right:8px;font-size:12px;font-weight:700;color:#2d6cdf;text-decoration:none;border:1px solid #2d6cdf;padding:5px 10px;border-radius:4px">🌐 해외</a>
-  <h1>증권사 뉴스 모니터</h1>
+  <a href="index.html" class="nav">📰 국내</a>
+  <h1>🌐 해외 외신 모니터</h1>
   <div class="sub" id="sub">데이터 로딩 중…</div>
 </header>
 
@@ -98,7 +98,7 @@
     </div>
     <div class="row">
       <label class="fl">키워드</label>
-      <input type="text" id="kw" placeholder="제목·요약 검색 (공백으로 여러 단어)">
+      <input type="text" id="kw" placeholder="제목·요약 검색 (영문, 공백으로 여러 단어)">
       <span class="seg" title="여러 키워드 결합 방식">
         <span class="btn on" data-logic="OR">OR</span>
         <span class="btn" data-logic="AND">AND</span>
@@ -115,16 +115,16 @@
       <input type="text" id="kwAddTerm" placeholder="검색어 (필수)" style="flex:0 0 160px;min-width:120px">
       <input type="text" id="kwAddLabel" placeholder="표시명 (선택)" style="flex:0 0 150px;min-width:110px">
       <select id="kwAddCat" class="sel">
-        <option value="risk">🚨 장애·리스크</option>
-        <option value="market">📊 시장·실적</option>
-        <option value="customer">👥 고객·상품</option>
+        <option value="service">🆕 신규서비스</option>
+        <option value="trend">📈 업계동향</option>
+        <option value="event">⚖️ 이벤트·규제</option>
         <option value="etc">🔖 기타</option>
       </select>
       <span class="btn" id="kwAdd">+ 추가</span>
       <span class="btn" id="kwReset">기본값 복원</span>
     </div>
     <div class="row">
-      <label class="fl">증권사</label>
+      <label class="fl">카테고리</label>
       <div class="chips" id="chips"></div>
     </div>
     <div class="row">
@@ -144,7 +144,7 @@
 <script>
 const state = { all:[], companies:[], selCo:new Set(), logic:'OR', preset:'7', kw:[], kwEdit:false };
 
-function fmtDate(iso){ // 2026-06-30T09:12:00+09:00 → 06.30 09:12
+function fmtDate(iso){
   if(!iso) return '';
   const m = iso.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/);
   return m ? `${m[2]}.${m[3]} ${m[4]}:${m[5]}` : iso.slice(0,10);
@@ -161,14 +161,14 @@ function highlight(text, terms){
 
 async function load(){
   let data=null;
-  for(const f of ['data/news_history.json','data/news.json']){
+  for(const f of ['data/overseas_history.json','data/overseas.json']){
     try{ const r=await fetch(f,{cache:'no-store'}); if(r.ok){ data=await r.json(); break; } }catch(e){}
   }
   if(!data){
     document.getElementById('sub').textContent='데이터 파일을 찾을 수 없습니다.';
     document.getElementById('list').innerHTML =
-      `<div class="empty"><div class="big">아직 수집된 뉴스가 없습니다.</div>
-       수집기를 먼저 실행하세요: <code>pwsh scripts/collect-news.ps1</code><br>
+      `<div class="empty"><div class="big">아직 수집된 해외 뉴스가 없습니다.</div>
+       수집기를 먼저 실행하세요: <code>pwsh scripts/collect-overseas.ps1</code><br>
        (file:// 로 직접 열면 막힙니다 — <code>python -m http.server</code> 또는 GitHub Pages 로 여세요.)</div>`;
     return;
   }
@@ -178,7 +178,7 @@ async function load(){
   document.getElementById('updated').textContent =
     data.lastUpdated ? '갱신 '+fmtDate(data.lastUpdated.replace('Z','+00:00')) : '';
   document.getElementById('sub').textContent =
-    `누적 ${state.all.length}건 · 증권사 ${state.companies.length}곳 · 네이버 뉴스 검색 API`;
+    `누적 ${state.all.length}건 · 카테고리/대상 ${state.companies.length} · GNews 외신`;
   renderChips();
   applyPreset('7');
 }
@@ -228,19 +228,18 @@ function render(){
   });
 
   document.getElementById('cnt').textContent=rows.length;
-  // 증권사별 건수 요약(상위 6)
   const brk={}; rows.forEach(n=>(n.companies||[]).forEach(c=>brk[c]=(brk[c]||0)+1));
   const top=Object.entries(brk).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([c,n])=>`${c} ${n}`).join(' · ');
   document.getElementById('cobrk').textContent = top?('— '+top):'';
 
   const list=document.getElementById('list');
   if(!rows.length){
-    list.innerHTML=`<div class="empty"><div class="big">조건에 맞는 뉴스가 없습니다.</div>날짜·키워드·증권사 필터를 조정해 보세요.</div>`;
+    list.innerHTML=`<div class="empty"><div class="big">조건에 맞는 뉴스가 없습니다.</div>날짜·키워드·카테고리 필터를 조정해 보세요.</div>`;
     return;
   }
   list.innerHTML=rows.map(n=>`
     <div class="card">
-      <div class="ctitle"><a href="${esc(n.link||n.originallink||'#')}" target="_blank" rel="noopener">${highlight(n.title,terms)}</a></div>
+      <div class="ctitle"><a href="${esc(n.link||'#')}" target="_blank" rel="noopener">${highlight(n.title,terms)}</a></div>
       <div class="cmeta">
         ${(n.companies||[]).map(c=>`<span class="badge">${esc(c)}</span>`).join('')}
         ${n.press?`<span class="press">${esc(n.press)}</span>`:''}
@@ -261,21 +260,18 @@ document.querySelectorAll('[data-logic]').forEach(b=>b.onclick=()=>{
 }));
 document.getElementById('kw').addEventListener('input',render);
 document.getElementById('clearkw').onclick=()=>{document.getElementById('kw').value='';render();};
-// ---- 관심어(키워드) 프리셋: 화면에서 직접 편집, localStorage 저장 ----
-const KW_STORE='kwPresets_v1';
+// ---- 관심어(키워드) 프리셋: 화면에서 직접 편집, localStorage 저장 (해외 전용 키) ----
+const KW_STORE='kwPresetsOverseas_v1';
 const CATS=[
-  {id:'risk',     label:'🚨 장애·리스크'},
-  {id:'market',   label:'📊 시장·실적'},
-  {id:'customer', label:'👥 고객·상품'},
-  {id:'etc',      label:'🔖 기타'}
+  {id:'service', label:'🆕 신규서비스'},
+  {id:'trend',   label:'📈 업계동향'},
+  {id:'event',   label:'⚖️ 이벤트·규제'},
+  {id:'etc',     label:'🔖 기타'}
 ];
 const DEFAULT_KW=[
-  {kw:'장애',cat:'risk'},{kw:'전산',cat:'risk'},{kw:'지연',cat:'risk'},{kw:'제재',cat:'risk'},
-  {kw:'과징금',cat:'risk'},{kw:'횡령',cat:'risk'},{kw:'소송',cat:'risk'},{kw:'해킹',cat:'risk'},
-  {kw:'점유율',label:'점유율(M/S)',cat:'market'},{kw:'거래대금',cat:'market'},{kw:'약정',cat:'market'},
-  {kw:'실적',cat:'market'},{kw:'수수료',cat:'market'},{kw:'적자',cat:'market'},
-  {kw:'신규계좌',cat:'customer'},{kw:'MAU',cat:'customer'},{kw:'이벤트',cat:'customer'},
-  {kw:'환전',cat:'customer'},{kw:'해외주식',cat:'customer'},{kw:'소수점',cat:'customer'}
+  {kw:'launch',cat:'service'},{kw:'unveils',cat:'service'},{kw:'new service',cat:'service'},{kw:'rolls out',cat:'service'},{kw:'feature',cat:'service'},
+  {kw:'fractional',cat:'trend'},{kw:'tokeniz',label:'tokeniz*',cat:'trend'},{kw:'24-hour',cat:'trend'},{kw:'zero commission',cat:'trend'},{kw:'AI',cat:'trend'},{kw:'crypto',cat:'trend'},
+  {kw:'acquisition',cat:'event'},{kw:'merger',cat:'event'},{kw:'partnership',cat:'event'},{kw:'IPO',cat:'event'},{kw:'lawsuit',cat:'event'},{kw:'fine',cat:'event'},{kw:'SEC',cat:'event'},{kw:'outage',cat:'event'}
 ];
 function loadKw(){
   try{ const s=JSON.parse(localStorage.getItem(KW_STORE)); if(Array.isArray(s)&&s.length){ state.kw=s; return; } }catch(e){}

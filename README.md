@@ -98,6 +98,16 @@ python -m http.server 8080
 2. 채널 생성 → 봇을 **관리자(메시지 게시 권한)** 로 추가 → 채널에 글 1개 게시
 3. chat id: 봇이 관리자인 상태에서 `https://api.telegram.org/bot<TOKEN>/getUpdates` 의 `channel_post.chat.id`(`-100...`)
 
+## 해외 외신 (GNews) — 별도 라인
+
+국내(네이버)와 별개로 해외 외신을 수집·표시·알림한다. 화면: `overseas.html`(블루 테마, 영문), 국내 화면 우상단 **🌐 해외** 링크로 이동.
+
+- **수집**: `scripts/collect-overseas.ps1` — GNews.io 검색 API. `data/overseas_topics.json` 의 카테고리(리테일브로커·업계테마·거래소규제)별 OR-배치 쿼리 → `data/overseas.json`(현재)+`data/overseas_history.json`(누적·보존60일).
+- **자동화**: `.github/workflows/fetch-overseas.yml` — **6시간 간격**(cron `0 */6 * * *`). Secret `GNEWS_API_KEY` 필요.
+- **알림**: 같은 `scripts/notify-telegram.ps1` 을 파라미터로 재사용 → `data/alerts-overseas.json` 키워드 매칭분을 텔레그램에 **🌐** 접두로 전송(중복방지 `data/alerted-overseas.json`). 해외는 `requireCompanyInTitle:false`.
+- **키 발급**: https://gnews.io → API key. 무료 100콜/일·요청당 10건(상업적 사용 제약). 로컬 테스트: `$env:GNEWS_API_KEY='...'; pwsh ./scripts/collect-overseas.ps1`.
+- **GitHub Secret 등록**: `gh secret set GNEWS_API_KEY --body <키> --repo <o>/<r>`.
+
 ## 참고 / 한계
 - 네이버 검색 API 는 **날짜 범위 파라미터가 없어** 최신순(`sort=date`)으로만 조회 → 과거 날짜대는 **가동 이후 누적분**에서 검색됩니다(첫 실행 시점부터 쌓임).
 - 언론사명은 API 가 직접 주지 않아 `originallink` 호스트로 추정합니다(미상이면 공백). `collect-news.ps1` 의 `$PRESS_MAP` 에서 보강 가능.
