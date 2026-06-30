@@ -22,5 +22,6 @@
   ],
   "logic": "OR",
   "recentHours": 72,
-  "maxPerRun": 30
+  "maxPerRun": 30,
+  "dedupeByTitle": true
 }
