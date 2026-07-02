@@ -1,8 +1,155 @@
 {
-  "lastUpdated": "2026-07-01T18:33:26Z",
+  "lastUpdated": "2026-07-02T10:19:51Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 28,
   "news": [
+    {
+      "title": "2 Network, Tokenized Stock Trading",
+      "description": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
+      "link": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
+      "press": "Decrypt",
+      "pubDate": "2026-07-02T05:56:38+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain Launches With AI-Native Infrastructure and Real-World Assets",
+      "description": "Robinhood Chain mainnet is live as announced during a keynote called \"Robinhood Presents: The World is Flat\", which was hosted by CEO Vlad Tenev and Robinhood Chain mainnet is live with Chainlink oracles, Ethena as a collateral partner, a 7% yield-earning product and more. HOOD moves deep into on-chain finance.",
+      "link": "https://coingape.com/robinhood-chain-launches-with-ai-native-infrastructure-and-real-world-assets/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-02T05:43:22+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "0x to Power Swap Liquidity and Cross-Chain Access on Robinhood Chain at Launch",
+      "description": "/PRNewswire/ -- 0x, a software infrastructure company whose APIs power payments, trading, and tokenized asset products across the onchain financial system,...",
+      "link": "https://www.prnewswire.co.uk/news-releases/0x-to-power-swap-liquidity-and-cross-chain-access-on-robinhood-chain-at-launch-302816093.html",
+      "press": "PR Newswire UK",
+      "pubDate": "2026-07-02T05:01:00+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Stock Is Rising: What's Happening Behind The Scenes?",
+      "description": "Robinhood Markets shares are trading higher Wednesday. The company launched public mainnet for Robinhood Chain and is hosting a London event.",
+      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60230438/robinhood-stock-is-rising-whats-happening-behind-the-scenes",
+      "press": "Benzinga",
+      "pubDate": "2026-07-02T04:23:10+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
+      "description": "Road Town, British Virgin Islands, July 1st, 2026, FinanceWire1inch joins as a launch partner on Robinhood Chain, the Arbitru...",
+      "link": "https://markets.businessinsider.com/news/currencies/1inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1036291962",
+      "press": "Markets Insider",
+      "pubDate": "2026-07-02T04:00:44+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood (HOOD) rolls out public blockchain as it expands deeper into crypto",
+      "description": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
+      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "press": "CoinDesk",
+      "pubDate": "2026-07-02T03:25:00+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "description": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+      "press": "Decrypt",
+      "pubDate": "2026-07-02T01:36:39+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Strategy's MSTR Stock Crash Leads Wall Street Analysts To Cut Price Target To $130",
+      "description": "Wall Street brokerage Canaccord has lowered its price estimate on Michael Saylor's Strategy (NASDAQ: MSTR). It slashed the MSTR stock target to $130 from",
+      "link": "https://coingape.com/strategys-mstr-stock-crash-leads-wall-street-analysts-to-cut-price-target-to-130/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-02T01:32:21+09:00",
+      "date": "2026-07-02",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Breaking: As QuantRate Launches Its Free AI Trading Bot, the AI Investing Trend Accelerates the Transformation of Global Financial Markets",
+      "description": "QuantRate has launched a free AI trading bot, marking another step in the rapid growth of AI investing. Discover how AI is reshaping investing, automated trading, and the future of global financial markets.",
+      "link": "https://www.manilatimes.net/2026/07/01/tmt-newswire/globenewswire/breaking-as-quantrate-launches-its-free-ai-trading-bot-the-ai-investing-trend-accelerates-the-transformation-of-global-financial-markets/2376756",
+      "press": "The Manila Times",
+      "pubDate": "2026-07-01T22:07:31+09:00",
+      "date": "2026-07-01",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
+      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab ​Bank , according to his annual disclosure for ‌2025 with the U.S. Office of Government Ethics.",
+      "link": "https://www.reuters.com/business/finance/trump-secured-over-50-million-loan-charles-schwab-2025-ethics-filing-shows-2026-07-01/",
+      "press": "Reuters",
+      "pubDate": "2026-07-01T21:00:50+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
+      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab Bank, according to his annual disclosure for 2025 with the U.S. Office of Government Ethics.\n...",
+      "link": "https://www.marketscreener.com/news/trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows-ce7f5fddd081f222",
+      "press": "MarketScreener",
+      "pubDate": "2026-07-01T21:00:25+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Trump Secured Over $50 Million in Loan From Charles Schwab in 2025, Ethics Filing Shows",
+      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
+      "link": "https://www.usnews.com/news/politics/articles/2026-07-01/trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows",
+      "press": "U.S. News & World Report",
+      "pubDate": "2026-07-01T21:00:00+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Webull acquires Pi for nearly B3bn",
       "description": "Thailand's securities industry is in the spotlight again after Webull, the Florida-based global digital investment platform, announced its nearly 3-billion-baht acquisition of Pi Securities, making a fast entry into the highly regulated capital market.",
@@ -16,91 +163,6 @@
       ]
     },
     {
-      "title": "Schwab CEO on Why They Keep Fees Low",
-      "description": "Charles Schwab President & CEO Rick Wurster discusses the biggest challenge he faces and shares a story about founder Chuck Schwab that illustrates the company's unwavering, client-first...",
-      "link": "https://www.marketscreener.com/news/schwab-ceo-on-why-they-keep-fees-low-ce7f5fdcdf81f321",
-      "press": "MarketScreener",
-      "pubDate": "2026-06-30T23:48:38+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "4 Reasons BTIG Is Buying Robinhood Stock Right Now",
-      "description": "BTIG cites four solid reasons to be bullish on Robinhood in the present environment.",
-      "link": "https://www.barchart.com/story/news/3055597/4-reasons-btig-is-buying-robinhood-stock-right-now",
-      "press": "Barchart",
-      "pubDate": "2026-06-30T22:45:02+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Wall Street Just Identified 4 Reasons Robinhood Stock Could Keep Climbing",
-      "description": "Robinhood has a clear growth path over the next decade as the company continues to expand internationally.",
-      "link": "https://www.barchart.com/story/news/3050585/wall-street-just-identified-4-reasons-robinhood-stock-could-keep-climbing",
-      "press": "Barchart",
-      "pubDate": "2026-06-30T20:30:02+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Cathie Wood's Ark Invest Bets Again on COIN, CRCL, & BLSH Crypto Stocks",
-      "description": "Cathie Wood's Ark Invest bets again on crypto stocks, including Coinbase, Circle, Bullish, and Robinhood, indicating its sustained interest into the crypto sector.",
-      "link": "https://coingape.com/cathie-woods-ark-invest-bets-again-on-coin-crcl-blsh-crypto-stocks/",
-      "press": "CoinGape",
-      "pubDate": "2026-06-30T20:03:16+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull to Strengthen its Presence in Thailand by Acquiring Pi Securities",
-      "description": "/PRNewswire/ -- Webull Securities (Thailand) Co., Ltd. (\"Webull Thailand\"), a subsidiary of Webull Corporation (NASDAQ: BULL), the owner of the Webull trading...",
-      "link": "https://www.prnewswire.co.uk/news-releases/webull-to-strengthen-its-presence-in-thailand-by-acquiring-pi-securities-302814421.html",
-      "press": "PR Newswire UK",
-      "pubDate": "2026-06-30T20:00:00+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
-      "title": "Trump Accounts Could Land An Unexpected Boost As SpaceX Reportedly Weighs Stock Donation",
-      "description": "SpaceX may donate stock to Trump Accounts, a new children's savings program backed by the Treasury, BNY Mellon and Robinhood.",
-      "link": "https://www.benzinga.com/news/politics/26/06/60179015/trump-accounts-could-land-an-unexpected-boost-as-spacex-reportedly-weighs-stock-donation",
-      "press": "Benzinga",
-      "pubDate": "2026-06-30T18:07:37+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "ARK buys Coinbase, Circle, Bullish and Robinhood as stocks rally",
-      "description": "ARK bought Coinbase, Circle, Bullish and Robinhood shares worth about $16.9M as crypto-linked stocks rallied Monday.",
-      "link": "https://crypto.news/ark-buys-coinbase-circle-bullish-and-robinhood-as-stocks-rally/",
-      "press": "Crypto News",
-      "pubDate": "2026-06-30T14:35:13+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Leading Indian brokerages gear up to offer seamless access to global stocks via GIFT City",
       "description": "Indian investors can now easily buy foreign stocks like Apple and Nvidia through GIFT City, thanks to major discount brokers like Groww and Zerodha launching overseas investing services. This move, facilitated by the Liberalised Remittance Scheme, allows investments starting from just $1 with fractional shares. While charges include brokerage and forex conversion, GIFT City offers a regulated framework for these international investments.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/leading-indian-brokerages-gear-up-to-offer-seamless-access-to-global-stocks-via-gift-city/articleshow/132081641.cms",
@@ -110,30 +172,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "AI Will Never Replace A Good Financial Advisor",
-      "description": "“The death of the advisor” has been a narrative since 1999 with the inception of E trade, then again in 2008 in robo advisors. But from where I sit, that narrative fundamentally misunderstands what good financial advising actually is.",
-      "link": "https://www.forbes.com/sites/forbes-shook/2026/06/29/ai-will-never-replace-a-good-financial-advisor/",
-      "press": "Forbes",
-      "pubDate": "2026-06-30T01:42:44+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "리테일브로커"
-      ]
-    },
-    {
-      "title": "Attention Kalshi, Polymarket! Robinhood, Coinbase, DraftKings Are Coming For Your Lunch, Bernstein Writes",
-      "description": "Bernstein warns Kalshi and Polymarket face takeover risk as Robinhood, Coinbase, and DraftKings build their own prediction market exchanges.",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/06/60164990/attention-kalshi-polymarket-robinhood-coinbase-draftkings-are-coming-for-your-lunch-bernstein-writes",
-      "press": "Benzinga",
-      "pubDate": "2026-06-30T01:38:48+09:00",
-      "date": "2026-06-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
@@ -245,18 +283,6 @@
       ]
     },
     {
-      "title": "Tokenized SpaceX stock products hit $80 million market cap",
-      "description": "The tokenization of SpaceX stock has surged to a new all-time high in market capitalization as of Jun 23, 2026.",
-      "link": "https://finbold.com/tokenized-spacex-stock-products-hit-80-million-market-cap/",
-      "press": "Finbold",
-      "pubDate": "2026-06-23T20:42:40+09:00",
-      "date": "2026-06-23",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
       "title": "Former New York Governor Andrew Cuomo Joins OKX-NYSE Venture To Bridge Crypto, TradFi",
       "description": "Andrew Cuomo has joined a new venture between OKX and Intercontinental Exchange aimed at connecting traditional finance with digital assets. The initiative plans to launch a U.S.-regulated brokerage and futures platform.",
       "link": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60028516/former-new-york-governor-andrew-cuomo-joins-okx-nyse-venture-to-bridge-crypto-tradfi",
@@ -266,18 +292,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "QuantRate Launches Free AI Trading Bot to Transform Automated Investing Across Crypto and Stock Markets",
-      "description": "QuantRate launches a free AI trading bot designed to revolutionize automated investing across cryptocurrency and global stock markets by leveraging advanced machine learning, real-time quantitative analysis, and cross-asset trading capabilities for both retail and institutional investors",
-      "link": "https://www.manilatimes.net/2026/06/23/tmt-newswire/globenewswire/quantrate-launches-free-ai-trading-bot-to-transform-automated-investing-across-crypto-and-stock-markets/2370447",
-      "press": "The Manila Times",
-      "pubDate": "2026-06-23T04:17:02+09:00",
-      "date": "2026-06-23",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {

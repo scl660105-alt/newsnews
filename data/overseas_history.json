@@ -1,9 +1,156 @@
 {
-  "lastUpdated": "2026-07-01T18:33:26Z",
+  "lastUpdated": "2026-07-02T10:19:51Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 34,
+  "count": 46,
   "news": [
+    {
+      "title": "2 Network, Tokenized Stock Trading",
+      "description": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
+      "link": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
+      "press": "Decrypt",
+      "pubDate": "2026-07-02T05:56:38+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain Launches With AI-Native Infrastructure and Real-World Assets",
+      "description": "Robinhood Chain mainnet is live as announced during a keynote called \"Robinhood Presents: The World is Flat\", which was hosted by CEO Vlad Tenev and Robinhood Chain mainnet is live with Chainlink oracles, Ethena as a collateral partner, a 7% yield-earning product and more. HOOD moves deep into on-chain finance.",
+      "link": "https://coingape.com/robinhood-chain-launches-with-ai-native-infrastructure-and-real-world-assets/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-02T05:43:22+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "0x to Power Swap Liquidity and Cross-Chain Access on Robinhood Chain at Launch",
+      "description": "/PRNewswire/ -- 0x, a software infrastructure company whose APIs power payments, trading, and tokenized asset products across the onchain financial system,...",
+      "link": "https://www.prnewswire.co.uk/news-releases/0x-to-power-swap-liquidity-and-cross-chain-access-on-robinhood-chain-at-launch-302816093.html",
+      "press": "PR Newswire UK",
+      "pubDate": "2026-07-02T05:01:00+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Stock Is Rising: What's Happening Behind The Scenes?",
+      "description": "Robinhood Markets shares are trading higher Wednesday. The company launched public mainnet for Robinhood Chain and is hosting a London event.",
+      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60230438/robinhood-stock-is-rising-whats-happening-behind-the-scenes",
+      "press": "Benzinga",
+      "pubDate": "2026-07-02T04:23:10+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
+      "description": "Road Town, British Virgin Islands, July 1st, 2026, FinanceWire1inch joins as a launch partner on Robinhood Chain, the Arbitru...",
+      "link": "https://markets.businessinsider.com/news/currencies/1inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1036291962",
+      "press": "Markets Insider",
+      "pubDate": "2026-07-02T04:00:44+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood (HOOD) rolls out public blockchain as it expands deeper into crypto",
+      "description": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
+      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "press": "CoinDesk",
+      "pubDate": "2026-07-02T03:25:00+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "description": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+      "press": "Decrypt",
+      "pubDate": "2026-07-02T01:36:39+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Strategy's MSTR Stock Crash Leads Wall Street Analysts To Cut Price Target To $130",
+      "description": "Wall Street brokerage Canaccord has lowered its price estimate on Michael Saylor's Strategy (NASDAQ: MSTR). It slashed the MSTR stock target to $130 from",
+      "link": "https://coingape.com/strategys-mstr-stock-crash-leads-wall-street-analysts-to-cut-price-target-to-130/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-02T01:32:21+09:00",
+      "date": "2026-07-02",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Breaking: As QuantRate Launches Its Free AI Trading Bot, the AI Investing Trend Accelerates the Transformation of Global Financial Markets",
+      "description": "QuantRate has launched a free AI trading bot, marking another step in the rapid growth of AI investing. Discover how AI is reshaping investing, automated trading, and the future of global financial markets.",
+      "link": "https://www.manilatimes.net/2026/07/01/tmt-newswire/globenewswire/breaking-as-quantrate-launches-its-free-ai-trading-bot-the-ai-investing-trend-accelerates-the-transformation-of-global-financial-markets/2376756",
+      "press": "The Manila Times",
+      "pubDate": "2026-07-01T22:07:31+09:00",
+      "date": "2026-07-01",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
+      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab ​Bank , according to his annual disclosure for ‌2025 with the U.S. Office of Government Ethics.",
+      "link": "https://www.reuters.com/business/finance/trump-secured-over-50-million-loan-charles-schwab-2025-ethics-filing-shows-2026-07-01/",
+      "press": "Reuters",
+      "pubDate": "2026-07-01T21:00:50+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
+      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab Bank, according to his annual disclosure for 2025 with the U.S. Office of Government Ethics.\n...",
+      "link": "https://www.marketscreener.com/news/trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows-ce7f5fddd081f222",
+      "press": "MarketScreener",
+      "pubDate": "2026-07-01T21:00:25+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Trump Secured Over $50 Million in Loan From Charles Schwab in 2025, Ethics Filing Shows",
+      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
+      "link": "https://www.usnews.com/news/politics/articles/2026-07-01/trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows",
+      "press": "U.S. News & World Report",
+      "pubDate": "2026-07-01T21:00:00+09:00",
+      "date": "2026-07-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Webull acquires Pi for nearly B3bn",
       "description": "Thailand's securities industry is in the spotlight again after Webull, the Florida-based global digital investment platform, announced its nearly 3-billion-baht acquisition of Pi Securities, making a fast entry into the highly regulated capital market.",
