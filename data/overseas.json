@@ -1,86 +1,146 @@
 {
-  "lastUpdated": "2026-07-02T18:17:54Z",
+  "lastUpdated": "2026-07-03T10:15:48Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 28,
+  "count": 29,
   "news": [
     {
-      "title": "Robinhood expands perpetual futures offering in Europe, plans crypto launch in UK",
-      "description": "July 1 (Reuters) - Robinhood said ⁠on Wednesday it plans to launch crypto trading in the ⁠UK and broadened its perpetual futures offering in Europe ‌beyond cryptocurrencies.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/07/02/robinhood-expands-perpetual-futures-offering-in-europe-plans-crypto-launch-in-uk",
-      "press": "The Star",
-      "pubDate": "2026-07-02T08:41:00+09:00",
-      "date": "2026-07-02",
+      "title": "HOOD Stock Alert: What to Know as Robinhood Rolls Out Public Blockhain",
+      "description": "Robinhood shares rallied on the official mainnet launch of Robinhood Chain. Mizuho believes HOOD stock will rip higher from here as the year unfolds.",
+      "link": "https://www.barchart.com/story/news/3106008/hood-stock-alert-what-to-know-as-robinhood-rolls-out-public-blockhain",
+      "press": "Barchart",
+      "pubDate": "2026-07-03T05:12:08+09:00",
+      "date": "2026-07-03",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Robinhood Launches Public Blockchain and Prepares UK Crypto Trading",
-      "description": "Robinhood has moved its blockchain testing effort into the public spotlight, announcing that its Robinhood Chain layer 2 network has launched its public",
-      "link": "https://www.cryptobreaking.com/robinhood-launches-public-blockchain-and/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-02T08:39:58+09:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "2 Network, Tokenized Stock Trading",
-      "description": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-      "link": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
-      "press": "Decrypt",
-      "pubDate": "2026-07-02T05:56:38+09:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Launches With AI-Native Infrastructure and Real-World Assets",
-      "description": "Robinhood Chain mainnet is live as announced during a keynote called \"Robinhood Presents: The World is Flat\", which was hosted by CEO Vlad Tenev and Robinhood Chain mainnet is live with Chainlink oracles, Ethena as a collateral partner, a 7% yield-earning product and more. HOOD moves deep into on-chain finance.",
-      "link": "https://coingape.com/robinhood-chain-launches-with-ai-native-infrastructure-and-real-world-assets/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-02T05:43:22+09:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "0x to Power Swap Liquidity and Cross-Chain Access on Robinhood Chain at Launch",
-      "description": "/PRNewswire/ -- 0x, a software infrastructure company whose APIs power payments, trading, and tokenized asset products across the onchain financial system,...",
-      "link": "https://www.prnewswire.co.uk/news-releases/0x-to-power-swap-liquidity-and-cross-chain-access-on-robinhood-chain-at-launch-302816093.html",
-      "press": "PR Newswire UK",
-      "pubDate": "2026-07-02T05:01:00+09:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Stock Is Rising: What's Happening Behind The Scenes?",
-      "description": "Robinhood Markets shares are trading higher Wednesday. The company launched public mainnet for Robinhood Chain and is hosting a London event.",
-      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60230438/robinhood-stock-is-rising-whats-happening-behind-the-scenes",
+      "title": "HOOD Jumps 3% as Robinhood Unveils AI Agents, Blockchain Expansion",
+      "description": "Robinhood launches AI trading agents, tokenized US stocks for 120 countries, and perpetual futures in Europe as HOOD breaks above all EMAs.",
+      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60258130/hood-jumps-3-as-robinhood-unveils-ai-agents-blockchain-expansion",
       "press": "Benzinga",
-      "pubDate": "2026-07-02T04:23:10+09:00",
-      "date": "2026-07-02",
+      "pubDate": "2026-07-03T04:35:06+09:00",
+      "date": "2026-07-03",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
-      "description": "Road Town, British Virgin Islands, July 1st, 2026, FinanceWire1inch joins as a launch partner on Robinhood Chain, the Arbitru...",
-      "link": "https://markets.businessinsider.com/news/currencies/1inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1036291962",
+      "title": "Europe Had 3,167 Crypto Firms, Now It Has 244: What The MiCA Deadline Means For Coinbase, Robinhood And C",
+      "description": "Europe’s crypto market got a lot smaller on July 1. That was the day the transitional window under the European Union’s Markets in Crypto-Assets Regulation, known as MiCA, closed for good. Firms that had operated for",
+      "link": "https://www.benzinga.com/Opinion/26/07/60257187/europe-had-3167-crypto-firms-now-it-has-244-what-the-mica-deadline-means-for-coinbase-robinhood-and-circle",
+      "press": "Benzinga",
+      "pubDate": "2026-07-03T04:03:18+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Mizuho Raises Robinhood Stock (HOOD) Price Target; Says It Could be the “First True Global Hyperscaler of Online Brokerages”",
+      "description": "Robinhood (HOOD) stock was up 4% at the time of writing, after the trading platform announced the launch of Robinhood Chain, a new Ethereum (ETH...",
+      "link": "https://markets.businessinsider.com/news/stocks/mizuho-raises-robinhood-stock-hood-price-target-says-it-could-be-the-first-true-global-hyperscaler-of-online-brokerages-1036295812",
       "press": "Markets Insider",
-      "pubDate": "2026-07-02T04:00:44+09:00",
+      "pubDate": "2026-07-03T03:54:11+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+      "description": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
+      "link": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+      "press": "Decrypt",
+      "pubDate": "2026-07-03T03:43:50+09:00",
+      "date": "2026-07-03",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "How tokenized stocks fail as collateral even when the stock price does not move",
+      "description": "Tokenized stocks reached DeFi credit markets. Edel's exploit exposed how wrappers, vaults and pricing can break 1:1 backing.",
+      "link": "https://cryptoslate.com/how-tokenized-stocks-fail-as-collateral-even-when-the-stock-price-does-not-move/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-07-03T03:30:19+09:00",
+      "date": "2026-07-03",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "EToro (ETOR) ramps up blockchain trading push, investing in derivatives venue Extended",
+      "description": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.",
+      "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+      "press": "CoinDesk",
+      "pubDate": "2026-07-03T02:00:00+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Bitget CEO Outlines Vision for Unified Financial Ecosystem Driven by AI and Tokenization",
+      "description": "Bitget CEO Gracy Chen has shared the exchange's mid-year vision, outlining how tokenization, artificial intelligence and multi-asset access are reshaping the future of investing beyond crypto.",
+      "link": "https://u.today/bitget-ceo-outlines-vision-for-unified-financial-ecosystem-driven-by-ai-and-tokenization",
+      "press": "U.Today",
+      "pubDate": "2026-07-03T01:12:53+09:00",
+      "date": "2026-07-03",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Robinhood Says AI Agents Will Soon Match Human Traders. Its CEO Wants Wall Street's Tools in Everyday Investors' Hands",
+      "description": "Robinhood is accelerating its push into artificial intelligence, with CEO Vlad Tenev saying AI agents are moving closer to performing the same trading functions as human investors.",
+      "link": "https://www.ibtimes.com/robinhood-says-ai-agents-will-soon-match-human-traders-its-ceo-wants-wall-streets-tools-everyday-3804815",
+      "press": "International Business Times",
+      "pubDate": "2026-07-03T00:53:39+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Analysts See More Upside for Robinhood (HOOD) Stock Price to $135 Amid UK Rollout Plan",
+      "description": "Analysts raise Robinhood (HOOD) stock price targets to $135 as UK crypto expansion, and AI-powered trading initiatives strengthen investor confidence and fuel bullish outlook.",
+      "link": "https://coingape.com/analysts-see-more-upside-for-robinhood-hood-stock-price-to-135-amid-uk-rollout-plan/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-03T00:13:42+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "SEC looks into alleged insider trades on China's brokerage crackdown - report",
+      "description": "SEC probes alleged insider trading tied to China brokerage crackdown after Susquehanna lawsuit cites $100M options gains.",
+      "link": "https://seekingalpha.com/news/4609672-sec-looks-into-alleged-insider-trades-on-chinas-brokerage-crackdown-report",
+      "press": "Seeking Alpha",
+      "pubDate": "2026-07-02T23:54:36+09:00",
+      "date": "2026-07-02",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Why Is Robinhood Markets Stock Gaining Thursday?",
+      "description": "Robinhood (NASDAQ: HOOD) stock climbs 3.3% premarket. Mizuho lifts its price target to $130. Read our technical analysis here.",
+      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60242755/why-is-robinhood-markets-stock-gaining-thursday",
+      "press": "Benzinga",
+      "pubDate": "2026-07-02T21:48:50+09:00",
       "date": "2026-07-02",
       "category": "broker",
       "companies": [
@@ -88,15 +148,75 @@
       ]
     },
     {
-      "title": "Robinhood (HOOD) rolls out public blockchain as it expands deeper into crypto",
-      "description": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
-      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
-      "press": "CoinDesk",
-      "pubDate": "2026-07-02T03:25:00+09:00",
+      "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
+      "description": "The market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
+      "link": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
+      "press": "Decrypt",
+      "pubDate": "2026-07-02T21:06:26+09:00",
       "date": "2026-07-02",
       "category": "broker",
       "companies": [
         "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood will soar as it moves closer to becoming the first hyperscaler brokerage, says Mizuho",
+      "description": "Robinhood is likely to shoot higher if the trading platform can fashion itself into the first true hyperscaler among online brokerages, according to Mizuho.",
+      "link": "https://www.cnbc.com/2026/07/02/robinhood-will-soar-as-it-moves-closer-to-becoming-the-first-hyperscaler-brokerage-says-mizuho.html",
+      "press": "CNBC",
+      "pubDate": "2026-07-02T20:50:05+09:00",
+      "date": "2026-07-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
+      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
+      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-1",
+      "press": "U.Today",
+      "pubDate": "2026-07-02T20:48:30+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
+      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
+      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain",
+      "press": "U.Today",
+      "pubDate": "2026-07-02T20:48:30+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
+      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
+      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-0",
+      "press": "U.Today",
+      "pubDate": "2026-07-02T20:48:30+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Robinhood debuts Layer 2 mainnet for tokenized stock trading",
+      "description": "Robinhood has rolled out its Ethereum Layer 2 network, allowing eligible users to trade tokenized stocks and access DeFi features on chain.",
+      "link": "https://crypto.news/robinhood-debuts-layer-2-mainnet-for-tokenized-stock-trading/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-02T15:51:06+09:00",
+      "date": "2026-07-02",
+      "category": "theme",
+      "companies": [
+        "업계테마"
       ]
     },
     {
@@ -136,98 +256,12 @@
       ]
     },
     {
-      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
-      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab ​Bank , according to his annual disclosure for ‌2025 with the U.S. Office of Government Ethics.",
-      "link": "https://www.reuters.com/business/finance/trump-secured-over-50-million-loan-charles-schwab-2025-ethics-filing-shows-2026-07-01/",
-      "press": "Reuters",
-      "pubDate": "2026-07-01T21:00:50+09:00",
-      "date": "2026-07-01",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
-      "description": "U.S. President Donald Trump secured a more than $50 million loan last year from Charles Schwab Bank, according to his annual disclosure for 2025 with the U.S. Office of Government Ethics.\n...",
-      "link": "https://www.marketscreener.com/news/trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows-ce7f5fddd081f222",
-      "press": "MarketScreener",
-      "pubDate": "2026-07-01T21:00:25+09:00",
-      "date": "2026-07-01",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "Leading Indian brokerages gear up to offer seamless access to global stocks via GIFT City",
       "description": "Indian investors can now easily buy foreign stocks like Apple and Nvidia through GIFT City, thanks to major discount brokers like Groww and Zerodha launching overseas investing services. This move, facilitated by the Liberalised Remittance Scheme, allows investments starting from just $1 with fractional shares. While charges include brokerage and forex conversion, GIFT City offers a regulated framework for these international investments.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/leading-indian-brokerages-gear-up-to-offer-seamless-access-to-global-stocks-via-gift-city/articleshow/132081641.cms",
       "press": "The Economic Times",
       "pubDate": "2026-06-30T09:48:00+09:00",
       "date": "2026-06-30",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Buy Nvidia at 2 am on a Sunday? How Indians can own tokenised US stocks and how they differ from traditional trading",
-      "description": "Nvidia's stock surged over 1,000% since the ChatGPT release, becoming the world's most valuable company. Investors are now eyeing other AI chipmakers like Micron and Sandisk, while tokenized stocks offer a new way to invest in these companies.",
-      "link": "https://www.livemint.com/money/personal-finance/buy-nvidia-at-2-am-on-a-sunday-how-indians-can-own-tokenised-us-stocks-and-how-they-differ-from-traditional-trading-11782478031311.html",
-      "press": "Livemint",
-      "pubDate": "2026-06-28T17:47:32+09:00",
-      "date": "2026-06-28",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "AI Trading Bot Adoption Rises Across Global Markets as Retail Investors Embrace Automation",
-      "description": "Growth in stock and cryptocurrency markets has coincided with increased adoption of AI trading tools. This report, prepared by the Monday Newswire LTD editorial team, examines independent market trends shaping the use of automated trading technologies in 2026.",
-      "link": "https://www.manilatimes.net/2026/06/28/tmt-newswire/globenewswire/ai-trading-bot-adoption-rises-across-global-markets-as-retail-investors-embrace-automation/2374295",
-      "press": "The Manila Times",
-      "pubDate": "2026-06-28T15:56:25+09:00",
-      "date": "2026-06-28",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "AI Trading Bot Adoption Rises Across Global Markets as",
-      "description": "Growth in stock and cryptocurrency markets has coincided with increased adoption of AI trading tools. This report, prepared by the Monday Newswire LTD...",
-      "link": "https://www.globenewswire.com/news-release/2026/06/28/3318579/0/en/ai-trading-bot-adoption-rises-across-global-markets-as-retail-investors-embrace-automation.html",
-      "press": "GlobeNewswire",
-      "pubDate": "2026-06-28T15:45:55+09:00",
-      "date": "2026-06-28",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People",
-      "description": "Coinbase CEO Brian Armstrong believes tokenized stocks can revolutionize global investing, backed by record trading volumes.",
-      "link": "https://www.benzinga.com/crypto/26/06/60146486/coinbase-ceo-brian-armstrong-says-tokenized-stocks-could-open-us-markets-to-4-billion-unbrokered-people",
-      "press": "Benzinga",
-      "pubDate": "2026-06-28T13:40:05+09:00",
-      "date": "2026-06-28",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "MEXC lists five ONDO tokenized stocks trading pairs across AI, semiconductors, and energy",
-      "description": "MEXC expands tokenized stock offerings with five Ondo pairs, enabling onchain exposure to U.S. stocks around the clock.",
-      "link": "https://crypto.news/mexc-lists-five-ondo-tokenized-stocks-trading-pairs-across-ai-semiconductors-and-energy/",
-      "press": "Crypto News",
-      "pubDate": "2026-06-25T23:21:13+09:00",
-      "date": "2026-06-25",
       "category": "theme",
       "companies": [
         "업계테마"
@@ -255,30 +289,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "QuantRate Launches Free AI Trading Bot to Simplify Automated Stock and Crypto Investing in 2026",
-      "description": "QuantRate launches a free AI trading bot in 2026 to simplify automated stock and cryptocurrency investing. The AI-powered platform enables users to access automated trading strategies, real-time market analysis, and risk management tools for smarter, more efficient multi-asset investing with no coding required.",
-      "link": "https://www.manilatimes.net/2026/06/23/tmt-newswire/globenewswire/quantrate-launches-free-ai-trading-bot-to-simplify-automated-stock-and-crypto-investing-in-2026/2370859",
-      "press": "The Manila Times",
-      "pubDate": "2026-06-23T21:06:35+09:00",
-      "date": "2026-06-23",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Assetara Unveils AI Trading Ecosystem Integrating Automated Execution with Risk Controls and Blockchain Verification",
-      "description": "AI can reduce emotional investing, but it also introduces risks tied to data quality, model assumptions, transparency, and oversight. Here’s what investors should evaluate.",
-      "link": "https://www.manilatimes.net/2026/06/23/tmt-newswire/globenewswire/assetara-unveils-ai-trading-ecosystem-integrating-automated-execution-with-risk-controls-and-blockchain-verification/2370857",
-      "press": "The Manila Times",
-      "pubDate": "2026-06-23T21:06:31+09:00",
-      "date": "2026-06-23",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {
