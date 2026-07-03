@@ -1,15 +1,39 @@
 {
-  "lastUpdated": "2026-07-03T10:15:48Z",
+  "lastUpdated": "2026-07-03T17:02:51Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 66,
+  "count": 68,
   "news": [
+    {
+      "title": "Securitize Expands Tokenized Stocks on Solana and Avalanche After NYSE Listing",
+      "description": "Tokenization platform Securitize began trading on the New York Stock Exchange on Thursday after completing a merger with a special-purpose acquisition",
+      "link": "https://www.cryptobreaking.com/securitize-expands-tokenized-stocks-on/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-07-03T12:09:48+09:00",
+      "date": "2026-07-03",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "CaliberCos (CWD) Stock Is Trending Overnight - Here's Why it Fell Over 25% in After-Hours Session",
+      "description": "CaliberCos shares fell 25.20% after hours after surging on its expanded real estate tokenization strategy built on Chainlink's infrastructure.",
+      "link": "https://www.benzinga.com/markets/equities/26/07/60263874/calibercos-cwd-stock-is-trending-overnight-heres-why-it-fell-over-25-in-after-hours-session",
+      "press": "Benzinga",
+      "pubDate": "2026-07-03T12:06:56+09:00",
+      "date": "2026-07-03",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "HOOD Stock Alert: What to Know as Robinhood Rolls Out Public Blockhain",
       "description": "Robinhood shares rallied on the official mainnet launch of Robinhood Chain. Mizuho believes HOOD stock will rip higher from here as the year unfolds.",
       "link": "https://www.barchart.com/story/news/3106008/hood-stock-alert-what-to-know-as-robinhood-rolls-out-public-blockhain",
       "press": "Barchart",
-      "pubDate": "2026-07-03T05:12:08+09:00",
+      "pubDate": "2026-07-02T20:12:08+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -21,7 +45,7 @@
       "description": "Robinhood launches AI trading agents, tokenized US stocks for 120 countries, and perpetual futures in Europe as HOOD breaks above all EMAs.",
       "link": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60258130/hood-jumps-3-as-robinhood-unveils-ai-agents-blockchain-expansion",
       "press": "Benzinga",
-      "pubDate": "2026-07-03T04:35:06+09:00",
+      "pubDate": "2026-07-02T19:35:06+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -33,7 +57,7 @@
       "description": "Europe’s crypto market got a lot smaller on July 1. That was the day the transitional window under the European Union’s Markets in Crypto-Assets Regulation, known as MiCA, closed for good. Firms that had operated for",
       "link": "https://www.benzinga.com/Opinion/26/07/60257187/europe-had-3167-crypto-firms-now-it-has-244-what-the-mica-deadline-means-for-coinbase-robinhood-and-circle",
       "press": "Benzinga",
-      "pubDate": "2026-07-03T04:03:18+09:00",
+      "pubDate": "2026-07-02T19:03:18+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -45,7 +69,7 @@
       "description": "Robinhood (HOOD) stock was up 4% at the time of writing, after the trading platform announced the launch of Robinhood Chain, a new Ethereum (ETH...",
       "link": "https://markets.businessinsider.com/news/stocks/mizuho-raises-robinhood-stock-hood-price-target-says-it-could-be-the-first-true-global-hyperscaler-of-online-brokerages-1036295812",
       "press": "Markets Insider",
-      "pubDate": "2026-07-03T03:54:11+09:00",
+      "pubDate": "2026-07-02T18:54:11+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -57,7 +81,7 @@
       "description": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
       "link": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
       "press": "Decrypt",
-      "pubDate": "2026-07-03T03:43:50+09:00",
+      "pubDate": "2026-07-02T18:43:50+00:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
@@ -69,7 +93,7 @@
       "description": "Tokenized stocks reached DeFi credit markets. Edel's exploit exposed how wrappers, vaults and pricing can break 1:1 backing.",
       "link": "https://cryptoslate.com/how-tokenized-stocks-fail-as-collateral-even-when-the-stock-price-does-not-move/",
       "press": "CryptoSlate",
-      "pubDate": "2026-07-03T03:30:19+09:00",
+      "pubDate": "2026-07-02T18:30:19+00:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
@@ -81,7 +105,7 @@
       "description": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.",
       "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
       "press": "CoinDesk",
-      "pubDate": "2026-07-03T02:00:00+09:00",
+      "pubDate": "2026-07-02T17:00:00+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -93,7 +117,7 @@
       "description": "Bitget CEO Gracy Chen has shared the exchange's mid-year vision, outlining how tokenization, artificial intelligence and multi-asset access are reshaping the future of investing beyond crypto.",
       "link": "https://u.today/bitget-ceo-outlines-vision-for-unified-financial-ecosystem-driven-by-ai-and-tokenization",
       "press": "U.Today",
-      "pubDate": "2026-07-03T01:12:53+09:00",
+      "pubDate": "2026-07-02T16:12:53+00:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
@@ -105,7 +129,7 @@
       "description": "Robinhood is accelerating its push into artificial intelligence, with CEO Vlad Tenev saying AI agents are moving closer to performing the same trading functions as human investors.",
       "link": "https://www.ibtimes.com/robinhood-says-ai-agents-will-soon-match-human-traders-its-ceo-wants-wall-streets-tools-everyday-3804815",
       "press": "International Business Times",
-      "pubDate": "2026-07-03T00:53:39+09:00",
+      "pubDate": "2026-07-02T15:53:39+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -117,7 +141,7 @@
       "description": "Analysts raise Robinhood (HOOD) stock price targets to $135 as UK crypto expansion, and AI-powered trading initiatives strengthen investor confidence and fuel bullish outlook.",
       "link": "https://coingape.com/analysts-see-more-upside-for-robinhood-hood-stock-price-to-135-amid-uk-rollout-plan/",
       "press": "CoinGape",
-      "pubDate": "2026-07-03T00:13:42+09:00",
+      "pubDate": "2026-07-02T15:13:42+00:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
@@ -129,7 +153,7 @@
       "description": "SEC probes alleged insider trading tied to China brokerage crackdown after Susquehanna lawsuit cites $100M options gains.",
       "link": "https://seekingalpha.com/news/4609672-sec-looks-into-alleged-insider-trades-on-chinas-brokerage-crackdown-report",
       "press": "Seeking Alpha",
-      "pubDate": "2026-07-02T23:54:36+09:00",
+      "pubDate": "2026-07-02T14:54:36+00:00",
       "date": "2026-07-02",
       "category": "market",
       "companies": [
@@ -141,7 +165,7 @@
       "description": "Robinhood (NASDAQ: HOOD) stock climbs 3.3% premarket. Mizuho lifts its price target to $130. Read our technical analysis here.",
       "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60242755/why-is-robinhood-markets-stock-gaining-thursday",
       "press": "Benzinga",
-      "pubDate": "2026-07-02T21:48:50+09:00",
+      "pubDate": "2026-07-02T12:48:50+00:00",
       "date": "2026-07-02",
       "category": "broker",
       "companies": [
@@ -153,7 +177,7 @@
       "description": "The market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
       "link": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
       "press": "Decrypt",
-      "pubDate": "2026-07-02T21:06:26+09:00",
+      "pubDate": "2026-07-02T12:06:26+00:00",
       "date": "2026-07-02",
       "category": "broker",
       "companies": [
@@ -165,7 +189,7 @@
       "description": "Robinhood is likely to shoot higher if the trading platform can fashion itself into the first true hyperscaler among online brokerages, according to Mizuho.",
       "link": "https://www.cnbc.com/2026/07/02/robinhood-will-soar-as-it-moves-closer-to-becoming-the-first-hyperscaler-brokerage-says-mizuho.html",
       "press": "CNBC",
-      "pubDate": "2026-07-02T20:50:05+09:00",
+      "pubDate": "2026-07-02T11:50:05+00:00",
       "date": "2026-07-02",
       "category": "broker",
       "companies": [
@@ -177,7 +201,7 @@
       "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
       "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-1",
       "press": "U.Today",
-      "pubDate": "2026-07-02T20:48:30+09:00",
+      "pubDate": "2026-07-02T11:48:30+00:00",
       "date": "2026-07-02",
       "category": "theme",
       "companies": [
@@ -189,7 +213,7 @@
       "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
       "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain",
       "press": "U.Today",
-      "pubDate": "2026-07-02T20:48:30+09:00",
+      "pubDate": "2026-07-02T11:48:30+00:00",
       "date": "2026-07-02",
       "category": "theme",
       "companies": [
@@ -201,7 +225,7 @@
       "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
       "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-0",
       "press": "U.Today",
-      "pubDate": "2026-07-02T20:48:30+09:00",
+      "pubDate": "2026-07-02T11:48:30+00:00",
       "date": "2026-07-02",
       "category": "theme",
       "companies": [
@@ -213,7 +237,7 @@
       "description": "Robinhood has rolled out its Ethereum Layer 2 network, allowing eligible users to trade tokenized stocks and access DeFi features on chain.",
       "link": "https://crypto.news/robinhood-debuts-layer-2-mainnet-for-tokenized-stock-trading/",
       "press": "Crypto News",
-      "pubDate": "2026-07-02T15:51:06+09:00",
+      "pubDate": "2026-07-02T06:51:06+00:00",
       "date": "2026-07-02",
       "category": "theme",
       "companies": [
