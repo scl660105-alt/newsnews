@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-07-03T17:02:51Z",
+  "lastUpdated": "2026-07-03T21:44:26Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 68,
+  "count": 69,
   "news": [
+    {
+      "title": "Robinhood CEO says AI agents will be capable of trading like humans",
+      "description": "Robinhood's CEO said AI agents will be capable of trading like humans. The comment highlights a shift towards more human-like automation in trading.",
+      "link": "https://www.indiatoday.in/technology/news/story/robinhood-ceo-says-ai-agents-could-trade-like-humans-2939648-2026-07-03",
+      "press": "India Today",
+      "pubDate": "2026-07-03T16:26:15+09:00",
+      "date": "2026-07-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Securitize Expands Tokenized Stocks on Solana and Avalanche After NYSE Listing",
       "description": "Tokenization platform Securitize began trading on the New York Stock Exchange on Thursday after completing a merger with a special-purpose acquisition",
       "link": "https://www.cryptobreaking.com/securitize-expands-tokenized-stocks-on/",
       "press": "Crypto Breaking News",
-      "pubDate": "2026-07-03T12:09:48+09:00",
+      "pubDate": "2026-07-03T03:09:48+00:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
@@ -21,7 +33,7 @@
       "description": "CaliberCos shares fell 25.20% after hours after surging on its expanded real estate tokenization strategy built on Chainlink's infrastructure.",
       "link": "https://www.benzinga.com/markets/equities/26/07/60263874/calibercos-cwd-stock-is-trending-overnight-heres-why-it-fell-over-25-in-after-hours-session",
       "press": "Benzinga",
-      "pubDate": "2026-07-03T12:06:56+09:00",
+      "pubDate": "2026-07-03T03:06:56+00:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
