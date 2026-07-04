@@ -1,16 +1,45 @@
 {
-  "lastUpdated": "2026-07-04T15:47:55Z",
+  "lastUpdated": "2026-07-04T20:15:47Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 8763,
+  "count": 8765,
   "news": [
+    {
+      "title": "지분투자·신사업으로 활로 모색[가상자산 거래소 재편③]",
+      "description": "그는 “미래에셋, 한국투자증권 등 가상자산 시장 진입을 선언한 증권사들이 거래소를 활용해 어떤 사업을 먼저 추진할지가 전체 산업에 영향을 줄 것”이라고 봤다. 하반기 거래소 경쟁은 법인·기관 고객을 받을 수 있는...",
+      "link": "https://www.etoday.co.kr/news/view/2598928",
+      "originallink": "https://www.etoday.co.kr/news/view/2598928",
+      "press": "",
+      "pubDate": "2026-07-05T05:00:00+09:00",
+      "date": "2026-07-05",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권",
+        "키움증권",
+        "하나증권",
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "기아 美 43만대 판매 뒤엔 딜러 할인전쟁",
+      "description": "하나증권은 기아의 미국 판매가 올해 5% 늘어날 것으로 내다봤으며, 미국 자동차 관세율 인하로 관련 비용이 4조원 넘게 절감될 것이라는 전망도 함께 내놨다. 원·달러 환율은 4일 기준 1530원으로, 딜러 재량 할인폭인...",
+      "link": "https://www.g-enews.com/view.php?ud=2026070421253486092bd56fbc3c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=2026070421253486092bd56fbc3c_1",
+      "press": "",
+      "pubDate": "2026-07-05T04:10:00+09:00",
+      "date": "2026-07-05",
+      "companies": [
+        "하나증권"
+      ]
+    },
     {
       "title": "'삼성전자 실적에 달렸다'…코스피 7200~9000 [주간 증시 전망]",
       "description": "김대준 한국투자증권 연구원은 \"실적과 함께 가이던스도 긍정적이어야 한다\"며 \"반대 현상이 나오면 주가 변동성은 더 커질 수 있다\"고 강조했다. 미국 중앙은행이 연방준비제도(연준·Fed)가 오는 8일 공개하는...",
       "link": "https://n.news.naver.com/mnews/article/119/0003107978?sid=101",
       "originallink": "https://www.dailian.co.kr/news/view/1663261/?sc=Naver",
       "press": "",
-      "pubDate": "2026-07-05T00:11:00+09:00",
+      "pubDate": "2026-07-04T15:11:00+00:00",
       "date": "2026-07-05",
       "companies": [
         "한국투자증권",
@@ -25,7 +54,7 @@
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626357",
       "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3626357",
       "press": "",
-      "pubDate": "2026-07-05T00:06:00+09:00",
+      "pubDate": "2026-07-04T15:06:00+00:00",
       "date": "2026-07-05",
       "companies": [
         "KB증권"
@@ -37,7 +66,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003035213?sid=105",
       "originallink": "https://www.dt.co.kr/article/12070938?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-07-05T00:01:00+09:00",
+      "pubDate": "2026-07-04T15:01:00+00:00",
       "date": "2026-07-05",
       "companies": [
         "NH투자증권",
@@ -52,7 +81,7 @@
       "link": "https://n.news.naver.com/mnews/article/052/0002374790?sid=104",
       "originallink": "https://www.ytn.co.kr/_ln/0104_202607042355041422",
       "press": "",
-      "pubDate": "2026-07-04T23:55:00+09:00",
+      "pubDate": "2026-07-04T14:55:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "하나증권"
@@ -64,7 +93,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005702737?sid=101",
       "originallink": "https://www.mk.co.kr/article/12090387",
       "press": "매일경제",
-      "pubDate": "2026-07-04T23:17:00+09:00",
+      "pubDate": "2026-07-04T14:17:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "하나증권"
@@ -76,7 +105,7 @@
       "link": "https://n.news.naver.com/mnews/article/016/0002665725?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10798173?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-07-04T22:26:00+09:00",
+      "pubDate": "2026-07-04T13:26:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권",
@@ -91,7 +120,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435205",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452814",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -103,7 +132,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435209",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452821",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -115,7 +144,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435207",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452816",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -127,7 +156,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435210",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452822",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -139,7 +168,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435206",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452815",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -151,7 +180,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435212",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452828",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -163,7 +192,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435213",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452827",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -175,7 +204,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435208",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452820",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -187,7 +216,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435216",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452834",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -199,7 +228,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435218",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452838",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -211,7 +240,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435211",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452826",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -223,7 +252,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435214",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452832",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -235,7 +264,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435217",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452837",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -247,7 +276,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435215",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452833",
       "press": "",
-      "pubDate": "2026-07-04T22:12:00+09:00",
+      "pubDate": "2026-07-04T13:12:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -259,7 +288,7 @@
       "link": "http://coinreaders.com/246114",
       "originallink": "http://coinreaders.com/246114",
       "press": "",
-      "pubDate": "2026-07-04T22:02:00+09:00",
+      "pubDate": "2026-07-04T13:02:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "하나증권"
@@ -271,7 +300,7 @@
       "link": "https://n.news.naver.com/mnews/article/215/0001257606?sid=101",
       "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607040145&t=NN",
       "press": "한국경제TV",
-      "pubDate": "2026-07-04T21:50:00+09:00",
+      "pubDate": "2026-07-04T12:50:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권",
@@ -286,7 +315,7 @@
       "link": "https://m.sports.naver.com/golf/article/472/0000040743",
       "originallink": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374002",
       "press": "",
-      "pubDate": "2026-07-04T21:49:00+09:00",
+      "pubDate": "2026-07-04T12:49:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -298,7 +327,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005702728?sid=101",
       "originallink": "https://www.mk.co.kr/article/12090372",
       "press": "매일경제",
-      "pubDate": "2026-07-04T21:26:00+09:00",
+      "pubDate": "2026-07-04T12:26:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "한국투자증권"
@@ -310,7 +339,7 @@
       "link": "https://n.news.naver.com/mnews/article/056/0012211775?sid=101",
       "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602278&ref=A",
       "press": "",
-      "pubDate": "2026-07-04T21:17:00+09:00",
+      "pubDate": "2026-07-04T12:17:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "현대차증권"
@@ -322,7 +351,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435111",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452595",
       "press": "",
-      "pubDate": "2026-07-04T21:15:00+09:00",
+      "pubDate": "2026-07-04T12:15:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -334,7 +363,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435110",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452593",
       "press": "",
-      "pubDate": "2026-07-04T21:15:00+09:00",
+      "pubDate": "2026-07-04T12:15:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -346,7 +375,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435109",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452591",
       "press": "",
-      "pubDate": "2026-07-04T21:15:00+09:00",
+      "pubDate": "2026-07-04T12:15:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -358,7 +387,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435106",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452585",
       "press": "",
-      "pubDate": "2026-07-04T21:14:00+09:00",
+      "pubDate": "2026-07-04T12:14:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
@@ -370,7 +399,7 @@
       "link": "https://m.sports.naver.com/golf/article/445/0000435107",
       "originallink": "https://mhnse.com/news/articleView.html?idxno=1452589",
       "press": "",
-      "pubDate": "2026-07-04T21:14:00+09:00",
+      "pubDate": "2026-07-04T12:14:00+00:00",
       "date": "2026-07-04",
       "companies": [
         "NH투자증권"
