@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-07-04T15:46:07Z",
+  "lastUpdated": "2026-07-04T21:16:15Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 29,
   "news": [
+    {
+      "title": "Crypto exchanges are selling stock options and tokenized stocks but users may not own what they think",
+      "description": "Stock options are coming to crypto exchanges, but they work differently from tokenized stocks - what you need to know.",
+      "link": "https://cryptoslate.com/crypto-exchanges-are-selling-stock-options-and-tokenized-stocks-but-users-may-not-own-what-they-think/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-07-04T17:30:47+09:00",
+      "date": "2026-07-04",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Trump taps Robinhood for new child investment account rollout",
       "description": "Robinhood is expected to help launch Trump Accounts, giving eligible children a $1,000 Treasury-backed investment account starting July 4.",
@@ -34,6 +46,18 @@
       "press": "The Manila Times",
       "pubDate": "2026-07-04T00:35:38+09:00",
       "date": "2026-07-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Best Platforms to Trade Tokenized Stocks",
+      "description": "Discover top platforms to trade tokenized stocks in 2026.The list inlcudes Kraken, Gemini, Robinhood and others.",
+      "link": "https://coingape.com/platforms-to-trade-tokenized-stocks/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-03T22:11:53+09:00",
+      "date": "2026-07-03",
       "category": "broker",
       "companies": [
         "Robinhood"
@@ -172,18 +196,6 @@
       ]
     },
     {
-      "title": "EToro (ETOR) ramps up blockchain trading push, investing in derivatives venue Extended",
-      "description": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.",
-      "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
-      "press": "CoinDesk",
-      "pubDate": "2026-07-03T02:00:00+09:00",
-      "date": "2026-07-03",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Bitget CEO Outlines Vision for Unified Financial Ecosystem Driven by AI and Tokenization",
       "description": "Bitget CEO Gracy Chen has shared the exchange's mid-year vision, outlining how tokenization, artificial intelligence and multi-asset access are reshaping the future of investing beyond crypto.",
       "link": "https://u.today/bitget-ceo-outlines-vision-for-unified-financial-ecosystem-driven-by-ai-and-tokenization",
@@ -237,18 +249,6 @@
       "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-0",
       "press": "U.Today",
       "pubDate": "2026-07-02T20:48:30+09:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood debuts Layer 2 mainnet for tokenized stock trading",
-      "description": "Robinhood has rolled out its Ethereum Layer 2 network, allowing eligible users to trade tokenized stocks and access DeFi features on chain.",
-      "link": "https://crypto.news/robinhood-debuts-layer-2-mainnet-for-tokenized-stock-trading/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-02T15:51:06+09:00",
       "date": "2026-07-02",
       "category": "theme",
       "companies": [
