@@ -1,31 +1,43 @@
 {
-  "lastUpdated": "2026-07-04T21:16:15Z",
+  "lastUpdated": "2026-07-05T09:46:59Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 76,
+  "count": 78,
   "news": [
     {
-      "title": "Crypto exchanges are selling stock options and tokenized stocks but users may not own what they think",
-      "description": "Stock options are coming to crypto exchanges, but they work differently from tokenized stocks - what you need to know.",
-      "link": "https://cryptoslate.com/crypto-exchanges-are-selling-stock-options-and-tokenized-stocks-but-users-may-not-own-what-they-think/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-07-04T17:30:47+09:00",
-      "date": "2026-07-04",
+      "title": "Kraken Enables Tokenized Stock Collateral for Leveraged Trades",
+      "description": "Kraken has started accepting select tokenized stocks and exchange-traded funds (ETFs) as collateral for futures and margin trading, enabling eligible",
+      "link": "https://www.cryptobreaking.com/kraken-enables-tokenized-stock-collateral/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-07-05T04:52:12+09:00",
+      "date": "2026-07-05",
       "category": "theme",
       "companies": [
         "업계테마"
       ]
     },
     {
-      "title": "Best Platforms to Trade Tokenized Stocks",
-      "description": "Discover top platforms to trade tokenized stocks in 2026.The list inlcudes Kraken, Gemini, Robinhood and others.",
-      "link": "https://coingape.com/platforms-to-trade-tokenized-stocks/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-03T22:11:53+09:00",
-      "date": "2026-07-03",
+      "title": "Base, Tempo, Robinhood Chain",
+      "description": "Robinhood just launched its own blockchain, joining Coinbase and Stripe. Why every giant now builds its own chain, and what it costs neutral L1s.",
+      "link": "https://crypto.news/corporate-chain-land-grab-base-tempo-robinhood-chain/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-05T01:11:38+09:00",
+      "date": "2026-07-05",
       "category": "broker",
       "companies": [
         "Robinhood"
+      ]
+    },
+    {
+      "title": "Crypto exchanges are selling stock options and tokenized stocks but users may not own what they think",
+      "description": "Stock options are coming to crypto exchanges, but they work differently from tokenized stocks - what you need to know.",
+      "link": "https://cryptoslate.com/crypto-exchanges-are-selling-stock-options-and-tokenized-stocks-but-users-may-not-own-what-they-think/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-07-04T08:30:47+00:00",
+      "date": "2026-07-04",
+      "category": "theme",
+      "companies": [
+        "업계테마"
       ]
     },
     {
@@ -59,6 +71,18 @@
       "press": "The Manila Times",
       "pubDate": "2026-07-03T15:35:38+00:00",
       "date": "2026-07-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Best Platforms to Trade Tokenized Stocks",
+      "description": "Discover top platforms to trade tokenized stocks in 2026.The list inlcudes Kraken, Gemini, Robinhood and others.",
+      "link": "https://coingape.com/platforms-to-trade-tokenized-stocks/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-03T13:11:53+00:00",
+      "date": "2026-07-03",
       "category": "broker",
       "companies": [
         "Robinhood"
