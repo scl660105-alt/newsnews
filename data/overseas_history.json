@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-07-06T14:07:01Z",
+  "lastUpdated": "2026-07-06T22:44:36Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 80,
+  "count": 81,
   "news": [
+    {
+      "title": "Robinhood CEO says AI agents will soon rival human traders, manage portfolio",
+      "description": "The company had in May unveiled tools that allow AI agents to trade stocks and make purchases on behalf of users. The company said its users can create a dedicated trading account, separate from their primary one, and have AI ‌agents trade ⁠on ⁠their behalf.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/robinhood-ceo-says-ai-agents-will-soon-rival-human-traders-manage-portfolio/articleshow/132209127.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-07-06T15:15:06+09:00",
+      "date": "2026-07-06",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Trump amassed stock in crypto companies after SEC dropped cases",
       "description": "President Donald Trump bought up Robinhood and Coinbase stock after his administration’s Securities and Exchange Commission dropped cases against them.",
       "link": "https://www.washingtonexaminer.com/news/investigations/4635302/trump-stock-dividends-crypto-trades-sec/",
       "press": "Washington Examiner",
-      "pubDate": "2026-07-05T20:00:00+09:00",
+      "pubDate": "2026-07-05T11:00:00+00:00",
       "date": "2026-07-05",
       "category": "broker",
       "companies": [
@@ -21,7 +33,7 @@
       "description": "Robinhood chief Vlad Tenev believes AI agents will eventually handle many of the same investing tasks as humans, potentially giving retail investors access to tools once reserved for Wall Street.",
       "link": "https://www.moneycontrol.com/news/trends/could-ai-soon-manage-your-stock-portfolio-robinhood-ceo-says-it-s-only-a-matter-of-time-13966399.html",
       "press": "Moneycontrol",
-      "pubDate": "2026-07-05T19:44:45+09:00",
+      "pubDate": "2026-07-05T10:44:45+00:00",
       "date": "2026-07-05",
       "category": "broker",
       "companies": [
