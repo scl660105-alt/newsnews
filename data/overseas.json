@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-07-05T21:37:44Z",
+  "lastUpdated": "2026-07-06T14:07:01Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 29,
   "news": [
+    {
+      "title": "Trump amassed stock in crypto companies after SEC dropped cases",
+      "description": "President Donald Trump bought up Robinhood and Coinbase stock after his administration’s Securities and Exchange Commission dropped cases against them.",
+      "link": "https://www.washingtonexaminer.com/news/investigations/4635302/trump-stock-dividends-crypto-trades-sec/",
+      "press": "Washington Examiner",
+      "pubDate": "2026-07-05T20:00:00+09:00",
+      "date": "2026-07-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Could AI soon manage your stock portfolio? Robinhood CEO says it's only a matter of time",
+      "description": "Robinhood chief Vlad Tenev believes AI agents will eventually handle many of the same investing tasks as humans, potentially giving retail investors access to tools once reserved for Wall Street.",
+      "link": "https://www.moneycontrol.com/news/trends/could-ai-soon-manage-your-stock-portfolio-robinhood-ceo-says-it-s-only-a-matter-of-time-13966399.html",
+      "press": "Moneycontrol",
+      "pubDate": "2026-07-05T19:44:45+09:00",
+      "date": "2026-07-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Kraken Enables Tokenized Stock Collateral for Leveraged Trades",
       "description": "Kraken has started accepting select tokenized stocks and exchange-traded funds (ETFs) as collateral for futures and margin trading, enabling eligible",
@@ -153,30 +177,6 @@
       "link": "https://www.barchart.com/story/news/3106008/hood-stock-alert-what-to-know-as-robinhood-rolls-out-public-blockhain",
       "press": "Barchart",
       "pubDate": "2026-07-03T05:12:08+09:00",
-      "date": "2026-07-03",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "HOOD Jumps 3% as Robinhood Unveils AI Agents, Blockchain Expansion",
-      "description": "Robinhood launches AI trading agents, tokenized US stocks for 120 countries, and perpetual futures in Europe as HOOD breaks above all EMAs.",
-      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60258130/hood-jumps-3-as-robinhood-unveils-ai-agents-blockchain-expansion",
-      "press": "Benzinga",
-      "pubDate": "2026-07-03T04:35:06+09:00",
-      "date": "2026-07-03",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Mizuho Raises Robinhood Stock (HOOD) Price Target; Says It Could be the “First True Global Hyperscaler of Online Brokerages”",
-      "description": "Robinhood (HOOD) stock was up 4% at the time of writing, after the trading platform announced the launch of Robinhood Chain, a new Ethereum (ETH...",
-      "link": "https://markets.businessinsider.com/news/stocks/mizuho-raises-robinhood-stock-hood-price-target-says-it-could-be-the-first-true-global-hyperscaler-of-online-brokerages-1036295812",
-      "press": "Markets Insider",
-      "pubDate": "2026-07-03T03:54:11+09:00",
       "date": "2026-07-03",
       "category": "broker",
       "companies": [
