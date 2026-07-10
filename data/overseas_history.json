@@ -1,15 +1,41 @@
 {
-  "lastUpdated": "2026-07-10T11:23:04Z",
+  "lastUpdated": "2026-07-10T18:08:34Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 113,
+  "count": 115,
   "news": [
+    {
+      "title": "Waton Financial Launches MoTA Alpha, Marking Full Strategic Pivot to AI-Native Finance",
+      "description": "HONG KONG, July 10, 2026 /PRNewswire/ -- Waton Financial Limited (NASDAQ: WTF) on June 26 announced the release of MoTA Alpha, a major upgrade to its flagship AI-powered investment platform. First unveiled in closed beta in May 2026, MoTA (Manager of Trading Agents) now introduces the Agent Talents Market, a creator ecosystem for third-party AI trading agents, alongside a redesigned multi-agent collaboration workflow and a fully overhauled user experience. The Alpha release represents more than a product milestone - it signals Waton's decisive transition from a securities brokerage and SaaS provider into an AI-native financial technology company.",
+      "link": "https://www.manilatimes.net/2026/07/10/tmt-newswire/pr-newswire/waton-financial-launches-mota-alpha-marking-full-strategic-pivot-to-ai-native-finance/2382123",
+      "press": "The Manila Times",
+      "pubDate": "2026-07-10T12:03:31+09:00",
+      "date": "2026-07-10",
+      "category": "theme",
+      "companies": [
+        "업계테마",
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "How Charles Schwab turbocharged Trump’s stock-trading frenzy",
+      "description": "Boosted by a legal win for the Trumps, a Schwab account went on an automated trading spree.",
+      "link": "https://www.livemint.com/global/how-charles-schwab-turbocharged-trump-s-stock-trading-frenzy-11783647108510.html",
+      "press": "Livemint",
+      "pubDate": "2026-07-10T10:33:46+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum",
       "description": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.",
       "link": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
       "press": "CoinDesk",
-      "pubDate": "2026-07-10T05:28:51+09:00",
+      "pubDate": "2026-07-09T20:28:51+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -21,7 +47,7 @@
       "description": "Kalshi is seeking approval for gold, forex, and energy perpetual futures, setting up a direct challenge to Robinhood's derivatives expansion.",
       "link": "https://crypto.news/kalshi-targets-gold-perpetuals-amid-robinhood-rivalry/",
       "press": "Crypto News",
-      "pubDate": "2026-07-10T03:02:50+09:00",
+      "pubDate": "2026-07-09T18:02:50+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -33,7 +59,7 @@
       "description": "The minimum platform fee for U.S. options trades is US$1 per order.For more information on Webull's fees, please visit our official website at",
       "link": "https://techbullion.com/the-modern-investors-guide-to-hong-kong-global-markets-a-structural-analysis-of-webull/",
       "press": "TechBullion",
-      "pubDate": "2026-07-10T02:11:48+09:00",
+      "pubDate": "2026-07-09T17:11:48+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -45,7 +71,7 @@
       "description": "Cost efficiency is a primary driver for investors migrating to digital brokerage platforms. Every transaction incurs various charges,",
       "link": "https://techbullion.com/webull-comprehensive-investment-guide-an-in-depth-analysis-of-features-tools-and-the-zero-commission-trading-model/",
       "press": "TechBullion",
-      "pubDate": "2026-07-10T02:08:45+09:00",
+      "pubDate": "2026-07-09T17:08:45+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -58,7 +84,7 @@
       "description": "Robinhood’s new chain lets third-party markets form around its brand, adding a question about where the broker ends and permissionless infrastructure begins.",
       "link": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
       "press": "CryptoSlate",
-      "pubDate": "2026-07-10T01:25:31+09:00",
+      "pubDate": "2026-07-09T16:25:31+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -70,7 +96,7 @@
       "description": "Kalshi is reportedly seeking regulatory approval to expand perpetual futures beyond crypto, intensifying competition with Robinhood in regulated derivatives markets.",
       "link": "https://coingape.com/kalshi-eyes-derivatives-offering-beyond-crypto-rivaling-robinhood/",
       "press": "CoinGape",
-      "pubDate": "2026-07-10T00:45:42+09:00",
+      "pubDate": "2026-07-09T15:45:42+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -82,7 +108,7 @@
       "description": "Wells Fargo increased its Strategy stake by 125%, trimmed its BlackRock Bitcoin ETF holding, and boosted Ethereum, Solana, and Robinhood exposure.",
       "link": "https://crypto.news/wells-fargo-loads-up-strategy-while-trimming-btc-etf/",
       "press": "Crypto News",
-      "pubDate": "2026-07-10T00:19:20+09:00",
+      "pubDate": "2026-07-09T15:19:20+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -94,7 +120,7 @@
       "description": "Robinhood Chain hit $500M in Uniswap trading volume within eight days as TVL topped $106M, driven by Ethena deposits and tokenized assets.",
       "link": "https://crypto.news/robinhood-chain-uniswap-volume-hits-500m-dollars-in-8d/",
       "press": "Crypto News",
-      "pubDate": "2026-07-09T23:55:46+09:00",
+      "pubDate": "2026-07-09T14:55:46+00:00",
       "date": "2026-07-09",
       "category": "broker",
       "companies": [
@@ -106,7 +132,7 @@
       "description": "Robinhood Markets has launched the public mainnet of Robinhood Chain, with CEO Vlad Tenev saying the Layer 2 network is designed for real-world assets.",
       "link": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60359412/robinhood-launches-blockchain-ceo-vlad-tenev-says-its-great-for-memes-too",
       "press": "Benzinga",
-      "pubDate": "2026-07-09T23:07:35+09:00",
+      "pubDate": "2026-07-09T14:07:35+00:00",
       "date": "2026-07-09",
       "category": "broker",
       "companies": [
@@ -118,7 +144,7 @@
       "description": "CashCat drives $560 million in trading volume on Robinhood Chain, Hyperliquid joins the Bitwise 10 Crypto Index, and a dormant Bitcoin wallet moves 40 BTC after 16 years.",
       "link": "https://u.today/560-million-record-cashcat-coin-takes-over-robinhood-hyperliquid-joins-xrp-in-bitwise-10-crypto",
       "press": "U.Today",
-      "pubDate": "2026-07-09T21:56:00+09:00",
+      "pubDate": "2026-07-09T12:56:00+00:00",
       "date": "2026-07-09",
       "category": "broker",
       "companies": [
