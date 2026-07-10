@@ -1,50 +1,99 @@
 {
-  "lastUpdated": "2026-07-09T18:27:13Z",
+  "lastUpdated": "2026-07-10T11:23:04Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 29,
+  "count": 28,
   "news": [
     {
-      "title": "Arbitrum gets a Robinhood Chain revenue stream as L2 race heats up",
-      "description": "Robinhood Chain fees will send 10% of revenue to Arbitrum, with 8% for the DAO treasury and 2% for developer support as network usage grows.",
-      "link": "https://crypto.news/arbitrum-gets-a-robinhood-chain-revenue-stream-as-l2-race-heats-up/",
+      "title": "Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum",
+      "description": "The brokerage's new blockchain is off to a fast start, with memecoin trading boosting activity and revenue flowing back to the Arbitrum ecosystem.",
+      "link": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
+      "press": "CoinDesk",
+      "pubDate": "2026-07-10T05:28:51+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Kalshi targets gold perpetuals as Robinhood rivalry heats up",
+      "description": "Kalshi is seeking approval for gold, forex, and energy perpetual futures, setting up a direct challenge to Robinhood's derivatives expansion.",
+      "link": "https://crypto.news/kalshi-targets-gold-perpetuals-amid-robinhood-rivalry/",
       "press": "Crypto News",
-      "pubDate": "2026-07-09T14:15:48+09:00",
-      "date": "2026-07-09",
+      "pubDate": "2026-07-10T03:02:50+09:00",
+      "date": "2026-07-10",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Trump Accounts Customer Growth 'Faster' Than America's 'Most Successful and Dynamic' Tech Companies, Says",
-      "description": "Robinhood CEO Vlad Tenev said Trump Accounts is adding customers faster than many major U.S. tech companies.",
-      "link": "https://www.benzinga.com/markets/tech/26/07/60349096/robinhood-ceo-vlad-tenev-says-trump-accounts-customer-growth-is-faster-than-americas-most-successful-tech-companies",
-      "press": "Benzinga",
-      "pubDate": "2026-07-09T13:08:14+09:00",
-      "date": "2026-07-09",
+      "title": "The Modern Investor’s Guide to Hong Kong & Global Markets: A Structural Analysis of Webull",
+      "description": "The minimum platform fee for U.S. options trades is US$1 per order.For more information on Webull's fees, please visit our official website at",
+      "link": "https://techbullion.com/the-modern-investors-guide-to-hong-kong-global-markets-a-structural-analysis-of-webull/",
+      "press": "TechBullion",
+      "pubDate": "2026-07-10T02:11:48+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Webull Comprehensive Investment Guide: An In-Depth Analysis of Features, Tools, and the Zero-Commission Trading Model",
+      "description": "Cost efficiency is a primary driver for investors migrating to digital brokerage platforms. Every transaction incurs various charges,",
+      "link": "https://techbullion.com/webull-comprehensive-investment-guide-an-in-depth-analysis-of-features-tools-and-the-zero-commission-trading-model/",
+      "press": "TechBullion",
+      "pubDate": "2026-07-10T02:08:45+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Webull",
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Robinhood launched a Wall Street layer 2 chain and the market crowned a $150M cat coin first",
+      "description": "Robinhood’s new chain lets third-party markets form around its brand, adding a question about where the broker ends and permissionless infrastructure begins.",
+      "link": "https://cryptoslate.com/robinhood-launched-a-wall-street-layer-2-chain-and-the-market-crowned-a-150m-cat-coin-first/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-07-10T01:25:31+09:00",
+      "date": "2026-07-10",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Can Cashcat (CASHCAT) Become Next Shiba Inu (SHIB)? Ethereum's (ETH) Strongest Recovery Yet, Bitcoin (BTC) Reversal Is Close: Crypto Market Review",
-      "description": "Cashcat is drawing comparisons to Shiba Inu as traders race to identify the flagship memecoin of Robinhood Chain, amid a broader crypto market upswing that has renewed interest in speculative assets and meme-driven narratives.",
-      "link": "https://u.today/can-cashcat-cashcat-become-next-shiba-inu-shib-ethereums-eth-strongest-recovery-yet-bitcoin-btc",
-      "press": "U.Today",
-      "pubDate": "2026-07-09T09:01:00+09:00",
-      "date": "2026-07-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "CASHCAT Memecoin Pumps 1100% After Robinhood CEO’s X Tweet",
-      "description": "A new memecoin, CASHCAT, has pumped more than 1100% within 24 hours after Robinhood CEO’s endorsement for memecoins. It has tapped a market cap of over Robinhood Chain meme token CASHCAT surged 1000%+ to a $124M market cap. One trader turned $86 into $1.6M as Robinhood CEO endorses memes on its new chain.",
-      "link": "https://coingape.com/cashcat-memecoin-pumps-1100-after-robinhood-ceos-x-tweet/",
+      "title": "Kalshi Eyes Derivatives Offering Beyond Crypto, Rivaling Robinhood",
+      "description": "Kalshi is reportedly seeking regulatory approval to expand perpetual futures beyond crypto, intensifying competition with Robinhood in regulated derivatives markets.",
+      "link": "https://coingape.com/kalshi-eyes-derivatives-offering-beyond-crypto-rivaling-robinhood/",
       "press": "CoinGape",
-      "pubDate": "2026-07-09T06:28:19+09:00",
+      "pubDate": "2026-07-10T00:45:42+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Wells Fargo loads up on Strategy while trimming BlackRock Bitcoin ETF",
+      "description": "Wells Fargo increased its Strategy stake by 125%, trimmed its BlackRock Bitcoin ETF holding, and boosted Ethereum, Solana, and Robinhood exposure.",
+      "link": "https://crypto.news/wells-fargo-loads-up-strategy-while-trimming-btc-etf/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-10T00:19:20+09:00",
+      "date": "2026-07-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain shocks DeFi as Uniswap volume hits $500M in 8 days",
+      "description": "Robinhood Chain hit $500M in Uniswap trading volume within eight days as TVL topped $106M, driven by Ethena deposits and tokenized assets.",
+      "link": "https://crypto.news/robinhood-chain-uniswap-volume-hits-500m-dollars-in-8d/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-09T23:55:46+09:00",
       "date": "2026-07-09",
       "category": "broker",
       "companies": [
@@ -52,72 +101,24 @@
       ]
     },
     {
-      "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
-      "description": "The meme coin CashCat on Robinhood Chain is the latest flavor of the hour, and one trader has turned a mini-investment into a small fortune in less than three weeks.",
-      "link": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
-      "press": "Decrypt",
-      "pubDate": "2026-07-09T01:59:23+09:00",
-      "date": "2026-07-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation",
-      "description": "Crypto majors fall as the U.S. strikes Iran, ending the ceasefire. Vanguard opens its doors. And a meme coin frenzy erupts on Robinhood chain.",
-      "link": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-      "press": "Decrypt",
-      "pubDate": "2026-07-08T21:47:37+09:00",
-      "date": "2026-07-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Polymarket is in a high-stakes race to win back trust as it recommits to the US market",
-      "description": "After four years in exile, the prediction market platform Polymarket has begun a well-funded campaign to sell a new version of itself to the American public. The prediction market platform is trying to convince regulators and customers that its U.S. operation is more disciplined than its offshore counterpart. Polymarket has hired compliance and regulatory specialists from firms like Robinhood and Coinbase to support this effort. The company left the U.S. when it settled allegations of operating an unregistered derivatives market with federal regulators in 2022. Despite challenges, including deceptive marketing claims, Polymarket aims to establish trust and legitimacy in the U.S. market. The stakes are high as the prediction market industry grows.",
-      "link": "https://www.ajc.com/news/2026/07/polymarket-is-in-a-high-stakes-race-to-win-back-trust-as-it-recommits-to-the-us-market/",
-      "press": "The Atlanta Journal-Constitution",
-      "pubDate": "2026-07-08T19:22:27+09:00",
-      "date": "2026-07-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Cofounder Says He'll Buy a 'Baby-Mobile' Ferrari Luce",
-      "description": "During a stop on the TBPN podcast, Baiju Bhatt, a noted gearhead, said he's going to buy the Ferrari Luce. He's planning on giving it to his wife.",
-      "link": "https://www.businessinsider.com/robinhood-cofounder-ferrari-luce-ev-baby-mobile-2026-7",
-      "press": "Business Insider",
-      "pubDate": "2026-07-08T17:59:01+09:00",
-      "date": "2026-07-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood CEO Vlad Tenev Says 'Only 62% of Americans' Exposed to Stocks: 'I'd Like to Get That to 100'",
-      "description": "Robinhood CEO Vlad Tenev said Tuesday he wants 100% of Americans to have exposure to U.S. stocks as the company expands investing access.",
-      "link": "https://www.benzinga.com/markets/tech/26/07/60324066/robinhood-ceo-vlad-tenev-wants-every-american-investing-in-stocks",
+      "title": "Robinhood Launches Blockchain, CEO Vlad Tenev Says It's 'Great For Memes Too'",
+      "description": "Robinhood Markets has launched the public mainnet of Robinhood Chain, with CEO Vlad Tenev saying the Layer 2 network is designed for real-world assets.",
+      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60359412/robinhood-launches-blockchain-ceo-vlad-tenev-says-its-great-for-memes-too",
       "press": "Benzinga",
-      "pubDate": "2026-07-08T12:18:00+09:00",
-      "date": "2026-07-08",
+      "pubDate": "2026-07-09T23:07:35+09:00",
+      "date": "2026-07-09",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Ether Approaches $2K on Bitmine ETH Purchase and Robinhood L2 News",
-      "description": "Ether has bounced back sharply, rising roughly 15% over the past five days and pulling away from the $1,500 area that marked a June 26 low. The recovery",
-      "link": "https://www.cryptobreaking.com/ether-approaches-2k-on-bitmine/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-08T08:13:54+09:00",
-      "date": "2026-07-08",
+      "title": "$560 Million Record: CashCat Coin Takes Over Robinhood; Hyperliquid Joins XRP in Bitwise 10 Crypto Index; 105,742,020% in Bitcoin: Satoshi",
+      "description": "CashCat drives $560 million in trading volume on Robinhood Chain, Hyperliquid joins the Bitwise 10 Crypto Index, and a dormant Bitcoin wallet moves 40 BTC after 16 years.",
+      "link": "https://u.today/560-million-record-cashcat-coin-takes-over-robinhood-hyperliquid-joins-xrp-in-bitwise-10-crypto",
+      "press": "U.Today",
+      "pubDate": "2026-07-09T21:56:00+09:00",
+      "date": "2026-07-09",
       "category": "broker",
       "companies": [
         "Robinhood"
@@ -225,18 +226,6 @@
       "link": "https://cryptoslate.com/how-tokenized-stocks-fail-as-collateral-even-when-the-stock-price-does-not-move/",
       "press": "CryptoSlate",
       "pubDate": "2026-07-03T03:30:19+09:00",
-      "date": "2026-07-03",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Bitget CEO Outlines Vision for Unified Financial Ecosystem Driven by AI and Tokenization",
-      "description": "Bitget CEO Gracy Chen has shared the exchange's mid-year vision, outlining how tokenization, artificial intelligence and multi-asset access are reshaping the future of investing beyond crypto.",
-      "link": "https://u.today/bitget-ceo-outlines-vision-for-unified-financial-ecosystem-driven-by-ai-and-tokenization",
-      "press": "U.Today",
-      "pubDate": "2026-07-03T01:12:53+09:00",
       "date": "2026-07-03",
       "category": "theme",
       "companies": [
