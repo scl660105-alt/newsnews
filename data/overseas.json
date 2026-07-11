@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-07-11T07:22:12Z",
+  "lastUpdated": "2026-07-11T15:33:17Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Analysts Offer Insights on Financial Companies: Robinhood (HOOD) and Capital One Financial (COF)",
+      "description": "Companies in the Financial sector have received a lot of coverage today as analysts weigh in on Robinhood (HOOD) and Capital One Financial (CO...",
+      "link": "https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-financial-companies-robinhood-hood-and-capital-one-financial-cof-1036316241",
+      "press": "Markets Insider",
+      "pubDate": "2026-07-11T10:50:09+09:00",
+      "date": "2026-07-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Ethereum News as Pepeto Nears Listing",
       "description": "This week in Ethereum news: Robinhood launches Chain, giving users access to on-chain finance through a single wallet.",
@@ -130,18 +142,6 @@
       "link": "https://www.cryptobreaking.com/robinhood-chain-bridges-70m-eth/",
       "press": "Crypto Breaking News",
       "pubDate": "2026-07-10T16:15:01+09:00",
-      "date": "2026-07-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Flips Hyperliquid in DEX Volume amid RWA, DeFi, CASHCAT Buzz",
-      "description": "Robinhood chain surpassed Hyperliquid in 24-hour DEX volume amid RWA, DeFi, and CASHCAT buzz sparked by CEO Vlad Tenev.",
-      "link": "https://coingape.com/robinhood-chain-flips-hyperliquid-dex-volume-rwa-defi-cashcat-buzz/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-10T16:02:23+09:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [

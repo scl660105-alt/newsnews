@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-07-11T07:22:12Z",
+  "lastUpdated": "2026-07-11T15:33:17Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 127,
+  "count": 128,
   "news": [
+    {
+      "title": "Analysts Offer Insights on Financial Companies: Robinhood (HOOD) and Capital One Financial (COF)",
+      "description": "Companies in the Financial sector have received a lot of coverage today as analysts weigh in on Robinhood (HOOD) and Capital One Financial (CO...",
+      "link": "https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-financial-companies-robinhood-hood-and-capital-one-financial-cof-1036316241",
+      "press": "Markets Insider",
+      "pubDate": "2026-07-11T10:50:09+09:00",
+      "date": "2026-07-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Ethereum News as Pepeto Nears Listing",
       "description": "This week in Ethereum news: Robinhood launches Chain, giving users access to on-chain finance through a single wallet.",
       "link": "https://techbullion.com/ethereum-news-as-pepeto-nears-listing/",
       "press": "TechBullion",
-      "pubDate": "2026-07-11T03:00:23+09:00",
+      "pubDate": "2026-07-10T18:00:23+00:00",
       "date": "2026-07-11",
       "category": "broker",
       "companies": [
@@ -21,7 +33,7 @@
       "description": "Complaints are pouring into social media as traders lose assets to a variety of rudimentary scams on Robinhood Chain.",
       "link": "https://protos.com/robinhood-chain-scams-are-already-costing-users-dearly/",
       "press": "Protos",
-      "pubDate": "2026-07-11T02:33:45+09:00",
+      "pubDate": "2026-07-10T17:33:45+00:00",
       "date": "2026-07-11",
       "category": "broker",
       "companies": [
@@ -33,7 +45,7 @@
       "description": "Explore Vlad Tenev on Robinhood Chain's success: over 17 million transactions and a thriving community of users.",
       "link": "https://techbullion.com/interview-vlad-tenev-on-robinhood-chains-explosive-launch-retail-adoption-and-the-cash-cow-effect/",
       "press": "TechBullion",
-      "pubDate": "2026-07-11T02:00:19+09:00",
+      "pubDate": "2026-07-10T17:00:19+00:00",
       "date": "2026-07-11",
       "category": "broker",
       "companies": [
@@ -45,7 +57,7 @@
       "description": "Robinhood Chain is an Arbitrum-based Ethereum L2 with 24/7 tokenized stocks that plug into DeFi. How it works, Stock Tokens, access rules, and the risks.",
       "link": "https://crypto.news/what-is-robinhood-chain-brokers-blockchain-explained/",
       "press": "Crypto News",
-      "pubDate": "2026-07-11T00:16:52+09:00",
+      "pubDate": "2026-07-10T15:16:52+00:00",
       "date": "2026-07-11",
       "category": "broker",
       "companies": [
@@ -58,7 +70,7 @@
       "description": "Morgan Stanley raised Robinhood’s target to $124 as HOOD slid toward $109, testing key support after failing to hold its recent move near $120.",
       "link": "https://crypto.news/robinhood-stock-slides-morgan-stanley-lifts-target/",
       "press": "Crypto News",
-      "pubDate": "2026-07-10T23:57:43+09:00",
+      "pubDate": "2026-07-10T14:57:43+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -70,7 +82,7 @@
       "description": "SK hynix commences ADR trading with an 'Opening Bell' ceremony attended by SK Group Chairman Chey Tae-won and key executive leadershipCompany aims to expand investor base and solidify leadership as a 'Core AI Partner' in the memory marketCEO Kwak Noh-Jung 'I'd like to thank investors and customers and pledge to unlock memory's potential and empower employees to achieve more'SEOUL, South Korea, July 10, 2026 /PRNewswire/ -- SK hynix Inc. (or 'the company', www.skhynix.com) announced today that it has listed its American Depositary Receipts[1] (ADRs) on the NASDAQ stock market, entering the heart of the global AI industry and capital markets, and opening a new chapter to elevate its status as a leading global company.[1] ADRs (American Depositary Receipts): Certificates issued by a depositary bank that represent shares of a non-U.S. company and are traded on U.S. stock exchanges. ADRs enable foreign companies to access the U.S. capital markets while maintaining their primary listing in their home market. They also allow U.S. investors to invest in foreign companies through the U.S. market without opening overseas brokerage accounts or dealing with foreign currency transactions. To commemorate the listing, SK hynix held an 'Opening Bell' ceremony on the morning of July 10 (U.S. Eastern Time) at the Nasdaq MarketSite in Times Square, New York, officially marking the commencement of trading.",
       "link": "https://www.manilatimes.net/2026/07/10/tmt-newswire/pr-newswire/sk-hynix-lists-adrs-on-nasdaq-elevating-global-status-at-the-heart-of-capital-markets/2382470",
       "press": "The Manila Times",
-      "pubDate": "2026-07-10T23:46:02+09:00",
+      "pubDate": "2026-07-10T14:46:02+00:00",
       "date": "2026-07-10",
       "category": "market",
       "companies": [
@@ -82,7 +94,7 @@
       "description": "HOOD stock soars by 3% on Friday as Wall Street giants Morgan Stanley and Barclays raises price targets for Robinhood Markets.",
       "link": "https://coingape.com/news/stocks/robinhood-hood-stock-surges-morgan-stanley-barclays-raise-price-targets/",
       "press": "CoinGape",
-      "pubDate": "2026-07-10T21:36:09+09:00",
+      "pubDate": "2026-07-10T12:36:09+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -94,7 +106,7 @@
       "description": "Plus, Circle wins a national bank charter and pops 10%. And the Clarity Act gets a new draft while the clock is ticking…",
       "link": "https://decrypt.co/373215/morning-minute-robinhood-chain-explodes-onto-the-crypto-scene",
       "press": "Decrypt",
-      "pubDate": "2026-07-10T21:12:55+09:00",
+      "pubDate": "2026-07-10T12:12:55+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -106,7 +118,7 @@
       "description": "Prediction market ETFs would turn elections, recessions and layoffs into brokerage account trades, pushing event contracts closer to mainstream retail portfolios.",
       "link": "https://cryptoslate.com/sec-weighs-more-than-24-etfs-that-would-put-election-bets-in-brokerage-accounts/",
       "press": "CryptoSlate",
-      "pubDate": "2026-07-10T21:10:36+09:00",
+      "pubDate": "2026-07-10T12:10:36+00:00",
       "date": "2026-07-10",
       "category": "market",
       "companies": [
@@ -118,7 +130,7 @@
       "description": "Robinhood Chain launched with a 26:1 volume-to-TVL ratio driven by memecoins, not stock tokens. The launch-week data, the strategy, and what to watch.",
       "link": "https://crypto.news/robinhood-chain-did-570m-volume-on-21m-of-liquidity-the-launch-week-autopsy/",
       "press": "Crypto News",
-      "pubDate": "2026-07-10T18:38:58+09:00",
+      "pubDate": "2026-07-10T09:38:58+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -130,7 +142,7 @@
       "description": "Ether is already seeing tangible activity from Robinhood’s newly launched layer-2 network. According to Token Terminal, more than $70 million worth of ETH",
       "link": "https://www.cryptobreaking.com/robinhood-chain-bridges-70m-eth/",
       "press": "Crypto Breaking News",
-      "pubDate": "2026-07-10T16:15:01+09:00",
+      "pubDate": "2026-07-10T07:15:01+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
@@ -142,7 +154,7 @@
       "description": "Robinhood chain surpassed Hyperliquid in 24-hour DEX volume amid RWA, DeFi, and CASHCAT buzz sparked by CEO Vlad Tenev.",
       "link": "https://coingape.com/robinhood-chain-flips-hyperliquid-dex-volume-rwa-defi-cashcat-buzz/",
       "press": "CoinGape",
-      "pubDate": "2026-07-10T16:02:23+09:00",
+      "pubDate": "2026-07-10T07:02:23+00:00",
       "date": "2026-07-10",
       "category": "broker",
       "companies": [
