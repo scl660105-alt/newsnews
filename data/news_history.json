@@ -1,16 +1,53 @@
 {
-  "lastUpdated": "2026-07-15T16:21:10Z",
+  "lastUpdated": "2026-07-15T18:06:54Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 22995,
+  "count": 22998,
   "news": [
+    {
+      "title": "LS증권-현대차증권, 8년 법적 분쟁 종결…화해로 마무리",
+      "description": "서울고등법원은 LS증권과 한화투자증권이 공동으로 245억6천410만9천590원과 지연이자를 지급하도록 결정했다. 이자는 2018년 11월 9일부터 2023년 1월 13일까지는 연 5%, 그 이후부터 지급 완료일까지는 연 12%의 비율로...",
+      "link": "https://www.tokenpost.kr/news/economy/378206",
+      "originallink": "https://www.tokenpost.kr/news/economy/378206",
+      "press": "",
+      "pubDate": "2026-07-16T02:14:00+09:00",
+      "date": "2026-07-16",
+      "companies": [
+        "한화투자증권",
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "은행이 왜 손해보험까지 다 할까 [MT시평/이병건]",
+      "description": "삼성화재해상보험과 삼성생명보험, DB손보와 DB생명, 그리고 KB손보와 KB라이프생명. 생명보험이나... 보험사에 투자하는 것은 정당화되기 어렵다. 특히 속성상 금융 외적인 보험위험에 대한 노출이 대부분을 차지하는...",
+      "link": "https://n.news.naver.com/mnews/article/008/0005386710?sid=110",
+      "originallink": "https://www.mt.co.kr/opinion/2026/07/16/2026071309280823551",
+      "press": "머니투데이",
+      "pubDate": "2026-07-16T02:00:00+09:00",
+      "date": "2026-07-16",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "토스그룹, 금융복합기업집단 지정…빅테크 금융 시대 개막",
+      "description": "금융위원회는 15일 제13차 정례회의를 열고 삼성, 한화, 미래에셋, 교보, 현대차, DB, 다우키움, 토스 등 8개... 은행의 예금·대출, 보험, 금융투자처럼 성격이 다른 금융업을 함께 영위하는 그룹은 계열사 사이에 위험이...",
+      "link": "https://www.tokenpost.kr/news/economy/378193",
+      "originallink": "https://www.tokenpost.kr/news/economy/378193",
+      "press": "",
+      "pubDate": "2026-07-16T01:34:00+09:00",
+      "date": "2026-07-16",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
     {
       "title": "\"때가 왔다\"…카카오, 하반기 AI 사업 성과 증명에 집중",
       "description": "김동우 교보증권 연구원은 \"카나나 인 카카오톡은 외부 대형 커머스 파트너와 연동을 통한 AI 에이전트 서비스로서의 가능성 검증이 필요하다\"며 \"카나나 서치는 런칭 이후 유이미한 이용률 확보로 비즈니스 모델 연결...",
       "link": "https://www.goodkyung.com/news/articleView.html?idxno=289266",
       "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=289266",
       "press": "",
-      "pubDate": "2026-07-16T00:36:00+09:00",
+      "pubDate": "2026-07-15T15:36:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "교보증권"
@@ -22,7 +59,7 @@
       "link": "https://n.news.naver.com/mnews/article/020/0003734258?sid=101",
       "originallink": "https://www.donga.com/news/Economy/article/all/20260715/134307052/2",
       "press": "동아일보",
-      "pubDate": "2026-07-16T00:32:00+09:00",
+      "pubDate": "2026-07-15T15:32:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "KB증권",
@@ -37,7 +74,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0003987846?sid=101",
       "originallink": "https://www.chosun.com/economy/market_trend/2026/07/16/RQDMMXRMG5BQBDYIBFFM2KBP6M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-07-16T00:32:00+09:00",
+      "pubDate": "2026-07-15T15:32:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "메리츠증권"
@@ -49,7 +86,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014069685?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20260715_0003710174",
       "press": "뉴시스",
-      "pubDate": "2026-07-16T00:32:00+09:00",
+      "pubDate": "2026-07-15T15:32:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "신영증권"
@@ -61,7 +98,7 @@
       "link": "https://n.news.naver.com/mnews/article/020/0003734237?sid=101",
       "originallink": "https://www.donga.com/news/Economy/article/all/20260715/134307354/2",
       "press": "동아일보",
-      "pubDate": "2026-07-16T00:31:00+09:00",
+      "pubDate": "2026-07-15T15:31:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "NH투자증권"
@@ -73,7 +110,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0003987835?sid=101",
       "originallink": "https://www.chosun.com/economy/stock-finance/2026/07/16/HQP435Q7PZAHZF2BRRL6VQAOAM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-07-16T00:31:00+09:00",
+      "pubDate": "2026-07-15T15:31:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "KB증권"
@@ -85,7 +122,7 @@
       "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234843",
       "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2234843",
       "press": "",
-      "pubDate": "2026-07-16T00:26:00+09:00",
+      "pubDate": "2026-07-15T15:26:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "NH투자증권"
@@ -97,7 +134,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003537921?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25445467",
       "press": "중앙일보",
-      "pubDate": "2026-07-16T00:25:00+09:00",
+      "pubDate": "2026-07-15T15:25:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "하나증권"
@@ -109,7 +146,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001861251?sid=101",
       "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1784105956&code=11151300&cp=nv",
       "press": "국민일보",
-      "pubDate": "2026-07-16T00:23:00+09:00",
+      "pubDate": "2026-07-15T15:23:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "토스증권"
@@ -121,7 +158,7 @@
       "link": "https://www.tokenpost.kr/news/cryptocurrency/378187",
       "originallink": "https://www.tokenpost.kr/news/cryptocurrency/378187",
       "press": "",
-      "pubDate": "2026-07-16T00:20:00+09:00",
+      "pubDate": "2026-07-15T15:20:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "하나증권"
@@ -133,7 +170,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005310543?sid=110",
       "originallink": "https://www.hankyung.com/article/2026071575901",
       "press": "한국경제",
-      "pubDate": "2026-07-16T00:10:00+09:00",
+      "pubDate": "2026-07-15T15:10:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "한국투자증권",
@@ -147,7 +184,7 @@
       "link": "https://www.tokenpost.kr/news/policy/378184",
       "originallink": "https://www.tokenpost.kr/news/policy/378184",
       "press": "",
-      "pubDate": "2026-07-16T00:10:00+09:00",
+      "pubDate": "2026-07-15T15:10:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "하나증권"
@@ -159,7 +196,7 @@
       "link": "https://n.news.naver.com/mnews/article/214/0001511939?sid=101",
       "originallink": "https://imnews.imbc.com/replay/2026/nw2500/article/6837756_36989.html",
       "press": "",
-      "pubDate": "2026-07-16T00:09:00+09:00",
+      "pubDate": "2026-07-15T15:09:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "메리츠증권"
@@ -171,7 +208,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001861246?sid=101",
       "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1784101307&code=11151400&cp=nv",
       "press": "국민일보",
-      "pubDate": "2026-07-16T00:08:00+09:00",
+      "pubDate": "2026-07-15T15:08:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "메리츠증권"
@@ -183,7 +220,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001861242?sid=101",
       "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1784107845&code=11151500&cp=nv",
       "press": "국민일보",
-      "pubDate": "2026-07-16T00:04:00+09:00",
+      "pubDate": "2026-07-15T15:04:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "SK증권"
@@ -195,7 +232,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003537888?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25445433",
       "press": "중앙일보",
-      "pubDate": "2026-07-16T00:02:00+09:00",
+      "pubDate": "2026-07-15T15:02:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "KB증권",
@@ -208,7 +245,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003537887?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25445431",
       "press": "중앙일보",
-      "pubDate": "2026-07-16T00:02:00+09:00",
+      "pubDate": "2026-07-15T15:02:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "하나증권"
@@ -220,7 +257,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003537871?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25445415",
       "press": "중앙일보",
-      "pubDate": "2026-07-16T00:01:00+09:00",
+      "pubDate": "2026-07-15T15:01:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "미래에셋증권",
@@ -233,7 +270,7 @@
       "link": "https://www.ziksir.com/news/articleView.html?idxno=140173",
       "originallink": "https://www.ziksir.com/news/articleView.html?idxno=140173",
       "press": "",
-      "pubDate": "2026-07-16T00:00:00+09:00",
+      "pubDate": "2026-07-15T15:00:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "키움증권"
@@ -245,7 +282,7 @@
       "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315114",
       "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=315114",
       "press": "",
-      "pubDate": "2026-07-16T00:00:00+09:00",
+      "pubDate": "2026-07-15T15:00:00+00:00",
       "date": "2026-07-16",
       "companies": [
         "하나증권"
