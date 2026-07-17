@@ -1,16 +1,123 @@
 {
-  "lastUpdated": "2026-07-17T13:24:58Z",
+  "lastUpdated": "2026-07-17T15:12:36Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 25092,
+  "count": 25100,
   "news": [
+    {
+      "title": "한국 증시, 미국에 멱살 잡혔나… ADR, 단종L・ETF & 피드백 루프 [홍길...",
+      "description": "운용사가 ADR을 직접 사지 않더라도 TRS 제공 증권사와 옵션 시장조성자는 위험을 줄이기 위해 ADR이나... “성인도 천 번을 생각하면 하나는 실수하기 마련이며, 어리석은 사람도 천 번을 생각하면 한 번은 올바른...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002671637?sid=110",
+      "originallink": "https://biz.heraldcorp.com/article/10812202?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-07-18T00:04:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "증시 호황에 '빅5' 증권사 2분기 영업익 5조 육박",
+      "description": "증시 활황에 거래 대금 증가 영향 국내 빅5 증권사(미래에셋증권·한국금융지주·삼성증권·NH투자증권·키움증권)의 2분기 실적이 5조원에 육박할 전망이다. 증시 활황으로 주식 거래 대금이 늘어난 영향이다. 18일...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=104490",
+      "originallink": "https://www.theguru.co.kr/news/article.html?no=104490",
+      "press": "",
+      "pubDate": "2026-07-18T00:02:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "키움증권",
+        "메리츠증권"
+      ]
+    },
+    {
+      "title": "삼성증권, 퇴직연금 30조 돌파 눈앞…미래 독주 체제 흔드나",
+      "description": "오랜 기간 시장을 선도한 미래에셋증권과 격차를 소폭 줄이면서 독주 체제에 균열을 내는 모양새다. 18일 금융감독원 통합연금포털에 따르면 삼성증권은 올해 2분기 기준 퇴직연금 적립금이 전년 동기 대비 62.6% 급증한...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000516959?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2344131.htm",
+      "press": "",
+      "pubDate": "2026-07-18T00:01:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "키움증권",
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "[미스터리경제] '세계 3위' 국중박, 왜 '무료 입장' 폐지하려 할까? (영...",
+      "description": "19 - '현미경' 특집 ◆ 출연 : 금융증권부 이한림, 이선영 기자 ◆ 편집 : 디지털미디어본부 이상빈 기자 선영... 한림>그리고 또 하나는 박물관을 왔는데 입장권을 사지 않고 들어간 건 처음인 것 같아요. 선영>그렇네요. 상빈...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000516956?sid=101",
+      "originallink": "https://news.tf.co.kr/read/video/2344212.htm",
+      "press": "",
+      "pubDate": "2026-07-18T00:01:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[주간사모펀드] MBK·김병주, 홈플러스 DIP 보증 결단…메리츠 의결에 회...",
+      "description": "박강호 대신증권 연구원은 \"TPG의 인수 추진 이후 시장의 관심이 증대되고 있다\"며 \"최근 기업설명회에서 투자자들은 TPG의 인수 추진과 차별화된 미래 모빌리티 사업 확대 가능성, 안정적인 수익 창출 능력, 저평가 매력...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000516957?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2344300.htm",
+      "press": "",
+      "pubDate": "2026-07-18T00:01:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "한미약품, 키움증권과 바이오벤처 투자 행사 개최",
+      "description": "바이오벤처 IR Pitch·1대1 미팅⋯투자·협력 기회 확대 보유 기술 역량 발표⋯오픈이노베이션 활성화 기대 제약바이오 지속적인 혁신·산업 상생 생태계 조성 기여 [아시아타임즈=김지수 기자] 한미약품이 키움증권...",
+      "link": "https://www.asiatime.co.kr/article/20260716500284",
+      "originallink": "https://www.asiatime.co.kr/article/20260716500284",
+      "press": "",
+      "pubDate": "2026-07-18T00:00:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "비트코인, 중동 긴장·물가 둔화에 출렁…6만3000달러선 방향성 탐색",
+      "description": "크립토닷컴이 시타델 증권 주도의 4억 달러(약 5946억 원) 투자를 유치하자 크로노스(CRO)가 단기 급등했지만... 자주 묻는 질문 (FAQ) 왜 CPI 발표만으로 비트코인이 크게 반응하나요? CPI는 인플레이션 수준을 보여주는...",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/378865",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/378865",
+      "press": "",
+      "pubDate": "2026-07-17T23:52:00+09:00",
+      "date": "2026-07-17",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[메세나브리핑-7월3주] HD아트센터, 2026 하반기 라인업 공개 외",
+      "description": "◆KB국민은행·아이들과미래재단, 2026 KB창작동화제 작품공모전 개최 KB국민은행과 아이들과미래재단이 아동... ◆한국메세나협회·한국증권금융꿈나눔재단, '희망 Dream NEXT : STAGE' 첫 공연 개최 한국메세나협회와...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362232",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362232",
+      "press": "",
+      "pubDate": "2026-07-17T22:30:00+09:00",
+      "date": "2026-07-17",
+      "companies": [
+        "KB증권",
+        "하나증권"
+      ]
+    },
     {
       "title": "골프IT전문기업 스폰픽, 신개념 '프로+광고주' 플랫폼 출시...염돈웅-김...",
       "description": "팀스폰픽 '기대주' 염돈웅은 예선 1위로 통과해 18일 열리는 2026 신한투자증권 GTOUR 5차 대회 우승을 기대하고 있다. 팀스폰픽 김수아2도 예선 2위로 통과해 18일 열리는 롯대렌터카 WGTOUR 우승을 노리고 있다. 김규완...",
       "link": "https://www.g-enews.com/view.php?ud=202607172117445831daecd3dad5_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202607172117445831daecd3dad5_1",
       "press": "",
-      "pubDate": "2026-07-17T21:26:00+09:00",
+      "pubDate": "2026-07-17T12:26:00+00:00",
       "date": "2026-07-17",
       "companies": [
         "신한투자증권"
@@ -22,7 +129,7 @@
       "link": "https://n.news.naver.com/mnews/article/024/0000106940?sid=110",
       "originallink": "https://www.mk.co.kr/article/12095494",
       "press": "매일경제",
-      "pubDate": "2026-07-17T21:01:00+09:00",
+      "pubDate": "2026-07-17T12:01:00+00:00",
       "date": "2026-07-17",
       "companies": [
         "KB증권"
@@ -34,7 +141,7 @@
       "link": "https://n.news.naver.com/mnews/article/214/0001512332?sid=101",
       "originallink": "https://imnews.imbc.com/replay/2026/nwdesk/article/6838229_37004.html",
       "press": "",
-      "pubDate": "2026-07-17T20:24:00+09:00",
+      "pubDate": "2026-07-17T11:24:00+00:00",
       "date": "2026-07-17",
       "companies": [
         "미래에셋증권"
