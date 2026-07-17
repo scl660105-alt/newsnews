@@ -1,15 +1,52 @@
 {
-  "lastUpdated": "2026-07-17T08:00:26Z",
+  "lastUpdated": "2026-07-17T13:16:19Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 188,
+  "count": 191,
   "news": [
+    {
+      "title": "Is Thinkorswim down? Traders report issues with Charles Schwab's app during market closing hours",
+      "description": "Charles Schwab's Thinkorswim app suffered an outage Thursday, affecting hundreds of users as U.S. markets closed and disrupting late-day trading.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/is-thinkorswim-down-traders-report-issues-with-charles-schwabs-app-during-market-closing-hours-101784233513261.html",
+      "press": "Hindustan Times",
+      "pubDate": "2026-07-17T05:30:49+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Morgan Stanley's E*TRADE Completes Rollout of Spot Bitcoin, Ethereum, Solana Trading",
+      "description": "Morgan Stanley's retail brokerage firm E*TRADE has completed the rollout of spot Bitcoin, Ethereum, and Solana trading.",
+      "link": "https://coingape.com/morgan-stanleys-etrade-completes-rollout-of-spot-bitcoin-ethereum-solana-trading/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-17T05:26:00+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "E*Trade"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "description": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+      "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "press": "Decrypt",
+      "pubDate": "2026-07-17T05:01:03+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "E*Trade"
+      ]
+    },
     {
       "title": "Morgan Stanley’s E*TRADE Adds Spot Crypto Trading via Zero Hash",
       "description": "Morgan Stanley’s E*TRADE has begun offering spot cryptocurrency trading to eligible self-directed clients, adding Bitcoin, Ether, and Solana to a platform",
       "link": "https://www.cryptobreaking.com/morgan-stanleys-etrade-adds-spot/",
       "press": "Crypto Breaking News",
-      "pubDate": "2026-07-17T03:57:33+09:00",
+      "pubDate": "2026-07-16T18:57:33+00:00",
       "date": "2026-07-17",
       "category": "broker",
       "companies": [
@@ -21,7 +58,7 @@
       "description": "Two weeks after Robinhood Chain pitched its layer 2 as RWA infrastructure, it's overrun with dying memecoins.",
       "link": "https://protos.com/robinhood-chains-memecoin-boom-is-already-imploding/",
       "press": "Protos",
-      "pubDate": "2026-07-17T03:22:15+09:00",
+      "pubDate": "2026-07-16T18:22:15+00:00",
       "date": "2026-07-17",
       "category": "broker",
       "companies": [
@@ -33,7 +70,7 @@
       "description": "BofA lifts BlackRock (BLK) target to $1,320, pointing to massive gains in tokenization, private markets, and Aperio's record inflows.",
       "link": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/07/60508157/blackrocks-multiple-growth-engines-keep-wall-street-firmly-bullish",
       "press": "Benzinga",
-      "pubDate": "2026-07-17T03:03:23+09:00",
+      "pubDate": "2026-07-16T18:03:23+00:00",
       "date": "2026-07-17",
       "category": "theme",
       "companies": [
@@ -45,7 +82,7 @@
       "description": "Base must recover from a failed social push, while Robinhood must convert memecoin-driven traffic into lasting demand for tokenized assets.",
       "link": "https://cryptoslate.com/robinhood-took-on-coinbase-and-immediately-inherited-bases-biggest-problem/",
       "press": "CryptoSlate",
-      "pubDate": "2026-07-17T00:05:54+09:00",
+      "pubDate": "2026-07-16T15:05:54+00:00",
       "date": "2026-07-17",
       "category": "broker",
       "companies": [
@@ -57,7 +94,7 @@
       "description": "Robinhood stock has been in the spotlight with a potential bond sale backed by credit card receivables, recent bullish analyst activity and a notable technical setup all drawing attention Thursday.",
       "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60498479/robinhood-stock-in-focus-as-potential-bond-sale-meets-bullish-analyst-activity-mixed-technicals",
       "press": "Benzinga",
-      "pubDate": "2026-07-16T23:13:25+09:00",
+      "pubDate": "2026-07-16T14:13:25+00:00",
       "date": "2026-07-16",
       "category": "broker",
       "companies": [

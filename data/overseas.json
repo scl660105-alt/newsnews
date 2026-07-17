@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-07-17T08:00:26Z",
+  "lastUpdated": "2026-07-17T13:16:19Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Is Thinkorswim down? Traders report issues with Charles Schwab's app during market closing hours",
+      "description": "Charles Schwab's Thinkorswim app suffered an outage Thursday, affecting hundreds of users as U.S. markets closed and disrupting late-day trading.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/is-thinkorswim-down-traders-report-issues-with-charles-schwabs-app-during-market-closing-hours-101784233513261.html",
+      "press": "Hindustan Times",
+      "pubDate": "2026-07-17T05:30:49+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Morgan Stanley's E*TRADE Completes Rollout of Spot Bitcoin, Ethereum, Solana Trading",
+      "description": "Morgan Stanley's retail brokerage firm E*TRADE has completed the rollout of spot Bitcoin, Ethereum, and Solana trading.",
+      "link": "https://coingape.com/morgan-stanleys-etrade-completes-rollout-of-spot-bitcoin-ethereum-solana-trading/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-17T05:26:00+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "E*Trade"
+      ]
+    },
+    {
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "description": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+      "link": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "press": "Decrypt",
+      "pubDate": "2026-07-17T05:01:03+09:00",
+      "date": "2026-07-17",
+      "category": "broker",
+      "companies": [
+        "E*Trade"
+      ]
+    },
     {
       "title": "Morgan Stanley’s E*TRADE Adds Spot Crypto Trading via Zero Hash",
       "description": "Morgan Stanley’s E*TRADE has begun offering spot cryptocurrency trading to eligible self-directed clients, adding Bitcoin, Ether, and Solana to a platform",
@@ -93,42 +130,6 @@
       "link": "https://u.today/robinhood-chains-new-ath-does-it-reflect-new-memecoin-season",
       "press": "U.Today",
       "pubDate": "2026-07-16T19:25:00+09:00",
-      "date": "2026-07-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain launchpad Vlad.fun shuts down over internal issue",
-      "description": "Vlad.fun halts its Robinhood Chain launchpad over an internal integrity issue as the team investigates alleged misconduct and legal action.",
-      "link": "https://crypto.news/robinhood-chain-launchpad-vlad-fun-shuts-down-over-internal-issue/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-16T17:13:51+09:00",
-      "date": "2026-07-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain’s $INDEX 150% Rally Turns Trading Fees Into Real Stock Rewards",
-      "description": "$INDEX token surges 150% as market cap tops $18M after Vlad Tenev's developer push. The token converts Robinhood Chain fees into real stock rewards.",
-      "link": "https://coingape.com/robinhood-chains-index-150-rally-turns-trading-fees-into-real-stock-rewards/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-16T15:42:26+09:00",
-      "date": "2026-07-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Cathie Wood Bets $16.6 Million on SpaceX as Elon Musk's Rocket Company Falls Below IPO Price",
-      "description": "Ark Invest bought $16.6 million of SpaceX shares across four ETFs while selling $3.9 million of Robinhood stock on Wednesday, July 15, 2026.",
-      "link": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/07/60487696/cathie-wood-bets-16-6-million-on-spacex-as-elon-musks-rocket-company-falls-below-ipo-price",
-      "press": "Benzinga",
-      "pubDate": "2026-07-16T11:38:29+09:00",
       "date": "2026-07-16",
       "category": "broker",
       "companies": [
