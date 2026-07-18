@@ -1,16 +1,89 @@
 {
-  "lastUpdated": "2026-07-18T11:02:44Z",
+  "lastUpdated": "2026-07-18T13:11:47Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 25294,
+  "count": 25300,
   "news": [
+    {
+      "title": "“2분기 이익 줄어도 괜찮다?”…수주 4000억 쌓인 이 종목 한 주새 13%↑...",
+      "description": "SK증권에 따르면 원익IPS의 올해 1분기 말 수주 잔고는 약 4000억원으로 급증했다. 지난해 말 3000억원 안팎이었던 수주 잔고가 한 분기 만에 큰 폭으로 늘어나면서 하반기 실적 개선의 가시성이 높아졌다는 평가다....",
+      "link": "https://n.news.naver.com/mnews/article/009/0005708986?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12101482",
+      "press": "매일경제",
+      "pubDate": "2026-07-18T21:53:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "SK증권"
+      ]
+    },
+    {
+      "title": "'충격' IBM 급락…실적발표날 확인할 세 가지",
+      "description": "박기현 키움증권 연구원은 “시장이 반응한 이유는 실적 하회 자체가 아니라 ‘두 자릿수 성장하는 소프트웨어 회사’라는 프리미엄 멀티플의 근거가 흔들렸기 때문”이라고 분석했다. 소프트웨어 성장 둔화는 IT...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006332417?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02269766645515832",
+      "press": "이데일리",
+      "pubDate": "2026-07-18T21:44:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "포스코인터내셔널, 대통령기 단체전 우승…박강수·주천희 남·녀 단식...",
+      "description": "이번 대회는 프로탁구리그에 참가하는 대한항공과 미래에셋증권, 화성도시공사, 한국마사회 등도 참가하는 진검 승부라 의미가 있었다. 포스코인터내셔널이 자랑하는 김나영과 유예린이 상승세를 타면서 단체전도...",
+      "link": "https://m.sports.naver.com/general/article/144/0001126854",
+      "originallink": "https://sports.khan.co.kr/article/202607182132003?pt=nv",
+      "press": "경향신문",
+      "pubDate": "2026-07-18T21:33:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "클래리티 법안 기대감 속 암호화폐 시장 상승, XRP·솔라나·카르다노 향...",
+      "description": "솔라나는 과거 SEC가 암호화폐 거래소를 상대로 제기한 소송 과정에서 증권성 논란에 포함됐던 프로젝트 가운데 하나다. 시장에서는 디지털 상품에 대한 별도 규제 체계가 마련되면 거래소와 수탁기관...",
+      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=83888",
+      "originallink": "https://www.mediafine.co.kr/news/articleView.html?idxno=83888",
+      "press": "",
+      "pubDate": "2026-07-18T21:28:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미국 일상에 녹아든 무인 서비스",
+      "description": "신스타프리젠츠를 이끄는 신종명 대표(44)는 도이치증권·모건스탠리자산운용·풀러튼자산운용 등을 거친... 이는 한식이 세계 무대에서 프랜차이즈 사업 확대가 어려운 이유 중 하나다. 우리는 셰프의 레시피를...",
+      "link": "https://n.news.naver.com/mnews/article/024/0000106969?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12095248",
+      "press": "매일경제",
+      "pubDate": "2026-07-18T21:01:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "\"분리된 보안은 공백\"…피앤피시큐어, 금융권 통합 ZT 보안 체계 구축",
+      "description": "은행·카드·증권사에 DB세이퍼(DBSAFER) 기반 통합 접근제어 및 계정관리 솔루션을 잇따라 구축했다고 18일 밝혔다. 최근 금융권 보안 투자의 핵심 기준은 개별 기능 중심의 '단품' 도입에서 접근제어와 계정관리를 하나의...",
+      "link": "https://n.news.naver.com/mnews/article/092/0002430942?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260718200507",
+      "press": "",
+      "pubDate": "2026-07-18T20:06:00+09:00",
+      "date": "2026-07-18",
+      "companies": [
+        "하나증권",
+        "DB금융투자"
+      ]
+    },
     {
       "title": "코스피 오를 때 코스닥은 왜 빠지나⋯반도체 쏠림 탓?",
       "description": "이건재 IBK투자증권 코스닥리서치센터장은 연합뉴스에 \"코스닥 시장에서는 성장성이 좋은 산업이 시가총액 상위권을 점령하게 된다\"며 \"과거보다 국내 반도체 소부장 기업들의 기술력이 높아졌고 이들의 실적이...",
       "link": "https://n.news.naver.com/mnews/article/031/0001042995?sid=101",
       "originallink": "http://www.inews24.com/view/1986543",
       "press": "아이뉴스24",
-      "pubDate": "2026-07-18T19:55:00+09:00",
+      "pubDate": "2026-07-18T10:55:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "IBK투자증권"
@@ -22,7 +95,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202607181942481314daecd3dad5_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202607181942481314daecd3dad5_1",
       "press": "",
-      "pubDate": "2026-07-18T19:54:00+09:00",
+      "pubDate": "2026-07-18T10:54:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "신한투자증권"
@@ -34,7 +107,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469344",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469344",
       "press": "",
-      "pubDate": "2026-07-18T19:50:00+09:00",
+      "pubDate": "2026-07-18T10:50:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "IBK투자증권"
@@ -46,7 +119,7 @@
       "link": "https://n.news.naver.com/mnews/article/448/0000627723?sid=101",
       "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/07/18/2026071890141.html",
       "press": "조선일보",
-      "pubDate": "2026-07-18T19:39:00+09:00",
+      "pubDate": "2026-07-18T10:39:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "미래에셋증권",
