@@ -1,16 +1,85 @@
 {
-  "lastUpdated": "2026-07-18T14:51:08Z",
+  "lastUpdated": "2026-07-18T15:55:58Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 25303,
+  "count": 25308,
   "news": [
+    {
+      "title": "효성중공업, 주가 흔들려도 실적은 탄탄…북미가 이끈다",
+      "description": "유안타증권은 최근 보고서에서 최근 주가 조정에도 불구하고 이익 창출 능력이 한층 강화되고 있다며 중장기... 효성중공업이 이러한 구조적 성장 흐름의 핵심 수혜 기업 가운데 하나가 될 것으로 보고 있다. 안정적인...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469374",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469374",
+      "press": "",
+      "pubDate": "2026-07-19T00:16:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "하나증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "LS일렉트릭, 전력인프라 호황에 실적 레벨업…수주 모멘텀 가속",
+      "description": "유안타증권은 최근 보고서에서 전력인프라 중심의 외형 성장과 제품 믹스 개선이 동시에 진행되면서 2분기 실적이 시장 기대치를 소폭 웃돌 것으로 예상했다. LS일렉트릭은 올해 2분기 매출과 영업이익이 모두 큰 폭으로...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469372",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469372",
+      "press": "",
+      "pubDate": "2026-07-19T00:06:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "[크립토리뷰] 원스토어, 크로쓰 프로토콜 밸리데이터 합류(7월3주차)",
+      "description": "인프라를 하나의 플랫폼 구조 안에서 연결해 나가겠다\"고 말했다. ◇탄자니아 금광서 블록체인까지... 은행과 증권사 등 제도권 금융회사들이 엄격한 규제를 준수하면서 주식·채권·부동산 등의 자산을 디지털...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=104584",
+      "originallink": "https://www.theguru.co.kr/news/article.html?no=104584",
+      "press": "",
+      "pubDate": "2026-07-19T00:02:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[클로즈업] \"그래도 반등 기회 온다\"…5대 증권사가 꼽은 코스피 상단과...",
+      "description": "가장 도전적인 상단 전망을 제시한 곳은 미래에셋증권과 한국투자증권이다. 미래에셋증권은 하반기 코스피 상단을 7,800선으로 제시하며 인공지능(AI) 수요의 견고함이 확인되는 시점에 반도체 대형주의 강한 반등이...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82421",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82421",
+      "press": "",
+      "pubDate": "2026-07-19T00:00:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "KB증권"
+      ]
+    },
+    {
+      "title": "[더페어 돋보기] 6500선 깨지나 지켜내나…5대 증권사가 바라본 코스피...",
+      "description": "미래에셋증권과 한국투자증권은 하반기 코스피 하단 지지선을 각각 6,500선과 6,600선으로 제시하며 비교적 견고한 방어 체력을 기대했다. 미래에셋증권 리서치센터는 현재 코스피의 확정 실적 기준 주가순자산비율(PBR)...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82420",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=82420",
+      "press": "",
+      "pubDate": "2026-07-19T00:00:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "KB증권"
+      ]
+    },
     {
       "title": "박강현, 강동수 3-1 제압하고 대통령기탁구 남자 단식 정상",
       "description": "박강현(미래에셋증권)이 제42회 대통령기 전국탁구대회 남자일반부 단식 정상에 올랐다. 박강현은 18일 경북 경주실내체육관에서 열린 결승에서 강동수(삼성생명)를 3-1(11-8 3-11 11-8 11-9)로 꺾었다. 지난 12일 2026...",
       "link": "https://m.sports.naver.com/general/article/425/0000199141",
       "originallink": "http://www.maniareport.com/view.php?ud=202607182211584719dad9f33a29_19",
       "press": "",
-      "pubDate": "2026-07-18T23:30:00+09:00",
+      "pubDate": "2026-07-18T14:30:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "미래에셋증권"
@@ -22,7 +91,7 @@
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16138768",
       "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16138768",
       "press": "",
-      "pubDate": "2026-07-18T22:22:00+09:00",
+      "pubDate": "2026-07-18T13:22:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "미래에셋증권"
@@ -34,7 +103,7 @@
       "link": "https://m.sports.naver.com/general/article/001/0016201384",
       "originallink": "https://www.yna.co.kr/view/AKR20260718046500007?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-07-18T22:11:00+09:00",
+      "pubDate": "2026-07-18T13:11:00+00:00",
       "date": "2026-07-18",
       "companies": [
         "미래에셋증권"
