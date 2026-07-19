@@ -1,16 +1,53 @@
 {
-  "lastUpdated": "2026-07-19T13:21:42Z",
+  "lastUpdated": "2026-07-19T14:54:36Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 25757,
+  "count": 25760,
   "news": [
+    {
+      "title": "골프존 메세나에는 OB가 없다 [마이케나스]",
+      "description": "골프존그룹은 이 스윙에 뜻을 하나 더 얹었다. '당신의 꿈을 응원합니다'라는 의미의 '스윙 유어 드림SWING YOUR... 신영증권 1층엔 비밀의 방이 있다 ―아모레퍼시픽, 달항아리도 건축이 될 수 있을까? ―LG생활건강, 더후로...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362251",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362251",
+      "press": "",
+      "pubDate": "2026-07-19T22:56:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "하나증권",
+        "신영증권"
+      ]
+    },
+    {
+      "title": "에코프로비엠 고체전해질 시양산 검토 … 내년 양산 예상",
+      "description": "에코프로비엠은 지난 16일 서울 여의도 NH투자증권 본사에서 열린 일반투자자 대상 기업설명회에서 전고체 배터리용 풀 밸류체인 로드맵을 공개했다. 공보현 에코프로비엠 연구개발 담당 상무는 고체전해질 개발과 관련...",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=917197",
+      "originallink": "http://www.cctimes.kr/news/articleView.html?idxno=917197",
+      "press": "",
+      "pubDate": "2026-07-19T22:28:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "‘동전주 퇴출’ 대구경북 상장사, 주식병합·감자로 돌파한다",
+      "description": "한화투자증권 엄수진 연구원은 \"동전주 요건은 액면병합으로 회피가 가능하지만 재무건전성 개선이나 수익성 등 본질적 기업 가치를 높이는 노력도 뒤따라야 한다\"고 주문했다.한편 시가총액 미달 요건도...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260719022136892",
+      "originallink": "https://www.yeongnam.com/web/view.php?key=20260719022136892",
+      "press": "",
+      "pubDate": "2026-07-19T22:28:00+09:00",
+      "date": "2026-07-19",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
     {
       "title": "한화투자증권, Digital Asset Holdings LLC에 300억 원 규모 투자 완료 外",
       "description": "한화투자증권, Digital Asset Holdings LLC에 300억 원 규모 투자 완료 한화투자증권(대표이사 장병호)은 글로벌... KB자산운용 'RISE 코리아밸류업위클리고정커버드콜 ETF' 상장 후 최대 분배금 지급 KB자산운용(대표이사...",
       "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31288",
       "originallink": "https://www.rcast.co.kr/news/articleView.html?idxno=31288",
       "press": "",
-      "pubDate": "2026-07-19T21:56:00+09:00",
+      "pubDate": "2026-07-19T12:56:00+00:00",
       "date": "2026-07-19",
       "companies": [
         "KB증권",
@@ -27,23 +64,11 @@
       "link": "https://n.news.naver.com/mnews/article/214/0001512514?sid=102",
       "originallink": "https://imnews.imbc.com/replay/straight/6838478_28993.html",
       "press": "",
-      "pubDate": "2026-07-19T21:09:00+09:00",
+      "pubDate": "2026-07-19T12:09:00+00:00",
       "date": "2026-07-19",
       "companies": [
         "신한투자증권",
         "하나증권"
-      ]
-    },
-    {
-      "title": "토스증권, '민원 처리 전 개인정보 열람' 의혹…투자자 \"조사 개시 전 거...",
-      "description": "토스증권. 토스증권이 해외주식 주문 거절 민원을 처리하는 과정에서 조사 개시 이전 투자자의 개인정보를 조회했는지를 둘러싼 논란이 일고 있다. 토스증권 투자자는 회사가 민원 대응 과정에서 자신의 거래정보를...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=345344",
-      "originallink": "https://www.greened.kr/news/articleView.html?idxno=345344",
-      "press": "",
-      "pubDate": "2026-07-19T15:38:00+09:00",
-      "date": "2026-07-19",
-      "companies": [
-        "토스증권"
       ]
     },
     {
@@ -1396,6 +1421,18 @@
       "companies": [
         "삼성증권",
         "유안타증권"
+      ]
+    },
+    {
+      "title": "토스증권, '민원 처리 전 개인정보 열람' 의혹…투자자 \"조사 개시 전 거...",
+      "description": "토스증권. 토스증권이 해외주식 주문 거절 민원을 처리하는 과정에서 조사 개시 이전 투자자의 개인정보를 조회했는지를 둘러싼 논란이 일고 있다. 토스증권 투자자는 회사가 민원 대응 과정에서 자신의 거래정보를...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=345344",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=345344",
+      "press": "",
+      "pubDate": "2026-07-19T06:38:00+00:00",
+      "date": "2026-07-19",
+      "companies": [
+        "토스증권"
       ]
     },
     {
