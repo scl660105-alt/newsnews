@@ -1,16 +1,203 @@
 {
-  "lastUpdated": "2026-07-19T18:02:54Z",
+  "lastUpdated": "2026-07-19T20:07:06Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 25779,
+  "count": 25793,
   "news": [
+    {
+      "title": "‘800선 붕괴’ 코스닥의 비극…우량기업마저 ‘동전주’ 전락, 상폐위...",
+      "description": "윤재홍 미래에셋증권 연구원은 “단일종목 레버리지 ETF에 대한 규제 시 수급 쏠림 현상이 일정 부분 완화될 가능성이 있다”며 “아울러 추가적인 코스닥 활성화 정책을 통한 투자 심리 개선이 필요한 시점”이라고...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001861903?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0030130933&code=61141211&cp=nv",
+      "press": "국민일보",
+      "pubDate": "2026-07-20T05:02:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "\"반도체 호황 지속…연간 성장률 3% 웃돌것\"[GDP폴]",
+      "description": "정성태 삼성증권 연구원은 고유가와 에너지 수급 차질로 화학 업종 등의 생산이 줄었을 가능성을 반영해 유일하게 역성장(-0.2%)을 예상했다. 반면 이정훈 대신증권 연구원은 6월 수출 물량 급증에 힘입어 2개 분기 연속...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006332732?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=01098806645516488",
+      "press": "이데일리",
+      "pubDate": "2026-07-20T05:02:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "삼성증권",
+        "메리츠증권",
+        "대신증권",
+        "한화투자증권",
+        "신영증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "호송선단의 종언: 위기가 만든 금융안전망 [김성민의 일본 위기 딥리뷰...",
+      "description": "산요증권의 무담보 콜론 채무불이행으로 금융기관 간 신뢰가 붕괴하면서 단기자금시장이 극도로... 중 하나가 되었다. 두 번째 쟁점은 전액 보장 조치의 종료 및 정상화 시점이었다. 위기 대응을 위해 한시적으로 도입한...",
+      "link": "https://www.fntimes.com/html/view.php?ud=20260716164205953c1c16452b0_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=20260716164205953c1c16452b0_18",
+      "press": "",
+      "pubDate": "2026-07-20T05:02:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "‘500조 퇴직연금', DB→DC·IRP 구도 변화… 신한은행vs삼성생명 왕좌 ...",
+      "description": "19일 금융당국과 금융권에 따르면 신한은행은 적립금 1위를 기록하던 삼성생명을 제치고 두 개 분기 연속... 수익 극대화를 위해 직접 자산 유치에 나선 수요가 커지고, 여기에 최근 주식시장 활성화가 투자심리를...",
+      "link": "https://www.g-enews.com/view.php?ud=202607161558108211a6e8311f64_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202607161558108211a6e8311f64_1",
+      "press": "",
+      "pubDate": "2026-07-20T05:02:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "엔씨, '3대 성장 전략' 실행 단계 돌입…하반기 전망도 '맑음'",
+      "description": "한화투자증권 김소혜 연구원은 보고서를 통해 엔씨 목표가로 35만 원을 제시하며 \"글로벌 신작 출시 모멘텀을 앞두고 비중을 확대할 시기\"라고 분석했다. 교보증권 김동우 연구원은 보고서를 통해 엔씨의 목표주가를...",
+      "link": "https://n.news.naver.com/mnews/article/079/0004169697?sid=105",
+      "originallink": "https://www.nocutnews.co.kr/news/6549599?utm_source=naver&utm_medium=article&utm_campaign=20260720050032",
+      "press": "",
+      "pubDate": "2026-07-20T05:01:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "한화투자증권",
+        "교보증권"
+      ]
+    },
+    {
+      "title": "[증권사 권력지도②] 한국투자증권, 실무진 61% 물갈이…권력 최상층은...",
+      "description": "이는 미래에셋증권의 51.6세보다 3.6세 높다. 연령대별로는 50~54세가 27명으로 전체의 50.9%를 차지했다. 이어 55~59세가 17명(32.1%), 60~64세 3명(5.7%), 65세 이상 4명(7.5%) 순으로 집계됐다. 49세 이하 임원은 2명(3.8%)에 그쳤다....",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041888",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041888",
+      "press": "",
+      "pubDate": "2026-07-20T05:00:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "KB증권"
+      ]
+    },
+    {
+      "title": "공동 검증 끝나는 카드사 스테이블코인⋯이제는 '각자도생' 경쟁",
+      "description": "삼성카드는 삼성증권·삼성SDS와 함께 두나무 지분 4.0%를 총 6128억원에 취득하기로 했다. 업비트 운영사와의 지분 관계를 토대로 삼성금융 통합 플랫폼 ‘모니모’에서 디지털자산 기반 결제를 지원하는 방안을...",
+      "link": "https://www.etoday.co.kr/news/view/2604132",
+      "originallink": "https://www.etoday.co.kr/news/view/2604132",
+      "press": "",
+      "pubDate": "2026-07-20T05:00:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "삼성증권",
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[N2 포커스] 바닥 다졌나…코스피, 알파벳·테슬라·SK하이닉스 실적 '승...",
+      "description": "강진혁 신한투자증권 선임연구원은 지난주 장 마감 보고서를 통해 \"최근 조정 원인은 결국 AI 설비투자에 대한 의구심과 메모리 이익 성격에 대한 논쟁\"이라며 \"알파벳을 필두로 한 하이퍼스케일러들의 설비투자...",
+      "link": "https://www.news2day.co.kr/article/20260719500054",
+      "originallink": "https://www.news2day.co.kr/article/20260719500054",
+      "press": "",
+      "pubDate": "2026-07-20T04:46:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "신한투자증권",
+        "하나증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[IPO 워치] 에이치엘지노믹스 코스닥 입성…수요예측 2곳",
+      "description": "에이치엘지노믹스 24일 코스닥 상장 인제니아테라퓨틱스·딜리셔스 수요예측 KB·삼성·한국투자증권 주관 경쟁 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해 제작했습니다. [그림=챗GPT] [뉴스투데이...",
+      "link": "https://www.news2day.co.kr/article/20260719500010",
+      "originallink": "https://www.news2day.co.kr/article/20260719500010",
+      "press": "",
+      "pubDate": "2026-07-20T04:38:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "한국투자증권",
+        "삼성증권",
+        "KB증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "\"이자 1%인데 3000만원 묶으라고?\"... 개미만 옥죄는 레버리지 대책",
+      "description": "\"이제 손실 복구를 위한 물타기(주가가 내려가면 매수해 평균 매입 단가를 낮추는 것)는 어떻게 하나요?... 증권사 예탁금 이율은 1%가량이다. \"예탁금을 확보하려고 삼성전자, SK하이닉스가 아닌 다른 종목을 매도하는...",
+      "link": "https://n.news.naver.com/mnews/article/469/0000943068?sid=101",
+      "originallink": "https://www.hankookilbo.com/news/article/A2026071912470004008?did=NA",
+      "press": "",
+      "pubDate": "2026-07-20T04:30:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "관광기금 인상 악재에, 눈높이 낮아지는 카지노株",
+      "description": "최용현 KB증권 연구원은 \"국내 외국인 카지노는 4년 후 일본 통합형 리조트(IR)와 경쟁해야 하는 상황\"이라며 \"2030년 가을 개장을 목표로 개발 중인 오사카 IR는 CAPEX(자본지출) 규모가 10조원으로 국내보다 압도적으로...",
+      "link": "https://n.news.naver.com/mnews/article/008/0005387730?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/07/20/2026071919431712895",
+      "press": "머니투데이",
+      "pubDate": "2026-07-20T04:05:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "KB증권",
+        "하나증권",
+        "메리츠증권"
+      ]
+    },
+    {
+      "title": "삼전닉스 반등할까… 알파벳 실적 주목",
+      "description": "이재만 하나증권 연구원은 \"반도체기업의 주가반등 트리거(방아쇠)는 미국 하이퍼스케일러(대형 데이터센터 운영기업)의 실적발표\"라며 \"알파벳·마이크로소프트·메타·아마존의 CAPEX(설비투자) 합산 증가율이 여전히...",
+      "link": "https://n.news.naver.com/mnews/article/008/0005387723?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/07/20/2026071919420212672",
+      "press": "머니투데이",
+      "pubDate": "2026-07-20T04:02:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "하나증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "1조 9천억 달러 자산운용사, 첫 가상화폐 ETF 상장",
+      "description": "종목을 하나의 포트폴리오에 담고, 시장 상황과 자체 리서치 결과에 따라 비중을 능동적으로 조정하는 것이 특징이다. 티로프라이스는 지난 7월 셋째 주 미국 뉴욕증권거래소 아르카(NYSE Arca)에 '티로프라이스 크립토...",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306478",
+      "originallink": "https://www.khgames.co.kr/news/articleView.html?idxno=306478",
+      "press": "",
+      "pubDate": "2026-07-20T03:56:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "美 데이터센터 '주민 장벽'… AI 투자 과열 논쟁 불붙다",
+      "description": "워싱턴포스트(WP)는 지난 7월 18일(현지시각) 보도에서 데이터센터 건설이 미국인들을 하나로 묶는 이례적인... 주가 급락으로 프로그램 매매를 일시 정지하는 사이드카는 올해 한국 유가증권시장에서만 37회 발동했다....",
+      "link": "https://www.g-enews.com/view.php?ud=202607191620361285fbbec65dfb_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202607191620361285fbbec65dfb_1",
+      "press": "",
+      "pubDate": "2026-07-20T03:26:00+09:00",
+      "date": "2026-07-20",
+      "companies": [
+        "하나증권"
+      ]
+    },
     {
       "title": "이종욱 의원, '국내 주식시장 진단' 정책토론회 21일 개최",
       "description": "토론자로는 윤재홍 미래에셋증권 리서치센터 수석연구위원, 정의정 한국주식투자자연합회 대표, 편은비 국회입법조사처 재정금융과 입법조사관이 참여해 시장 상황과 투자자 보호, 그리고 실제 입법 관점을 아우르는...",
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81952",
       "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=81952",
       "press": "",
-      "pubDate": "2026-07-20T02:24:00+09:00",
+      "pubDate": "2026-07-19T17:24:00+00:00",
       "date": "2026-07-20",
       "companies": [
         "미래에셋증권"
@@ -22,7 +209,7 @@
       "link": "https://www.g-enews.com/view.php?ud=2026071919520725209a1f309431_1",
       "originallink": "https://www.g-enews.com/view.php?ud=2026071919520725209a1f309431_1",
       "press": "",
-      "pubDate": "2026-07-20T02:00:00+09:00",
+      "pubDate": "2026-07-19T17:00:00+00:00",
       "date": "2026-07-20",
       "companies": [
         "하나증권"
