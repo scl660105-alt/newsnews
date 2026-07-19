@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-07-19T13:04:23Z",
+  "lastUpdated": "2026-07-19T18:57:52Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Robinhood CEO says trading is not gambling as Trump Accounts launch",
+      "description": "Robinhood CEO Vlad Tenev says trading is not simply gambling as the broker helps run Trump Accounts and expands into more financial markets.",
+      "link": "https://crypto.news/robinhood-ceo-says-trading-is-not-gambling-as-trump-accounts-launch/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-19T14:31:43+09:00",
+      "date": "2026-07-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Will Robinhood Chain flip Solana? The math says no",
       "description": "Robinhood Chain drew Solana comparisons after a memecoin surge. But Solana has 27x the value locked. Why the flippening question is the wrong one.",
@@ -105,18 +117,6 @@
       "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60526464/why-is-robinhood-stock-falling-on-friday",
       "press": "Benzinga",
       "pubDate": "2026-07-17T23:43:19+09:00",
-      "date": "2026-07-17",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "What is Lighter?",
-      "description": "Lighter runs perps inside Robinhood Wallet on a 50/50 revenue split. It is payment for order flow, rebuilt on a blockchain.",
-      "link": "https://crypto.news/what-is-lighter-robinhood-perps-dex/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-17T21:50:00+09:00",
       "date": "2026-07-17",
       "category": "broker",
       "companies": [
