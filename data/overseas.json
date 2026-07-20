@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-07-20T08:48:45Z",
+  "lastUpdated": "2026-07-20T13:54:45Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Charles Schwab downgraded to Market Perform from Outperform at BMO Capital",
+      "description": "BMO Capital downgraded Charles Schwab (SCHW) to Market Perform from Outperform with an unchanged price target of $105. The firm cites valuation ...",
+      "link": "https://markets.businessinsider.com/news/stocks/charles-schwab-downgraded-to-market-perform-from-outperform-at-bmo-capital-1036340418",
+      "press": "Markets Insider",
+      "pubDate": "2026-07-20T10:05:05+09:00",
+      "date": "2026-07-20",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "LINK Price Holds Steady While Pepeto Nears Listing",
       "description": "Explore the LINK price stability following Robinhood's integration of CHAINLINK as its official oracle on layer 2 blockchain.",
@@ -109,18 +122,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Morgan Stanley unlocks Bitcoin, Ethereum and Solana on E*TRADE",
-      "description": "Morgan Stanley has launched Bitcoin, Ethereum and Solana trading on E*TRADE, charging eligible clients a 0.50% fee per transaction.",
-      "link": "https://crypto.news/morgan-stanley-unlocks-btc-eth-and-sol-on-etrade/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-18T00:16:34+09:00",
-      "date": "2026-07-18",
-      "category": "broker",
-      "companies": [
-        "E*Trade"
       ]
     },
     {
