@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-07-20T02:28:55Z",
+  "lastUpdated": "2026-07-20T08:48:45Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 208,
+  "count": 209,
   "news": [
+    {
+      "title": "LINK Price Holds Steady While Pepeto Nears Listing",
+      "description": "Explore the LINK price stability following Robinhood's integration of CHAINLINK as its official oracle on layer 2 blockchain.",
+      "link": "https://techbullion.com/link-price-holds-steady-while-pepeto-nears-listing/",
+      "press": "TechBullion",
+      "pubDate": "2026-07-20T01:45:15+09:00",
+      "date": "2026-07-20",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Uniswap vote could supercharge UNI burn with Robinhood Chain fees",
       "description": "Uniswap governance will vote on v4 and Robinhood Chain fees that could route new protocol revenue into the existing UNI burn mechanism soon.",
       "link": "https://crypto.news/uniswap-vote-could-supercharge-uni-burn-with-robinhood-chain-fees/",
       "press": "Crypto News",
-      "pubDate": "2026-07-19T18:49:27+09:00",
+      "pubDate": "2026-07-19T09:49:27+00:00",
       "date": "2026-07-19",
       "category": "broker",
       "companies": [
