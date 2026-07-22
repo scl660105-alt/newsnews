@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-07-22T08:17:34Z",
+  "lastUpdated": "2026-07-22T13:38:19Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Interactive Brokers Stock Climbs as Q2 Earnings Come in Ahead of Expectations",
+      "description": "Interactive Brokers Group reports second-quarter financial results after the market close on Tuesday. Here's a rundown of the report.",
+      "link": "https://www.benzinga.com/markets/earnings/26/07/60594782/interactive-brokers-stock-climbs-as-q2-earnings-come-in-ahead-of-expectations",
+      "press": "Benzinga",
+      "pubDate": "2026-07-22T05:17:44+09:00",
+      "date": "2026-07-22",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
     {
       "title": "Robinhood Chain, Degen Money, Memes and More: Vlad Tenev's Vision for the Future of Finance",
       "description": "Explore the Robinhood Chain and its evolution from meme stocks to a new blockchain for daring investors in the crypto landscape.",
@@ -106,18 +118,6 @@
       "link": "https://crypto.news/robinhood-chain-nears-9b-dex-volume-within-weeks-of-launch-falconx-report/",
       "press": "Crypto News",
       "pubDate": "2026-07-21T21:13:37+09:00",
-      "date": "2026-07-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "STON.fi Launches Cross-Chain Swaps, Connecting TON to TRON and EVM Stablecoin Economy",
-      "description": "Road Town, British Virgin Islands, July 21st, 2026, Chainwire STON.fi, the leading AMM protocol on The Open Network (TON), today announced the launch of cross-chain swaps in the STON.fi app, giving users a direct way to move stablecoins between TON, TRON, Ethereum, Base, BNB Chain, Polygon, Avalanche, Arbitrum, and Robinhood Chain through a unified, self-custodial […]",
-      "link": "https://cryptoslate.com/press-releases/ston-fi-launches-cross-chain-swaps-connecting-ton-to-tron-and-evm-stablecoin-economy/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-07-21T20:10:51+09:00",
       "date": "2026-07-21",
       "category": "broker",
       "companies": [
