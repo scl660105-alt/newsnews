@@ -1,8 +1,69 @@
 {
-  "lastUpdated": "2026-07-22T19:05:18Z",
+  "lastUpdated": "2026-07-23T02:12:01Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 28,
+  "count": 27,
   "news": [
+    {
+      "title": "Hyderabad’s Ruddarraju from CBIT is OpenAI Compute CTO",
+      "description": "Ruddarraju’s journey began in Hyderabad at the Chaitanya Bharathi Institute of Technology (CBIT), before he moved to the United States in 2011 to pursue a master’s degree in computer science engineering at the University of Minnesota. Over the years, he built his career across leading firms, including eBay and Robinhood in San Francisco.",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/hyderabads-ruddarraju-from-cbit-is-open-ai-cto-1973008",
+      "press": "Deccan Chronicle",
+      "pubDate": "2026-07-22T19:55:26+09:00",
+      "date": "2026-07-22",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+      "description": "Payward's xStocks pushes beyond U.S. equities as competition to bring global stock markets onchain accelerates.",
+      "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+      "press": "CoinDesk",
+      "pubDate": "2026-07-22T19:30:00+09:00",
+      "date": "2026-07-22",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Arcus Launches Tokenized Stocks on Robinhood Chain Protocol",
+      "description": "A decentralized exchange (DEX) backed by Robinhood is moving deeper into tokenized traditional assets, launching tokenized stock trading and perpetual",
+      "link": "https://www.cryptobreaking.com/arcus-launches-tokenized-stocks-on/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-07-22T18:24:06+09:00",
+      "date": "2026-07-22",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Crypto bulls set for a strong comeback? Here's what stock market is suggesting",
+      "description": "Bullish options activity in crypto-linked stocks such as Coinbase, Strategy, Robinhood and the iShares Bitcoin Trust ETF is signalling renewed optimism for cryptocurrencies after a steep correction. While Bitcoin and Ethereum remain sharply lower over the past year, traders are positioning for a potential rebound as sentiment begins to improve.",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-bulls-set-for-a-strong-comeback-heres-what-stock-market-is-suggesting/articleshow/132554485.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-07-22T17:20:00+09:00",
+      "date": "2026-07-22",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Tiger Brokers Named Among CNBC's World's Top FinTech Companies 2026 for Second Consecutive Year",
+      "description": "Tiger Brokers is recognized as a global fintech leader in the Wealth Technology - Neobrokers category by CNBC and Statista, marking its second consecutive year on this prestigious list.The award highlights Tiger Brokers' position at the forefront of global financial innovation through advanced technology, intuitive design, and investor-centric solutions.Empowering investors worldwide with next-generation technology, Tiger Brokers continues to experience stellar growth, now serving millions of users globally. SINGAPORE, July 22, 2026 /PRNewswire/ -- Tiger Brokers (Nasdaq: TIGR), a leading online brokerage firm redefining global investing with next-generation technology, has been named one of the World's Top FinTech Companies 2026 by CNBC and leading data analytics firm Statista. This marks the second consecutive year Tiger Brokers has received this prestigious recognition, underling the company's sustained momentum and growing influence in the global wealth technology landscape.**media[1146235]**",
+      "link": "https://www.manilatimes.net/2026/07/22/tmt-newswire/pr-newswire/tiger-brokers-named-among-cnbcs-worlds-top-fintech-companies-2026-for-second-consecutive-year/2389075",
+      "press": "The Manila Times",
+      "pubDate": "2026-07-22T16:39:28+09:00",
+      "date": "2026-07-22",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Interactive Brokers Stock Climbs as Q2 Earnings Come in Ahead of Expectations",
       "description": "Interactive Brokers Group reports second-quarter financial results after the market close on Tuesday. Here's a rundown of the report.",
@@ -83,42 +144,6 @@
       "press": "Markets Insider",
       "pubDate": "2026-07-22T00:00:42+09:00",
       "date": "2026-07-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "BONK Unveils Circus, a New Launchpad on Robinhood",
-      "description": "New York, New York, United States, 21st July 2026, Chainwire",
-      "link": "https://decrypt.co/373939/bonk-unveils-circus-a-new-launchpad-on-robinhood",
-      "press": "Decrypt",
-      "pubDate": "2026-07-22T00:00:38+09:00",
-      "date": "2026-07-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Arcus, Backed by Robinhood, Adds Tokenized Assets and Perps",
-      "description": "Arcus, a decentralized exchange backed by Robinhood Crypto, has expanded its onchain trading offering on Robinhood Chain by launching tokenized stocks",
-      "link": "https://www.cryptobreaking.com/arcus-backed-by-robinhood-adds/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-21T23:03:20+09:00",
-      "date": "2026-07-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain nears $9B DEX volume within weeks of launch: FalconX report",
-      "description": "FalconX says Robinhood Chain has attracted $431 million in TVL within weeks of launch, with lending growing as tokenized RWA adoption remains early.",
-      "link": "https://crypto.news/robinhood-chain-nears-9b-dex-volume-within-weeks-of-launch-falconx-report/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-21T21:13:37+09:00",
-      "date": "2026-07-21",
       "category": "broker",
       "companies": [
         "Robinhood"
@@ -258,30 +283,6 @@
       ]
     },
     {
-      "title": "SaintQuant Launches No-Code AI Trading Platform With Pre-Built, Risk-Managed Strategies and No-Deposit Trial",
-      "description": "Adoption of AI trading tools is climbing across stock and cryptocurrency markets, with beginners increasingly seeking automated, risk-managed strategies over manual trading.",
-      "link": "https://www.manilatimes.net/2026/07/06/tmt-newswire/globenewswire/saintquant-launches-no-code-ai-trading-platform-with-pre-built-risk-managed-strategies-and-no-deposit-trial/2379198",
-      "press": "The Manila Times",
-      "pubDate": "2026-07-07T00:33:03+09:00",
-      "date": "2026-07-07",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Kraken Enables Tokenized Stock Collateral for Leveraged Trades",
-      "description": "Kraken has started accepting select tokenized stocks and exchange-traded funds (ETFs) as collateral for futures and margin trading, enabling eligible",
-      "link": "https://www.cryptobreaking.com/kraken-enables-tokenized-stock-collateral/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-05T04:52:12+09:00",
-      "date": "2026-07-05",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
       "title": "SEC looks into alleged insider trades on China's brokerage crackdown - report",
       "description": "SEC probes alleged insider trading tied to China brokerage crackdown after Susquehanna lawsuit cites $100M options gains.",
       "link": "https://seekingalpha.com/news/4609672-sec-looks-into-alleged-insider-trades-on-chinas-brokerage-crackdown-report",
@@ -324,18 +325,6 @@
       "press": "The Manila Times",
       "pubDate": "2026-06-24T19:07:47+09:00",
       "date": "2026-06-24",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Former New York Governor Andrew Cuomo Joins OKX-NYSE Venture To Bridge Crypto, TradFi",
-      "description": "Andrew Cuomo has joined a new venture between OKX and Intercontinental Exchange aimed at connecting traditional finance with digital assets. The initiative plans to launch a U.S.-regulated brokerage and futures platform.",
-      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/06/60028516/former-new-york-governor-andrew-cuomo-joins-okx-nyse-venture-to-bridge-crypto-tradfi",
-      "press": "Benzinga",
-      "pubDate": "2026-06-23T04:31:12+09:00",
-      "date": "2026-06-23",
       "category": "market",
       "companies": [
         "거래소·규제"
