@@ -1,8 +1,70 @@
 {
-  "lastUpdated": "2026-07-27T16:17:23Z",
+  "lastUpdated": "2026-07-27T18:24:05Z",
   "source": "Naver News Search API (https://openapi.naver.com/v1/search/news.json)",
-  "count": 2983,
+  "count": 2985,
   "news": [
+    {
+      "title": "넥스아이·아델·제논, 코스닥 상장 예비심사에 도전…바이오·IT업계의...",
+      "description": "상장 주관사는 삼성증권과 미래에셋증권이다. 제논은 소프트웨어를 개발해 공급하는 기업으로, 지난해 매출 117억4천400만원과 영업이익 7억200만원을 냈다. 정보기술 기업은 사업 확장 속도와 수익성 개선 여부가 상장...",
+      "link": "https://www.tokenpost.kr/news/market/381897",
+      "originallink": "https://www.tokenpost.kr/news/market/381897",
+      "press": "",
+      "pubDate": "2026-07-28T03:08:00+09:00",
+      "date": "2026-07-28",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권"
+      ]
+    },
+    {
+      "title": "유럽증시, 미·이란 '공격 멈춤'에 따른 유가 하락으로 일제히 올라… ...",
+      "description": "영국 런던 증권거래소. [사진=로이터 뉴스핌] 미국과 이란은 지난 주말 동안 상대방에 대한 공격과... 빠르게 진행되거나 아예 안 되거나 둘 중 하나\"라고 했다. 이란도 군사적 대응을 중단했다. 한 이란 고위...",
+      "link": "https://www.newspim.com/news/view/20260728000016",
+      "originallink": "https://www.newspim.com/news/view/20260728000016",
+      "press": "뉴스핌",
+      "pubDate": "2026-07-28T02:26:00+09:00",
+      "date": "2026-07-28",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "단일종목 레버리지 예탁금 3000만원 조기시행… 시행일은 언제?",
+      "description": "사진=23일 하나은행 딜링룸 현황판에 표시된 코스피, 코스닥 지수. 연합뉴스 정부가 단일종목 레버리지 상품... 대용증권은 제외하는 내용의 보완방안을 발표한 바 있다. 당초 업계 시스템 작업 일정 등을 고려해 예탁금...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1171151",
+      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1171151",
+      "press": "",
+      "pubDate": "2026-07-28T02:16:00+09:00",
+      "date": "2026-07-28",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "업홀드, 인력 17% 감축…개인 거래 둔화 속 기업 사업 집중",
+      "description": "개인 거래 둔화 vs 기업 수요 증가 2015년 설립된 업홀드는 하나의 계정으로 암호화폐, 법정화폐, 주식, 귀금속까지 거래할 수 있는 플랫폼이다. 최근에는 소비자 중심 서비스에서 벗어나 은행, 핀테크, 증권사가 자체...",
+      "link": "https://www.tokenpost.kr/news/blockchain/381874",
+      "originallink": "https://www.tokenpost.kr/news/blockchain/381874",
+      "press": "",
+      "pubDate": "2026-07-28T01:52:00+09:00",
+      "date": "2026-07-28",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "중동 긴장 완화에 국고채 금리 급락... 채권시장 '강세'",
+      "description": "신영증권 조용구 연구원은 중동 긴장 완화에 따른 유가 하락과 미국 국채 금리 하락이 국내 국고채 강세로 이어졌고, 외국인도 3년물과 10년물 선물을 나란히 순매수했다고 설명했다. 또 8월 기준금리 인상 가능성은...",
+      "link": "https://www.tokenpost.kr/news/economy/381857",
+      "originallink": "https://www.tokenpost.kr/news/economy/381857",
+      "press": "",
+      "pubDate": "2026-07-28T01:18:00+09:00",
+      "date": "2026-07-28",
+      "companies": [
+        "신영증권"
+      ]
+    },
     {
       "title": "민주당, 레버리지 ETFs 위험성 제기… 국내 증시 규제 논의 본격화",
       "description": "상장지수펀드는 보통 여러 자산에 나눠 투자해 위험을 분산하는 상품으로 알려져 있는데, 특정 종목 하나의... 이번 문제 제기는 최근 국내 증권시장에서 일부 단일종목 레버리지 상품이 급등락을 키우는 요인으로 지목된...",
@@ -1368,10 +1430,10 @@
       ]
     },
     {
-      "title": "미래에셋증권 2분기 퇴직연금 적립금 9조6천억 증가, DC·IRP 20% 넘게 늘...",
-      "description": "미래에셋증권이 2분기 국내 퇴직연금 사업자 가운데 적립금이 가장 많이 늘었다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 52조210억 원으로 1분기보다 약 9조5799억 원(22.6%) 늘었다고 27일 밝혔다. 미래에셋증권...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443269",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443269",
+      "title": "미래에셋증권, 퇴직연금 적립금 약 9.5조원 증가…2분기 증가 규모 1위",
+      "description": "미래에셋증권은 올해 2분기 퇴직연금 적립금이 약 9조5799억원 늘어 전 금융권에서 유일하게 10조원에 가까운 증가를 기록했다고 27일 밝혔다. 금융감독원 공시에 따르면 같은 기간 전체 퇴직연금 시장 적립금은...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362657",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362657",
       "press": "",
       "pubDate": "2026-07-27T18:42:00+09:00",
       "date": "2026-07-27",
@@ -1380,10 +1442,10 @@
       ]
     },
     {
-      "title": "미래에셋증권, 퇴직연금 적립금 약 9.5조원 증가…2분기 증가 규모 1위",
-      "description": "미래에셋증권은 올해 2분기 퇴직연금 적립금이 약 9조5799억원 늘어 전 금융권에서 유일하게 10조원에 가까운 증가를 기록했다고 27일 밝혔다. 금융감독원 공시에 따르면 같은 기간 전체 퇴직연금 시장 적립금은...",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362657",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362657",
+      "title": "미래에셋증권 2분기 퇴직연금 적립금 9조6천억 증가, DC·IRP 20% 넘게 늘...",
+      "description": "미래에셋증권이 2분기 국내 퇴직연금 사업자 가운데 적립금이 가장 많이 늘었다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 52조210억 원으로 1분기보다 약 9조5799억 원(22.6%) 늘었다고 27일 밝혔다. 미래에셋증권...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443269",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443269",
       "press": "",
       "pubDate": "2026-07-27T18:42:00+09:00",
       "date": "2026-07-27",
@@ -2017,24 +2079,6 @@
       ]
     },
     {
-      "title": "반도체 꺾일때… 금리인상기 수혜 금융ETF '조용한 질주'",
-      "description": "메리츠금융지주와 4대 금융지주를 비롯해 미래에셋증권, NH투자증권, 키움증권, 한국금융지주 등 대형 증권사를 함께 편입해 거래대금 증가와 기업금융(IB) 확대에 따른 증권업 실적 개선까지 반영하도록...",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009922",
-      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009922",
-      "press": "",
-      "pubDate": "2026-07-27T18:08:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권",
-        "NH투자증권",
-        "KB증권",
-        "키움증권",
-        "신한투자증권",
-        "하나증권",
-        "DB금융투자"
-      ]
-    },
-    {
       "title": "증시 흔들려도 금융주는 버텼다…호실적 타고 배당 기대 '쑥'",
       "description": "메리츠증권은 미래에셋증권·한국금융지주·NH투자증권·삼성증권·키움증권 등 대형 증권사 5곳의 올해 2분기 지배주주 순이익 합산액이 4조2810억원으로 전 분기 대비 29% 증가할 것으로 전망했다. 증권사들의 실적...",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83733",
@@ -2052,6 +2096,24 @@
         "신한투자증권",
         "하나증권",
         "메리츠증권"
+      ]
+    },
+    {
+      "title": "반도체 꺾일때… 금리인상기 수혜 금융ETF '조용한 질주'",
+      "description": "메리츠금융지주와 4대 금융지주를 비롯해 미래에셋증권, NH투자증권, 키움증권, 한국금융지주 등 대형 증권사를 함께 편입해 거래대금 증가와 기업금융(IB) 확대에 따른 증권업 실적 개선까지 반영하도록...",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009922",
+      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009922",
+      "press": "",
+      "pubDate": "2026-07-27T18:08:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권",
+        "NH투자증권",
+        "KB증권",
+        "키움증권",
+        "신한투자증권",
+        "하나증권",
+        "DB금융투자"
       ]
     },
     {
@@ -2116,18 +2178,6 @@
       ]
     },
     {
-      "title": "與 \"단일종목 레버리지, ETF 용어 부적절…배율 축소 검토 안해\"(종합)",
-      "description": "국내 증권시장 급등락의 원인으로 꼽히는 단일종목 레버리지 상장지수펀드(ETF)와 관련, \"고위험... '이런 상품 설계가 적당했냐'는 문제의식이 있다\"며 \"지금 시장 교란 요인 중 하나이기 때문에 절제가 필요하다. 용어를...",
-      "link": "https://n.news.naver.com/mnews/article/001/0016217666?sid=100",
-      "originallink": "https://www.yna.co.kr/view/AKR20260727141551001?input=1195m",
-      "press": "연합뉴스",
-      "pubDate": "2026-07-27T18:06:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "하나증권"
-      ]
-    },
-    {
       "title": "[헬로스톡] 7/27 주목할 종목 : 삼성중공업·현대위아·두산퓨얼셀·현대...",
       "description": "하나증권 유재선 애널리스트는 목표주가 70,000원과 투자의견 매수를 유지했다. 2분기 매출액은 443억원으로 전년 대비 65.5% 감소했다. 납품 예정이던 프로젝트가 하반기로 이월되며 주기기 매출이 크게...",
       "link": "https://www.hellot.net/news/article.html?no=114021",
@@ -2138,6 +2188,18 @@
       "companies": [
         "하나증권",
         "대신증권"
+      ]
+    },
+    {
+      "title": "與 \"단일종목 레버리지, ETF 용어 부적절…배율 축소 검토 안해\"(종합)",
+      "description": "국내 증권시장 급등락의 원인으로 꼽히는 단일종목 레버리지 상장지수펀드(ETF)와 관련, \"고위험... '이런 상품 설계가 적당했냐'는 문제의식이 있다\"며 \"지금 시장 교란 요인 중 하나이기 때문에 절제가 필요하다. 용어를...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016217666?sid=100",
+      "originallink": "https://www.yna.co.kr/view/AKR20260727141551001?input=1195m",
+      "press": "연합뉴스",
+      "pubDate": "2026-07-27T18:06:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "하나증권"
       ]
     },
     {
@@ -2218,19 +2280,6 @@
       ]
     },
     {
-      "title": "1조 자사주도 소각…겹호재에 뛴 네이버",
-      "description": "이준호 하나증권 연구원은 “네이버의 전략적 파트너가 엔비디아임이 확인됐다”며 “국내에서는 네이버가 엔비디아 AI 팩토리의 공식 전진기지 역할을 맡게 됐다”고 말했다. 사업 구조 변화에 따른 기대도 커지고...",
-      "link": "https://n.news.naver.com/mnews/article/015/0005314370?sid=101",
-      "originallink": "https://www.hankyung.com/article/2026072789931",
-      "press": "한국경제",
-      "pubDate": "2026-07-27T18:03:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "하나증권",
-        "메리츠증권"
-      ]
-    },
-    {
       "title": "민주당 \"단일종목 ETF, '몰빵 위험 상품'‥배율 축소는 생각 안 해\"",
       "description": "더불어민주당이 국내 증권시장 급등락의 원인으로 꼽히는 '단일종목 레버리지 상장지수펀드'와 관련해... 중 하나이기 때문에 용어를 재구성하든 해야한다\"고 강조했습니다. 다만 오 의원은 레버리지 배율을 기존 2배에서...",
       "link": "https://n.news.naver.com/mnews/article/214/0001514175?sid=100",
@@ -2240,6 +2289,19 @@
       "date": "2026-07-27",
       "companies": [
         "하나증권"
+      ]
+    },
+    {
+      "title": "1조 자사주도 소각…겹호재에 뛴 네이버",
+      "description": "이준호 하나증권 연구원은 “네이버의 전략적 파트너가 엔비디아임이 확인됐다”며 “국내에서는 네이버가 엔비디아 AI 팩토리의 공식 전진기지 역할을 맡게 됐다”고 말했다. 사업 구조 변화에 따른 기대도...",
+      "link": "https://n.news.naver.com/mnews/article/015/0005314370?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026072789931",
+      "press": "한국경제",
+      "pubDate": "2026-07-27T18:03:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "하나증권",
+        "메리츠증권"
       ]
     },
     {
@@ -2254,21 +2316,6 @@
         "미래에셋증권",
         "한국투자증권",
         "삼성증권"
-      ]
-    },
-    {
-      "title": "[증권 NOW] 한국투자증권·미래에셋증권·하나증권·교보증권·다올투자...",
-      "description": "■ 미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가…금융권서 두각 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금 공시에...",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
-      "press": "",
-      "pubDate": "2026-07-27T18:02:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권",
-        "한국투자증권",
-        "하나증권",
-        "교보증권"
       ]
     },
     {
@@ -2287,6 +2334,21 @@
       ]
     },
     {
+      "title": "[증권 NOW] 한국투자증권·미래에셋증권·하나증권·교보증권·다올투자...",
+      "description": "■ 미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가…금융권서 두각 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금 공시에...",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
+      "press": "",
+      "pubDate": "2026-07-27T18:02:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "하나증권",
+        "교보증권"
+      ]
+    },
+    {
       "title": "[보험 인수전 치열] 금융그룹, 매물 보험사 4곳 자산 32조 '눈독'… 3% 운...",
       "description": "OK금융은 저축은행 중심의 사업구조에서 벗어날 수 있고, 한국금융지주는 한국투자증권에 편중된 이익구조를 완화할 수 있다. 기존 보험사 역시 고객과 보험계약·운용자산을 함께 확보해 단기간에 외형을 확대할 수...",
       "link": "https://www.g-enews.com/view.php?ud=202607271530597337e30fcb1ba8_1",
@@ -2300,10 +2362,10 @@
       ]
     },
     {
-      "title": "탈내연기관 속도 현대위아… 권오성, 미래차 체질개선 시험대",
-      "description": "크다.증권가에서도 하반기 실적 개선 폭은 제한적일 것으로 보고 있다. 완성차 판매가 회복되더라도 성장은... 특히 방산사업은 현대위아의 안정적인 수익원 가운데 하나인 만큼 매각이 현실화될 경우 수익성이 추가로...",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009918",
-      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009918",
+      "title": "주식병합으로 상폐 탈출 ‘안간힘’…두 차례 병합해도 다시 동전주[이...",
+      "description": "코스닥 상장사가 22곳, 유가증권시장 상장사가 7곳이다. 이날 종가 기준 이들 29개 기업의 평균 주가는 845.... 주식병합은 여러 주식을 하나로 합쳐 주식 수를 줄이는 대신 주당 가격을 끌어올리는 방식이다. 예컨대...",
+      "link": "https://www.ekn.kr/web/view.php?key=20260727022586559",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260727022586559",
       "press": "",
       "pubDate": "2026-07-27T18:02:00+09:00",
       "date": "2026-07-27",
@@ -2312,10 +2374,10 @@
       ]
     },
     {
-      "title": "주식병합으로 상폐 탈출 ‘안간힘’…두 차례 병합해도 다시 동전주[이...",
-      "description": "코스닥 상장사가 22곳, 유가증권시장 상장사가 7곳이다. 이날 종가 기준 이들 29개 기업의 평균 주가는 845.... 주식병합은 여러 주식을 하나로 합쳐 주식 수를 줄이는 대신 주당 가격을 끌어올리는 방식이다. 예컨대...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260727022586559",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20260727022586559",
+      "title": "탈내연기관 속도 현대위아… 권오성, 미래차 체질개선 시험대",
+      "description": "크다.증권가에서도 하반기 실적 개선 폭은 제한적일 것으로 보고 있다. 완성차 판매가 회복되더라도 성장은... 특히 방산사업은 현대위아의 안정적인 수익원 가운데 하나인 만큼 매각이 현실화될 경우 수익성이 추가로...",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009918",
+      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009918",
       "press": "",
       "pubDate": "2026-07-27T18:02:00+09:00",
       "date": "2026-07-27",
@@ -2564,13 +2626,14 @@
     },
     {
       "title": "[단독] \"심판이 선수와 경쟁하는 꼴\"…국민연금 참전 선언에 '술렁'",
-      "description": "나서면서 금융투자업계의 우려가 커지고 있다. 그간 수십~수백조원 자금을 민간 운용사에 맡겼던 위탁자... 국민연금은 특정 시점에 정해진 금액을 지급하는 확정급여(DB)형 성격에 가깝고, 기금형 퇴직연금은 근로자...",
+      "description": "민간 자산운용사와 증권사가 경쟁하는 기금 OCIO 시장에 국민연금이 직접 참여하겠다는 뜻이어서 논란이 일... ◇퇴직연금 모아 기금에 위탁 기금형 퇴직연금은 하나 이상의 사업장 퇴직연금 적립금을 하나의 기금으로...",
       "link": "https://n.news.naver.com/mnews/article/015/0005314348?sid=101",
       "originallink": "https://www.hankyung.com/article/2026072789781",
       "press": "한국경제",
       "pubDate": "2026-07-27T17:53:00+09:00",
       "date": "2026-07-27",
       "companies": [
+        "하나증권",
         "DB금융투자"
       ]
     },
@@ -2697,19 +2760,6 @@
       ]
     },
     {
-      "title": "이지스운용, 동대문 두산타워 품었다",
-      "description": "거래는 2025년 7월 한국투자증권의 우협 지위가 해제된 이후 1년 만에 클로징됐다. 2020년 두산그룹에서 두산타워를 8000억원에 인수한 마스턴은 2024년 말 자산 매각에 나섰다. 한때 1조원대 오피스 거래로도 관심을...",
-      "link": "https://n.news.naver.com/mnews/article/009/0005712944?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12108653",
-      "press": "매일경제",
-      "pubDate": "2026-07-27T17:46:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권",
-        "NH투자증권"
-      ]
-    },
-    {
       "title": "하나에프앤아이, 1500억 회사채 수요예측서 7000억 모집",
       "description": "대표 주관사는 NH투자증권, 신한투자증권, KB증권, 한국투자증권 등 4곳이다. 하나에프앤아이는 지난 1989년 설립돼 리스·캐피탈 등 여신전문금융업을 영위하다 2013년 12월 부실채권(NPL) 투자관리업으로 업종을...",
       "link": "https://n.news.naver.com/mnews/article/009/0005712946?sid=101",
@@ -2723,6 +2773,19 @@
         "KB증권",
         "신한투자증권",
         "하나증권"
+      ]
+    },
+    {
+      "title": "이지스운용, 동대문 두산타워 품었다",
+      "description": "거래는 2025년 7월 한국투자증권의 우협 지위가 해제된 이후 1년 만에 클로징됐다. 2020년 두산그룹에서 두산타워를 8000억원에 인수한 마스턴은 2024년 말 자산 매각에 나섰다. 한때 1조원대 오피스 거래로도 관심을...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712944?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12108653",
+      "press": "매일경제",
+      "pubDate": "2026-07-27T17:46:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권",
+        "NH투자증권"
       ]
     },
     {
@@ -3015,11 +3078,11 @@
       ]
     },
     {
-      "title": "규제 앞둔 ‘삼전ㆍSK하닉’ 단일 레버리지⋯거래대금 7조원대로 급감",
-      "description": "메리츠증권에 따르면 보완방안 발표 이후 삼성전자 단일종목 ETF의 주간 평균 회전율은 45%에서 38%로 하락했다. SK하이닉스 단일종목 ETF의 회전율도 179%에서 146%로 낮아졌다. 이상현 메리츠증권 연구원은...",
-      "link": "https://www.etoday.co.kr/news/view/2607970",
-      "originallink": "https://www.etoday.co.kr/news/view/2607970",
-      "press": "",
+      "title": "“단일 레버리지, 주가 폭락 주범이었는데”…메리츠가 본 회전율 감소...",
+      "description": "27일 메리츠증권은 보고서를 통해 당초 8월 중 시행 예정이던 단일종목 레버리지 ETF 규제가 오는 31일로 앞당겨진 점에 주목하며, 이번 조치가 투기성 자금의 회전 속도를 대폭 줄이는 기점이 될 것으로 내다봤다....",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712923?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12108629",
+      "press": "매일경제",
       "pubDate": "2026-07-27T17:40:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -3027,11 +3090,11 @@
       ]
     },
     {
-      "title": "“단일 레버리지, 주가 폭락 주범이었는데”…메리츠가 본 회전율 감소...",
-      "description": "27일 메리츠증권은 보고서를 통해 당초 8월 중 시행 예정이던 단일종목 레버리지 ETF 규제가 오는 31일로 앞당겨진 점에 주목하며, 이번 조치가 투기성 자금의 회전 속도를 대폭 줄이는 기점이 될 것으로 내다봤다....",
-      "link": "https://n.news.naver.com/mnews/article/009/0005712923?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12108629",
-      "press": "매일경제",
+      "title": "규제 앞둔 ‘삼전ㆍSK하닉’ 단일 레버리지⋯거래대금 7조원대로 급감",
+      "description": "메리츠증권에 따르면 보완방안 발표 이후 삼성전자 단일종목 ETF의 주간 평균 회전율은 45%에서 38%로 하락했다. SK하이닉스 단일종목 ETF의 회전율도 179%에서 146%로 낮아졌다. 이상현 메리츠증권 연구원은...",
+      "link": "https://www.etoday.co.kr/news/view/2607970",
+      "originallink": "https://www.etoday.co.kr/news/view/2607970",
+      "press": "",
       "pubDate": "2026-07-27T17:40:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -3335,10 +3398,10 @@
       ]
     },
     {
-      "title": "엔화 890원대…'슈퍼 엔저'에 여행객 웃고 수출기업 긴장",
-      "description": "허성우 하나증권 연구원은 \"엔화 약세의 근본적인 원인이 통화정책에 있는 만큼 일본은행의 금리 인상 사이클이 예상보다 빨라질 가능성이 있다\"며 \"7월 동결 이후 9월 추가 인상을 전망한다\"고 전했다. / 월요신문=",
-      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315636",
-      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=315636",
+      "title": "[오늘증시]코스피·코스닥, AI 협력 기대 속 변동성 장세…1% 가까이 상...",
+      "description": "27일 서울 중구 하나은행 딜링룸 전광판에 코스피 지수가 전일 종가와 비교해 65.13포인트(p)(0.97%) 상승한... 그러나 장중 CXMT의 상하이증권거래소 상장 소식이 투자심리에 부담을 줬다. CXMT는 상장 첫날...",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=460875",
+      "originallink": "http://www.queen.co.kr/news/articleView.html?idxno=460875",
       "press": "",
       "pubDate": "2026-07-27T17:30:00+09:00",
       "date": "2026-07-27",
@@ -3347,10 +3410,10 @@
       ]
     },
     {
-      "title": "[오늘증시]코스피·코스닥, AI 협력 기대 속 변동성 장세…1% 가까이 상...",
-      "description": "27일 서울 중구 하나은행 딜링룸 전광판에 코스피 지수가 전일 종가와 비교해 65.13포인트(p)(0.97%) 상승한... 그러나 장중 CXMT의 상하이증권거래소 상장 소식이 투자심리에 부담을 줬다. CXMT는 상장 첫날...",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=460875",
-      "originallink": "http://www.queen.co.kr/news/articleView.html?idxno=460875",
+      "title": "엔화 890원대…'슈퍼 엔저'에 여행객 웃고 수출기업 긴장",
+      "description": "허성우 하나증권 연구원은 \"엔화 약세의 근본적인 원인이 통화정책에 있는 만큼 일본은행의 금리 인상 사이클이 예상보다 빨라질 가능성이 있다\"며 \"7월 동결 이후 9월 추가 인상을 전망한다\"고 전했다. / 월요신문=",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315636",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=315636",
       "press": "",
       "pubDate": "2026-07-27T17:30:00+09:00",
       "date": "2026-07-27",
@@ -3462,18 +3525,6 @@
       ]
     },
     {
-      "title": "하나증권, 450억원 규모 중간배당 결정…전액 하나금융지주 귀속",
-      "description": "하나증권[출처: 연합뉴스 자료 사진] 하나증권이 보통주 1주당 559.48원, 총 450억원 규모의 중간배당을 실시한다. 27일 업계에 따르면 하나증권은 지난 23일 이사회를 열고 이 같은 내용의 '현금배당 결정'을 결정했다....",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427092",
-      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427092",
-      "press": "",
-      "pubDate": "2026-07-27T17:26:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "하나증권"
-      ]
-    },
-    {
       "title": "[네이버·엔비디아 빅딜 해부]③유증 충격, 1조 자사주 소각으로 방어",
       "description": "이준호 하나증권 연구원은 \"(이번 계약으로)네이버의 전략적 파트너가 엔비디아임이 확인됐다\"며 \"향후 1GW까지 스케일업하는 과정에서 고객사 확보, GPU 공급, 자본 조달 등에 수혜를 볼 것\"이라고 평가했다. 이어...",
       "link": "https://n.news.naver.com/mnews/article/293/0000088171?sid=105",
@@ -3484,6 +3535,18 @@
       "companies": [
         "하나증권",
         "메리츠증권"
+      ]
+    },
+    {
+      "title": "하나증권, 450억원 규모 중간배당 결정…전액 하나금융지주 귀속",
+      "description": "하나증권[출처: 연합뉴스 자료 사진] 하나증권이 보통주 1주당 559.48원, 총 450억원 규모의 중간배당을 실시한다. 27일 업계에 따르면 하나증권은 지난 23일 이사회를 열고 이 같은 내용의 '현금배당 결정'을 결정했다....",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427092",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427092",
+      "press": "",
+      "pubDate": "2026-07-27T17:26:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "하나증권"
       ]
     },
     {
@@ -4692,11 +4755,11 @@
       ]
     },
     {
-      "title": "단일종목 레버리지 ‘현금 3000만원’ 문턱…회전매매 줄어드나",
-      "description": "27일 메리츠증권은 단일종목 레버리지 ETF 기본예탁금을 1000만원에서 3000만원으로 올리고 대용증권을 인정하지 않는 조치가 거래 회전율 감소에 큰 영향을 미칠 것으로 분석했다. 정부는 24일 기본예탁금 강화...",
-      "link": "https://www.etoday.co.kr/news/view/2607944",
-      "originallink": "https://www.etoday.co.kr/news/view/2607944",
-      "press": "",
+      "title": "메리츠증권 \"단일 레버리지 ETF 조기 규제, 회전율 낮출 것\"",
+      "description": "메리츠증권은 \"예탁금 상향(1천만→3천만원)과 대용증권 미인정 부분은 회전율 감소에 크게 영향을 끼칠 것\"이라고 27일 전망했습니다. 기존에는 계좌 내 주식이나 ETF, 채권 등 대용증권도 기본예탁금으로 인정됐지만...",
+      "link": "https://n.news.naver.com/mnews/article/422/0000889371?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260727164957bmm",
+      "press": "연합뉴스",
       "pubDate": "2026-07-27T16:50:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -4704,11 +4767,11 @@
       ]
     },
     {
-      "title": "메리츠증권 \"단일 레버리지 ETF 조기 규제, 회전율 낮출 것\"",
-      "description": "메리츠증권은 \"예탁금 상향(1천만→3천만원)과 대용증권 미인정 부분은 회전율 감소에 크게 영향을 끼칠 것\"이라고 27일 전망했습니다. 기존에는 계좌 내 주식이나 ETF, 채권 등 대용증권도 기본예탁금으로 인정됐지만...",
-      "link": "https://n.news.naver.com/mnews/article/422/0000889371?sid=101",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260727164957bmm",
-      "press": "연합뉴스",
+      "title": "단일종목 레버리지 ‘현금 3000만원’ 문턱…회전매매 줄어드나",
+      "description": "27일 메리츠증권은 단일종목 레버리지 ETF 기본예탁금을 1000만원에서 3000만원으로 올리고 대용증권을 인정하지 않는 조치가 거래 회전율 감소에 큰 영향을 미칠 것으로 분석했다. 정부는 24일 기본예탁금 강화...",
+      "link": "https://www.etoday.co.kr/news/view/2607944",
+      "originallink": "https://www.etoday.co.kr/news/view/2607944",
+      "press": "",
       "pubDate": "2026-07-27T16:50:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -5286,6 +5349,18 @@
       ]
     },
     {
+      "title": "KB금융그룹, '제4차 KB금융그룹 생산적금융 협의회' 열려",
+      "description": "채용했고, KB증권도 국가전략산업분야별 심사인력을 확대하는 등 차별화된 심사역량과 제도적 기반을 강화하고 있다. 또, 그룹 전반의 첨단전략산업 이해도를 높이기 위해 그룹 내 경영연구소, 리서치센터, 영업 및...",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1097090",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1097090",
+      "press": "",
+      "pubDate": "2026-07-27T16:36:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
       "title": "솔루스첨단소재, 동박 공급 병목 본격화...\"PBR 0.7배 역사적 저점\"-SK증...",
       "description": "SK증권은 27일 솔루스첨단소재에 대해 투자의견 '매수', 목표주가 1만7000원을 제시했다. 올해 예상 실적 기준 주가순자산비율(PBR)이 0.7배까지 내려와 역사적 최저 수준이라는 점도 투자 매력을 높이는 요인으로 꼽았다....",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471943",
@@ -5400,10 +5475,10 @@
       ]
     },
     {
-      "title": "미래에셋생명 주가, 7월 27일 16,400원 3.14% 상승 마감",
-      "description": "27일 KRX 마감 기준, 네이버페이 증권에 따르면 미래에셋생명은 지난 종가 대비 3.14% 상승한 16,400원에 거래를 마쳤다. 시가는 16,000원으로 시작하여 15,800원에서 16,650원 사이의 가격대를 형성했으며...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146941",
-      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16146941",
+      "title": "미래에셋박현주재단, ETF가 청년자립의 씨드머니 된다",
+      "description": "사진=미래에셋박현주재단 국내 증권업계에 호황을 가져다 준 ETF가 이제는 가족돌봄청년의 금융자립을 지원한다. 미래에셋박현주재단은 지난 25일 서울 용산구 서울광역청년센터에서 '2026 청년 씨드온 프로젝트...",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=98176",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=98176",
       "press": "",
       "pubDate": "2026-07-27T16:30:00+09:00",
       "date": "2026-07-27",
@@ -5412,10 +5487,10 @@
       ]
     },
     {
-      "title": "미래에셋박현주재단, ETF가 청년자립의 씨드머니 된다",
-      "description": "사진=미래에셋박현주재단 국내 증권업계에 호황을 가져다 준 ETF가 이제는 가족돌봄청년의 금융자립을 지원한다. 미래에셋박현주재단은 지난 25일 서울 용산구 서울광역청년센터에서 '2026 청년 씨드온 프로젝트...",
-      "link": "http://www.sisacast.kr/news/articleView.html?idxno=98176",
-      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=98176",
+      "title": "미래에셋생명 주가, 7월 27일 16,400원 3.14% 상승 마감",
+      "description": "27일 KRX 마감 기준, 네이버페이 증권에 따르면 미래에셋생명은 지난 종가 대비 3.14% 상승한 16,400원에 거래를 마쳤다. 시가는 16,000원으로 시작하여 15,800원에서 16,650원 사이의 가격대를 형성했으며...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146941",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16146941",
       "press": "",
       "pubDate": "2026-07-27T16:30:00+09:00",
       "date": "2026-07-27",
@@ -5696,6 +5771,18 @@
       ]
     },
     {
+      "title": "코인원 앱이 한투증권 주식창구로...개인고객 '조회·거래 베스트'도 연...",
+      "description": "코인원 이용자가 별도의 증권사 모바일트레이딩시스템(MTS)을 설치하지 않고 한국투자증권 개인 고객의 인기 종목을 확인한 뒤 국내주식과 상장지수펀드(ETF)를 거래할 수 있게 됐다.27일 한국투자증권은 가상자산 거래소...",
+      "link": "https://www.insight.co.kr/news/564933",
+      "originallink": "https://www.insight.co.kr/news/564933",
+      "press": "",
+      "pubDate": "2026-07-27T16:24:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
       "title": "하나에프앤아이 회사채 수요예측서 7천억원 몰려",
       "description": "대표 주관사는 NH투자증권, 신한투자증권, KB증권, 한국투자증권 등 4곳이다. IB 업계 관계자는 \"3년물이 특히 흥행했는데, 절대금리 대비 발행물량이 적은 영향 등을 받았다\"고 전했다.",
       "link": "https://n.news.naver.com/mnews/article/001/0016217464?sid=101",
@@ -5712,15 +5799,15 @@
       ]
     },
     {
-      "title": "코인원 앱이 한투증권 주식창구로...개인고객 '조회·거래 베스트'도 연...",
-      "description": "코인원 이용자가 별도의 증권사 모바일트레이딩시스템(MTS)을 설치하지 않고 한국투자증권 개인 고객의 인기 종목을 확인한 뒤 국내주식과 상장지수펀드(ETF)를 거래할 수 있게 됐다.27일 한국투자증권은 가상자산 거래소...",
-      "link": "https://www.insight.co.kr/news/564933",
-      "originallink": "https://www.insight.co.kr/news/564933",
+      "title": "[이슈] 셀트리온, 신규 제품 비중 65%…'포트폴리오 전환' 역대 최대 실...",
+      "description": "KB증권은 최근 발간한 셀트리온 2분기 컨퍼런스콜 요약 보고서에서 이번 실적의 핵심을 신규 제품 중심의 매출 구조 전환으로 분석했다. 신지훈 KB증권 연구원은 \"신규 제품 매출이 전년 동기 대비 76% 증가하며 전체...",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807879",
+      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807879",
       "press": "",
       "pubDate": "2026-07-27T16:24:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "한국투자증권"
+        "KB증권"
       ]
     },
     {
@@ -5752,30 +5839,6 @@
       ]
     },
     {
-      "title": "[이슈] 셀트리온, 신규 제품 비중 65%…'포트폴리오 전환' 역대 최대 실...",
-      "description": "KB증권은 최근 발간한 셀트리온 2분기 컨퍼런스콜 요약 보고서에서 이번 실적의 핵심을 신규 제품 중심의 매출 구조 전환으로 분석했다. 신지훈 KB증권 연구원은 \"신규 제품 매출이 전년 동기 대비 76% 증가하며 전체...",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807879",
-      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807879",
-      "press": "",
-      "pubDate": "2026-07-27T16:24:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권"
-      ]
-    },
-    {
-      "title": "[정몽규 HDC의 다음 50년②] 사고 4년 반, 영업정지는 아직 ‘0일’",
-      "description": "증권가에서는 광운대역세권 개발사업인 서울원 아이파크를 비롯한 자체 사업 매출 인식이 본격화하면서... 그러나 이 같은 실적 지표와 함께 봐야 할 숫자가 하나 더 있다. 회사가 광주 화정 아이파크 붕괴 사고에 따른...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260727025254833",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20260727025254833",
-      "press": "",
-      "pubDate": "2026-07-27T16:24:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "하나증권"
-      ]
-    },
-    {
       "title": "로지텍, 토스에 화상회의 기반 스마트 워크플레이스 구축",
       "description": "토스는 토스뱅크, 토스증권, 토스인슈어런스, 토스페이먼츠 등 다양한 금융 서비스를 제공하는 핀테크 기업으로, 조직 규모와 업무 공간이 확대되면서 전 구성원이 동일한 협업 경험을 누릴 수 있도록 신사옥 스마트...",
       "link": "https://www.thelec.kr/news/articleView.html?idxno=60102",
@@ -5797,7 +5860,6 @@
       "date": "2026-07-27",
       "companies": [
         "KB증권",
-        "하나증권",
         "DB금융투자"
       ]
     },
@@ -5848,18 +5910,6 @@
       "date": "2026-07-27",
       "companies": [
         "신한투자증권"
-      ]
-    },
-    {
-      "title": "'강달러' 베트남, 기준환율 달러당 2만5,300동 육박…역대 최고치 근접",
-      "description": "한편, 현지 증권사 중 하나인 VN다이렉트증권 리서치팀은 이달 중순 내놓은 보고서를 통해 외국인직접투자(FDI) 유입에 따른 외환 공급 증가와 상대적으로 높은 베트남 동화 금리가 환율 상승 압력을 일정 부분...",
-      "link": "https://www.insidevina.com/news/articleView.html?idxno=43685",
-      "originallink": "https://www.insidevina.com/news/articleView.html?idxno=43685",
-      "press": "",
-      "pubDate": "2026-07-27T16:22:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "하나증권"
       ]
     },
     {
@@ -5926,19 +5976,6 @@
       ]
     },
     {
-      "title": "코스피·코스닥, 동반 2% 상승...개인·기관 '사자'",
-      "description": "유가증권시장에서 외국인이 홀로 2조8850억원어치를 순매도했지만 개인과 기관이 각각 1조9800억원... 78%), KB금융(0.64%) 등이 올랐다. 반면 SK스퀘어(-1.17%), 삼성전기(-0.08%), 삼성생명(-2.04%) 등은 하락했다. 또한...",
-      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=78191",
-      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=78191",
-      "press": "",
-      "pubDate": "2026-07-27T16:20:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권",
-        "대신증권"
-      ]
-    },
-    {
       "title": "상반기 11조원 번 4대 금융, 피 말리는 '주주환원' 전쟁",
       "description": "4대(KB·신한·하나·우리) 금융지주가 올해 상반기 합산 11조원이 넘는 역대급 순이익을 거두면서 하반기... 조아해 메리츠증권 연구원은 \"중장기적으로 RWA 성장률이 4% 내외로 관리 가능할 경우, ROE가 9%에서 11%로...",
       "link": "https://www.newsway.co.kr/news/view?ud=2026072713580962323",
@@ -5949,6 +5986,19 @@
       "companies": [
         "KB증권",
         "메리츠증권"
+      ]
+    },
+    {
+      "title": "코스피·코스닥, 동반 2% 상승...개인·기관 '사자'",
+      "description": "유가증권시장에서 외국인이 홀로 2조8850억원어치를 순매도했지만 개인과 기관이 각각 1조9800억원... 78%), KB금융(0.64%) 등이 올랐다. 반면 SK스퀘어(-1.17%), 삼성전기(-0.08%), 삼성생명(-2.04%) 등은 하락했다. 또한...",
+      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=78191",
+      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=78191",
+      "press": "",
+      "pubDate": "2026-07-27T16:20:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권",
+        "대신증권"
       ]
     },
     {
@@ -6013,19 +6063,6 @@
       ]
     },
     {
-      "title": "코스피, 개인·기관 '쌍끌이'에 6700선 탈환…코스닥도 2% 상승",
-      "description": "이밖에 LG에너지솔루션(1.06%), 삼성바이오로직스(1.78%), KB금융(0.64%) 등도 상승 마감했다. 반면 SK스퀘어(-1.17%), 삼성전기(-0.08%), 삼성생명(-2.04%) 등은 하락 마감했다. 이경민 대신증권 연구원은 \"CXMT...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848480",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=848480",
-      "press": "",
-      "pubDate": "2026-07-27T16:16:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권",
-        "대신증권"
-      ]
-    },
-    {
       "title": "은행 비이자이익 효자된 ETF 신탁…하반기 피크아웃 촉각",
       "description": "27일 KB국민·신한·하나·우리·NH농협 등 5대은행에 따르면 올 상반기 신탁수수료 합계는 1조238억원을... 주식시장 활황으로 증권·자산운용 등 계열사 실적은 물론 은행 WM(자산관리) 부문에서 발생하는 수수료 이익도...",
       "link": "https://n.news.naver.com/mnews/article/008/0005391566?sid=101",
@@ -6060,6 +6097,19 @@
       "date": "2026-07-27",
       "companies": [
         "KB증권"
+      ]
+    },
+    {
+      "title": "코스피, 개인·기관 '쌍끌이'에 6700선 탈환…코스닥도 2% 상승",
+      "description": "이밖에 LG에너지솔루션(1.06%), 삼성바이오로직스(1.78%), KB금융(0.64%) 등도 상승 마감했다. 반면 SK스퀘어(-1.17%), 삼성전기(-0.08%), 삼성생명(-2.04%) 등은 하락 마감했다. 이경민 대신증권 연구원은 \"CXMT...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848480",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=848480",
+      "press": "",
+      "pubDate": "2026-07-27T16:16:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권",
+        "대신증권"
       ]
     },
     {
@@ -6119,18 +6169,6 @@
       ]
     },
     {
-      "title": "[기자수첩] 상반기 선방한 카드사, 하반기엔 '본업'이 답할 차례",
-      "description": "27일 금융권에 따르면 신한·KB국민·하나·우리카드의 상반기 당기순이익은 모두 전년 동기보다 증가했다.... 취재 과정에서 만난 한 증권사 연구원은 \"상반기는 비용 감소 효과가 컸고, 하반기는 조달 부담이 커지는...",
-      "link": "https://www.newspim.com/news/view/20260727001146",
-      "originallink": "https://www.newspim.com/news/view/20260727001146",
-      "press": "뉴스핌",
-      "pubDate": "2026-07-27T16:14:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권"
-      ]
-    },
-    {
       "title": "신한은행 상반기 리딩뱅크 격차 더 벌렸다, 정상혁 하반기 '고객기반 확...",
       "description": "27일 4대 은행(KB·신한·하나·우리) 실적을 종합하면 신한은행은 상반기 리딩뱅크 경쟁에서 2위... 정 행장은 2025년 신한금융지주 회장 선임 과정에서도 진옥동 신한금융지주 회장, 이선훈 신한투자증권 사장과 함께...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443206",
@@ -6141,6 +6179,18 @@
       "companies": [
         "KB증권",
         "신한투자증권"
+      ]
+    },
+    {
+      "title": "[기자수첩] 상반기 선방한 카드사, 하반기엔 '본업'이 답할 차례",
+      "description": "27일 금융권에 따르면 신한·KB국민·하나·우리카드의 상반기 당기순이익은 모두 전년 동기보다 증가했다.... 취재 과정에서 만난 한 증권사 연구원은 \"상반기는 비용 감소 효과가 컸고, 하반기는 조달 부담이 커지는...",
+      "link": "https://www.newspim.com/news/view/20260727001146",
+      "originallink": "https://www.newspim.com/news/view/20260727001146",
+      "press": "뉴스핌",
+      "pubDate": "2026-07-27T16:14:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권"
       ]
     },
     {
@@ -6156,6 +6206,18 @@
       ]
     },
     {
+      "title": "농협, 청년농부사관학교 딸기반 졸업식…30명 배출",
+      "description": "졸업식에서는 NH투자증권 후원으로 마련된 농기계 등 지원 물품 전달식도 진행됐다. 대표로 나선 김건우 졸업생은 \"내년 충남 서산에 농장을 조성해 한국 딸기의 우수성을 세계에 알리겠다\"는 포부를 밝혔다. 이날...",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1097121",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1097121",
+      "press": "",
+      "pubDate": "2026-07-27T16:12:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
       "title": "은행계 증권사, 상반기 실적 2배 '껑충'...비은행 전략적 가치도 '점프'",
       "description": "가장 돋보인 곳은 NH투자증권이다. 상반기 지배주주 순이익은 9652억원으로 전년 동기 대비 107.6% 증가하며 반기 기준 최대 실적을 달성했다. KB증권도 순이익 7963억원으로 135.0% 늘었고, 신한투자증권은 5777억원으로...",
       "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725098",
@@ -6167,18 +6229,6 @@
         "NH투자증권",
         "KB증권",
         "신한투자증권"
-      ]
-    },
-    {
-      "title": "농협, 청년농부사관학교 딸기반 졸업식…30명 배출",
-      "description": "졸업식에서는 NH투자증권 후원으로 마련된 농기계 등 지원 물품 전달식도 진행됐다. 대표로 나선 김건우 졸업생은 \"내년 충남 서산에 농장을 조성해 한국 딸기의 우수성을 세계에 알리겠다\"는 포부를 밝혔다. 이날...",
-      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1097121",
-      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1097121",
-      "press": "",
-      "pubDate": "2026-07-27T16:12:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "NH투자증권"
       ]
     },
     {
@@ -6743,18 +6793,6 @@
       ]
     },
     {
-      "title": "코스피 1% 반등...외국인 2조8850억 순매도에도 6750선 회복",
-      "description": "유가증권시장에서 개인은 1조9800억원, 기관은 8623억원을 각각 순매수했다. 외국인은 2조8850억원을... 삼성바이오로직스는 1.78%, LG에너지솔루션은 1.06%, KB금융은 0.64%, 현대차는 0.50% 상승했다. 반면...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687318",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687318",
-      "press": "",
-      "pubDate": "2026-07-27T15:58:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권"
-      ]
-    },
-    {
       "title": "KB금융, 1500억 규모 유니콘 육성펀드 조성 추진 ... '생산적금융 협의회...",
       "description": "이를 위해 KB국민은행은 '첨단전략산업심사 유닛'을 신설하고 외부 전문가를 영입했으며, KB증권도 산업별 전문 심사 인력을 확대했다. 아울러 그룹 내 연구소와 리서치센터, 영업·심사 조직이 참여하는 '첨단전략산업...",
       "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87201",
@@ -6771,6 +6809,18 @@
       "description": "외국인이 유가증권시장에서 2조8000억원 넘게 순매도했지만 기관과 개인이 이를 받아내며 코스피는... 78%), KB금융(0.64%) 등이 올랐다. 반면 SK스퀘어(-1.17%), 삼성전기(-0.08%), 삼성생명(-2.04%) 등은 하락했다....",
       "link": "https://n.news.naver.com/mnews/article/629/0000519351?sid=101",
       "originallink": "https://news.tf.co.kr/read/economy/2347464.htm",
+      "press": "",
+      "pubDate": "2026-07-27T15:58:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "코스피 1% 반등...외국인 2조8850억 순매도에도 6750선 회복",
+      "description": "유가증권시장에서 개인은 1조9800억원, 기관은 8623억원을 각각 순매수했다. 외국인은 2조8850억원을... 삼성바이오로직스는 1.78%, LG에너지솔루션은 1.06%, KB금융은 0.64%, 현대차는 0.50% 상승했다. 반면...",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687318",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687318",
       "press": "",
       "pubDate": "2026-07-27T15:58:00+09:00",
       "date": "2026-07-27",
@@ -7205,6 +7255,18 @@
       ]
     },
     {
+      "title": "삼성SDI에 ESS 중요성 환기해준 미국 버지니아 송전선로 '사고' : 최주선...",
+      "description": "7월20일 신한투자증권 등을 포함해 7월 들어 삼성SDI 분석보고서를 낸 복수의 증권사들은 삼성SDI가 2분기 영업이익을 내며 흑자전환을 했을 것으로 추정했다. 7개 분기 만에 흑자로 돌아서는 것으로 영업이익 규모는...",
+      "link": "https://www.huffingtonpost.kr/article/259031",
+      "originallink": "https://www.huffingtonpost.kr/article/259031",
+      "press": "",
+      "pubDate": "2026-07-27T15:40:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
       "title": "고려아연, 2분기 영업익 6000억원 육박 전망...구리·아연이 은 조정 상...",
       "description": "27일 증권업계에 따르면 신한투자증권은 고려아연의 올해 2분기 연결 기준 매출액을 6조25억원, 영업이익을 5977억원으로 예상했다. 지난해 같은 기간보다 각각 56.9%, 130.9% 증가한 규모다. 고려아연 온산제련소 전경...",
       "link": "https://hbnpress.com/news/view/1065594921000408",
@@ -7216,18 +7278,6 @@
         "신한투자증권",
         "메리츠증권",
         "한화투자증권"
-      ]
-    },
-    {
-      "title": "삼성SDI에 ESS 중요성 환기해준 미국 버지니아 송전선로 '사고' : 최주선...",
-      "description": "7월20일 신한투자증권 등을 포함해 7월 들어 삼성SDI 분석보고서를 낸 복수의 증권사들은 삼성SDI가 2분기 영업이익을 내며 흑자전환을 했을 것으로 추정했다. 7개 분기 만에 흑자로 돌아서는 것으로 영업이익 규모는...",
-      "link": "https://www.huffingtonpost.kr/article/259031",
-      "originallink": "https://www.huffingtonpost.kr/article/259031",
-      "press": "",
-      "pubDate": "2026-07-27T15:40:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "신한투자증권"
       ]
     },
     {
@@ -7282,6 +7332,18 @@
       ]
     },
     {
+      "title": "[특징주] 우리금융, 1천500억원 자사주 매입·소각에 7%대 상승(종합)",
+      "description": "정태준 미래에셋증권 연구원은 \"우리금융지주의 올해 주주환원율은 46.4%까지 상승할 것\"이라며 \"현재 지급 중인 배당이 전액 비과세 배당이라는 점을 고려했을 때 실질 주주환원율은 50%를 상회할 것\"이라고...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016217275?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260727035651008?input=1195m",
+      "press": "연합뉴스",
+      "pubDate": "2026-07-27T15:34:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
       "title": "실적 슈퍼위크에 FOMC까지…코스피 분수령",
       "description": "다만 KB증권과 미래에셋증권은 최근 각각 컨센서스와 기존 전망치보다 낮은 매출·영업이익 전망치를 내놨다. 삼성전자는 앞서 7일 매출 171조원, 영업이익 89조4000억원의 잠정실적을 발표했다. 30일...",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661273",
@@ -7295,18 +7357,6 @@
         "KB증권",
         "대신증권",
         "유안타증권"
-      ]
-    },
-    {
-      "title": "[특징주] 우리금융, 1천500억원 자사주 매입·소각에 7%대 상승(종합)",
-      "description": "정태준 미래에셋증권 연구원은 \"우리금융지주의 올해 주주환원율은 46.4%까지 상승할 것\"이라며 \"현재 지급 중인 배당이 전액 비과세 배당이라는 점을 고려했을 때 실질 주주환원율은 50%를 상회할 것\"이라고...",
-      "link": "https://n.news.naver.com/mnews/article/001/0016217275?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260727035651008?input=1195m",
-      "press": "연합뉴스",
-      "pubDate": "2026-07-27T15:34:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권"
       ]
     },
     {
@@ -7399,10 +7449,10 @@
       ]
     },
     {
-      "title": "[금융 HOT 뉴스] KB금융, 생산적금융 협의회 개최…첨단전략산업 투자 확...",
-      "description": "KB증권도 국가전략산업 분야별 심사인력을 확대하는 등 심사 역량과 제도적 기반을 강화하고 있다. 그룹 차원의 산업 이해도도 높인다. 경영연구소와 리서치센터, 영업·심사조직 등이 참여하는 '그룹 첨단전략산업...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141590",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=141590",
+      "title": "[은행 돋보기] KB국민은행, 상반기 건전성 개선…부실·연체율 낮췄다",
+      "description": "WM 수수료이익은 신탁이익과 증권대행수수료, 방카슈랑스 판매수수료의 합계 기준이다. 디지털부문 실적을 보면 은행의 디지털 채널 상품 신규 비율은 올 상반기 73%로 전년 동기보다 1%p 늘었다. KB국민은행의...",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190216",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190216",
       "press": "",
       "pubDate": "2026-07-27T15:32:00+09:00",
       "date": "2026-07-27",
@@ -7411,10 +7461,10 @@
       ]
     },
     {
-      "title": "[은행 돋보기] KB국민은행, 상반기 건전성 개선…부실·연체율 낮췄다",
-      "description": "WM 수수료이익은 신탁이익과 증권대행수수료, 방카슈랑스 판매수수료의 합계 기준이다. 디지털부문 실적을 보면 은행의 디지털 채널 상품 신규 비율은 올 상반기 73%로 전년 동기보다 1%p 늘었다. KB국민은행의...",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190216",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190216",
+      "title": "[금융 HOT 뉴스] KB금융, 생산적금융 협의회 개최…첨단전략산업 투자 확...",
+      "description": "KB증권도 국가전략산업 분야별 심사인력을 확대하는 등 심사 역량과 제도적 기반을 강화하고 있다. 그룹 차원의 산업 이해도도 높인다. 경영연구소와 리서치센터, 영업·심사조직 등이 참여하는 '그룹 첨단전략산업...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141590",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=141590",
       "press": "",
       "pubDate": "2026-07-27T15:32:00+09:00",
       "date": "2026-07-27",
@@ -7626,19 +7676,6 @@
       ]
     },
     {
-      "title": "액티브ETF 조직 세운 KB운용…“3년 내 점유율 10% 목표”",
-      "description": "(사진=KB자산운용) 곽 실장이 이끄는 액티브ETF운용실은 지난 5월 주식운용본부 산하에 신설된 액티브 ETF 전담 조직이다. 신영증권 애널리스트와 한국투자신탁운용 기업분석부장을 거친 테크 섹터 전문가인 그는...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006337611?sid=101",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03644086645518784",
-      "press": "이데일리",
-      "pubDate": "2026-07-27T15:18:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "KB증권",
-        "신영증권"
-      ]
-    },
-    {
       "title": "SK하이닉스, 2분기 역대 최대 실적 전망… D램·낸드·HBM 전방위 호황",
       "description": "김동원 KB증권 리서치본부장은 이 같은 흐름에 대해 “HBM 생산 비중 확대에 따라 범용 메모리 공급 여력이 사실상 제한적 수준에 그칠 것”이라며 “장기공급계약(LTA) 비중 증가로 빅테크와 AI 데이터센터향 매출...",
       "link": "https://n.news.naver.com/mnews/article/366/0001182224?sid=105",
@@ -7650,6 +7687,19 @@
         "KB증권",
         "교보증권",
         "IBK투자증권"
+      ]
+    },
+    {
+      "title": "액티브ETF 조직 세운 KB운용…“3년 내 점유율 10% 목표”",
+      "description": "(사진=KB자산운용) 곽 실장이 이끄는 액티브ETF운용실은 지난 5월 주식운용본부 산하에 신설된 액티브 ETF 전담 조직이다. 신영증권 애널리스트와 한국투자신탁운용 기업분석부장을 거친 테크 섹터 전문가인 그는...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337611?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03644086645518784",
+      "press": "이데일리",
+      "pubDate": "2026-07-27T15:18:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "KB증권",
+        "신영증권"
       ]
     },
     {
@@ -7831,18 +7881,6 @@
       ]
     },
     {
-      "title": "키움증권, 퇴직연금 출범 두 달 만에 1000억원…수수료 면제 혜택",
-      "description": "엄주성 키움증권 대표 ㅣ 키움증권 키움증권이 퇴직연금 사업 시작 두 달도 채 되지 않아 적립금 1000억원을 돌파하며 시장 안착에 속도를 내고 있다. 기존 주식 투자 고객을 퇴직연금으로 끌어들이는 온라인 플랫폼...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356528",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=356528",
-      "press": "",
-      "pubDate": "2026-07-27T15:14:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권"
-      ]
-    },
-    {
       "title": "'브로커리지 1위' 키움증권, 절세·AI 앞세워 WM 승부수",
       "description": "1위인 키움증권이 거래 플랫폼 '영웅문S#'를 종합 자산관리(WM) 플랫폼으로 확장하는 데 속도를 내고 있다. 브로커리지 중심의 수익 구조를 넘어 ISA(개인종합자산관리계좌)와 개인연금, 퇴직연금 등 장기 자산관리로...",
       "link": "https://www.meconomynews.com/news/articleView.html?idxno=133055",
@@ -7853,6 +7891,18 @@
       "companies": [
         "키움증권",
         "DB금융투자"
+      ]
+    },
+    {
+      "title": "키움증권, 퇴직연금 출범 두 달 만에 1000억원…수수료 면제 혜택",
+      "description": "엄주성 키움증권 대표 ㅣ 키움증권 키움증권이 퇴직연금 사업 시작 두 달도 채 되지 않아 적립금 1000억원을 돌파하며 시장 안착에 속도를 내고 있다. 기존 주식 투자 고객을 퇴직연금으로 끌어들이는 온라인 플랫폼...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356528",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=356528",
+      "press": "",
+      "pubDate": "2026-07-27T15:14:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권"
       ]
     },
     {
@@ -7942,10 +7992,10 @@
       ]
     },
     {
-      "title": "엔비디아, 네이버에 1.5조…GPU 우선권 '아시아 코어위브' 직행",
-      "description": "메리츠증권 이효진 연구원도 \"엔비디아는 네이버를 통해 AI 소프트웨어 피드백을 확보할 수 있고, 사업 영역이 겹치지 않으면서도 데이터센터 확장에 필요한 자금 조달 능력을 갖춘 사업자를 확보하게 됐다\"고...",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362634",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362634",
+      "title": "네이버, 엔비디아 업고 'AI 인프라 기업' 변신…1GW 팩토리 승부수",
+      "description": "이효진 메리츠증권 연구원은 \"이번 협업은 네이버의 자산 배분이 플랫폼 중심에서 AI 인프라 중심으로 변화한다는 점에서 의미가 크다\"며 \"엔비디아 GPU 우선 조달권 확보와 PF를 활용한 레버리지 구조는 수익성과...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356530",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=356530",
       "press": "",
       "pubDate": "2026-07-27T15:10:00+09:00",
       "date": "2026-07-27",
@@ -7955,10 +8005,10 @@
       ]
     },
     {
-      "title": "네이버, 엔비디아 업고 'AI 인프라 기업' 변신…1GW 팩토리 승부수",
-      "description": "이효진 메리츠증권 연구원은 \"이번 협업은 네이버의 자산 배분이 플랫폼 중심에서 AI 인프라 중심으로 변화한다는 점에서 의미가 크다\"며 \"엔비디아 GPU 우선 조달권 확보와 PF를 활용한 레버리지 구조는 수익성과...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356530",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=356530",
+      "title": "엔비디아, 네이버에 1.5조…GPU 우선권 '아시아 코어위브' 직행",
+      "description": "메리츠증권 이효진 연구원도 \"엔비디아는 네이버를 통해 AI 소프트웨어 피드백을 확보할 수 있고, 사업 영역이 겹치지 않으면서도 데이터센터 확장에 필요한 자금 조달 능력을 갖춘 사업자를 확보하게 됐다\"고...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362634",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=362634",
       "press": "",
       "pubDate": "2026-07-27T15:10:00+09:00",
       "date": "2026-07-27",
@@ -8069,18 +8119,6 @@
       ]
     },
     {
-      "title": "[금융권 이모저모]신한은행, 시니어 정기예금 5차 특별판매 外",
-      "description": "사진=신한은행 ◇신한은행, 'SOL메이트 정기예금' 5차 특별판매 신한은행은 27일부터 만 50세 이상 고객을... / 사진=BNK금융그룹 ◇BNK투자증권, 금융소비자 보호 대응 체계 구축 BNK투자증권은 금융위원회와 금융감독원의...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114667",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114667",
-      "press": "",
-      "pubDate": "2026-07-27T15:04:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "신한투자증권"
-      ]
-    },
-    {
       "title": "고려아연, 은값 조정에도 영업익 6000억 전망…펀더멘털 프리미엄 뜬다",
       "description": "고려아연 온산제련소 야간 전경.(사진=고려아연) 27일 관련업계에 따르면 신한투자증권 박광래 연구위원은 최근 '귀금속이 만드는 이익, 미국이 만드는 가치'라는 제목의 보고서에서 고려아연의 올해 2분기 연결 기준...",
       "link": "https://www.asiatime.co.kr/article/20260727500361",
@@ -8092,6 +8130,18 @@
         "신한투자증권",
         "메리츠증권",
         "한화투자증권"
+      ]
+    },
+    {
+      "title": "[금융권 이모저모]신한은행, 시니어 정기예금 5차 특별판매 外",
+      "description": "사진=신한은행 ◇신한은행, 'SOL메이트 정기예금' 5차 특별판매 신한은행은 27일부터 만 50세 이상 고객을... / 사진=BNK금융그룹 ◇BNK투자증권, 금융소비자 보호 대응 체계 구축 BNK투자증권은 금융위원회와 금융감독원의...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114667",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114667",
+      "press": "",
+      "pubDate": "2026-07-27T15:04:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "신한투자증권"
       ]
     },
     {
@@ -8351,18 +8401,6 @@
       ]
     },
     {
-      "title": "NH투자증권, 퇴직연금 ELS 가입 이벤트",
-      "description": "9월 30일까지 N2 퇴직연금 ELS 청약 고객 대상 이벤트 진행 청약금액 따라 커피 쿠폰·1만원 모바일 상품권 제공 /NH투자증권 NH투자증권은 퇴직연금(DC·IRP) 가입 고객을 대상으로 'N2 퇴직연금 ELS 이벤트 시즌2'를 오는...",
-      "link": "http://www.metroseoul.co.kr/article/20260727500376",
-      "originallink": "http://www.metroseoul.co.kr/article/20260727500376",
-      "press": "서울신문",
-      "pubDate": "2026-07-27T14:52:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "NH투자증권"
-      ]
-    },
-    {
       "title": "NH투자증권, 디지털자산 전담조직 띄웠다…STO 제도화 선제 대응",
       "description": "NH투자증권이 디지털자산의 제도권 편입에 대응하기 위해 전담 조직을 꾸리고 관련 사업 준비에 속도를 낸다. 27일 금융투자업계에 따르면 NH투자증권은 지난 22일 디지털자산 사업 기회 발굴과 실행 기반 확보를 위한...",
       "link": "https://www.econovill.com/news/articleView.html?idxno=746290",
@@ -8391,6 +8429,18 @@
       ]
     },
     {
+      "title": "NH투자증권, 퇴직연금 ELS 가입 이벤트",
+      "description": "9월 30일까지 N2 퇴직연금 ELS 청약 고객 대상 이벤트 진행 청약금액 따라 커피 쿠폰·1만원 모바일 상품권 제공 /NH투자증권 NH투자증권은 퇴직연금(DC·IRP) 가입 고객을 대상으로 'N2 퇴직연금 ELS 이벤트 시즌2'를 오는...",
+      "link": "http://www.metroseoul.co.kr/article/20260727500376",
+      "originallink": "http://www.metroseoul.co.kr/article/20260727500376",
+      "press": "서울신문",
+      "pubDate": "2026-07-27T14:52:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
       "title": "하닉·삼전 ‘동반하락’…中 CXMT 상장 전 선반영",
       "description": "김용구 유안타증권 연구원은 “지난주(16~22일) 신흥국 중점 투자 펀드는 전반적으로 견조했으나 동일한 AI 사이클 내에서도 국가별 차별화가 확인됐다”며 “중국은 CXMT의 상장 청약 개시와 함께 반도체...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1308324&inflow=N",
@@ -8413,6 +8463,32 @@
       "companies": [
         "미래에셋증권",
         "NH투자증권"
+      ]
+    },
+    {
+      "title": "[증권街소식]한국투자증권ㆍ미래에셋박현주재단ㆍ신한투자증권",
+      "description": "기존 한국투자증권 뱅키스 계좌를 보유하지 않은 고객은 별도의 계좌 개설 절차를 거쳐야 한다. ◇미래에셋박현주재단, 2026 청년 씨드온 프로젝트 오리엔테이션 성료 미래에셋박현주재단은 지난 25일 서울 용산구...",
+      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47629",
+      "originallink": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47629",
+      "press": "",
+      "pubDate": "2026-07-27T14:48:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가…전 금융권 유일 기...",
+      "description": "미래에셋증권이 2분기 퇴직연금 적립금 약 10조원 증가를 기록하며 퇴직연금 시장에서 경쟁력을 입증했다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다....",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1729",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1729",
+      "press": "",
+      "pubDate": "2026-07-27T14:48:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
       ]
     },
     {
@@ -8443,32 +8519,6 @@
       "companies": [
         "미래에셋증권",
         "한국투자증권"
-      ]
-    },
-    {
-      "title": "미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가…전 금융권 유일 기...",
-      "description": "미래에셋증권이 2분기 퇴직연금 적립금 약 10조원 증가를 기록하며 퇴직연금 시장에서 경쟁력을 입증했다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다....",
-      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1729",
-      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1729",
-      "press": "",
-      "pubDate": "2026-07-27T14:48:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권"
-      ]
-    },
-    {
-      "title": "[증권街소식]한국투자증권ㆍ미래에셋박현주재단ㆍ신한투자증권",
-      "description": "기존 한국투자증권 뱅키스 계좌를 보유하지 않은 고객은 별도의 계좌 개설 절차를 거쳐야 한다. ◇미래에셋박현주재단, 2026 청년 씨드온 프로젝트 오리엔테이션 성료 미래에셋박현주재단은 지난 25일 서울 용산구...",
-      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47629",
-      "originallink": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47629",
-      "press": "",
-      "pubDate": "2026-07-27T14:48:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권",
-        "한국투자증권",
-        "신한투자증권"
       ]
     },
     {
@@ -9149,18 +9199,6 @@
       ]
     },
     {
-      "title": "미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가",
-      "description": "미래에셋증권의 2분기 퇴직연금 적립금이 10조원 늘어났다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금 공시에 따르면 2분기...",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009320",
-      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1009320",
-      "press": "",
-      "pubDate": "2026-07-27T14:08:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권"
-      ]
-    },
-    {
       "title": "[특징주] 두산퓨얼셀, 2분기 실적 부진에 '하한가'…증권가 전망 엇갈려",
       "description": "미래에셋증권은 펀더멘털 증명이 우선이라며 보수적인 관점을 유지했다. 류제현 미래에셋증권 연구원은 두산퓨얼셀에 대해 목표주가는 4만2000원으로 상향하지만 투자의견 '중립(Hold)'을 유지하며 \"하반기에도...",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1717922",
@@ -9171,6 +9209,18 @@
       "companies": [
         "미래에셋증권",
         "메리츠증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가",
+      "description": "미래에셋증권의 2분기 퇴직연금 적립금이 10조원 늘어났다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금 공시에 따르면 2분기...",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009320",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1009320",
+      "press": "",
+      "pubDate": "2026-07-27T14:08:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
       ]
     },
     {
@@ -9375,6 +9425,20 @@
       ]
     },
     {
+      "title": "미래에셋증권, 퇴직연금 성장세 가속…연금자산 80조원대",
+      "description": "미래에셋증권은 올해 2분기 퇴직연금 적립금이 약 9조5,799억원 증가해 전 금융권 퇴직연금 사업자 가운데 가장 큰 증가 규모를 기록했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금 공시에 따르면 2분기 전체 퇴직연금...",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=208393",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=208393",
+      "press": "",
+      "pubDate": "2026-07-27T13:56:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권",
+        "키움증권",
+        "DB금융투자"
+      ]
+    },
+    {
       "title": "미래에셋증권, 2분기 퇴직연금 적립금 10조원 증가",
       "description": "현대경제신문 최현서 기자 | 미래에셋증권의 올해 2분기 퇴직연금 적립금이 약 10조원 늘며 전 금융권 퇴직연금 사업자 가운데 가장 큰 증가 폭을 기록했다. 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서...",
       "link": "http://www.finomy.com/news/articleView.html?idxno=258066",
@@ -9408,19 +9472,6 @@
       "date": "2026-07-27",
       "companies": [
         "한국투자증권"
-      ]
-    },
-    {
-      "title": "미래에셋증권, 퇴직연금 성장세 가속…연금자산 80조원대",
-      "description": "키움증권은 지난 6월 퇴직연금 사업을 시작한 뒤 두 달 만에 적립금 1,000억원을 넘어섰고, 하나증권은 개인형 퇴직연금(IRP)과 DC·DB형 원리금비보장 상품의 장기 수익률을 앞세워 연금 자산관리 조직을 확대하고 있다.",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=208393",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=208393",
-      "press": "",
-      "pubDate": "2026-07-27T13:56:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권",
-        "DB금융투자"
       ]
     },
     {
@@ -9460,10 +9511,10 @@
       ]
     },
     {
-      "title": "[26.7.27 증시 인싸잇] 오늘의 종목 - 항공 관련株",
-      "description": "최민기 신한투자증권 선임연구원은 “중동 불확실성 재부각으로 글로벌 항공주 전반의 변동성이 커졌지만, 그중 대한항공은 고유가 환경에서도 견조한 이익 체력을 입증해 주가 하방 압력이 상대적으로 제한적일 것”...",
-      "link": "https://www.mediawatch.kr/news/article.html?no=260478",
-      "originallink": "https://www.mediawatch.kr/news/article.html?no=260478",
+      "title": "신한투자증권, 기관금융 블록체인 인프라 투자…캔톤 운영사 지분 참여",
+      "description": "| 이코노미사이언스 박성현 기자 | 신한투자증권이 기관금융 특화 블록체인 네트워크인 '캔톤 네트워크(Canton Network)' 운영사에 전략적 투자를 단행하며 디지털자산 금융 인프라 확보에 나섰다. 단순한 기술 협력을...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132449",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132449",
       "press": "",
       "pubDate": "2026-07-27T13:52:00+09:00",
       "date": "2026-07-27",
@@ -9472,10 +9523,10 @@
       ]
     },
     {
-      "title": "신한투자증권, 기관금융 블록체인 인프라 투자…캔톤 운영사 지분 참여",
-      "description": "| 이코노미사이언스 박성현 기자 | 신한투자증권이 기관금융 특화 블록체인 네트워크인 '캔톤 네트워크(Canton Network)' 운영사에 전략적 투자를 단행하며 디지털자산 금융 인프라 확보에 나섰다. 단순한 기술 협력을...",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132449",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132449",
+      "title": "[26.7.27 증시 인싸잇] 오늘의 종목 - 항공 관련株",
+      "description": "최민기 신한투자증권 선임연구원은 “중동 불확실성 재부각으로 글로벌 항공주 전반의 변동성이 커졌지만, 그중 대한항공은 고유가 환경에서도 견조한 이익 체력을 입증해 주가 하방 압력이 상대적으로 제한적일 것”...",
+      "link": "https://www.mediawatch.kr/news/article.html?no=260478",
+      "originallink": "https://www.mediawatch.kr/news/article.html?no=260478",
       "press": "",
       "pubDate": "2026-07-27T13:52:00+09:00",
       "date": "2026-07-27",
@@ -9546,11 +9597,11 @@
       ]
     },
     {
-      "title": "신한투자증권, 기관용 블록체인 ‘캔톤’ 운영사 디지털에셋에 투자",
-      "description": "신한투자증권은 블록체인 네트워크 ‘캔톤 네트워크’ 운영사인 디지털에셋(Digital Asset)에 투자자로 참여했다고 27일 밝혔다. 신한금융그룹은 이번 투자를 통해 글로벌 디지털 사업을 확대한다는 구상이다. 이번...",
-      "link": "https://n.news.naver.com/mnews/article/009/0005712691?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12108312",
-      "press": "매일경제",
+      "title": "'반기 영업이익 2조원' 우리은행에 '통곡의 벽' 되나",
+      "description": "신한은행의 올 상반기 영업이익은 3조1586억원으로 전년 동기보다 7.7% 증가했고, KB국민은행도 6.3% 늘어난... 보험사 편입과 카드·캐피탈·증권 등 비은행 계열사의 이익 증가로 비은행 이익 기여도가 작년 상반기 6.9...",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4867371",
+      "originallink": "https://www.newsinside.kr/news/articleView.html?idxno=4867371",
+      "press": "",
       "pubDate": "2026-07-27T13:50:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -9558,11 +9609,11 @@
       ]
     },
     {
-      "title": "'반기 영업이익 2조원' 우리은행에 '통곡의 벽' 되나",
-      "description": "신한은행의 올 상반기 영업이익은 3조1586억원으로 전년 동기보다 7.7% 증가했고, KB국민은행도 6.3% 늘어난... 보험사 편입과 카드·캐피탈·증권 등 비은행 계열사의 이익 증가로 비은행 이익 기여도가 작년 상반기 6.9...",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4867371",
-      "originallink": "https://www.newsinside.kr/news/articleView.html?idxno=4867371",
-      "press": "",
+      "title": "신한투자증권, 기관용 블록체인 ‘캔톤’ 운영사 디지털에셋에 투자",
+      "description": "신한투자증권은 블록체인 네트워크 ‘캔톤 네트워크’ 운영사인 디지털에셋(Digital Asset)에 투자자로 참여했다고 27일 밝혔다. 신한금융그룹은 이번 투자를 통해 글로벌 디지털 사업을 확대한다는 구상이다. 이번...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005712691?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12108312",
+      "press": "매일경제",
       "pubDate": "2026-07-27T13:50:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -9731,18 +9782,6 @@
       ]
     },
     {
-      "title": "미래에셋증권, 2분기 퇴직연금 적립금 약 9.6조원 증가",
-      "description": "미래에셋증권 ©열린뉴스통신ONA 미래에셋증권이 올해 2분기 퇴직연금 적립금을 약 9조6000억원 늘리며 전 금융권에서 가장 큰 증가 폭을 기록했다. 금융감독원 퇴직연금 적립금 공시에 따르면 올해 2분기 전체...",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=283761",
-      "originallink": "https://www.onews.tv/news/articleView.html?idxno=283761",
-      "press": "",
-      "pubDate": "2026-07-27T13:40:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권"
-      ]
-    },
-    {
       "title": "OLED 관련주 에스에프씨, 코스피 상장 출사표",
       "description": "대표주관사는 미래에셋증권, 공동주관사는 한국투자증권이다. 에스에프씨는 2020년 4월 설립된 회사로, 유기발광다이오드, 즉 OLED용 유기재료를 만들어 판매하고 있다. 올레드는 스마트폰과 텔레비전, 차량용...",
       "link": "http://www.newswell.co.kr/news/articleView.html?idxno=20584",
@@ -9753,6 +9792,18 @@
       "companies": [
         "미래에셋증권",
         "한국투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 2분기 퇴직연금 적립금 약 9.6조원 증가",
+      "description": "미래에셋증권 ©열린뉴스통신ONA 미래에셋증권이 올해 2분기 퇴직연금 적립금을 약 9조6000억원 늘리며 전 금융권에서 가장 큰 증가 폭을 기록했다. 금융감독원 퇴직연금 적립금 공시에 따르면 올해 2분기 전체...",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=283761",
+      "originallink": "https://www.onews.tv/news/articleView.html?idxno=283761",
+      "press": "",
+      "pubDate": "2026-07-27T13:40:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
       ]
     },
     {
@@ -10982,11 +11033,22 @@
         "미래에셋증권",
         "한국투자증권",
         "키움증권",
-        "신한투자증권",
         "교보증권",
         "DB금융투자",
         "카카오페이증권",
         "SK증권"
+      ]
+    },
+    {
+      "title": "[기업家] HMM ⑤ㅣ 항만·노선·실적까지…글로벌 해운 경쟁력 강화",
+      "description": "● 2026-07-22 HMM, 2분기 매출 3조2,783억·영업이익 4,206억 전망…컨테이너 운임 42%↑ HMM의 1만6천TEU급 컨테이너선 다온호 (사진=연합뉴스) 신한투자증권은 HMM이 컨테이너선 운임 상승에 힘입어 올해 2분기에 기대를...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592081",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=592081",
+      "press": "",
+      "pubDate": "2026-07-27T11:36:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "신한투자증권"
       ]
     },
     {
@@ -11002,18 +11064,6 @@
       ]
     },
     {
-      "title": "한국투자 \"현대로템 목표주가 하향, 중동 사태로 K2 전차 추가 수주 지연...",
-      "description": "장남현 한국투자증권 연구원은 27일 현대로템 목표주가를 기존 32만 원에서 27만 원으로 낮췄다. <현대로템> 장남현 한국투자증권 연구원은 27일 현대로템 목표주가를 기존 32만 원에서 27만 원으로 낮췄다. 투자의견은...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443185",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443185",
-      "press": "",
-      "pubDate": "2026-07-27T11:34:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
-      ]
-    },
-    {
       "title": "거래대금 둔화에도 더 분주해진 증권업계…MTS 혁신 '속도전'",
       "description": "토스증권은 국내 기업 어닝콜을 실시간으로 AI가 음성 인식(STT)과 요약 기술을 활용해 제공하며 개인 투자자의 접근성을 높였고, 지난달 2일 MTS를 업데이트한 한국투자증권은 AI가 종목별 핵심 이슈와 수급·가격을...",
       "link": "https://www.newsway.co.kr/news/view?ud=2026072711213948696",
@@ -11026,6 +11076,18 @@
         "키움증권",
         "한화투자증권",
         "토스증권"
+      ]
+    },
+    {
+      "title": "한국투자 \"현대로템 목표주가 하향, 중동 사태로 K2 전차 추가 수주 지연...",
+      "description": "장남현 한국투자증권 연구원은 27일 현대로템 목표주가를 기존 32만 원에서 27만 원으로 낮췄다. <현대로템> 장남현 한국투자증권 연구원은 27일 현대로템 목표주가를 기존 32만 원에서 27만 원으로 낮췄다. 투자의견은...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443185",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443185",
+      "press": "",
+      "pubDate": "2026-07-27T11:34:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
       ]
     },
     {
@@ -11104,6 +11166,18 @@
       ]
     },
     {
+      "title": "[특징주] 현대로템, 기대치 밑돈 2분기 실적 영향 -17%대 하락",
+      "description": "한국투자증권도 현대로템의 2분기 실적이 기대치를 밑돌았다며 목표가를 27만원으로 내렸다. 장남현 연구원은 \"2분기 현대로템의 영업이익이 컨센서스를 14% 하회했다\"며 \"신규 수출 계약 체결이 지연되고 있는데...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278081",
+      "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278081",
+      "press": "",
+      "pubDate": "2026-07-27T11:30:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
       "title": "[기업家] 네이버 ⑫ㅣ AI·핀테크·로봇까지…전방위 사업 확장 가속",
       "description": "연금 포트폴리오 점검이 필요한 이용자에게는 우리은행과 한국투자증권과 연계한 연금 전문가 무료 상담이 제공된다. 연금 계산기를 통해 목표 은퇴 생활비를 입력하면 은퇴 시점까지 필요한 추가 납입액과 목표...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592079",
@@ -11114,18 +11188,6 @@
       "companies": [
         "한국투자증권",
         "DB금융투자"
-      ]
-    },
-    {
-      "title": "[특징주] 현대로템, 기대치 밑돈 2분기 실적 영향 -17%대 하락",
-      "description": "한국투자증권도 현대로템의 2분기 실적이 기대치를 밑돌았다며 목표가를 27만원으로 내렸다. 장남현 연구원은 \"2분기 현대로템의 영업이익이 컨센서스를 14% 하회했다\"며 \"신규 수출 계약 체결이 지연되고 있는데...",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278081",
-      "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278081",
-      "press": "",
-      "pubDate": "2026-07-27T11:30:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
       ]
     },
     {
@@ -11451,18 +11513,6 @@
       ]
     },
     {
-      "title": "롯데웰푸드, 해외 성장에 턴어라운드 확실…선행 PER 7배 저평가-한국투...",
-      "description": "한국투자증권은 27일 보고서를 통해 롯데웰푸드 투자의견 매수(BUY)와 목표주가 16만원을 유지했다. 롯데웰푸드는 2026년 2분기 영업이익 510억원을 낸 것으로 추정됐다. 전년 대비 49% 증가한 규모다. 이는 시장 컨센서스를 8...",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=80077",
-      "originallink": "http://www.press9.kr/news/articleView.html?idxno=80077",
-      "press": "",
-      "pubDate": "2026-07-27T11:14:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
-      ]
-    },
-    {
       "title": "'2분기 어닝쇼크' 현대로템, 18% 급락…방산주 약세[핫종목]",
       "description": "목표주가를 낮춘 증권사는 한국투자증권(32만 원→27만 원), 신한투자증권(29만 원→23만 원), 삼성증권(30만 6000원→25만 원), 대신증권(28만 원→24만 원) 등이다. 이동헌 신한투자증권 연구원은 \"폴란드 2차...",
       "link": "https://n.news.naver.com/mnews/article/421/0009080581?sid=101",
@@ -11477,15 +11527,15 @@
       ]
     },
     {
-      "title": "교보증권, 결식 우려 아동에 식량키트 전달…'드림이 따뜻한 밥상' 진행",
-      "description": "교보증권 임직원들과 자녀가 서울 여의도 본사 19층 비전홀에서 '드림이 따뜻한 밥상' 사회공헌활동을 진행하고 기념사진을 촬영하고 있다. [교보증권]  교보증권은 서울 여의도 본사 19층 비전홀에서 '드림이 따뜻한...",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=141235",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141235",
+      "title": "롯데웰푸드, 해외 성장에 턴어라운드 확실…선행 PER 7배 저평가-한국투...",
+      "description": "한국투자증권은 27일 보고서를 통해 롯데웰푸드 투자의견 매수(BUY)와 목표주가 16만원을 유지했다. 롯데웰푸드는 2026년 2분기 영업이익 510억원을 낸 것으로 추정됐다. 전년 대비 49% 증가한 규모다. 이는 시장 컨센서스를 8...",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=80077",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=80077",
       "press": "",
       "pubDate": "2026-07-27T11:14:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "교보증권"
+        "한국투자증권"
       ]
     },
     {
@@ -11501,15 +11551,15 @@
       ]
     },
     {
-      "title": "한국투자증권, 코인원과 주식 투자 연결…첫 협업",
-      "description": "한국투자증권이 가상자산 거래소 코인원과 손잡고 코인원 앱에서 국내 주식을 거래할 수 있는 서비스를 선보였다. 한국금융지주 자회사 한국투자증권은 코인원 모바일 앱과 연계한 국내주식 거래 서비스를...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002675531?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10821307?ref=naver",
-      "press": "헤럴드경제",
-      "pubDate": "2026-07-27T11:12:00+09:00",
+      "title": "교보증권, 결식 우려 아동에 식량키트 전달…'드림이 따뜻한 밥상' 진행",
+      "description": "교보증권 임직원들과 자녀가 서울 여의도 본사 19층 비전홀에서 '드림이 따뜻한 밥상' 사회공헌활동을 진행하고 기념사진을 촬영하고 있다. [교보증권]  교보증권은 서울 여의도 본사 19층 비전홀에서 '드림이 따뜻한...",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=141235",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141235",
+      "press": "",
+      "pubDate": "2026-07-27T11:14:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "한국투자증권"
+        "교보증권"
       ]
     },
     {
@@ -11540,6 +11590,18 @@
       ]
     },
     {
+      "title": "한국투자증권, 코인원과 주식 투자 연결…첫 협업",
+      "description": "한국투자증권이 가상자산 거래소 코인원과 손잡고 코인원 앱에서 국내 주식을 거래할 수 있는 서비스를 선보였다. 한국금융지주 자회사 한국투자증권은 코인원 모바일 앱과 연계한 국내주식 거래 서비스를...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002675531?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10821307?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-07-27T11:12:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
       "title": "투자자예탁금 급감…실탄 떨어진 개미, 투자 열기 식나",
       "description": "한지영 키움증권 연구원은 “한국 시장의 변동성은 정상 범주를 넘어선 상태가 지속되고 있지만 밸류에이션, 기술적 관점에서 중기 바닥권에 진입했다는 전제는 훼손되지 않은 만큼 추후 반등의 에너지를 얼마나...",
       "link": "https://n.news.naver.com/mnews/article/016/0002675530?sid=101",
@@ -11553,6 +11615,19 @@
       ]
     },
     {
+      "title": "엔비디아 등에 업은 네이버...박스권 탈출해 40만원 간다",
+      "description": "이효진 메리츠증권 연구원은 목표주가 33만원과 투자의견 매수를 유지하면서 이번 협업의 의미를 세 가지로 정리했다. B2B 진출로 네이버의 자산 배분이 바뀌고, 엔비디아 그래픽처리장치(GPU) 우선 조달권을 통해...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002675526?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10821301?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-07-27T11:12:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "메리츠증권",
+        "교보증권"
+      ]
+    },
+    {
       "title": "엔비디아가 3대 주주로…증권가 \"네이버, AI 팩토리 수혜 기대\"",
       "description": "이효진 메리츠증권 연구원은 \"이번 협업은 네이버의 자산 배분이 플랫폼 중심에서 AI 인프라 중심으로 변화한다는 점에서 의미가 크다\"며 \"엔비디아 GPU 우선 조달권 확보와 PF를 활용한 레버리지 구조는 수익성과...",
       "link": "https://www.widedaily.com/news/articleView.html?idxno=298268",
@@ -11563,19 +11638,6 @@
       "companies": [
         "메리츠증권",
         "대신증권",
-        "교보증권"
-      ]
-    },
-    {
-      "title": "엔비디아 등에 업은 네이버...박스권 탈출해 40만원 간다",
-      "description": "이효진 메리츠증권 연구원은 목표주가 33만원과 투자의견 매수를 유지하면서 이번 협업의 의미를 세 가지로 정리했다. B2B 진출로 네이버의 자산 배분이 바뀌고, 엔비디아 그래픽처리장치(GPU) 우선 조달권을 통해...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002675526?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10821301?ref=naver",
-      "press": "헤럴드경제",
-      "pubDate": "2026-07-27T11:12:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "메리츠증권",
         "교보증권"
       ]
     },
@@ -11717,11 +11779,11 @@
       ]
     },
     {
-      "title": "코인원 앱에서 한투로 주식투자하러 간다",
-      "description": "가상자산 거래소 코인원이 자사 앱 메인 화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한투의 전략적 지분 투자 이후 첫 협업 사례다. 이날 코인원에 따르면...",
-      "link": "https://n.news.naver.com/mnews/article/015/0005314136?sid=101",
-      "originallink": "https://www.hankyung.com/article/202607277812i",
-      "press": "한국경제",
+      "title": "코인원 앱에서 주식도 투자…가상자산·금융 협업 본격화",
+      "description": "한국투자증권은 지분을 투자한 코인원과 첫 사업 협업에 나섰다. 미래에셋그룹도 코빗 리브랜딩을 통해 디지털자산 사업 확대에 속도를 내고 있다. 코인원은 27일 자사 앱(애플리케이션) 메인 화면에 한국투자증권의...",
+      "link": "https://n.news.naver.com/mnews/article/031/0001044962?sid=101",
+      "originallink": "http://www.inews24.com/view/1988971",
+      "press": "아이뉴스24",
       "pubDate": "2026-07-27T11:07:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -11729,11 +11791,11 @@
       ]
     },
     {
-      "title": "코인원 앱에서 주식도 투자…가상자산·금융 협업 본격화",
-      "description": "한국투자증권은 지분을 투자한 코인원과 첫 사업 협업에 나섰다. 미래에셋그룹도 코빗 리브랜딩을 통해 디지털자산 사업 확대에 속도를 내고 있다. 코인원은 27일 자사 앱(애플리케이션) 메인 화면에 한국투자증권의...",
-      "link": "https://n.news.naver.com/mnews/article/031/0001044962?sid=101",
-      "originallink": "http://www.inews24.com/view/1988971",
-      "press": "아이뉴스24",
+      "title": "코인원 앱에서 한투로 주식투자하러 간다",
+      "description": "가상자산 거래소 코인원이 자사 앱 메인 화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한투의 전략적 지분 투자 이후 첫 협업 사례다. 이날 코인원에 따르면...",
+      "link": "https://n.news.naver.com/mnews/article/015/0005314136?sid=101",
+      "originallink": "https://www.hankyung.com/article/202607277812i",
+      "press": "한국경제",
       "pubDate": "2026-07-27T11:07:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -11829,11 +11891,11 @@
       ]
     },
     {
-      "title": "현대로템, 실적 눈높이 낮춘 삼성증권…장중 주가 17%대 급락",
-      "description": "시장 기대를 밑돈 실적과 방산 업종 전반의 밸류에이션 부담이 동시에 부각된 가운데 삼성증권이 목표주가를 낮췄다는 분석이 일부 투자심리에 영향을 준 것으로 풀이된다. 현대로템은 이날 오전 현재 전 거래일보다...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592098",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=592098",
-      "press": "",
+      "title": "삼성중공업, \"하반기 가장 편안한 조선주\"…현대로템, 수주 불확실성 해...",
+      "description": "기아, 전기차 판촉 부담 하반기 하이브리드 확대로 회복 기대 (삼성증권) ◆ 기아 (000270) ― 삼성증권 / 임은영 연구원 - 목표주가: 21만원 (12.5% 하향, 기존 24만원) ㅣ 전일 종가: 13만500원 - 투자의견: 매수 (유지)...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005553281?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607271009236429",
+      "press": "파이낸셜뉴스",
       "pubDate": "2026-07-27T11:02:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -11841,11 +11903,11 @@
       ]
     },
     {
-      "title": "삼성중공업, \"하반기 가장 편안한 조선주\"…현대로템, 수주 불확실성 해...",
-      "description": "기아, 전기차 판촉 부담 하반기 하이브리드 확대로 회복 기대 (삼성증권) ◆ 기아 (000270) ― 삼성증권 / 임은영 연구원 - 목표주가: 21만원 (12.5% 하향, 기존 24만원) ㅣ 전일 종가: 13만500원 - 투자의견: 매수 (유지)...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005553281?sid=101",
-      "originallink": "http://www.fnnews.com/news/202607271009236429",
-      "press": "파이낸셜뉴스",
+      "title": "현대로템, 실적 눈높이 낮춘 삼성증권…장중 주가 17%대 급락",
+      "description": "시장 기대를 밑돈 실적과 방산 업종 전반의 밸류에이션 부담이 동시에 부각된 가운데 삼성증권이 목표주가를 낮췄다는 분석이 일부 투자심리에 영향을 준 것으로 풀이된다. 현대로템은 이날 오전 현재 전 거래일보다...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592098",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=592098",
+      "press": "",
       "pubDate": "2026-07-27T11:02:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -11938,10 +12000,10 @@
       ]
     },
     {
-      "title": "키움증권, 퇴직연금 출범 두 달 안돼 1000억원...IRP 96% 기존 고객",
-      "description": "키움증권이 퇴직연금 사업 개시 이후 채 두 달도 안된 지난 7월 24일 기준 적립금 1,000억원을 돌파했다고 27일 밝혔다. 사진=키움증권 주식 거래에 집중됐던 키움증권의 개인 고객 기반이 퇴직연금 시장으로 빠르게...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471768",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471768",
+      "title": "[더밸류 브리핑] 오늘의 키움금융 소식...키움증권·키움투자자산운용",
+      "description": "키움증권은 퇴직연금 사업 개시 두 달 만에 적립금 1000억원을 돌파했다고 밝혔다. 키움투자자산운용은 에이전틱 AI 시대에 중요성이 커지는 CPU 기업에 집중 투자하는 ‘KIWOOM 미국CPU반도체TOP4+ ETF’를...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200321",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200321",
       "press": "",
       "pubDate": "2026-07-27T11:00:00+09:00",
       "date": "2026-07-27",
@@ -11951,10 +12013,10 @@
       ]
     },
     {
-      "title": "[더밸류 브리핑] 오늘의 키움금융 소식...키움증권·키움투자자산운용",
-      "description": "키움증권은 퇴직연금 사업 개시 두 달 만에 적립금 1000억원을 돌파했다고 밝혔다. 키움투자자산운용은 에이전틱 AI 시대에 중요성이 커지는 CPU 기업에 집중 투자하는 ‘KIWOOM 미국CPU반도체TOP4+ ETF’를...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200321",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200321",
+      "title": "키움증권, 퇴직연금 출범 두 달 안돼 1000억원...IRP 96% 기존 고객",
+      "description": "키움증권이 퇴직연금 사업 개시 이후 채 두 달도 안된 지난 7월 24일 기준 적립금 1,000억원을 돌파했다고 27일 밝혔다. 사진=키움증권 주식 거래에 집중됐던 키움증권의 개인 고객 기반이 퇴직연금 시장으로 빠르게...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471768",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471768",
       "press": "",
       "pubDate": "2026-07-27T11:00:00+09:00",
       "date": "2026-07-27",
@@ -12007,10 +12069,10 @@
       ]
     },
     {
-      "title": "'백투백' 전망 확산 속 터미널 금리 상향 가능성에도 '촉각'",
-      "description": "최지욱 한국투자증권 연구원은 \"민간고용과 정액금여 상승률이 여전히 약한 상황이고 하반기에 올라온다고 보기 어려워 근원물가가 2% 중반을 유지하겠지만 여기서 더 상승할 가능성이 낮다\"고 지적했다. 주식시장이...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427005",
-      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427005",
+      "title": "코인원, 앱 메인에 한국투자증권 WTS(웹 트레이딩 시스템) 연결 메뉴 신...",
+      "description": "코인원이 자사 앱 메인화면에 한국투자증권 WTS(웹 트레이딩 시스템)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자 이후 양사가 선보이는 첫 협업 사례다. 이번...",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009278",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1009278",
       "press": "",
       "pubDate": "2026-07-27T10:58:00+09:00",
       "date": "2026-07-27",
@@ -12019,10 +12081,10 @@
       ]
     },
     {
-      "title": "코인원, 앱 메인에 한국투자증권 WTS(웹 트레이딩 시스템) 연결 메뉴 신...",
-      "description": "코인원이 자사 앱 메인화면에 한국투자증권 WTS(웹 트레이딩 시스템)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자 이후 양사가 선보이는 첫 협업 사례다. 이번...",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009278",
-      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1009278",
+      "title": "'백투백' 전망 확산 속 터미널 금리 상향 가능성에도 '촉각'",
+      "description": "최지욱 한국투자증권 연구원은 \"민간고용과 정액금여 상승률이 여전히 약한 상황이고 하반기에 올라온다고 보기 어려워 근원물가가 2% 중반을 유지하겠지만 여기서 더 상승할 가능성이 낮다\"고 지적했다. 주식시장이...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427005",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427005",
       "press": "",
       "pubDate": "2026-07-27T10:58:00+09:00",
       "date": "2026-07-27",
@@ -12172,10 +12234,10 @@
       ]
     },
     {
-      "title": "코인원, 앱 메인화면에 한국투자증권 WTS 연동 탭 신설",
-      "description": "가상자산 거래소 코인원은 앱 메인화면에 한국투자증권 WTS(웹 트레이딩 시스템)로 이동하는 '주식 투자' 탭을 신설했다. 27일 코인원에 따르면 이는 지난 5월 한국투자증권의 코인원 전략적 지분 투자 이후 양사의 첫 협업...",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307203",
-      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307203",
+      "title": "석유화학 4사 '래깅 효과' 힘 받아, 2Q 흑자전환 등 '청신호'",
+      "description": "한국투자증권은 롯데케미칼의 2분기 매출을 4조7000억원, 영업이익을 1100억원으로 전망했다. 재고 관련 손익보다 범용 제품인 PE·PP의 스프레드 개선이 더 중요한 수익성 개선 요인으로 꼽힌다. 이란 전쟁으로 걸프...",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=257949",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=257949",
       "press": "",
       "pubDate": "2026-07-27T10:54:00+09:00",
       "date": "2026-07-27",
@@ -12184,10 +12246,10 @@
       ]
     },
     {
-      "title": "석유화학 4사 '래깅 효과' 힘 받아, 2Q 흑자전환 등 '청신호'",
-      "description": "한국투자증권은 롯데케미칼의 2분기 매출을 4조7000억원, 영업이익을 1100억원으로 전망했다. 재고 관련 손익보다 범용 제품인 PE·PP의 스프레드 개선이 더 중요한 수익성 개선 요인으로 꼽힌다. 이란 전쟁으로 걸프...",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=257949",
-      "originallink": "http://www.finomy.com/news/articleView.html?idxno=257949",
+      "title": "코인원, 앱 메인화면에 한국투자증권 WTS 연동 탭 신설",
+      "description": "가상자산 거래소 코인원은 앱 메인화면에 한국투자증권 WTS(웹 트레이딩 시스템)로 이동하는 '주식 투자' 탭을 신설했다. 27일 코인원에 따르면 이는 지난 5월 한국투자증권의 코인원 전략적 지분 투자 이후 양사의 첫 협업...",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307203",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307203",
       "press": "",
       "pubDate": "2026-07-27T10:54:00+09:00",
       "date": "2026-07-27",
@@ -12449,6 +12511,18 @@
       ]
     },
     {
+      "title": "코인원 앱에서 주식도 산다…한투증권, '코인·주식' 접점 확대",
+      "description": "별도 MTS 설치 없이 인기 종목 조회·매매 가능 8월 21일까지 출시 기념 이벤트 진행 한국투자증권이 가상자산 거래소 코인원 앱에서 국내주식을 거래할 수 있는 서비스를 선보였다. 가상자산과 주식을 함께 투자하는...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000519173?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2347240.htm",
+      "press": "",
+      "pubDate": "2026-07-27T10:46:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
       "title": "에버스핀, BRI 다나렉사 증권에 '에버세이프·페이크파인더' 공급",
       "description": "국내에서는 △KB국민은행 △NH농협은행 △우리은행 △하나은행 △카카오뱅크 △SBI저축은행 △한국투자증권 △키움증권 △교보생명 등 약 70곳의 고객사를 확보해 관련분야 국내 1위의 시장 지위를 구축하고...",
       "link": "https://www.koit.co.kr/news/articleView.html?idxno=208170",
@@ -12459,18 +12533,6 @@
       "companies": [
         "한국투자증권",
         "키움증권"
-      ]
-    },
-    {
-      "title": "코인원 앱에서 주식도 산다…한투증권, '코인·주식' 접점 확대",
-      "description": "별도 MTS 설치 없이 인기 종목 조회·매매 가능 8월 21일까지 출시 기념 이벤트 진행 한국투자증권이 가상자산 거래소 코인원 앱에서 국내주식을 거래할 수 있는 서비스를 선보였다. 가상자산과 주식을 함께 투자하는...",
-      "link": "https://n.news.naver.com/mnews/article/629/0000519173?sid=101",
-      "originallink": "https://news.tf.co.kr/read/economy/2347240.htm",
-      "press": "",
-      "pubDate": "2026-07-27T10:46:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
       ]
     },
     {
@@ -12525,18 +12587,6 @@
       ]
     },
     {
-      "title": "미래에셋증권, 퇴직연금 성장세 지속...2분기 적립금 약 10조 증가",
-      "description": "미래에셋증권의 올해 2분기 퇴직연금 적립금이 약 10조 원 증가했다. 금융감독원 퇴직연금 적립금 공시에 따르면 올해 2분기 국내 퇴직연금 시장 적립금은 총 45조 1,438억 원 증가했다. 이 가운데 미래에셋증권은 약 9조 5...",
-      "link": "https://www.redian.org/news/articleView.html?idxno=257013",
-      "originallink": "https://www.redian.org/news/articleView.html?idxno=257013",
-      "press": "",
-      "pubDate": "2026-07-27T10:44:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "미래에셋증권"
-      ]
-    },
-    {
       "title": "[여의도단신] 미래에셋증권·DB증권·키움투자자산운용",
       "description": "◆퇴직연금 전체 적립금 증가분 21.2%, 미래에셋증권으로…42개 사업자 중 최대 미래에셋증권은 올해 2분기 퇴직연금 적립금이 전 금융권에서 유일하게 약 10조원 증가했다고 27일 밝혔다. 금융감독원 퇴직연금 적립금...",
       "link": "https://n.news.naver.com/mnews/article/088/0001020766?sid=101",
@@ -12547,6 +12597,18 @@
       "companies": [
         "미래에셋증권",
         "DB금융투자"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 퇴직연금 성장세 지속...2분기 적립금 약 10조 증가",
+      "description": "미래에셋증권의 올해 2분기 퇴직연금 적립금이 약 10조 원 증가했다. 금융감독원 퇴직연금 적립금 공시에 따르면 올해 2분기 국내 퇴직연금 시장 적립금은 총 45조 1,438억 원 증가했다. 이 가운데 미래에셋증권은 약 9조 5...",
+      "link": "https://www.redian.org/news/articleView.html?idxno=257013",
+      "originallink": "https://www.redian.org/news/articleView.html?idxno=257013",
+      "press": "",
+      "pubDate": "2026-07-27T10:44:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
       ]
     },
     {
@@ -12878,6 +12940,18 @@
       ]
     },
     {
+      "title": "미래에셋증권 주가, 7월 27일 장중 36,300원 1.63% 하락",
+      "description": "27일 오전 10시 24분 기준, 네이버페이 증권에 따르면 미래에셋증권의 주가가 장중 하락세를 보이며 거래되고 있다. 현재 미래에셋증권은 36,300원을 기록하며 지난 종가 36,900원 대비 600원, 즉 1.63% 하락한...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146641",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16146641",
+      "press": "",
+      "pubDate": "2026-07-27T10:30:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
       "title": "증권사 ‘외국인 통합계좌’ 서비스 본격화…글로벌 공략 나서",
       "description": "미래에셋증권은 싱가포르 UOB케이히안과 외국인 통합계좌 서비스를 제휴했고, 신한투자증권은 홍콩 광파증권과 관련 업무협약(MOU)을 체결했다. 키움증권과 메리츠증권은 글로벌 증권사인 미국의 위불(Webull)과...",
       "link": "https://www.kukinews.com/article/view/kuk202607270044",
@@ -12895,15 +12969,17 @@
       ]
     },
     {
-      "title": "미래에셋증권 주가, 7월 27일 장중 36,300원 1.63% 하락",
-      "description": "27일 오전 10시 24분 기준, 네이버페이 증권에 따르면 미래에셋증권의 주가가 장중 하락세를 보이며 거래되고 있다. 현재 미래에셋증권은 36,300원을 기록하며 지난 종가 36,900원 대비 600원, 즉 1.63% 하락한...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146641",
-      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16146641",
+      "title": "신한투자증권 '캔톤 네트워크' 운영사 투자..디지털자산 협력 확대",
+      "description": "한국투자증권은 5월 글로벌 가상자산 기업 OKX와 함께 코인원 지분을 각각 약 20% 확보했다. 금융정보분석원은 이달 22일 한국투자증권과 OKX벤처스의 코인원 지분 취득에 따른 대주주 변경신고를 수리했다. 한국투자증권은...",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2115290",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2115290",
       "press": "",
       "pubDate": "2026-07-27T10:30:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "미래에셋증권"
+        "한국투자증권",
+        "삼성증권",
+        "한화투자증권"
       ]
     },
     {
@@ -12916,20 +12992,6 @@
       "date": "2026-07-27",
       "companies": [
         "한국투자증권"
-      ]
-    },
-    {
-      "title": "신한투자증권 '캔톤 네트워크' 운영사 투자..디지털자산 협력 확대",
-      "description": "한국투자증권은 5월 글로벌 가상자산 기업 OKX와 함께 코인원 지분을 각각 약 20% 확보했다. 금융정보분석원은 이달 22일 한국투자증권과 OKX벤처스의 코인원 지분 취득에 따른 대주주 변경신고를 수리했다. 한국투자증권은...",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2115290",
-      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2115290",
-      "press": "",
-      "pubDate": "2026-07-27T10:30:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권",
-        "삼성증권",
-        "한화투자증권"
       ]
     },
     {
@@ -13280,20 +13342,6 @@
       ]
     },
     {
-      "title": "[특징주] 현대로템, 2분기 실적 기대치 밑돌아 급락",
-      "description": "3% 증가했다. 실적 발표 이후 증권사는 일제히 목표주가를 낮췄다. 다올투자증권, DS투자증권, 대신증권, iM증권, 삼성증권, 한국투자증권 등은 목표주가를 내리며 실적 눈높이를 낮췄다. 최태현 기자 cth@ekn.kr",
-      "link": "https://www.ekn.kr/web/view.php?key=20260727026346322",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20260727026346322",
-      "press": "",
-      "pubDate": "2026-07-27T10:18:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권",
-        "삼성증권",
-        "대신증권"
-      ]
-    },
-    {
       "title": "현대모비스, 애프터서비스 부문 수익성으로 목표주가 상승",
       "description": "이날 KB증권은 목표주가를 120만원에서 90만원으로, 한국투자증권은 95만원에서 70만원으로, 하나증권은 77만원에서 68만원으로, NH투자증권은 87만원에서 71만원으로, 유안타증권은 87만원에서 78만원으로 낮췄다. 반면...",
       "link": "https://www.tokenpost.kr/news/market/381523",
@@ -13310,6 +13358,20 @@
         "한화투자증권",
         "유안타증권",
         "교보증권"
+      ]
+    },
+    {
+      "title": "[특징주] 현대로템, 2분기 실적 기대치 밑돌아 급락",
+      "description": "3% 증가했다. 실적 발표 이후 증권사는 일제히 목표주가를 낮췄다. 다올투자증권, DS투자증권, 대신증권, iM증권, 삼성증권, 한국투자증권 등은 목표주가를 내리며 실적 눈높이를 낮췄다. 최태현 기자 cth@ekn.kr",
+      "link": "https://www.ekn.kr/web/view.php?key=20260727026346322",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260727026346322",
+      "press": "",
+      "pubDate": "2026-07-27T10:18:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권",
+        "삼성증권",
+        "대신증권"
       ]
     },
     {
@@ -13413,10 +13475,10 @@
       ]
     },
     {
-      "title": "한국투자증권, 코인원 앱서 국내주식 거래 지원…첫 협업 서비스 공개",
-      "description": "한국투자증권은 가상자산 거래소 코인원과의 앱 연동을 통해 국내주식 거래 서비스를 시작했다. [한국투자증권]  한국투자증권은 가상자산 거래소 코인원과의 앱 연동을 통해 국내주식 거래 서비스를 시작했다고 27일...",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=141214",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141214",
+      "title": "한투증권, 코인원 앱서 국내 주식 거래 서비스 시작",
+      "description": "한국투자증권이 가상자산 거래소 코인원과 손잡고 코인원 앱에서 국내 주식 투자 서비스를 제공한다. 한국투자증권은 코인원 앱과 연동한 국내 주식 거래 서비스를 시작했다고 27일 밝혔다. 양사가 전략적 파트너십을...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002235512?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026072709140089319",
       "press": "",
       "pubDate": "2026-07-27T10:14:00+09:00",
       "date": "2026-07-27",
@@ -13425,10 +13487,10 @@
       ]
     },
     {
-      "title": "한투증권, 코인원 앱서 국내 주식 거래 서비스 시작",
-      "description": "한국투자증권이 가상자산 거래소 코인원과 손잡고 코인원 앱에서 국내 주식 투자 서비스를 제공한다. 한국투자증권은 코인원 앱과 연동한 국내 주식 거래 서비스를 시작했다고 27일 밝혔다. 양사가 전략적 파트너십을...",
-      "link": "https://n.news.naver.com/mnews/article/138/0002235512?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026072709140089319",
+      "title": "한국투자증권, 코인원 앱서 국내주식 거래 지원…첫 협업 서비스 공개",
+      "description": "한국투자증권은 가상자산 거래소 코인원과의 앱 연동을 통해 국내주식 거래 서비스를 시작했다. [한국투자증권]  한국투자증권은 가상자산 거래소 코인원과의 앱 연동을 통해 국내주식 거래 서비스를 시작했다고 27일...",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=141214",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141214",
       "press": "",
       "pubDate": "2026-07-27T10:14:00+09:00",
       "date": "2026-07-27",
@@ -13511,10 +13573,10 @@
       ]
     },
     {
-      "title": "키움증권, 출시 두 달만에 퇴직연금 1000억 돌파…장기 자산 관리 역량...",
-      "description": "키움증권이 퇴직연금 사업을 시작한 지 두 달이 채 되지 않아 적립금 1000억원을 넘어서며 장기 자산 관리 역량을 입증했다. 키움증권은 7월 24일 기준 퇴직연금 적립금이 1000억원을 돌파했다고 27일 밝혔다. 키움증권은...",
-      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1715",
-      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1715",
+      "title": "코스피, 개인·외국인 공방 속 6,800선 안착 시도…삼전·닉스 1%대 강세",
+      "description": "한지영 키움증권 연구원은 \"이번주 코스피는 7월 FOMC(연방공개시장위원회)와 미·이란 지정학적 긴장 완화 기대감, 미 빅테크 기업 및 삼성전자·SK하이닉스·삼성전기 등 국내 주도주 실적 등 대형 이벤트를...",
+      "link": "https://www.news2day.co.kr/article/20260727500069",
+      "originallink": "https://www.news2day.co.kr/article/20260727500069",
       "press": "",
       "pubDate": "2026-07-27T10:12:00+09:00",
       "date": "2026-07-27",
@@ -13523,10 +13585,10 @@
       ]
     },
     {
-      "title": "코스피, 개인·외국인 공방 속 6,800선 안착 시도…삼전·닉스 1%대 강세",
-      "description": "한지영 키움증권 연구원은 \"이번주 코스피는 7월 FOMC(연방공개시장위원회)와 미·이란 지정학적 긴장 완화 기대감, 미 빅테크 기업 및 삼성전자·SK하이닉스·삼성전기 등 국내 주도주 실적 등 대형 이벤트를...",
-      "link": "https://www.news2day.co.kr/article/20260727500069",
-      "originallink": "https://www.news2day.co.kr/article/20260727500069",
+      "title": "키움증권, 출시 두 달만에 퇴직연금 1000억 돌파…장기 자산 관리 역량...",
+      "description": "키움증권이 퇴직연금 사업을 시작한 지 두 달이 채 되지 않아 적립금 1000억원을 넘어서며 장기 자산 관리 역량을 입증했다. 키움증권은 7월 24일 기준 퇴직연금 적립금이 1000억원을 돌파했다고 27일 밝혔다. 키움증권은...",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1715",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1715",
       "press": "",
       "pubDate": "2026-07-27T10:12:00+09:00",
       "date": "2026-07-27",
@@ -13588,11 +13650,11 @@
       ]
     },
     {
-      "title": "[특징주] 현대로템, '어닝쇼크'에 15%대 급락…증권가 목표가 줄하향",
-      "description": "한국투자증권도 목표주가를 기존보다 낮춘 27만원으로 제시했다. 장남현 한국투자증권 연구원은 \"2분기 영업이익이 컨센서스를 14% 하회했다\"며 \"신규 수출 계약 체결이 지연되고 있으며 상반기 타결이 예상됐던...",
-      "link": "https://www.ajunews.com/view/20260727100644805",
-      "originallink": "https://www.ajunews.com/view/20260727100644805",
-      "press": "아주경제",
+      "title": "한국투자증권, '코인원' 앱 통해 국내 주식 거래 연동",
+      "description": "한국투자증권은 가상자산 거래소 코인원 애플리케이션 연동을 통한 국내주식 거래 서비스를 시작했다고 27일 밝혔다. 이에 따라 코인원 모바일 앱 홈 화면의 '주식 투자' 탭을 통해 실시간 인기 종목을 확인할 수 있다....",
+      "link": "https://n.news.naver.com/mnews/article/277/0005794918?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026072710104677396",
+      "press": "아시아경제",
       "pubDate": "2026-07-27T10:10:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -13600,11 +13662,11 @@
       ]
     },
     {
-      "title": "한국투자증권, '코인원' 앱 통해 국내 주식 거래 연동",
-      "description": "한국투자증권은 가상자산 거래소 코인원 애플리케이션 연동을 통한 국내주식 거래 서비스를 시작했다고 27일 밝혔다. 이에 따라 코인원 모바일 앱 홈 화면의 '주식 투자' 탭을 통해 실시간 인기 종목을 확인할 수 있다....",
-      "link": "https://n.news.naver.com/mnews/article/277/0005794918?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026072710104677396",
-      "press": "아시아경제",
+      "title": "[특징주] 현대로템, '어닝쇼크'에 15%대 급락…증권가 목표가 줄하향",
+      "description": "한국투자증권도 목표주가를 기존보다 낮춘 27만원으로 제시했다. 장남현 한국투자증권 연구원은 \"2분기 영업이익이 컨센서스를 14% 하회했다\"며 \"신규 수출 계약 체결이 지연되고 있으며 상반기 타결이 예상됐던...",
+      "link": "https://www.ajunews.com/view/20260727100644805",
+      "originallink": "https://www.ajunews.com/view/20260727100644805",
+      "press": "아주경제",
       "pubDate": "2026-07-27T10:10:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -13792,18 +13854,6 @@
       ]
     },
     {
-      "title": "키움증권 퇴직연금, 출시 두 달 적립금 '1000억' 고지 점령",
-      "description": "6월 퇴직연금 시장에 키움증권이 진출한 후 이제 두달이 됐는데, 이 짧은 기간에 적립금 1000억원을 넘긴 것으로 파악돼 관심이 모아진다. 27일 업권에 따르면, 이 같은 키움증권 측 성과는 기존 주식 거래 기반이 장기...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267923",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=267923",
-      "press": "",
-      "pubDate": "2026-07-27T10:02:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권"
-      ]
-    },
-    {
       "title": "퇴직연금 시작한 키움증권, 2달만에 적립금 1천억 돌파",
       "description": "DC 온라인 차별화 전략, 시장 5위 진입 목표 키움증권이 퇴직연금 사업 개시 2달만에 적립금 1000억원을 돌파했다. 기존 고객들의 퇴직연금 가입이 이어졌고, 여기에 더해 초기 수수료 면제 등의 정책이 긍정적으로...",
       "link": "https://news.dealsitetv.com/articles/173781",
@@ -13820,6 +13870,18 @@
       "description": "키움증권이 퇴직연금 사업을 시작한 지 두 달도 채 되지 않아 적립금 1000억원을 돌파했다. 기존 주식 거래 고객을 중심으로 개인형퇴직연금(IRP) 가입이 이어진 데다 수수료 혜택과 디지털 플랫폼 경쟁력이 초기...",
       "link": "https://www.viva100.com/article/20260727500378",
       "originallink": "https://www.viva100.com/article/20260727500378",
+      "press": "",
+      "pubDate": "2026-07-27T10:02:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "키움증권 퇴직연금, 출시 두 달 적립금 '1000억' 고지 점령",
+      "description": "6월 퇴직연금 시장에 키움증권이 진출한 후 이제 두달이 됐는데, 이 짧은 기간에 적립금 1000억원을 넘긴 것으로 파악돼 관심이 모아진다. 27일 업권에 따르면, 이 같은 키움증권 측 성과는 기존 주식 거래 기반이 장기...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267923",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=267923",
       "press": "",
       "pubDate": "2026-07-27T10:02:00+09:00",
       "date": "2026-07-27",
@@ -13889,18 +13951,6 @@
       ]
     },
     {
-      "title": "코스피, 강보합권서 들쭉날쭉… 외인·기관 '팔자'",
-      "description": "한지영 키움증권 연구원은 \"국내외 주력 업종의 실적이 모두 주 중반에 몰려 있고 7월 FOMC와도 맞물려 있는 일정\"이라며 \"주 중반으로 갈수록 이들 이벤트를 동시에 소화하는 과정에서 변동성 확대가...",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166623",
-      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092166623",
-      "press": "조선일보",
-      "pubDate": "2026-07-27T09:56:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권"
-      ]
-    },
-    {
       "title": "키움證 퇴직연금, 출시 두 달 적립금 ‘1000억’ 돌파",
       "description": "키움증권(039490)이 올 6월 퇴직연금 시장 진출 후 두달만에 적립금 1000억 원을 넘겼다. 기존 주식 거래 기반이 장기 은퇴자산 관리 시장으로 이어진 결과로 풀이된다. 27일 키움증권은 24일 기준 퇴직연금 적립금이...",
       "link": "https://n.news.naver.com/mnews/article/011/0004645501?sid=101",
@@ -13918,6 +13968,18 @@
       "link": "https://www.newspost.kr/news/articleView.html?idxno=224444",
       "originallink": "https://www.newspost.kr/news/articleView.html?idxno=224444",
       "press": "",
+      "pubDate": "2026-07-27T09:56:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "코스피, 강보합권서 들쭉날쭉… 외인·기관 '팔자'",
+      "description": "한지영 키움증권 연구원은 \"국내외 주력 업종의 실적이 모두 주 중반에 몰려 있고 7월 FOMC와도 맞물려 있는 일정\"이라며 \"주 중반으로 갈수록 이들 이벤트를 동시에 소화하는 과정에서 변동성 확대가...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166623",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092166623",
+      "press": "조선일보",
       "pubDate": "2026-07-27T09:56:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -13974,18 +14036,6 @@
       ]
     },
     {
-      "title": "네이버 주가, 급등세... 목표주가는?",
-      "description": "한편 한국투자증권은 최근 네이버( NAVER )의 목표주가를 기존 33만원에서 36만원으로 상향하고 투자의견 '매수'를 유지했다. 목표주가는 신규 데이터센터의 현재 가치를 4조5000억원으로 산정해 반영했는데...",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1171455",
-      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1171455",
-      "press": "",
-      "pubDate": "2026-07-27T09:54:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
-      ]
-    },
-    {
       "title": "코인원-한국투자증권 협업 본격화…'주식 투자' 탭 신설",
       "description": "코인원이 한국투자증권의 주식 투자 서비스를 자사 앱에서 바로 이용할 수 있도록 연결하며 양사 간 협업을 본격화했다. 코인원은 자사 앱 메인화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 '주식...",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471731",
@@ -14009,6 +14059,18 @@
         "한국투자증권",
         "토스증권",
         "카카오페이증권"
+      ]
+    },
+    {
+      "title": "네이버 주가, 급등세... 목표주가는?",
+      "description": "한편 한국투자증권은 최근 네이버( NAVER )의 목표주가를 기존 33만원에서 36만원으로 상향하고 투자의견 '매수'를 유지했다. 목표주가는 신규 데이터센터의 현재 가치를 4조5000억원으로 산정해 반영했는데...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1171455",
+      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1171455",
+      "press": "",
+      "pubDate": "2026-07-27T09:54:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권"
       ]
     },
     {
@@ -14186,10 +14248,10 @@
       ]
     },
     {
-      "title": "코인원, 앱 메인에 한국투자증권 웹 트레이딩 시스템 연결 메뉴 신설",
-      "description": "국내 대표 전문 가상자산 거래소 코인원(대표 차명훈)이 자사 앱 메인화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자...",
-      "link": "https://www.tokenpost.kr/news/blockchain/381489",
-      "originallink": "https://www.tokenpost.kr/news/blockchain/381489",
+      "title": "[디지털머니+]코인원, 앱에 한국투자증권 '주식 투자' 탭 外",
+      "description": "그래픽=코인원 ◇코인원, 앱 메인에 한국투자증권 '주식 투자' 탭 신설 코인원은 앱 메인 화면 상단에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동하는 '주식 투자' 탭을 추가했다고 27일 밝혔다. 해당 탭을 누르면...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114638",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114638",
       "press": "",
       "pubDate": "2026-07-27T09:48:00+09:00",
       "date": "2026-07-27",
@@ -14210,10 +14272,10 @@
       ]
     },
     {
-      "title": "[디지털머니+]코인원, 앱에 한국투자증권 '주식 투자' 탭 外",
-      "description": "그래픽=코인원 ◇코인원, 앱 메인에 한국투자증권 '주식 투자' 탭 신설 코인원은 앱 메인 화면 상단에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동하는 '주식 투자' 탭을 추가했다고 27일 밝혔다. 해당 탭을 누르면...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114638",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114638",
+      "title": "코인원, 앱 메인에 한국투자증권 웹 트레이딩 시스템 연결 메뉴 신설",
+      "description": "국내 대표 전문 가상자산 거래소 코인원(대표 차명훈)이 자사 앱 메인화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자...",
+      "link": "https://www.tokenpost.kr/news/blockchain/381489",
+      "originallink": "https://www.tokenpost.kr/news/blockchain/381489",
       "press": "",
       "pubDate": "2026-07-27T09:48:00+09:00",
       "date": "2026-07-27",
@@ -14298,11 +14360,11 @@
       ]
     },
     {
-      "title": "한투·코인원 통합 첫걸음…코인원 앱에 한투 WTS 이동 탭 신설",
-      "description": "국내 디지털자산(가상자산) 거래소 코인원이 자사 애플리케이션(앱) 메인화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006337327?sid=101",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02512486645518784",
-      "press": "이데일리",
+      "title": "코인원, 한국투자증권 WTS 연동 기능 추가",
+      "description": "코인원이 한국투자증권 웹트레이딩시스템(WTS)으로 연결되는 기능을 자사 애플리케이션에 추가했다고 밝혔다. 이번 업데이트로 코인원 앱 메인 화면 상단에는 한국투자증권 WTS로 연결되는 '주식 투자' 메뉴가 새롭게...",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202607270941584681204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202607270941584681204ead0791_12",
+      "press": "",
       "pubDate": "2026-07-27T09:44:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -14310,11 +14372,11 @@
       ]
     },
     {
-      "title": "코인원, 한국투자증권 WTS 연동 기능 추가",
-      "description": "코인원이 한국투자증권 웹트레이딩시스템(WTS)으로 연결되는 기능을 자사 애플리케이션에 추가했다고 밝혔다. 이번 업데이트로 코인원 앱 메인 화면 상단에는 한국투자증권 WTS로 연결되는 '주식 투자' 메뉴가 새롭게...",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202607270941584681204ead0791_12",
-      "originallink": "http://www.lawissue.co.kr/view.php?ud=202607270941584681204ead0791_12",
-      "press": "",
+      "title": "한투·코인원 통합 첫걸음…코인원 앱에 한투 WTS 이동 탭 신설",
+      "description": "국내 디지털자산(가상자산) 거래소 코인원이 자사 애플리케이션(앱) 메인화면에 한국투자증권 웹 트레이딩 시스템(WTS)으로 이동할 수 있는 탭을 신설했다고 27일 밝혔다. 지난 5월 한국투자증권의 코인원 전략적 지분 투자...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337327?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02512486645518784",
+      "press": "이데일리",
       "pubDate": "2026-07-27T09:44:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -14383,6 +14445,20 @@
       ]
     },
     {
+      "title": "[금융권 이모저모]키움증권, 퇴직연금 적립금 1000억원 돌파 外",
+      "description": "그래픽=한국투자증권 ◇한국투자증권, 코인원 앱 연계 국내주식 거래 서비스 오픈 한국투자증권은 가상자산 거래소 코인원 앱과 연계한 국내주식 거래 서비스를 시작했다고 27일 밝혔다. 이번 서비스는 지난 24일부터...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114636",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114636",
+      "press": "",
+      "pubDate": "2026-07-27T09:42:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "한국투자증권",
+        "키움증권",
+        "DB금융투자"
+      ]
+    },
+    {
       "title": "한국투자증권, 가상자산거래소 ‘코인원’ 앱 연계 국내주식거래서비스...",
       "description": "인더뉴스 박호식 기자ㅣ한국투자증권(사장 김성환)과 가상자산거래소 코인원(대표 차명훈)이 앱을 연동해 국내주식 거래 서비스를 시작했습니다. 이 서비스는 코인원 모바일앱 홈화면의 '주식투자' 탭을 통해 실시간...",
       "link": "https://www.inthenews.co.kr/news/article.html?no=89765",
@@ -14395,15 +14471,14 @@
       ]
     },
     {
-      "title": "[금융권 이모저모]키움증권, 퇴직연금 적립금 1000억원 돌파 外",
-      "description": "그래픽=한국투자증권 ◇한국투자증권, 코인원 앱 연계 국내주식 거래 서비스 오픈 한국투자증권은 가상자산 거래소 코인원 앱과 연계한 국내주식 거래 서비스를 시작했다고 27일 밝혔다. 이번 서비스는 지난 24일부터...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114636",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114636",
+      "title": "키움증권, 퇴직연금 적립금 1000억원 돌파…출시 두 달 만",
+      "description": "키움증권은 지난 24일 기준 퇴직연금 적립금이 1000억원을 돌파했다고 27일 밝혔다. 지난 6월 1일 퇴직연금 사업을 시작한지 두 달이 채 지나지 않은 시점이다. 기존 주식 거래 고객이 퇴직연금 가입으로 이어진 데다 첫해...",
+      "link": "https://n.news.naver.com/mnews/article/648/0000049221?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/market/2026/07/27/0003",
       "press": "",
       "pubDate": "2026-07-27T09:42:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "한국투자증권",
         "키움증권",
         "DB금융투자"
       ]
@@ -14434,19 +14509,6 @@
       ]
     },
     {
-      "title": "키움증권, 퇴직연금 적립금 1000억원 돌파…출시 두 달 만",
-      "description": "키움증권은 지난 24일 기준 퇴직연금 적립금이 1000억원을 돌파했다고 27일 밝혔다. 지난 6월 1일 퇴직연금 사업을 시작한지 두 달이 채 지나지 않은 시점이다. 기존 주식 거래 고객이 퇴직연금 가입으로 이어진 데다 첫해...",
-      "link": "https://n.news.naver.com/mnews/article/648/0000049221?sid=101",
-      "originallink": "https://news.bizwatch.co.kr/article/market/2026/07/27/0003",
-      "press": "",
-      "pubDate": "2026-07-27T09:42:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권",
-        "DB금융투자"
-      ]
-    },
-    {
       "title": "해시드오픈리서치, 동남아 디지털자산 ‘실전 무대’ 부상 분석",
       "description": "교보증권은 SCBX의 자회사 토큰엑스, 싱가포르의 SBI디지털마켓과 손잡고 와인 실물자산을 토큰화하는 국경 간 프로젝트를 추진했다. 한국과 태국, 싱가포르의 금융·디지털자산 인프라를 연결한 사례로, 동남아에서...",
       "link": "https://www.tokenpost.kr/news/blockchain/381478",
@@ -14468,18 +14530,6 @@
       "date": "2026-07-27",
       "companies": [
         "신영증권"
-      ]
-    },
-    {
-      "title": "코인원 앱에서 한투로 주식 매매… 협업 첫 성과물 공개",
-      "description": "한국투자증권이 가상자산 거래소 코인원 앱 내 국내 주식 매매 서비스에 나섰다고 27일 밝혔다. 코인원 앱 내 ‘주식 투자’ 탭에서 간편 인증만으로 한국 웹트레이딩시스템(WTS)에 연결해 주식 거래까지 가능한 구조다....",
-      "link": "https://n.news.naver.com/mnews/article/011/0004645487?sid=101",
-      "originallink": "https://www.sedaily.com/article/20072162?ref=naver",
-      "press": "서울경제",
-      "pubDate": "2026-07-27T09:41:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "한국투자증권"
       ]
     },
     {
@@ -14642,6 +14692,18 @@
       ]
     },
     {
+      "title": "5대 금융지주 증권사 상반기 순익 급증···비은행 존재감 확대",
+      "description": "증권사별로는 NH투자증권(005940, 대표 신재욱·배광수)이 전년 동기 대비 107.6% 증가한 9652억원의 순이익을 기록하며 은행계 증권사 가운데 가장 많은 순이익을 올렸다. 증시 거래대금 증가에 힘입어 브로커리지...",
+      "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120066",
+      "originallink": "http://www.koreastocknews.com/news/articleView.html?idxno=120066",
+      "press": "",
+      "pubDate": "2026-07-27T09:34:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
       "title": "AI 실적 발표 '슈퍼 위크'…방향성 시험대 오른 코스피, 어디로 움직일...",
       "description": "이상준 NH투자증권 연구원은 \"알파벳에 이어 다른 하이퍼스케일러들도 AI 투자 확대와 공급 부족을 재확인할 가능성이 높다\"라며 \"SK하이닉스와 삼성전자 역시 업황과 가이던스, 주주환원 정책 등을 통해 긍정적인...",
       "link": "https://n.news.naver.com/mnews/article/088/0001020749?sid=101",
@@ -14655,18 +14717,6 @@
         "메리츠증권",
         "대신증권",
         "유안타증권"
-      ]
-    },
-    {
-      "title": "5대 금융지주 증권사 상반기 순익 급증···비은행 존재감 확대",
-      "description": "증권사별로는 NH투자증권(005940, 대표 신재욱·배광수)이 전년 동기 대비 107.6% 증가한 9652억원의 순이익을 기록하며 은행계 증권사 가운데 가장 많은 순이익을 올렸다. 증시 거래대금 증가에 힘입어 브로커리지...",
-      "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120066",
-      "originallink": "http://www.koreastocknews.com/news/articleView.html?idxno=120066",
-      "press": "",
-      "pubDate": "2026-07-27T09:34:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "NH투자증권"
       ]
     },
     {
@@ -14706,19 +14756,6 @@
       ]
     },
     {
-      "title": "한화생명, M&A·해외실적·준비금 개편 삼박자…저평가 탈출 시동",
-      "description": "키움증권은 지난해 11월 3천500원이던 목표주가를 올해 2월 8천500원으로 두 배 이상 상향한 이후, 기초체력 회복세와 자회사 성장 기대감을 반영해 5월 보고서에서도 목표주가 8천500원과 투자의견 매수를 그대로...",
-      "link": "http://www.globalepic.co.kr/view.php?ud=2026072709234882697cc35ccc5c_29",
-      "originallink": "http://www.globalepic.co.kr/view.php?ud=2026072709234882697cc35ccc5c_29",
-      "press": "",
-      "pubDate": "2026-07-27T09:32:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권",
-        "DB금융투자"
-      ]
-    },
-    {
       "title": "중앙그룹 채권자들, 금감원에 회계 감리 요청",
       "description": "한편, 금감원은 JTBC 회사채 발행 주관사인 신한투자증권과 유동화 전자단기사채를 개인투자자에게 판매한 키움증권, JTBC 회사채 인수단에 참여한 한양증권에 대한 현장 검사를 진행 중이다.",
       "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606189",
@@ -14740,6 +14777,19 @@
       "date": "2026-07-27",
       "companies": [
         "키움증권"
+      ]
+    },
+    {
+      "title": "한화생명, M&A·해외실적·준비금 개편 삼박자…저평가 탈출 시동",
+      "description": "키움증권은 지난해 11월 3천500원이던 목표주가를 올해 2월 8천500원으로 두 배 이상 상향한 이후, 기초체력 회복세와 자회사 성장 기대감을 반영해 5월 보고서에서도 목표주가 8천500원과 투자의견 매수를 그대로...",
+      "link": "http://www.globalepic.co.kr/view.php?ud=2026072709234882697cc35ccc5c_29",
+      "originallink": "http://www.globalepic.co.kr/view.php?ud=2026072709234882697cc35ccc5c_29",
+      "press": "",
+      "pubDate": "2026-07-27T09:32:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권",
+        "DB금융투자"
       ]
     },
     {
@@ -14780,11 +14830,11 @@
       ]
     },
     {
-      "title": "대형 이벤트 앞둔 코스피 상승 출발…\"밸류에이션상 진입 매력 높아\"",
-      "description": "한지영 키움증권 연구원은 “코스피 선행 PER(주가수익비율)이 6배(지난 24일 기준 5.7배)를 하회할 정도로 밸류에이션상 진입 매력은 유효하며 차트상 지난주 120일선 부근에서 하방 지지력을 확보했다는 점에...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006337305?sid=101",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02440326645518784",
-      "press": "이데일리",
+      "title": "7월 FOMC 앞두고 '동결' 유력...하반기 중 인상 가능성 대두",
+      "description": "안예하 키움증권 연구원은 \"유가 상승이 장기화되면 단기적으로 물가를 높이지만, 동시에 가계의 실질구매력과 소비를 약화해 중기적으로는 성장률을 낮추는 요인으로 작용한다\"라며 \"따라서 충격의 지속기간과 파급...",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606206",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606206",
+      "press": "",
       "pubDate": "2026-07-27T09:30:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -14792,11 +14842,11 @@
       ]
     },
     {
-      "title": "7월 FOMC 앞두고 '동결' 유력...하반기 중 인상 가능성 대두",
-      "description": "안예하 키움증권 연구원은 \"유가 상승이 장기화되면 단기적으로 물가를 높이지만, 동시에 가계의 실질구매력과 소비를 약화해 중기적으로는 성장률을 낮추는 요인으로 작용한다\"라며 \"따라서 충격의 지속기간과 파급...",
-      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606206",
-      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606206",
-      "press": "",
+      "title": "대형 이벤트 앞둔 코스피 상승 출발…\"밸류에이션상 진입 매력 높아\"",
+      "description": "한지영 키움증권 연구원은 “코스피 선행 PER(주가수익비율)이 6배(지난 24일 기준 5.7배)를 하회할 정도로 밸류에이션상 진입 매력은 유효하며 차트상 지난주 120일선 부근에서 하방 지지력을 확보했다는 점에...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337305?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02440326645518784",
+      "press": "이데일리",
       "pubDate": "2026-07-27T09:30:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -14917,11 +14967,11 @@
       ]
     },
     {
-      "title": "코스피, 급락세 딛고 상승 출발…한·미 AI 협력 기대에 반등 시도 [마켓...",
-      "description": "한지영 키움증권 연구원은 “밸류에이션과 기술적 측면에서 중기 바닥권이라는 판단은 유지된다”며 “주 중반 예정된 삼성전자와 SK하이닉스, 미국 빅테크 실적, FOMC 등을 소화하는 과정에서 변동성은...",
-      "link": "https://n.news.naver.com/mnews/article/011/0004645477?sid=101",
-      "originallink": "https://www.sedaily.com/article/20072148?ref=naver",
-      "press": "서울경제",
+      "title": "뉴욕 기술주 후퇴에도 ‘삼전닉스’ 반등…코스피 6800선 재탈환 시도",
+      "description": "한지영 키움증권 연구원 역시 “국내 증시의 변동성은 정상 범주를 넘어선 상태가 지속되고 있으나, 밸류에이션 및 기술적 관점에서 중기 바닥권에 진입했다는 전제는 훼손되지 않았다”며 “추후 반등의...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003039025?sid=105",
+      "originallink": "https://www.dt.co.kr/article/12074875?ref=naver",
+      "press": "디지털타임스",
       "pubDate": "2026-07-27T09:24:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -14930,11 +14980,11 @@
       ]
     },
     {
-      "title": "뉴욕 기술주 후퇴에도 ‘삼전닉스’ 반등…코스피 6800선 재탈환 시도",
-      "description": "한지영 키움증권 연구원 역시 “국내 증시의 변동성은 정상 범주를 넘어선 상태가 지속되고 있으나, 밸류에이션 및 기술적 관점에서 중기 바닥권에 진입했다는 전제는 훼손되지 않았다”며 “추후 반등의...",
-      "link": "https://n.news.naver.com/mnews/article/029/0003039025?sid=105",
-      "originallink": "https://www.dt.co.kr/article/12074875?ref=naver",
-      "press": "디지털타임스",
+      "title": "코스피, 급락세 딛고 상승 출발…한·미 AI 협력 기대에 반등 시도 [마켓...",
+      "description": "한지영 키움증권 연구원은 “밸류에이션과 기술적 측면에서 중기 바닥권이라는 판단은 유지된다”며 “주 중반 예정된 삼성전자와 SK하이닉스, 미국 빅테크 실적, FOMC 등을 소화하는 과정에서 변동성은...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004645477?sid=101",
+      "originallink": "https://www.sedaily.com/article/20072148?ref=naver",
+      "press": "서울경제",
       "pubDate": "2026-07-27T09:24:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -15036,7 +15086,6 @@
       "pubDate": "2026-07-27T09:17:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "미래에셋증권",
         "NH투자증권"
       ]
     },
@@ -15259,6 +15308,18 @@
       ]
     },
     {
+      "title": "코스닥, '천스닥'서 700선까지···레버리지 ETF 후폭풍 커졌다",
+      "description": "메리츠증권 이상현 연구원은 \"국내 단일종목 레버리지 상품 상장으로 인해 국내 반도체 기업 주가 변동성이 크게 확대됐다기보다는 레버리지 상품이 상장된 가운데 반도체 기업 주가 하락이 급격히 일어난 것이...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=149425",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=149425",
+      "press": "",
+      "pubDate": "2026-07-27T09:02:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "메리츠증권"
+      ]
+    },
+    {
       "title": "개미, 국장 흔들리자 미장으로···코스피 하락엔 '곱버스' 베팅",
       "description": "이를 두고 이상현 메리츠증권 연구원은 \"기본예탁금 강화, 매매수량 단위확대는 거래대금 과열 해소 등 시장 진정 효과를 가져올 것\"이라며 \"투자에 일부 장애요인이라 판단할 수 있겠으나 시장 투자자...",
       "link": "https://www.smartbizn.com/news/articleView.html?idxno=149428",
@@ -15269,18 +15330,6 @@
       "companies": [
         "메리츠증권",
         "DB금융투자"
-      ]
-    },
-    {
-      "title": "코스닥, '천스닥'서 700선까지···레버리지 ETF 후폭풍 커졌다",
-      "description": "메리츠증권 이상현 연구원은 \"국내 단일종목 레버리지 상품 상장으로 인해 국내 반도체 기업 주가 변동성이 크게 확대됐다기보다는 레버리지 상품이 상장된 가운데 반도체 기업 주가 하락이 급격히 일어난 것이...",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=149425",
-      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=149425",
-      "press": "",
-      "pubDate": "2026-07-27T09:02:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "메리츠증권"
       ]
     },
     {
@@ -15356,19 +15405,6 @@
       ]
     },
     {
-      "title": "'점포 구조조정 효과'…GS리테일, 영업익 21% 증가 전망",
-      "description": "박상준 키움증권 연구원은 \"슈퍼마켓은 내수 소비경기 호조로 동일점이 성장한 데다 점포 출점으로 매출이 증가해 영업이익이 증가했을 것\"이라며 \"홈쇼핑은 수익성이 높은 패션 등 유형상품 중심의 판매 확대에...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426926",
-      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426926",
-      "press": "",
-      "pubDate": "2026-07-27T08:56:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권",
-        "교보증권"
-      ]
-    },
-    {
       "title": "\"FOMC·빅테크 실적 줄줄이…코스피, 전쟁·피크아웃 속 대형 이벤트 주...",
       "description": "한지영 키움증권 연구원은 27일 보고서를 통해 \"이번주 코스피는 7월 FOMC와 미·이란 지정학적 긴장 완화 기대감, 미 빅테크 기업 및 삼성전자·SK하이닉스·삼성전기 등 국내 주도주 실적 등 대형 이벤트를 치르며 주가...",
       "link": "https://www.news2day.co.kr/article/20260727500012",
@@ -15390,6 +15426,19 @@
       "date": "2026-07-27",
       "companies": [
         "키움증권"
+      ]
+    },
+    {
+      "title": "'점포 구조조정 효과'…GS리테일, 영업익 21% 증가 전망",
+      "description": "박상준 키움증권 연구원은 \"슈퍼마켓은 내수 소비경기 호조로 동일점이 성장한 데다 점포 출점으로 매출이 증가해 영업이익이 증가했을 것\"이라며 \"홈쇼핑은 수익성이 높은 패션 등 유형상품 중심의 판매 확대에...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426926",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426926",
+      "press": "",
+      "pubDate": "2026-07-27T08:56:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권",
+        "교보증권"
       ]
     },
     {
@@ -15575,18 +15624,6 @@
       ]
     },
     {
-      "title": "키움증권, 발행어음 잔액 1조 넘겨…후발주자 중 선두",
-      "description": "키움증권이 발행어음 후발주자 3사 중 가장 많은 자금을 모집했다. 올 3월 말 기말 잔액이 1조1730억 원으로 집계되며 유일하게 1조 원을 넘겼다. 27일 데이터뉴스가 금융감독원 전자공시시스템에 공시된 키움증권의...",
-      "link": "http://www.datanews.co.kr/news/article.html?no=145718",
-      "originallink": "http://www.datanews.co.kr/news/article.html?no=145718",
-      "press": "",
-      "pubDate": "2026-07-27T08:46:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "키움증권"
-      ]
-    },
-    {
       "title": "퇴직연금 후발주자 키움증권, 54일 만에 적립금 1000억 원 돌파",
       "description": "키움증권의 퇴직연금 적립금이 서비스 출시 54일 만에 1000억 원을 넘어섰다. 국내 주식과 해외 주식 시장에서 확보한 개인투자자들이 퇴직연금 고객으로 이동하면서 후발주자의 초기 시장 안착을 이끌었다. 키움증권은...",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=127682",
@@ -15597,6 +15634,18 @@
       "companies": [
         "키움증권",
         "DB금융투자"
+      ]
+    },
+    {
+      "title": "키움증권, 발행어음 잔액 1조 넘겨…후발주자 중 선두",
+      "description": "키움증권이 발행어음 후발주자 3사 중 가장 많은 자금을 모집했다. 올 3월 말 기말 잔액이 1조1730억 원으로 집계되며 유일하게 1조 원을 넘겼다. 27일 데이터뉴스가 금융감독원 전자공시시스템에 공시된 키움증권의...",
+      "link": "http://www.datanews.co.kr/news/article.html?no=145718",
+      "originallink": "http://www.datanews.co.kr/news/article.html?no=145718",
+      "press": "",
+      "pubDate": "2026-07-27T08:46:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "키움증권"
       ]
     },
     {
@@ -15805,8 +15854,7 @@
       "pubDate": "2026-07-27T08:32:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "NH투자증권",
-        "삼성증권"
+        "NH투자증권"
       ]
     },
     {
@@ -15898,11 +15946,11 @@
       ]
     },
     {
-      "title": "삼성證 “IPARK현산, 높은 수익성과 주주 환원 노력에도 저평가… 목표...",
-      "description": "삼성증권이 27일 IPARK현대산업개발에 대해 경쟁사 대비 높은 수익성과 적극적인 주주 환원 노력에도 불구하고 극단적 저평가 상태에 놓여 있다고 분석했다. 투자의견 ‘매수’(BUY)와 목표주가 2만8000원을 유지했다....",
-      "link": "https://n.news.naver.com/mnews/article/366/0001182049?sid=101",
-      "originallink": "https://biz.chosun.com/stock/stock_general/2026/07/27/TA3BY4H6YFA2RCLYAQ5OL3ZEOA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "press": "조선비즈",
+      "title": "삼성에피스홀딩스, 공급 이연에 '숨 고르기'…하반기 실적 회복 기대",
+      "description": "삼성증권은 27일 삼성에피스홀딩스(0126Z0)에 대해 2분기 실적은 다소 부진했지만, 하반기에는 바이오시밀러 판매 확대를 바탕으로 실적 회복세가 이어질 것이라며 투자의견 '매수(BUY)'와 목표주가 60만원을 유지했다....",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=741571",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=741571",
+      "press": "",
       "pubDate": "2026-07-27T08:26:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -15910,11 +15958,11 @@
       ]
     },
     {
-      "title": "삼성에피스홀딩스, 공급 이연에 '숨 고르기'…하반기 실적 회복 기대",
-      "description": "삼성증권은 27일 삼성에피스홀딩스(0126Z0)에 대해 2분기 실적은 다소 부진했지만, 하반기에는 바이오시밀러 판매 확대를 바탕으로 실적 회복세가 이어질 것이라며 투자의견 '매수(BUY)'와 목표주가 60만원을 유지했다....",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=741571",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=741571",
-      "press": "",
+      "title": "삼성證 “IPARK현산, 높은 수익성과 주주 환원 노력에도 저평가… 목표...",
+      "description": "삼성증권이 27일 IPARK현대산업개발에 대해 경쟁사 대비 높은 수익성과 적극적인 주주 환원 노력에도 불구하고 극단적 저평가 상태에 놓여 있다고 분석했다. 투자의견 ‘매수’(BUY)와 목표주가 2만8000원을 유지했다....",
+      "link": "https://n.news.naver.com/mnews/article/366/0001182049?sid=101",
+      "originallink": "https://biz.chosun.com/stock/stock_general/2026/07/27/TA3BY4H6YFA2RCLYAQ5OL3ZEOA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "press": "조선비즈",
       "pubDate": "2026-07-27T08:26:00+09:00",
       "date": "2026-07-27",
       "companies": [
@@ -16729,10 +16777,10 @@
       ]
     },
     {
-      "title": "[단독] 콘텐트리중앙, 제이앤PE ‘이매지너스’ 풋옵션 계약 해지 추진",
-      "description": "이매지너스는 지난해 NH투자증권을 대표 주관사로 선정하고 내년 코스닥 시장 입성을 목표로 상장 절차를 진행 중이다. 업계 관계자는 “풋옵션은 투자금 회수를 위한 안전장치 중 하나일 뿐”이라며 “기업회생...",
-      "link": "https://n.news.naver.com/mnews/article/366/0001182032?sid=101",
-      "originallink": "https://biz.chosun.com/stock/market_trend/2026/07/27/U7JHT5ZEVZDKTHZDMJEOMKNRTQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "title": "‘10조 K뷰티 대어’ 구다이글로벌, 코스피 상장 초읽기… 거래소 사전...",
+      "description": "대표 주관사인 미래에셋증권은 NH투자증권, 씨티그룹글로벌마켓증권, 모건스탠리 등 공동 주관사와 함께 지난주 논딜로드쇼(NDR)를 시작했다. 공모 조건을 확정하기 전 해외 기관 투자자에게 회사를 소개하는 자리다....",
+      "link": "https://n.news.naver.com/mnews/article/366/0001182036?sid=101",
+      "originallink": "https://biz.chosun.com/stock/market_trend/2026/07/25/77IPFLBTWVBUNLHWEGGHHPNUJM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선비즈",
       "pubDate": "2026-07-27T06:02:00+09:00",
       "date": "2026-07-27",
@@ -16741,10 +16789,10 @@
       ]
     },
     {
-      "title": "‘10조 K뷰티 대어’ 구다이글로벌, 코스피 상장 초읽기… 거래소 사전...",
-      "description": "대표 주관사인 미래에셋증권은 NH투자증권, 씨티그룹글로벌마켓증권, 모건스탠리 등 공동 주관사와 함께 지난주 논딜로드쇼(NDR)를 시작했다. 공모 조건을 확정하기 전 해외 기관 투자자에게 회사를 소개하는 자리다....",
-      "link": "https://n.news.naver.com/mnews/article/366/0001182036?sid=101",
-      "originallink": "https://biz.chosun.com/stock/market_trend/2026/07/25/77IPFLBTWVBUNLHWEGGHHPNUJM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "title": "[단독] 콘텐트리중앙, 제이앤PE ‘이매지너스’ 풋옵션 계약 해지 추진",
+      "description": "이매지너스는 지난해 NH투자증권을 대표 주관사로 선정하고 내년 코스닥 시장 입성을 목표로 상장 절차를 진행 중이다. 업계 관계자는 “풋옵션은 투자금 회수를 위한 안전장치 중 하나일 뿐”이라며 “기업회생...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001182032?sid=101",
+      "originallink": "https://biz.chosun.com/stock/market_trend/2026/07/27/U7JHT5ZEVZDKTHZDMJEOMKNRTQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선비즈",
       "pubDate": "2026-07-27T06:02:00+09:00",
       "date": "2026-07-27",
@@ -16765,18 +16813,6 @@
       ]
     },
     {
-      "title": "드리운 '반도체 고점론'…증권가는 '이 시기' 꼽았다",
-      "description": "이재원 유안타증권 연구원은 \"상반기 반도체·대형주 중심의 수급 쏠림은 이익 비중과 실적 가시성을 감안하면 합리적이었다\"면서도 \"그러나 상승을 구현한 방식이 개인의 레버리지 ETF 매수와 신용, 외국인의 대형주...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005553077?sid=101",
-      "originallink": "http://www.fnnews.com/news/202607261601484331",
-      "press": "파이낸셜뉴스",
-      "pubDate": "2026-07-27T06:01:00+09:00",
-      "date": "2026-07-27",
-      "companies": [
-        "유안타증권"
-      ]
-    },
-    {
       "title": "40% 빠진 전력기기株, 끝 아닌 시작?…변압기 이어 배전까지 ‘슈퍼사이...",
       "description": "손현정 유안타증권 연구원은 당시 리포트를 통해 “단일종목 레버리지 ETF 출시 이후 AI 테마 내 자금이 반도체 대형주로 빠르게 이동했다”며 “최근 조정은 업황 피크아웃이 아니라 상반기 급등 이후 차익실현...",
       "link": "https://n.news.naver.com/mnews/article/366/0001182023?sid=101",
@@ -16789,23 +16825,22 @@
       ]
     },
     {
-      "title": "[유통소식] 신세계, 레드닷 디자인 어워드 3관왕",
-      "description": "졸업식에서는 NH투자증권 후원으로 농기계 지원 물품도 전달됐다. 서종경 농협창업농지원센터장은 \"청년농업인의 성장이 농업 경쟁력 강화로 이어지길 기대한다\"고 말했다. 농협은 향후 토마토반 엽채류반 졸업식을...",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2115279",
-      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2115279",
-      "press": "",
-      "pubDate": "2026-07-27T06:00:00+09:00",
+      "title": "드리운 '반도체 고점론'…증권가는 '이 시기' 꼽았다",
+      "description": "이재원 유안타증권 연구원은 \"상반기 반도체·대형주 중심의 수급 쏠림은 이익 비중과 실적 가시성을 감안하면 합리적이었다\"면서도 \"그러나 상승을 구현한 방식이 개인의 레버리지 ETF 매수와 신용, 외국인의 대형주...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005553077?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607261601484331",
+      "press": "파이낸셜뉴스",
+      "pubDate": "2026-07-27T06:01:00+09:00",
       "date": "2026-07-27",
       "companies": [
-        "NH투자증권",
-        "카카오페이증권"
+        "유안타증권"
       ]
     },
     {
-      "title": "[출근길 브리핑-7월 27일] 李 \"한미 벤처기술·혁신 동맹으로\"·동탄 아...",
-      "description": "NH투자증권은 다음주 코스피 예상 밴드로 6700~7600선을 제시했습니다. 상승 요인으로는 AI CAPEX 우려 해소와 실적 전망치 상향 등이, 변동성 요인으로는 미·이란 군사 충돌 확대가 꼽힙니다. 이상준 NH투자증권 연구원은...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848380",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=848380",
+      "title": "[추천주 직썰] 로봇주, 조정 끝났다?···삼성 드라이브에 '차기 주도주...",
+      "description": "윤진호 NH투자증권 연구원은 \"하반기부터 내년 상반기까지 글로벌 휴머노이드 제조사의 대량 양산이 가시화되면서 로봇손 공급망의 중요도가 부각될 것\"이라며 \"국내 로봇손 밸류체인에 주목해야 한다\"고 말했다....",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=141100",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141100",
       "press": "",
       "pubDate": "2026-07-27T06:00:00+09:00",
       "date": "2026-07-27",
@@ -16827,15 +16862,28 @@
       ]
     },
     {
-      "title": "[추천주 직썰] 로봇주, 조정 끝났다?···삼성 드라이브에 '차기 주도주...",
-      "description": "윤진호 NH투자증권 연구원은 \"하반기부터 내년 상반기까지 글로벌 휴머노이드 제조사의 대량 양산이 가시화되면서 로봇손 공급망의 중요도가 부각될 것\"이라며 \"국내 로봇손 밸류체인에 주목해야 한다\"고 말했다....",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=141100",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141100",
+      "title": "[출근길 브리핑-7월 27일] 李 \"한미 벤처기술·혁신 동맹으로\"·동탄 아...",
+      "description": "NH투자증권은 다음주 코스피 예상 밴드로 6700~7600선을 제시했습니다. 상승 요인으로는 AI CAPEX 우려 해소와 실적 전망치 상향 등이, 변동성 요인으로는 미·이란 군사 충돌 확대가 꼽힙니다. 이상준 NH투자증권 연구원은...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848380",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=848380",
       "press": "",
       "pubDate": "2026-07-27T06:00:00+09:00",
       "date": "2026-07-27",
       "companies": [
         "NH투자증권"
+      ]
+    },
+    {
+      "title": "[유통소식] 신세계, 레드닷 디자인 어워드 3관왕",
+      "description": "졸업식에서는 NH투자증권 후원으로 농기계 지원 물품도 전달됐다. 서종경 농협창업농지원센터장은 \"청년농업인의 성장이 농업 경쟁력 강화로 이어지길 기대한다\"고 말했다. 농협은 향후 토마토반 엽채류반 졸업식을...",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2115279",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2115279",
+      "press": "",
+      "pubDate": "2026-07-27T06:00:00+09:00",
+      "date": "2026-07-27",
+      "companies": [
+        "NH투자증권",
+        "카카오페이증권"
       ]
     },
     {
@@ -16961,10 +17009,10 @@
       ]
     },
     {
-      "title": "NH투자증권, 퇴직연금DC·IRP 5년 수익률 1위",
-      "description": "NH투자증권(대표 신재욱·배광수)이 퇴직연금 확정기여형(DC)과 개인형퇴직연금(IRP) 원리금 비보장 상품의 5년 수익률에서 증권사 1위를 기록했다. NH투자증권은 금융감독원의 2026년 2분기 퇴직연금 비교공시...",
-      "link": "https://n.news.naver.com/mnews/article/662/0000100499?sid=101",
-      "originallink": "https://www.nongmin.com/article/20260724500525",
+      "title": "[디지털농민신문 금주의 ‘N+라이프’] 7월 27일~7월 31일",
+      "description": "28일(화)에는 NH투자증권 100세시대연구소가 노후 준비에 고민이 많은 중장년층을 위한 재테크 비결을 안내합니다. 은퇴 뒤에 몸이 아프면 노후 자금이 금세 사라질 수 있습니다. 적절한 의료·여가비 산정법과 기대...",
+      "link": "https://n.news.naver.com/mnews/article/662/0000100511?sid=103",
+      "originallink": "https://www.nongmin.com/article/20260724500550",
       "press": "",
       "pubDate": "2026-07-27T05:02:00+09:00",
       "date": "2026-07-27",
@@ -17147,10 +17195,10 @@
       ]
     },
     {
-      "title": "정진완號 우리은행, 라인업 확대·KPI 손질…퇴직연금 방어 ‘사활’ [은...",
-      "description": "단순히 증시가 오르면서 투자상품 수익률과 평가액이 함께 증가한 결과로만 보기는 어렵다. 우리은행은... 우리은행은 기업금융 경쟁력을 기반으로 DB 적립금을 확보해왔지만, 가입자가 직접 상품을 선택하는 DC...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202607242207269982dd55077bc2_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202607242207269982dd55077bc2_18",
+      "title": "신한은행, IT 투자 늘리고 보안은 뒷전… 예산만 늘린 '착시'",
+      "description": "데이터 보안 투자액도 감소세를 보이는 데다, 과거 전산장애로 전자금융 안전성 확보 의무 위반 제재를... 전자금융거래 안전성 확보 의무 위반으로 과태료 9600만원을 부과했다. 당시 코어뱅킹DB 서버 접근통제...",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91978",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91978",
       "press": "",
       "pubDate": "2026-07-27T00:02:00+09:00",
       "date": "2026-07-27",
@@ -17159,10 +17207,10 @@
       ]
     },
     {
-      "title": "신한은행, IT 투자 늘리고 보안은 뒷전… 예산만 늘린 '착시'",
-      "description": "데이터 보안 투자액도 감소세를 보이는 데다, 과거 전산장애로 전자금융 안전성 확보 의무 위반 제재를... 전자금융거래 안전성 확보 의무 위반으로 과태료 9600만원을 부과했다. 당시 코어뱅킹DB 서버 접근통제...",
-      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91978",
-      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91978",
+      "title": "정진완號 우리은행, 라인업 확대·KPI 손질…퇴직연금 방어 ‘사활’ [은...",
+      "description": "단순히 증시가 오르면서 투자상품 수익률과 평가액이 함께 증가한 결과로만 보기는 어렵다. 우리은행은... 우리은행은 기업금융 경쟁력을 기반으로 DB 적립금을 확보해왔지만, 가입자가 직접 상품을 선택하는 DC...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202607242207269982dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202607242207269982dd55077bc2_18",
       "press": "",
       "pubDate": "2026-07-27T00:02:00+09:00",
       "date": "2026-07-27",
@@ -17438,6 +17486,18 @@
       ]
     },
     {
+      "title": "1년 전으로 되돌아간 코스닥…올랐다 싶더니 다시 '와르르'",
+      "description": "정상휘 교보증권 연구원은 \"코스닥 승강제는 2022년 도쿄증권거래소(TSE)의 시장 개편처럼 상장사의 질적 경쟁력을 높이는 제도\"라며 \"부진한 코스닥 시장의 투자 모멘텀을 되살리는 계기가 될 수 있다\"고내다봤다.",
+      "link": "https://www.ajunews.com/view/20260726142026915",
+      "originallink": "https://www.ajunews.com/view/20260726142026915",
+      "press": "아주경제",
+      "pubDate": "2026-07-26T18:12:00+09:00",
+      "date": "2026-07-26",
+      "companies": [
+        "교보증권"
+      ]
+    },
+    {
       "title": "\"천국이 따로 없네\"…외국인들 '4000억' 넘게 긁은 곳",
       "description": "정희령 교보증권 책임연구원은 “클래시스는 마이크로 니들 신제품 판매 부진으로 국내 매출 증가율 둔화가 예상된다”며 “눈높이를 살짝 낮춰야 하는 상황”이라고 분석했다.",
       "link": "https://n.news.naver.com/mnews/article/015/0005313936?sid=105",
@@ -17448,18 +17508,6 @@
       "companies": [
         "교보증권",
         "IBK투자증권"
-      ]
-    },
-    {
-      "title": "1년 전으로 되돌아간 코스닥…올랐다 싶더니 다시 '와르르'",
-      "description": "정상휘 교보증권 연구원은 \"코스닥 승강제는 2022년 도쿄증권거래소(TSE)의 시장 개편처럼 상장사의 질적 경쟁력을 높이는 제도\"라며 \"부진한 코스닥 시장의 투자 모멘텀을 되살리는 계기가 될 수 있다\"고내다봤다.",
-      "link": "https://www.ajunews.com/view/20260726142026915",
-      "originallink": "https://www.ajunews.com/view/20260726142026915",
-      "press": "아주경제",
-      "pubDate": "2026-07-26T18:12:00+09:00",
-      "date": "2026-07-26",
-      "companies": [
-        "교보증권"
       ]
     },
     {
@@ -19328,10 +19376,10 @@
       ]
     },
     {
-      "title": "삼성전자 로봇 사업 본격화, 이재용 200조 실탄으로 로봇기업 추가 인수...",
-      "description": "김혜빈 IBK투자증권 연구원은 \"RX사업추진실 설립의 핵심은 분산돼 있던 로봇 사업 역량을 일원화해 삼성의 로봇 사업 의지를 시장에 다시금 각인시키고, 관련 의사결정 속도를 높일 것이라는 기대감을 심어준 것\"이라고...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443095",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443095",
+      "title": "DL케미칼 여천NCC 구조조정에 부담 던다, 김종현 고부가 스페셜티 중심...",
+      "description": "이동욱 IBK투자증권 연구원은 보고서에서 \"크레이튼은 지난 수년 동안 저수익 사업 축소와 인력·비용 효율화, 생산설비 운영 최적화를 이어왔다\"며 \"DL의 인수 뒤 부담 요인이 아니라 연간 3천억 원 수준의 영업이익을...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443096",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443096",
       "press": "",
       "pubDate": "2026-07-26T06:02:00+09:00",
       "date": "2026-07-26",
@@ -19340,10 +19388,10 @@
       ]
     },
     {
-      "title": "DL케미칼 여천NCC 구조조정에 부담 던다, 김종현 고부가 스페셜티 중심...",
-      "description": "이동욱 IBK투자증권 연구원은 보고서에서 \"크레이튼은 지난 수년 동안 저수익 사업 축소와 인력·비용 효율화, 생산설비 운영 최적화를 이어왔다\"며 \"DL의 인수 뒤 부담 요인이 아니라 연간 3천억 원 수준의 영업이익을...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443096",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443096",
+      "title": "삼성전자 로봇 사업 본격화, 이재용 200조 실탄으로 로봇기업 추가 인수...",
+      "description": "김혜빈 IBK투자증권 연구원은 \"RX사업추진실 설립의 핵심은 분산돼 있던 로봇 사업 역량을 일원화해 삼성의 로봇 사업 의지를 시장에 다시금 각인시키고, 관련 의사결정 속도를 높일 것이라는 기대감을 심어준 것\"이라고...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443095",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443095",
       "press": "",
       "pubDate": "2026-07-26T06:02:00+09:00",
       "date": "2026-07-26",
@@ -19751,19 +19799,6 @@
       ]
     },
     {
-      "title": "비만약 CDMO 진출하지만…삼바 눈높이 낮추는 증권가",
-      "description": "삼성증권은 삼성바이오로직스 2분기 실적 발표 이후 유일하게 목표주가를 상향했다. 목표주가를 180만원에서 190만원으로 올렸다. 서근희 삼성증권 애널리스트는 “3분기부터 5공장과 록빌 공장 매출이 반영되고...",
-      "link": "https://n.news.naver.com/mnews/article/024/0000107114?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12106724",
-      "press": "매일경제",
-      "pubDate": "2026-07-25T13:01:00+09:00",
-      "date": "2026-07-25",
-      "companies": [
-        "삼성증권",
-        "메리츠증권"
-      ]
-    },
-    {
       "title": "LGD, ‘하반기 반등’ 외치지만...시장선 “눈높이 낮춰라”",
       "description": "삼성증권, SK증권, iM증권, 신한투자증권 등이 목표가를 하향했다. 다만 투자의견은 ‘매수’를 유지했다. 정원석 iM증권 애널리스트는 “메모리 반도체 가격 상승으로 완제품(세트) 업체의 원가 부담이 확대되고...",
       "link": "https://n.news.naver.com/mnews/article/024/0000107112?sid=101",
@@ -19774,6 +19809,19 @@
       "companies": [
         "삼성증권",
         "SK증권"
+      ]
+    },
+    {
+      "title": "비만약 CDMO 진출하지만…삼바 눈높이 낮추는 증권가",
+      "description": "삼성증권은 삼성바이오로직스 2분기 실적 발표 이후 유일하게 목표주가를 상향했다. 목표주가를 180만원에서 190만원으로 올렸다. 서근희 삼성증권 애널리스트는 “3분기부터 5공장과 록빌 공장 매출이 반영되고...",
+      "link": "https://n.news.naver.com/mnews/article/024/0000107114?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12106724",
+      "press": "매일경제",
+      "pubDate": "2026-07-25T13:01:00+09:00",
+      "date": "2026-07-25",
+      "companies": [
+        "삼성증권",
+        "메리츠증권"
       ]
     },
     {
@@ -20999,11 +21047,11 @@
       ]
     },
     {
-      "title": "[단독] 범LG가 3세가 이끄는 VC 푸른인베, IPO 추진",
-      "description": "24일 투자은행(IB) 업계에 따르면 푸른그룹 계열의 신기술금융사 푸른인베스트먼트는 증시 입성을 위해 최근 대신증권을 상장 주관사로 선정한 것으로 알려졌다. 실적 성장세를 앞세워 상장 채비에 나선 것으로...",
-      "link": "https://n.news.naver.com/mnews/article/009/0005711984?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12106944",
-      "press": "매일경제",
+      "title": "닛케이 조정·엔저 겹악재…발 빼는 일학개미",
+      "description": "조재운 대신증권 연구원은 “미국 연방준비제도(Fed)의 금리 인상 경로가 유지되는 한 달러는 구조적으로 지지되며 엔화에는 하방 압력이 걸린다”며 “일본 재무성(MOF)이 외환시장에 개입하더라도 통화 방향을...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004644951?sid=101",
+      "originallink": "https://www.sedaily.com/article/20071653?ref=naver",
+      "press": "서울경제",
       "pubDate": "2026-07-24T18:02:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -21011,11 +21059,11 @@
       ]
     },
     {
-      "title": "닛케이 조정·엔저 겹악재…발 빼는 일학개미",
-      "description": "조재운 대신증권 연구원은 “미국 연방준비제도(Fed)의 금리 인상 경로가 유지되는 한 달러는 구조적으로 지지되며 엔화에는 하방 압력이 걸린다”며 “일본 재무성(MOF)이 외환시장에 개입하더라도 통화 방향을...",
-      "link": "https://n.news.naver.com/mnews/article/011/0004644951?sid=101",
-      "originallink": "https://www.sedaily.com/article/20071653?ref=naver",
-      "press": "서울경제",
+      "title": "[단독] 범LG가 3세가 이끄는 VC 푸른인베, IPO 추진",
+      "description": "24일 투자은행(IB) 업계에 따르면 푸른그룹 계열의 신기술금융사 푸른인베스트먼트는 증시 입성을 위해 최근 대신증권을 상장 주관사로 선정한 것으로 알려졌다. 실적 성장세를 앞세워 상장 채비에 나선 것으로...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005711984?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12106944",
+      "press": "매일경제",
       "pubDate": "2026-07-24T18:02:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -21364,10 +21412,10 @@
       ]
     },
     {
-      "title": "전날 7000선 회복했는데…코스피, 하루 만에 5%대 급락해 6690선 마감",
-      "description": "이경민 대신증권 연구원은 \"국내 증시는 중동 긴장이 고조되면서 위험자산 선호 심리가 후퇴했고 장중 낙폭이 확대됐다\"며 \"높아진 유가 수준을 반영해 미국 국채 10년물 금리 등이 상승한 점도 증시 하방...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83665",
-      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83665",
+      "title": "[40년 만에 돌아온 슈퍼엔저上] 엔화 그림자 벗어던진 원화...'동조화' 공...",
+      "description": "대신증권 조재운 연구원은 \"적자 폭이 급격히 확대된 핵심 요인은 에너지 수입 비용의 재상승\"이라며 \"에너지 대부분을 수입에 의존하는 일본 특성상 최근 유가 반등이 수입 금액을 빠르게 끌어올렸다\"고 분석했다. 반면...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128331",
+      "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=128331",
       "press": "",
       "pubDate": "2026-07-24T17:22:00+09:00",
       "date": "2026-07-24",
@@ -21376,10 +21424,10 @@
       ]
     },
     {
-      "title": "[40년 만에 돌아온 슈퍼엔저上] 엔화 그림자 벗어던진 원화...'동조화' 공...",
-      "description": "대신증권 조재운 연구원은 \"적자 폭이 급격히 확대된 핵심 요인은 에너지 수입 비용의 재상승\"이라며 \"에너지 대부분을 수입에 의존하는 일본 특성상 최근 유가 반등이 수입 금액을 빠르게 끌어올렸다\"고 분석했다. 반면...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128331",
-      "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=128331",
+      "title": "전날 7000선 회복했는데…코스피, 하루 만에 5%대 급락해 6690선 마감",
+      "description": "이경민 대신증권 연구원은 \"국내 증시는 중동 긴장이 고조되면서 위험자산 선호 심리가 후퇴했고 장중 낙폭이 확대됐다\"며 \"높아진 유가 수준을 반영해 미국 국채 10년물 금리 등이 상승한 점도 증시 하방...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83665",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83665",
       "press": "",
       "pubDate": "2026-07-24T17:22:00+09:00",
       "date": "2026-07-24",
@@ -21426,6 +21474,18 @@
       ]
     },
     {
+      "title": "중동發 유가 충격에 코스피 5.72% 급락…외국인 '팔자'에 반도체株 직격...",
+      "description": "이경민 대신증권 연구원은 \"중동 긴장 고조로 위험자산 선호 심리가 후퇴했고, 높아진 유가 수준이 미국채 금리 상승으로 이어지면서 국내 증시 하방 압력을 키웠다\"고 말했다. 반도체 대형주도 투자심리 악화의...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=223758",
+      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=223758",
+      "press": "",
+      "pubDate": "2026-07-24T17:14:00+09:00",
+      "date": "2026-07-24",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
       "title": "1.3조 지원 기대’ LG디스플레이, 증권가 목표가 하향 속 주가 반등할까",
       "description": "박강호 대신증권 연구원 역시 \"하반기 영업이익은 전년 동기 대비 41.6% 증가한 8488억원으로 실적 회복이 가속화될 것\"이라며 \"북미 전략 거래선의 신모델 내 점유율 확대와 대형 OLED 감가상각비 축소로 수익성이...",
       "link": "https://www.etoday.co.kr/news/view/2607273",
@@ -21439,22 +21499,10 @@
       ]
     },
     {
-      "title": "중동發 유가 충격에 코스피 5.72% 급락…외국인 '팔자'에 반도체株 직격...",
-      "description": "이경민 대신증권 연구원은 \"중동 긴장 고조로 위험자산 선호 심리가 후퇴했고, 높아진 유가 수준이 미국채 금리 상승으로 이어지면서 국내 증시 하방 압력을 키웠다\"고 말했다. 반도체 대형주도 투자심리 악화의...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=223758",
-      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=223758",
-      "press": "",
-      "pubDate": "2026-07-24T17:14:00+09:00",
-      "date": "2026-07-24",
-      "companies": [
-        "대신증권"
-      ]
-    },
-    {
-      "title": "삼성바이오에피스, 상반기 8471억…연매출 목표까지 1조 남았다",
-      "description": "삼성증권은 삼성에피스홀딩스가 올해 연간 매출액 1조8670억원, 영업이익 2550억원을 기록할 것으로 전망했다. 하나증권도(매출액 1조8547억원, 영업이익 2444억원) 비슷한 전망치를 내놨다. 상반기 매출이 전년보다...",
-      "link": "https://n.news.naver.com/mnews/article/296/0000102936?sid=101",
-      "originallink": "https://kormedi.com/?p=2838000",
+      "title": "실적은 뛰는데 ‘주가는 바닥’인 게임주⋯“하반기 옥석 가리기 본격화...",
+      "description": "오동환 삼성증권 연구원은 “신작 성과와 코어 IP의 지속성에 따라 기업 간 2분기 실적 차별화가 나타날 전망”이라고 설명했다. 실제로 크래프톤은 2분기 시장 기대치를 상회하는 호실적을 거둘 전망이다. 오...",
+      "link": "https://www.etoday.co.kr/news/view/2607209",
+      "originallink": "https://www.etoday.co.kr/news/view/2607209",
       "press": "",
       "pubDate": "2026-07-24T17:12:00+09:00",
       "date": "2026-07-24",
@@ -21463,10 +21511,10 @@
       ]
     },
     {
-      "title": "실적은 뛰는데 ‘주가는 바닥’인 게임주⋯“하반기 옥석 가리기 본격화...",
-      "description": "오동환 삼성증권 연구원은 “신작 성과와 코어 IP의 지속성에 따라 기업 간 2분기 실적 차별화가 나타날 전망”이라고 설명했다. 실제로 크래프톤은 2분기 시장 기대치를 상회하는 호실적을 거둘 전망이다. 오...",
-      "link": "https://www.etoday.co.kr/news/view/2607209",
-      "originallink": "https://www.etoday.co.kr/news/view/2607209",
+      "title": "삼성바이오에피스, 상반기 8471억…연매출 목표까지 1조 남았다",
+      "description": "삼성증권은 삼성에피스홀딩스가 올해 연간 매출액 1조8670억원, 영업이익 2550억원을 기록할 것으로 전망했다. 하나증권도(매출액 1조8547억원, 영업이익 2444억원) 비슷한 전망치를 내놨다. 상반기 매출이 전년보다...",
+      "link": "https://n.news.naver.com/mnews/article/296/0000102936?sid=101",
+      "originallink": "https://kormedi.com/?p=2838000",
       "press": "",
       "pubDate": "2026-07-24T17:12:00+09:00",
       "date": "2026-07-24",
@@ -21524,10 +21572,10 @@
       ]
     },
     {
-      "title": "주가 주춤한데 실적까지 '뚝'…삼성에피스, 반등 열쇠는 '신약'(종합)",
-      "description": "서근희 삼성증권 연구원은 \"삼성에피스홀딩스의 주가 흐름은 파이프라인(개발물질) 가시성 부재가 작용한 결과\"라며 \"파이프라인이 아직 초기 단계에 머물러 있어 신약 기업으로의 전환 스토리가 주가에...",
-      "link": "https://n.news.naver.com/mnews/article/417/0001152962?sid=101",
-      "originallink": "https://www.sidae.com/article/2026072416230272227",
+      "title": "오늘의 증시",
+      "description": "오늘의 증시 정다인/삼성증권",
+      "link": "https://n.news.naver.com/mnews/article/214/0001513756?sid=101",
+      "originallink": "https://imnews.imbc.com/replay/2026/nw1700/article/6839896_36981.html",
       "press": "",
       "pubDate": "2026-07-24T17:06:00+09:00",
       "date": "2026-07-24",
@@ -21536,10 +21584,10 @@
       ]
     },
     {
-      "title": "오늘의 증시",
-      "description": "오늘의 증시 정다인/삼성증권",
-      "link": "https://n.news.naver.com/mnews/article/214/0001513756?sid=101",
-      "originallink": "https://imnews.imbc.com/replay/2026/nw1700/article/6839896_36981.html",
+      "title": "주가 주춤한데 실적까지 '뚝'…삼성에피스, 반등 열쇠는 '신약'(종합)",
+      "description": "서근희 삼성증권 연구원은 \"삼성에피스홀딩스의 주가 흐름은 파이프라인(개발물질) 가시성 부재가 작용한 결과\"라며 \"파이프라인이 아직 초기 단계에 머물러 있어 신약 기업으로의 전환 스토리가 주가에...",
+      "link": "https://n.news.naver.com/mnews/article/417/0001152962?sid=101",
+      "originallink": "https://www.sidae.com/article/2026072416230272227",
       "press": "",
       "pubDate": "2026-07-24T17:06:00+09:00",
       "date": "2026-07-24",
@@ -21894,6 +21942,18 @@
       ]
     },
     {
+      "title": "제논, 상장예비심사 청구…2년 연속 흑자로 코스닥 도전",
+      "description": "상장 주관사는 삼성증권이며, 심사 상태는 청구서 접수로 표시됐다. 제논은 기술특례가 아닌 일반상장 방식으로 코스닥 입성을 추진한다. 회사는 2024년과 2025년 2년 연속 영업이익을 기록한 실적을 바탕으로...",
+      "link": "https://www.hellot.net/news/article.html?no=113966",
+      "originallink": "https://www.hellot.net/news/article.html?no=113966",
+      "press": "",
+      "pubDate": "2026-07-24T16:26:00+09:00",
+      "date": "2026-07-24",
+      "companies": [
+        "삼성증권"
+      ]
+    },
+    {
       "title": "현대글로비스, 유가 충격은 ‘시차’일 뿐…증권가 눈높이 여전히 고공...",
       "description": "이어 KB증권 36만원, 메리츠증권 34만원, 흥국증권·한국투자증권 33만원, 신한투자증권·유안타증권·LS증권 32만원, NH투자증권 31만9000원, 미래에셋증권·하나증권 31만원, 삼성증권 30만원, 현대차증권 27만원 순이다....",
       "link": "https://www.etoday.co.kr/news/view/2607265",
@@ -21907,18 +21967,6 @@
         "한화투자증권",
         "유안타증권",
         "현대차증권"
-      ]
-    },
-    {
-      "title": "제논, 상장예비심사 청구…2년 연속 흑자로 코스닥 도전",
-      "description": "상장 주관사는 삼성증권이며, 심사 상태는 청구서 접수로 표시됐다. 제논은 기술특례가 아닌 일반상장 방식으로 코스닥 입성을 추진한다. 회사는 2024년과 2025년 2년 연속 영업이익을 기록한 실적을 바탕으로...",
-      "link": "https://www.hellot.net/news/article.html?no=113966",
-      "originallink": "https://www.hellot.net/news/article.html?no=113966",
-      "press": "",
-      "pubDate": "2026-07-24T16:26:00+09:00",
-      "date": "2026-07-24",
-      "companies": [
-        "삼성증권"
       ]
     },
     {
@@ -22070,11 +22118,11 @@
       ]
     },
     {
-      "title": "코스피,중동정세에 5.7% 급락한 6,600선...삼전 7%·닉스 8%대 '풀썩'",
+      "title": "코스피, 중동정세 격화·유가상승에 다시 털썩…이번주 내내 사이드카(...",
       "description": "하장권 현대차증권 연구원은 \"알파벳의 FCF(잉여현금흐름) 마이너스 전환은 상징적 의미가 있다\"면서도 \"하이퍼 스케일러 합산 OPM(영업이익률) 추정치 역시 개선세가 지속하고 있다\"고 짚었다. 비우호적인 매크로...",
-      "link": "http://www.seouleconews.com/news/articleView.html?idxno=92621",
-      "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=92621",
-      "press": "",
+      "link": "https://n.news.naver.com/mnews/article/001/0016213610?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260724095651008?input=1195m",
+      "press": "연합뉴스",
       "pubDate": "2026-07-24T16:10:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -22082,11 +22130,11 @@
       ]
     },
     {
-      "title": "코스피, 중동정세 격화·유가상승에 다시 털썩…이번주 내내 사이드카(...",
+      "title": "코스피,중동정세에 5.7% 급락한 6,600선...삼전 7%·닉스 8%대 '풀썩'",
       "description": "하장권 현대차증권 연구원은 \"알파벳의 FCF(잉여현금흐름) 마이너스 전환은 상징적 의미가 있다\"면서도 \"하이퍼 스케일러 합산 OPM(영업이익률) 추정치 역시 개선세가 지속하고 있다\"고 짚었다. 비우호적인 매크로...",
-      "link": "https://n.news.naver.com/mnews/article/001/0016213610?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260724095651008?input=1195m",
-      "press": "연합뉴스",
+      "link": "http://www.seouleconews.com/news/articleView.html?idxno=92621",
+      "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=92621",
+      "press": "",
       "pubDate": "2026-07-24T16:10:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -22748,10 +22796,10 @@
       ]
     },
     {
-      "title": "[여의도단신]한국투자증권·NH투자증권·교보증권",
-      "description": "◆교보증권, 생성형 AI 기반 전사 교육…디지털 역량 강화 교보증권은 임직원의 디지털 역량을 높이고 업무 혁신을 지원하기 위해 생성형 AI 기반의 실습형 교육을 진행한다고 밝혔다. 이번 교육은 현업에서 활용 가능한...",
-      "link": "https://n.news.naver.com/mnews/article/088/0001020552?sid=101",
-      "originallink": "https://www.imaeil.com/page/view/2026072413592671932",
+      "title": "교보증권, WM사업본부장 돌연 해임···\"영업·채널 강화는 지속\"",
+      "description": "교보증권이 최근 자산관리(WM)사업본부장을 돌연 해임한 것으로 확인됐다. 교보증권이 시장 입지를 강화하기 위해 올해 추진 중인 WM 영업, 채널 경쟁력 강화 행보에 제동이 걸린 모양새다. 24일 금융투자협회 전자공시에...",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422636",
+      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=422636",
       "press": "",
       "pubDate": "2026-07-24T14:28:00+09:00",
       "date": "2026-07-24",
@@ -22760,10 +22808,10 @@
       ]
     },
     {
-      "title": "교보증권, WM사업본부장 돌연 해임···\"영업·채널 강화는 지속\"",
-      "description": "교보증권이 최근 자산관리(WM)사업본부장을 돌연 해임한 것으로 확인됐다. 교보증권이 시장 입지를 강화하기 위해 올해 추진 중인 WM 영업, 채널 경쟁력 강화 행보에 제동이 걸린 모양새다. 24일 금융투자협회 전자공시에...",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422636",
-      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=422636",
+      "title": "[여의도단신]한국투자증권·NH투자증권·교보증권",
+      "description": "◆교보증권, 생성형 AI 기반 전사 교육…디지털 역량 강화 교보증권은 임직원의 디지털 역량을 높이고 업무 혁신을 지원하기 위해 생성형 AI 기반의 실습형 교육을 진행한다고 밝혔다. 이번 교육은 현업에서 활용 가능한...",
+      "link": "https://n.news.naver.com/mnews/article/088/0001020552?sid=101",
+      "originallink": "https://www.imaeil.com/page/view/2026072413592671932",
       "press": "",
       "pubDate": "2026-07-24T14:28:00+09:00",
       "date": "2026-07-24",
@@ -22781,18 +22829,6 @@
       "date": "2026-07-24",
       "companies": [
         "DB금융투자"
-      ]
-    },
-    {
-      "title": "제논, 코스닥 상장 일반 예비심사 청구…\"AX 플랫폼 기업 성장\"",
-      "description": "제논은 코스닥 상장을 위해 지난 23일 한국거래소에 삼성증권을 상장 주관사로 선정하고 상장예비심사청구서를 제출했다고 24일 밝혔다. 제논은 자체 생성형 AI 플랫폼 '제노스(GenOS)'와 AI 에이전트 솔루션을 기반으로...",
-      "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89225",
-      "originallink": "https://www.it-b.co.kr/news/articleView.html?idxno=89225",
-      "press": "",
-      "pubDate": "2026-07-24T14:22:00+09:00",
-      "date": "2026-07-24",
-      "companies": [
-        "삼성증권"
       ]
     },
     {
@@ -23597,10 +23633,10 @@
       ]
     },
     {
-      "title": "유가, 미국·이란 노이즈 재점화에 배럴당 160달러 상승 가능성도",
-      "description": "24일 교보증권은 두 해협의 봉쇄가 장기화될 경우 전략적 완충재 부재로 인해 국제유가는 최대 배럴당 150달러~160달러선까지 치솟을 위험이 있다고 전망했다. 호르무즈 해협 통과 선박량이 하루 2~4척 수준으로 급감한 데...",
-      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606062",
-      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606062",
+      "title": "AI는 현장으로, 혁신은 전사로…산업계 전환 속도 높인다",
+      "description": "교보증권은 임직원을 대상으로 생성형 AI 기반 실습형 교육을 실시한다. AI 리터러시 교육을 시작으로 데이터 분석과 업무 자동화 등 직무별 교육을 진행하고, 현업 과제를 AI로 해결하는 실습과 우수 사례 공유를...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=185659",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=185659",
       "press": "",
       "pubDate": "2026-07-24T11:38:00+09:00",
       "date": "2026-07-24",
@@ -23609,10 +23645,10 @@
       ]
     },
     {
-      "title": "AI는 현장으로, 혁신은 전사로…산업계 전환 속도 높인다",
-      "description": "교보증권은 임직원을 대상으로 생성형 AI 기반 실습형 교육을 실시한다. AI 리터러시 교육을 시작으로 데이터 분석과 업무 자동화 등 직무별 교육을 진행하고, 현업 과제를 AI로 해결하는 실습과 우수 사례 공유를...",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=185659",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=185659",
+      "title": "유가, 미국·이란 노이즈 재점화에 배럴당 160달러 상승 가능성도",
+      "description": "24일 교보증권은 두 해협의 봉쇄가 장기화될 경우 전략적 완충재 부재로 인해 국제유가는 최대 배럴당 150달러~160달러선까지 치솟을 위험이 있다고 전망했다. 호르무즈 해협 통과 선박량이 하루 2~4척 수준으로 급감한 데...",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606062",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606062",
       "press": "",
       "pubDate": "2026-07-24T11:38:00+09:00",
       "date": "2026-07-24",
@@ -24210,10 +24246,10 @@
       ]
     },
     {
-      "title": "한국토지주택공사, 2026 IPO 성료... 20조원 차입 구상 공개",
-      "description": "한국토지주택공사(LH)가 지난 23일 서울 영등포구 IBK투자증권 본사에서 '2026년도 기업설명회(IPO)'를 열었다. LH가 지난 23일 서울 영등포구 IBK투자증권 본사에서 '2026년도 IPO'를 열었다. [사진=LH] LH는 주요 금융기관...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200277",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200277",
+      "title": "에이치엘지노믹스, 코스닥 상장 첫날 롤러코스터 … 공모가 대비 8%대 하...",
+      "description": "상장 주관사는 KB증권과 IBK투자증권이다. 앞서 진행된 기관투자자 수요예측에는 2148개 기관이 참여해 714.52대 1의 경쟁률을 기록했다. 밴드 상단인 2만1500원에 참여 건수의 95.6%, 신청 수량의 94.8%가 집중됐다....",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400080.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400080.html",
       "press": "",
       "pubDate": "2026-07-24T10:30:00+09:00",
       "date": "2026-07-24",
@@ -24222,10 +24258,10 @@
       ]
     },
     {
-      "title": "에이치엘지노믹스, 코스닥 상장 첫날 롤러코스터 … 공모가 대비 8%대 하...",
-      "description": "상장 주관사는 KB증권과 IBK투자증권이다. 앞서 진행된 기관투자자 수요예측에는 2148개 기관이 참여해 714.52대 1의 경쟁률을 기록했다. 밴드 상단인 2만1500원에 참여 건수의 95.6%, 신청 수량의 94.8%가 집중됐다....",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400080.html",
-      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400080.html",
+      "title": "한국토지주택공사, 2026 IPO 성료... 20조원 차입 구상 공개",
+      "description": "한국토지주택공사(LH)가 지난 23일 서울 영등포구 IBK투자증권 본사에서 '2026년도 기업설명회(IPO)'를 열었다. LH가 지난 23일 서울 영등포구 IBK투자증권 본사에서 '2026년도 IPO'를 열었다. [사진=LH] LH는 주요 금융기관...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200277",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200277",
       "press": "",
       "pubDate": "2026-07-24T10:30:00+09:00",
       "date": "2026-07-24",
@@ -24258,10 +24294,10 @@
       ]
     },
     {
-      "title": "[카드] 교보증권, 생성형 AI 교육으로 업무 혁신 기반 마련",
-      "description": "교보증권(030610)은 임직원의 디지털 역량을 높이고 업무 혁신을 위한 생성형 인공지능(AI) 기반의 실습형 교육을 실시한다고 24일 밝혔다.",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=741431",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=741431",
+      "title": "교보증권, 생성형 AI 실습 교육 확대…임직원 디지털 역량 강화",
+      "description": "교보증권이 생성형 AI 기반의 실습형 교육 프로그램을 운영한다. [교보증권]  교보증권이 임직원의 디지털 경쟁력을 높이고 업무 혁신을 촉진하기 위해 생성형 AI 기반의 실습형 교육 프로그램을 운영한다고 24일 밝혔다....",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=141073",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141073",
       "press": "",
       "pubDate": "2026-07-24T10:28:00+09:00",
       "date": "2026-07-24",
@@ -24270,10 +24306,10 @@
       ]
     },
     {
-      "title": "교보증권, 생성형 AI 실습 교육 확대…임직원 디지털 역량 강화",
-      "description": "교보증권이 생성형 AI 기반의 실습형 교육 프로그램을 운영한다. [교보증권]  교보증권이 임직원의 디지털 경쟁력을 높이고 업무 혁신을 촉진하기 위해 생성형 AI 기반의 실습형 교육 프로그램을 운영한다고 24일 밝혔다....",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=141073",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141073",
+      "title": "[카드] 교보증권, 생성형 AI 교육으로 업무 혁신 기반 마련",
+      "description": "교보증권(030610)은 임직원의 디지털 역량을 높이고 업무 혁신을 위한 생성형 인공지능(AI) 기반의 실습형 교육을 실시한다고 24일 밝혔다.",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=741431",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=741431",
       "press": "",
       "pubDate": "2026-07-24T10:28:00+09:00",
       "date": "2026-07-24",
@@ -24330,11 +24366,11 @@
       ]
     },
     {
-      "title": "교보증권, 생성형 AI 실습 교육 확대…임직원 디지털 역량 강화",
-      "description": "교보증권은 임직원 디지털 역량을 높이고 업무 혁신을 위한 생성형 인공지능(AI) 기반 실습형 교육을 실시한다고 24일 밝혔다. 이번 교육은 단순한 이론 학습을 넘어 임직원이 현업 문제를 직접 발굴하고 해결할 수 있는...",
-      "link": "https://n.news.naver.com/mnews/article/003/0014085799?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260724_0003721759",
-      "press": "뉴시스",
+      "title": "역대 최대 실적 쓴 삼성바이오, 성장엔진은 'CDMO 경쟁력'",
+      "description": "정희령 교보증권 책임연구원은 \"기존 1~4공장이 풀가동을 이어가며 호실적은 견인한 가운데 5공장과 미국 록빌 공장이 3분기부터 본격적으로 매출에 이바지할 것\"전망했다. 그러면서 \"2분기에는 신규 공장 관련 비용이...",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700866",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700866",
+      "press": "",
       "pubDate": "2026-07-24T10:22:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -24342,11 +24378,11 @@
       ]
     },
     {
-      "title": "역대 최대 실적 쓴 삼성바이오, 성장엔진은 'CDMO 경쟁력'",
-      "description": "정희령 교보증권 책임연구원은 \"기존 1~4공장이 풀가동을 이어가며 호실적은 견인한 가운데 5공장과 미국 록빌 공장이 3분기부터 본격적으로 매출에 이바지할 것\"전망했다. 그러면서 \"2분기에는 신규 공장 관련 비용이...",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700866",
-      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700866",
-      "press": "",
+      "title": "교보증권, 생성형 AI 실습 교육 확대…임직원 디지털 역량 강화",
+      "description": "교보증권은 임직원 디지털 역량을 높이고 업무 혁신을 위한 생성형 인공지능(AI) 기반 실습형 교육을 실시한다고 24일 밝혔다. 이번 교육은 단순한 이론 학습을 넘어 임직원이 현업 문제를 직접 발굴하고 해결할 수 있는...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014085799?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260724_0003721759",
+      "press": "뉴시스",
       "pubDate": "2026-07-24T10:22:00+09:00",
       "date": "2026-07-24",
       "companies": [
@@ -24464,10 +24500,10 @@
       ]
     },
     {
-      "title": "[금융권 이모저모]토스증권, 연금저축계좌 출시 外",
-      "description": "그래픽=토스증권 ◇토스증권, 연금저축계좌 출시 토스증권은 연금저축계좌를 출시했다고 24일 밝혔다. 토스증권이 선보인 첫 절세상품이다. 연금저축계좌에는 연간 최대 1800만원까지 납입할 수 있다. 이 가운데 최대...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114556",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114556",
+      "title": "원화 스테이블코인 생태계 지도, 누가 어느 자리 노리나",
+      "description": "토큰증권(STO)과 조각투자 인프라는 자본시장법이 적용되는 별도 영역이라 이 지도에서 제외했다.... 토스뱅크는 6월19일 솔라나 재단과 업무협약을 맺고 스테이블코인 송금의 기술적 실현 가능성을 검증하는 1단계에...",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700745",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700745",
       "press": "",
       "pubDate": "2026-07-24T10:16:00+09:00",
       "date": "2026-07-24",
@@ -24476,10 +24512,10 @@
       ]
     },
     {
-      "title": "원화 스테이블코인 생태계 지도, 누가 어느 자리 노리나",
-      "description": "토큰증권(STO)과 조각투자 인프라는 자본시장법이 적용되는 별도 영역이라 이 지도에서 제외했다.... 토스뱅크는 6월19일 솔라나 재단과 업무협약을 맺고 스테이블코인 송금의 기술적 실현 가능성을 검증하는 1단계에...",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700745",
-      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700745",
+      "title": "[금융권 이모저모]토스증권, 연금저축계좌 출시 外",
+      "description": "그래픽=토스증권 ◇토스증권, 연금저축계좌 출시 토스증권은 연금저축계좌를 출시했다고 24일 밝혔다. 토스증권이 선보인 첫 절세상품이다. 연금저축계좌에는 연간 최대 1800만원까지 납입할 수 있다. 이 가운데 최대...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114556",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114556",
       "press": "",
       "pubDate": "2026-07-24T10:16:00+09:00",
       "date": "2026-07-24",
@@ -25509,10 +25545,10 @@
       ]
     },
     {
-      "title": "BNK부산은행, IRP 수익률 전 금융권서 2분기 연속 1위",
-      "description": "전 금융권 1위를 달성했다. 은행권 기준 DC(확정기여)형 원리금비보장 수익률 1위, 확정급여형(DB) 원리금보장... 특히 금융권 최초로 요구불 입출금계좌 기반 자동투자 서비스를 도입해 고객의 장기·분산 투자 편의성을...",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92700",
-      "originallink": "http://www.newsian.co.kr/news/articleView.html?idxno=92700",
+      "title": "하나증권, 개인형 IRP 수익률 3개 분기 연속 증권사 1위…연금자산관리...",
+      "description": "확정기여형(DC)과 확정급여형(DB) 퇴직연금에서도 장기 성과를 나타냈다. 하나증권은 DC 원리금비보장형 10년... 최근에는 단순한 상품 판매를 넘어 가입자의 투자 목적과 은퇴 계획에 맞춘 자산관리 역량이 금융사...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746026",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746026",
       "press": "",
       "pubDate": "2026-07-24T08:26:00+09:00",
       "date": "2026-07-24",
@@ -25521,10 +25557,10 @@
       ]
     },
     {
-      "title": "하나증권, 개인형 IRP 수익률 3개 분기 연속 증권사 1위…연금자산관리...",
-      "description": "확정기여형(DC)과 확정급여형(DB) 퇴직연금에서도 장기 성과를 나타냈다. 하나증권은 DC 원리금비보장형 10년... 최근에는 단순한 상품 판매를 넘어 가입자의 투자 목적과 은퇴 계획에 맞춘 자산관리 역량이 금융사...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=746026",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746026",
+      "title": "BNK부산은행, IRP 수익률 전 금융권서 2분기 연속 1위",
+      "description": "전 금융권 1위를 달성했다. 은행권 기준 DC(확정기여)형 원리금비보장 수익률 1위, 확정급여형(DB) 원리금보장... 특히 금융권 최초로 요구불 입출금계좌 기반 자동투자 서비스를 도입해 고객의 장기·분산 투자 편의성을...",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92700",
+      "originallink": "http://www.newsian.co.kr/news/articleView.html?idxno=92700",
       "press": "",
       "pubDate": "2026-07-24T08:26:00+09:00",
       "date": "2026-07-24",
@@ -26055,8 +26091,7 @@
       "pubDate": "2026-07-24T06:02:00+09:00",
       "date": "2026-07-24",
       "companies": [
-        "IBK투자증권",
-        "SK증권"
+        "IBK투자증권"
       ]
     },
     {
@@ -28051,6 +28086,18 @@
       ]
     },
     {
+      "title": "한은, 공개시장운영 대상기관 55곳 선정…KOFR·RP 실적 반영 확대",
+      "description": "선정 기관에는 은행권에서 국민·신한·하나·우리·농협은행을 포함해 카카오뱅크와 케이뱅크, 토스뱅크 등이 RP 매매 대상기관으로 포함됐다. 통화안정증권 경쟁입찰·모집 및 증권단순매매 대상기관에는 국민·신한...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7175600",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7175600",
+      "press": "",
+      "pubDate": "2026-07-23T14:48:00+09:00",
+      "date": "2026-07-23",
+      "companies": [
+        "토스증권"
+      ]
+    },
+    {
       "title": "신호철 카카오페이증권 대표 \"AI 투자 에이전트로 자본시장 문턱 낮출 ...",
       "description": "◆ 토스증권과 경쟁·IB 확대…\"카카오 생태계 강점 살릴 것\" 이날 질의응답에서는 토스증권과의 경쟁 구도부터 전산 투자, 기업금융(IB) 사업 확대 계획까지 다양한 질문이 이어졌다. 신 대표는 토스증권과의 경쟁에 대해...",
       "link": "http://www.newsprime.co.kr/news/article.html?no=741296",
@@ -28061,18 +28108,6 @@
       "companies": [
         "토스증권",
         "카카오페이증권"
-      ]
-    },
-    {
-      "title": "한은, 공개시장운영 대상기관 55곳 선정…KOFR·RP 실적 반영 확대",
-      "description": "선정 기관에는 은행권에서 국민·신한·하나·우리·농협은행을 포함해 카카오뱅크와 케이뱅크, 토스뱅크 등이 RP 매매 대상기관으로 포함됐다. 통화안정증권 경쟁입찰·모집 및 증권단순매매 대상기관에는 국민·신한...",
-      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7175600",
-      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7175600",
-      "press": "",
-      "pubDate": "2026-07-23T14:48:00+09:00",
-      "date": "2026-07-23",
-      "companies": [
-        "토스증권"
       ]
     },
     {
@@ -28525,10 +28560,10 @@
       ]
     },
     {
-      "title": "신호철 카카오페이증권 대표 \"2000만 투자 시대 연다\"…결혼부부·신생...",
-      "description": "이투데이=서청석 기자 | \"3년 안에 2000만명이 제대로 투자하고 자산을 키워가는 시대를 만들겠다.\" 23일 신호철 카카오페이증권 대표는 여의도 콘래드 호텔에서 기자간담회를 열고 카카오페이의 향후 3대 전략을...",
-      "link": "https://www.etoday.co.kr/news/view/2606619",
-      "originallink": "https://www.etoday.co.kr/news/view/2606619",
+      "title": "카카오페이증권, '1인 1 AI 투자 에이전트' 선언…투자도 AI가 돕는다",
+      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이증권이 인공지능(AI) 기반 투자 서비스와 해외 투자 플랫폼 구축을 앞세워 3년 안에 '2000만 국민 투자 시대'를 열겠다는 청사진을 제시했다. 해외 투자자의 한국 주식...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132314",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132314",
       "press": "",
       "pubDate": "2026-07-23T13:46:00+09:00",
       "date": "2026-07-23",
@@ -28537,10 +28572,10 @@
       ]
     },
     {
-      "title": "카카오페이증권, '1인 1 AI 투자 에이전트' 선언…투자도 AI가 돕는다",
-      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이증권이 인공지능(AI) 기반 투자 서비스와 해외 투자 플랫폼 구축을 앞세워 3년 안에 '2000만 국민 투자 시대'를 열겠다는 청사진을 제시했다. 해외 투자자의 한국 주식...",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132314",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132314",
+      "title": "신호철 카카오페이증권 대표 \"2000만 투자 시대 연다\"…결혼부부·신생...",
+      "description": "이투데이=서청석 기자 | \"3년 안에 2000만명이 제대로 투자하고 자산을 키워가는 시대를 만들겠다.\" 23일 신호철 카카오페이증권 대표는 여의도 콘래드 호텔에서 기자간담회를 열고 카카오페이의 향후 3대 전략을...",
+      "link": "https://www.etoday.co.kr/news/view/2606619",
+      "originallink": "https://www.etoday.co.kr/news/view/2606619",
       "press": "",
       "pubDate": "2026-07-23T13:46:00+09:00",
       "date": "2026-07-23",
@@ -28670,10 +28705,10 @@
       ]
     },
     {
-      "title": "카카오, '스테이블코인' 속도 낸다...디지털 자산 생태계 선점 '본격화'",
-      "description": "카카오 사옥 / 사진=카카오 제공 스테이블코인 논의가 본격화되면서 카카오와 카카오페이, 카카오뱅크 등... 정호윤 한국투자증권 연구원은 \"지난 15일 금융위원회가 디지털자산 생태계 조성을 위해 디지털자산법을 연내...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=153602",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=153602",
+      "title": "카카오페이증권 “AI·주식선물로 국민 투자시대 연다”",
+      "description": "카카오페이증권이 인공지능(AI) 투자 에이전트 기반의 개인화 서비스와 해외 자금 유입을 위한 ‘K-Stock’ 글로벌화 전략을 전면에 내걸었다. 카카오 공동체와의 시너지를 바탕으로 투자 장벽을 낮추고, 모든 국민이...",
+      "link": "https://www.viva100.com/article/20260723500583",
+      "originallink": "https://www.viva100.com/article/20260723500583",
       "press": "",
       "pubDate": "2026-07-23T13:16:00+09:00",
       "date": "2026-07-23",
@@ -28682,10 +28717,10 @@
       ]
     },
     {
-      "title": "카카오페이증권 “AI·주식선물로 국민 투자시대 연다”",
-      "description": "카카오페이증권이 인공지능(AI) 투자 에이전트 기반의 개인화 서비스와 해외 자금 유입을 위한 ‘K-Stock’ 글로벌화 전략을 전면에 내걸었다. 카카오 공동체와의 시너지를 바탕으로 투자 장벽을 낮추고, 모든 국민이...",
-      "link": "https://www.viva100.com/article/20260723500583",
-      "originallink": "https://www.viva100.com/article/20260723500583",
+      "title": "카카오, '스테이블코인' 속도 낸다...디지털 자산 생태계 선점 '본격화'",
+      "description": "카카오 사옥 / 사진=카카오 제공 스테이블코인 논의가 본격화되면서 카카오와 카카오페이, 카카오뱅크 등... 정호윤 한국투자증권 연구원은 \"지난 15일 금융위원회가 디지털자산 생태계 조성을 위해 디지털자산법을 연내...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=153602",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=153602",
       "press": "",
       "pubDate": "2026-07-23T13:16:00+09:00",
       "date": "2026-07-23",
@@ -28963,6 +28998,18 @@
       ]
     },
     {
+      "title": "증시 흔들리자 예금으로…은행권 고금리 특판 경쟁 '후끈'",
+      "description": "카카오뱅크와 토스뱅크는 각각 3.60%, 3.40%다. 저축은행들은 4%대 예금을 선보였다. 저축은행중앙회에... 증권사들도 고금리 상품을 선보이고 있다. 한양증권은 22일부터 연 8% 금리를 제공하는 특판 환매 조건부 채권...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=312330",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=312330",
+      "press": "",
+      "pubDate": "2026-07-23T11:56:00+09:00",
+      "date": "2026-07-23",
+      "companies": [
+        "토스증권"
+      ]
+    },
+    {
       "title": "[현장] 뜨거운 태양, 작렬하는 카카오페이증권 각오 \"3년內로 2000만명 투...",
       "description": "이어진 질의응답 세션에서는 토스증권과의 경쟁 구도와 서비스 유사성, 전산 안정성, IB 사업 및 고객 접점 확대 전략 등에 대한 질문에 대해 신 대표가 직접 답변했다. 토스증권과의 경쟁과 관련해 신 대표는...",
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267608",
@@ -28973,18 +29020,6 @@
       "companies": [
         "토스증권",
         "카카오페이증권"
-      ]
-    },
-    {
-      "title": "증시 흔들리자 예금으로…은행권 고금리 특판 경쟁 '후끈'",
-      "description": "카카오뱅크와 토스뱅크는 각각 3.60%, 3.40%다. 저축은행들은 4%대 예금을 선보였다. 저축은행중앙회에... 증권사들도 고금리 상품을 선보이고 있다. 한양증권은 22일부터 연 8% 금리를 제공하는 특판 환매 조건부 채권...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=312330",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=312330",
-      "press": "",
-      "pubDate": "2026-07-23T11:56:00+09:00",
-      "date": "2026-07-23",
-      "companies": [
-        "토스증권"
       ]
     },
     {
@@ -29208,18 +29243,6 @@
       ]
     },
     {
-      "title": "[금융권 이모저모]하나은행, 소상공인 3500곳 경쟁력 강화 지원 外",
-      "description": "증권사와 은행은 주식 이전과 포인트 이용 고객을 대상으로 혜택을 제공한다. 그래픽=하나은행... 그래픽=토스뱅크 ◇토스뱅크, 체크카드 해외결제 수수료 전액 면제 토스뱅크는 다음 달 11일부터 체크카드 해외결제...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114494",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114494",
-      "press": "",
-      "pubDate": "2026-07-23T11:26:00+09:00",
-      "date": "2026-07-23",
-      "companies": [
-        "토스증권"
-      ]
-    },
-    {
       "title": "신호철 카카오페이증권 대표 \"3년 내 투자자 2000만명 시대 열 것\"",
       "description": "신 대표는 경쟁사인 토스증권과의 격차에 대해 \"주식 모바일트레이딩시스템(MTS) 출시가 늦어 현재는 따라잡는 단계\"라면서도 \"카카오 생태계를 본격적으로 활용하기 시작했으며 지난 3년간 매출이 매년 약 75% 성장했다...",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686299",
@@ -29230,6 +29253,18 @@
       "companies": [
         "토스증권",
         "카카오페이증권"
+      ]
+    },
+    {
+      "title": "[금융권 이모저모]하나은행, 소상공인 3500곳 경쟁력 강화 지원 外",
+      "description": "증권사와 은행은 주식 이전과 포인트 이용 고객을 대상으로 혜택을 제공한다. 그래픽=하나은행... 그래픽=토스뱅크 ◇토스뱅크, 체크카드 해외결제 수수료 전액 면제 토스뱅크는 다음 달 11일부터 체크카드 해외결제...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114494",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114494",
+      "press": "",
+      "pubDate": "2026-07-23T11:26:00+09:00",
+      "date": "2026-07-23",
+      "companies": [
+        "토스증권"
       ]
     },
     {
@@ -29478,10 +29513,10 @@
       ]
     },
     {
-      "title": "2026 카카오페이증권 기자간담회",
+      "title": "3대 전략 발표하는 신호철 카카오페이증권 대표",
       "description": "신호철 카카오페이증권 대표가 23일 서울 여의도 콘래드서울에서 열린 2026 카카오페이증권 기자간담회에서 '모든 국민의 자본시장 참여', 'K-주식의 세계화', '따뜻한 자본주의'를 골자로 하는 3대 전략을...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009074686?sid=101",
-      "originallink": "https://www.news1.kr/photos/8021730",
+      "link": "https://n.news.naver.com/mnews/article/421/0009074685?sid=101",
+      "originallink": "https://www.news1.kr/photos/8021728",
       "press": "뉴스1",
       "pubDate": "2026-07-23T10:58:00+09:00",
       "date": "2026-07-23",
@@ -29490,10 +29525,10 @@
       ]
     },
     {
-      "title": "3대 전략 발표하는 신호철 카카오페이증권 대표",
+      "title": "2026 카카오페이증권 기자간담회",
       "description": "신호철 카카오페이증권 대표가 23일 서울 여의도 콘래드서울에서 열린 2026 카카오페이증권 기자간담회에서 '모든 국민의 자본시장 참여', 'K-주식의 세계화', '따뜻한 자본주의'를 골자로 하는 3대 전략을...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009074685?sid=101",
-      "originallink": "https://www.news1.kr/photos/8021728",
+      "link": "https://n.news.naver.com/mnews/article/421/0009074686?sid=101",
+      "originallink": "https://www.news1.kr/photos/8021730",
       "press": "뉴스1",
       "pubDate": "2026-07-23T10:58:00+09:00",
       "date": "2026-07-23",
@@ -29769,8 +29804,8 @@
     {
       "title": "3대 전략 발표하는 신호철 대표",
       "description": "신호철 카카오페이증권 대표가 23일 서울 여의도 콘래드서울에서 열린 2026 카카오페이증권 기자간담회에서 '모든 국민의 자본시장 참여', 'K-주식의 세계화', '따뜻한 자본주의'를 골자로 하는 3대 전략을...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009074562?sid=101",
-      "originallink": "https://www.news1.kr/photos/8021598",
+      "link": "https://n.news.naver.com/mnews/article/421/0009074559?sid=101",
+      "originallink": "https://www.news1.kr/photos/8021601",
       "press": "뉴스1",
       "pubDate": "2026-07-23T10:37:00+09:00",
       "date": "2026-07-23",
@@ -29781,8 +29816,8 @@
     {
       "title": "3대 전략 발표하는 신호철 대표",
       "description": "신호철 카카오페이증권 대표가 23일 서울 여의도 콘래드서울에서 열린 2026 카카오페이증권 기자간담회에서 '모든 국민의 자본시장 참여', 'K-주식의 세계화', '따뜻한 자본주의'를 골자로 하는 3대 전략을...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009074559?sid=101",
-      "originallink": "https://www.news1.kr/photos/8021601",
+      "link": "https://n.news.naver.com/mnews/article/421/0009074562?sid=101",
+      "originallink": "https://www.news1.kr/photos/8021598",
       "press": "뉴스1",
       "pubDate": "2026-07-23T10:37:00+09:00",
       "date": "2026-07-23",
@@ -30554,11 +30589,11 @@
       ]
     },
     {
-      "title": "4대 금융 2분기 실적 '비은행'서 갈릴 듯",
-      "description": "유안타증권은 신한금융의 2분기 지배주주순이익이 1조6944억원으로 컨센서스에 부합할 것으로 판단했다. 이자이익은 1분기 대비 1.2% 증가한 3조600억원, 비이자이익은 1분기 대비 7.8% 증가한 1조2810억원으로...",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451434",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451434",
-      "press": "",
+      "title": "유안타證 “한온시스템, 수익성 개선 가시화… 투자의견 ‘매수’ 상향...",
+      "description": "유안타증권이 23일 한온시스템에 대해 수익성 개선의 방향성이 확인되고 밸류에이션 기반 상승 여력이 확보됐다고 평가했다. 투자의견을 기존 ‘중립’(Hold)에서 ‘매수’(BUY)로 상향 조정했다. 목표 주가도 기존...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001181133?sid=101",
+      "originallink": "https://biz.chosun.com/stock/stock_general/2026/07/23/QYNNDVJ4FVAMVBTCHOMMA5553A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "press": "조선비즈",
       "pubDate": "2026-07-23T08:00:00+09:00",
       "date": "2026-07-23",
       "companies": [
@@ -30566,11 +30601,11 @@
       ]
     },
     {
-      "title": "유안타證 “한온시스템, 수익성 개선 가시화… 투자의견 ‘매수’ 상향...",
-      "description": "유안타증권이 23일 한온시스템에 대해 수익성 개선의 방향성이 확인되고 밸류에이션 기반 상승 여력이 확보됐다고 평가했다. 투자의견을 기존 ‘중립’(Hold)에서 ‘매수’(BUY)로 상향 조정했다. 목표 주가도 기존...",
-      "link": "https://n.news.naver.com/mnews/article/366/0001181133?sid=101",
-      "originallink": "https://biz.chosun.com/stock/stock_general/2026/07/23/QYNNDVJ4FVAMVBTCHOMMA5553A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "press": "조선비즈",
+      "title": "4대 금융 2분기 실적 '비은행'서 갈릴 듯",
+      "description": "유안타증권은 신한금융의 2분기 지배주주순이익이 1조6944억원으로 컨센서스에 부합할 것으로 판단했다. 이자이익은 1분기 대비 1.2% 증가한 3조600억원, 비이자이익은 1분기 대비 7.8% 증가한 1조2810억원으로...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451434",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451434",
+      "press": "",
       "pubDate": "2026-07-23T08:00:00+09:00",
       "date": "2026-07-23",
       "companies": [
@@ -30859,18 +30894,6 @@
       ]
     },
     {
-      "title": "한 달 만에 반토막 종목 살펴보니…상향 리포트 받고도 최대 54% 급락 [증...",
-      "description": "불과 두 달 전 한화투자증권은 중국 소비 회복을 근거로 목표주가를 9만원에서 10만원으로 높였지만, 이후 차익실현 매물이 집중됐다. 삼성생명 역시 보험업보다 삼성전자 지분가치가 주가를 이끌었다. NH투자증권은...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005551691?sid=101",
-      "originallink": "http://www.fnnews.com/news/202607230302081207",
-      "press": "파이낸셜뉴스",
-      "pubDate": "2026-07-23T06:10:00+09:00",
-      "date": "2026-07-23",
-      "companies": [
-        "한화투자증권"
-      ]
-    },
-    {
       "title": "[데이터&뉴스] 증시 호황에 증권사 퇴직연금 수익률 껑충...미래에셋·현...",
       "description": "예금성 상품 중에서는 DB형은 현대차증권이 3.74%로 가장 높았고 DC형은 한화투자증권이 2.92%를 기록하며 높은 수익률을 달성했다. IRP는 대신증권이 3.13%를 기록해 가장 높았다. 반면 시장성 원리금보장 상품은 상반기...",
       "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759782",
@@ -30881,6 +30904,18 @@
       "companies": [
         "한화투자증권",
         "현대차증권"
+      ]
+    },
+    {
+      "title": "한 달 만에 반토막 종목 살펴보니…상향 리포트 받고도 최대 54% 급락 [증...",
+      "description": "불과 두 달 전 한화투자증권은 중국 소비 회복을 근거로 목표주가를 9만원에서 10만원으로 높였지만, 이후 차익실현 매물이 집중됐다. 삼성생명 역시 보험업보다 삼성전자 지분가치가 주가를 이끌었다. NH투자증권은...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005551691?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607230302081207",
+      "press": "파이낸셜뉴스",
+      "pubDate": "2026-07-23T06:10:00+09:00",
+      "date": "2026-07-23",
+      "companies": [
+        "한화투자증권"
       ]
     },
     {
@@ -30958,16 +30993,15 @@
       ]
     },
     {
-      "title": "\"SK하닉, 1000원 단위 산다\"…카카오페이·토스·한투證 '소수점 거래' ...",
-      "description": "23일 금융투자업계에 따르면 내달 카카오페이증권을 시작으로 토스증권, 한국투자증권이 국내 주식 소수점 거래 도입을 준비 중이다. 소수점 거래는 1주를 모두 매수하지 않고 주식의 일부만 사는 서비스다. 주당 100만...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009073921?sid=101",
-      "originallink": "https://www.news1.kr/finance/general-stock/6235911",
-      "press": "뉴스1",
+      "title": "[박종면칼럼] '얼라인' 합병 제안이 BNK·JB금융에 던진 질문",
+      "description": "얼라인은 영남과 호남의 영업권역이 거의 겹치지 않고 JB의 캐피탈과 BNK의 증권이 서로 보완될 수 있다고... 카카오뱅크와 토스뱅크는 전국에서 고객을 모으고 앱 안에서 결제와 송금, 예금과 대출 데이터를 쌓아...",
+      "link": "https://n.news.naver.com/mnews/article/293/0000087952?sid=110",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=668678",
+      "press": "",
       "pubDate": "2026-07-23T06:00:00+09:00",
       "date": "2026-07-23",
       "companies": [
-        "토스증권",
-        "카카오페이증권"
+        "토스증권"
       ]
     },
     {
@@ -30983,15 +31017,16 @@
       ]
     },
     {
-      "title": "[박종면칼럼] '얼라인' 합병 제안이 BNK·JB금융에 던진 질문",
-      "description": "얼라인은 영남과 호남의 영업권역이 거의 겹치지 않고 JB의 캐피탈과 BNK의 증권이 서로 보완될 수 있다고... 카카오뱅크와 토스뱅크는 전국에서 고객을 모으고 앱 안에서 결제와 송금, 예금과 대출 데이터를 쌓아...",
-      "link": "https://n.news.naver.com/mnews/article/293/0000087952?sid=110",
-      "originallink": "https://www.bloter.net/news/articleView.html?idxno=668678",
-      "press": "",
+      "title": "\"SK하닉, 1000원 단위 산다\"…카카오페이·토스·한투證 '소수점 거래' ...",
+      "description": "23일 금융투자업계에 따르면 내달 카카오페이증권을 시작으로 토스증권, 한국투자증권이 국내 주식 소수점 거래 도입을 준비 중이다. 소수점 거래는 1주를 모두 매수하지 않고 주식의 일부만 사는 서비스다. 주당 100만...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009073921?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6235911",
+      "press": "뉴스1",
       "pubDate": "2026-07-23T06:00:00+09:00",
       "date": "2026-07-23",
       "companies": [
-        "토스증권"
+        "토스증권",
+        "카카오페이증권"
       ]
     },
     {
@@ -31377,10 +31412,10 @@
       ]
     },
     {
-      "title": "SK에코플랜트, 회사채 수요 예측서 1조원 가까운 주문 받아",
-      "description": "대표 주관사는 SK증권, 한국투자증권, 키움증권, NH투자증권, 하나증권, 신한투자증권이다. 조달 자금은 2024년 8월 발행한 1230억원 규모 회사채 차환에 사용할 예정이다. 증액 발행이 이뤄질 경우 2025년 2월과 7월...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119299",
-      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=119299",
+      "title": "SK에코플랜트, 회사채 수요예측서 약 1조원 주문 확보",
+      "description": "대표 주관사는 SK증권, 한국투자증권, 키움증권, NH투자증권, 하나증권, 신한투자증권 6곳입니다. 공시에 따르면 SK에코플랜트는 이렇게 조달한 자금을 2024년 8월에 4.951%의 이자율로 발행한 1천230억원을 차환하는데...",
+      "link": "https://n.news.naver.com/mnews/article/374/0000523127?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000324007?division=NAVER",
       "press": "",
       "pubDate": "2026-07-22T18:02:00+09:00",
       "date": "2026-07-22",
@@ -31389,10 +31424,10 @@
       ]
     },
     {
-      "title": "SK에코플랜트, 회사채 수요예측서 약 1조원 주문 확보",
-      "description": "대표 주관사는 SK증권, 한국투자증권, 키움증권, NH투자증권, 하나증권, 신한투자증권 6곳입니다. 공시에 따르면 SK에코플랜트는 이렇게 조달한 자금을 2024년 8월에 4.951%의 이자율로 발행한 1천230억원을 차환하는데...",
-      "link": "https://n.news.naver.com/mnews/article/374/0000523127?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000324007?division=NAVER",
+      "title": "SK에코플랜트, 회사채 수요 예측서 1조원 가까운 주문 받아",
+      "description": "대표 주관사는 SK증권, 한국투자증권, 키움증권, NH투자증권, 하나증권, 신한투자증권이다. 조달 자금은 2024년 8월 발행한 1230억원 규모 회사채 차환에 사용할 예정이다. 증액 발행이 이뤄질 경우 2025년 2월과 7월...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119299",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=119299",
       "press": "",
       "pubDate": "2026-07-22T18:02:00+09:00",
       "date": "2026-07-22",
@@ -31730,18 +31765,6 @@
       ]
     },
     {
-      "title": "손보사, 2분기 실적 증가 전망···업황 회복은 '아직'",
-      "description": "김도하 한화투자증권 연구원은 보고서를 통해 \"CSM은 손보사 모두 평기 대비 부진한 증가율을 나타낼 전망이다\"라며 \"신계약 판매 부진이 이어져 신계약 CSM이 전분기보다 감소하거나 유사한 수준에 그치는 것이 원인이다...",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422589",
-      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=422589",
-      "press": "",
-      "pubDate": "2026-07-22T16:44:00+09:00",
-      "date": "2026-07-22",
-      "companies": [
-        "한화투자증권"
-      ]
-    },
-    {
       "title": "[업앤다운]증권주 하락, 미래에셋증권↑·한국금융지주↓",
       "description": "한화투자증권은 전 거래일 대비 0.82%(35원) 떨어진 4235원에 장을 마감했고 키움증권은 전 거래일 대비 0.65%(2000원) 내려간 30만 3500원에 거래를 마쳤다. 교보증권은 전 거래일 대비 0.53%(50원) 하락한 9430원에...",
       "link": "https://www.nspna.com/news/?mode=view&newsid=821529",
@@ -31753,6 +31776,18 @@
         "한화투자증권",
         "현대차증권",
         "신영증권"
+      ]
+    },
+    {
+      "title": "손보사, 2분기 실적 증가 전망···업황 회복은 '아직'",
+      "description": "김도하 한화투자증권 연구원은 보고서를 통해 \"CSM은 손보사 모두 평기 대비 부진한 증가율을 나타낼 전망이다\"라며 \"신계약 판매 부진이 이어져 신계약 CSM이 전분기보다 감소하거나 유사한 수준에 그치는 것이 원인이다...",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422589",
+      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=422589",
+      "press": "",
+      "pubDate": "2026-07-22T16:44:00+09:00",
+      "date": "2026-07-22",
+      "companies": [
+        "한화투자증권"
       ]
     },
     {
@@ -31840,10 +31875,10 @@
       ]
     },
     {
-      "title": "[오늘Who] 대웅제약 AI 기반 입원환자 모니터링 '씽크'에 외부 기술 적극...",
-      "description": "현대차증권은 약 1070억 원, 키움증권은 약 1250억 원으로 추정했다. 증권사 추정치를 웃도는 목표를 달성하려면 이미 확보한 병원 고객에게 추가 솔루션을 판매하는 전략이 중요할 수밖에 없다. 대웅제약의 행보를 보면...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442864",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=442864",
+      "title": "[퇴직연금 대전환③] 삼성·한투 급성장에 밀린 현대차증권…퇴직연금...",
+      "description": "퇴직연금 시장의 성장에서 현대차증권만 한 자릿수 성장률에 그치며 적립금 순위가 2위에서 4위로 하락했습니다.[출처=ChatGPT 생성형 이미지]  증권사 퇴직연금 시장이 가파른 성장세를 이어가는 가운데...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=345660",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=345660",
       "press": "",
       "pubDate": "2026-07-22T16:32:00+09:00",
       "date": "2026-07-22",
@@ -31852,10 +31887,10 @@
       ]
     },
     {
-      "title": "[퇴직연금 대전환③] 삼성·한투 급성장에 밀린 현대차증권…퇴직연금...",
-      "description": "퇴직연금 시장의 성장에서 현대차증권만 한 자릿수 성장률에 그치며 적립금 순위가 2위에서 4위로 하락했습니다.[출처=ChatGPT 생성형 이미지]  증권사 퇴직연금 시장이 가파른 성장세를 이어가는 가운데...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=345660",
-      "originallink": "https://www.greened.kr/news/articleView.html?idxno=345660",
+      "title": "[오늘Who] 대웅제약 AI 기반 입원환자 모니터링 '씽크'에 외부 기술 적극...",
+      "description": "현대차증권은 약 1070억 원, 키움증권은 약 1250억 원으로 추정했다. 증권사 추정치를 웃도는 목표를 달성하려면 이미 확보한 병원 고객에게 추가 솔루션을 판매하는 전략이 중요할 수밖에 없다. 대웅제약의 행보를 보면...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442864",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=442864",
       "press": "",
       "pubDate": "2026-07-22T16:32:00+09:00",
       "date": "2026-07-22",
@@ -32310,10 +32345,10 @@
       ]
     },
     {
-      "title": "한국투자증권, 퇴직연금 26조 돌파…DC·IRP 고성장으로 연금시장 존재...",
-      "description": "이어 유안타증권 56.4%, 하나증권 52.1%, 한국투자증권 50.3%, 신영증권 48.7%, NH투자증권 43.4%, KB증권 41.6%, 신한투자증권 41.2% 순으로 집계됐다. 업계에서는 장기 수익률과 투자 선택권을 중시하는 가입자가 늘어나면서...",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=79839",
-      "originallink": "http://www.press9.kr/news/articleView.html?idxno=79839",
+      "title": "삼성증권, 퇴직연금 28조 돌파…증권사 최고 성장률로 존재감 확대",
+      "description": "증권사별 적립금 증가율은 삼성증권이 62.6%로 가장 높았고 미래에셋증권 61.9%, 유안타증권 56.4%, 하나증권 52.1%, 한국투자증권 50.3%, 신영증권 48.7%, NH투자증권 43.4%, KB증권 41.6%, 신한투자증권 41.2% 순으로 나타났다....",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=79840",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=79840",
       "press": "",
       "pubDate": "2026-07-22T14:46:00+09:00",
       "date": "2026-07-22",
@@ -32322,10 +32357,10 @@
       ]
     },
     {
-      "title": "삼성증권, 퇴직연금 28조 돌파…증권사 최고 성장률로 존재감 확대",
-      "description": "증권사별 적립금 증가율은 삼성증권이 62.6%로 가장 높았고 미래에셋증권 61.9%, 유안타증권 56.4%, 하나증권 52.1%, 한국투자증권 50.3%, 신영증권 48.7%, NH투자증권 43.4%, KB증권 41.6%, 신한투자증권 41.2% 순으로 나타났다....",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=79840",
-      "originallink": "http://www.press9.kr/news/articleView.html?idxno=79840",
+      "title": "한국투자증권, 퇴직연금 26조 돌파…DC·IRP 고성장으로 연금시장 존재...",
+      "description": "이어 유안타증권 56.4%, 하나증권 52.1%, 한국투자증권 50.3%, 신영증권 48.7%, NH투자증권 43.4%, KB증권 41.6%, 신한투자증권 41.2% 순으로 집계됐다. 업계에서는 장기 수익률과 투자 선택권을 중시하는 가입자가 늘어나면서...",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=79839",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=79839",
       "press": "",
       "pubDate": "2026-07-22T14:46:00+09:00",
       "date": "2026-07-22",
@@ -33021,10 +33056,10 @@
       ]
     },
     {
-      "title": "\"NH투자증권, 2분기에도 호실적 예고…고배당이 주가 방어\"<SK證>",
-      "description": "SK증권은 거래대금 증가에 따른 브로커리지 수익 확대와 4000억원 규모 유상증자를 통한 성장 재원 확보 등을 근거로 NH투자증권의 2분기 실적 개선을 예상했다. 여기에 높은 배당성향도 주가의 하방을 지지할 것으로...",
-      "link": "https://www.news2day.co.kr/article/20260722500037",
-      "originallink": "https://www.news2day.co.kr/article/20260722500037",
+      "title": "SK증권 \"나스닥 비코, 2분기 어닝 서프라이즈에도 주가 하락…2차 팹 증...",
+      "description": "나민식 SK증권 연구원은 22일 보고서를 통해 나스닥 종목인 비코(Vicor)를 분석했다. 나 연구원은 비코가 컨센서스를 상회하는 실적 기록에도 불구하고 주가가 하락한 배경을 짚고, 2차 팹 증설 발표 임박 등 호재에...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267401",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=267401",
       "press": "",
       "pubDate": "2026-07-22T09:40:00+09:00",
       "date": "2026-07-22",
@@ -33033,10 +33068,10 @@
       ]
     },
     {
-      "title": "SK증권 \"나스닥 비코, 2분기 어닝 서프라이즈에도 주가 하락…2차 팹 증...",
-      "description": "나민식 SK증권 연구원은 22일 보고서를 통해 나스닥 종목인 비코(Vicor)를 분석했다. 나 연구원은 비코가 컨센서스를 상회하는 실적 기록에도 불구하고 주가가 하락한 배경을 짚고, 2차 팹 증설 발표 임박 등 호재에...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267401",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=267401",
+      "title": "\"NH투자증권, 2분기에도 호실적 예고…고배당이 주가 방어\"<SK證>",
+      "description": "SK증권은 거래대금 증가에 따른 브로커리지 수익 확대와 4000억원 규모 유상증자를 통한 성장 재원 확보 등을 근거로 NH투자증권의 2분기 실적 개선을 예상했다. 여기에 높은 배당성향도 주가의 하방을 지지할 것으로...",
+      "link": "https://www.news2day.co.kr/article/20260722500037",
+      "originallink": "https://www.news2day.co.kr/article/20260722500037",
       "press": "",
       "pubDate": "2026-07-22T09:40:00+09:00",
       "date": "2026-07-22",
@@ -33479,18 +33514,6 @@
       ]
     },
     {
-      "title": "증시 호황에 증권사 '이름값'도 '쑥'...미래에셋증권 브랜드 사용료 143...",
-      "description": "반면 현대차증권(대표 배형근)은 현대자동차·현대모비스·현대건설 등 '현대' 브랜드 공동 상표권자 3곳에 총 38억3700만 원을 지급했는데 직전년도 39억5600만 원보다 3% 감소했다. 현대자동차·현대모비스...",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759595",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=759595",
-      "press": "",
-      "pubDate": "2026-07-22T06:10:00+09:00",
-      "date": "2026-07-22",
-      "companies": [
-        "현대차증권"
-      ]
-    },
-    {
       "title": "[금융현미경]\"8월 vs 10월\" 금리 인상 힌트, 여기서 얻는다",
       "description": "최제민 현대차증권 이코노미스트 역시 \"금통위원들은 성장률과 물가 상방 리스크를 경계하고 있으나 연속 인상을 단행할 정도로 긴급성이 요구된다고 보고 있지는 않은 것으로 판단한다\"며 \"신 총재가 '자전거를 타는 게...",
       "link": "https://n.news.naver.com/mnews/article/277/0005792735?sid=101",
@@ -33508,6 +33531,18 @@
       "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166186",
       "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092166186",
       "press": "조선일보",
+      "pubDate": "2026-07-22T06:10:00+09:00",
+      "date": "2026-07-22",
+      "companies": [
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "증시 호황에 증권사 '이름값'도 '쑥'...미래에셋증권 브랜드 사용료 143...",
+      "description": "반면 현대차증권(대표 배형근)은 현대자동차·현대모비스·현대건설 등 '현대' 브랜드 공동 상표권자 3곳에 총 38억3700만 원을 지급했는데 직전년도 39억5600만 원보다 3% 감소했다. 현대자동차·현대모비스...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759595",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=759595",
+      "press": "",
       "pubDate": "2026-07-22T06:10:00+09:00",
       "date": "2026-07-22",
       "companies": [
@@ -34650,18 +34685,6 @@
       ]
     },
     {
-      "title": "검찰, 홈플러스 사태 '1천억대 채권 사기의혹' MBK 부사장 소환",
-      "description": "신영증권 등 증권사 4곳과 물품구매 전단채 투자자들은 홈플러스 기업회생 신청 직후인 같은 해 4월 MBK 경영진을 특정경제범죄가중처벌법상 사기와 자본시장법 위반 등 혐의로 검찰에 고발했습니다. 검찰은 지난 1월...",
-      "link": "https://n.news.naver.com/mnews/article/374/0000522564?sid=103",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000323414?division=NAVER",
-      "press": "",
-      "pubDate": "2026-07-20T16:10:00+09:00",
-      "date": "2026-07-20",
-      "companies": [
-        "신영증권"
-      ]
-    },
-    {
       "title": "[더벨][thebell interview] \"메자닌 운용, 딜 발굴 역량이 핵심\"",
       "description": "직전 하이투자증권(현 iM증권)에서 함께 근무한 이상훈 부사장, 박성호 전무와 10년 넘게 호흡을 맞추고 있다. 지난해 하반기부터 리테일 고객의 투자심리가 주식형 펀드로 쏠리면서 메자닌 하우스들에 먹구름이...",
       "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151136247840104689",
@@ -35598,10 +35621,10 @@
       ]
     },
     {
-      "title": "LS증권, 홍원식 신임 대표이사 선임…\"증권사 본질 역량 회복하겠다\"",
-      "description": "LS증권 신임 대표이사로 홍원식 전 하이투자증권 대표이사가 선임됐다. LS증권은 24일 정기주주총회를 열고 홍 대표를 신규 임명했다고 밝혔다. 1964년생인 홍 대표는 증권감독원 국제업무국을 시작으로 LG증권...",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=752658",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=752658",
+      "title": "[주총 2026] LS증권, 홍원식 대표 신규 선임… 341억원 규모 현금배당",
+      "description": "홍 대표는 1964년생으로 증권감독원 국제업무국, LG증권 국제금융팀, 뱅크보스턴 서울지점 부지점장, 글로벌앤어소시에이츠 사내이사 등을 거쳤으며, 이베스트투자증권과 하이투자증권 대표이사를 역임한 금융...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=351100",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=351100",
       "press": "",
       "pubDate": "2026-03-24T17:16:00+09:00",
       "date": "2026-03-24",
@@ -35610,10 +35633,10 @@
       ]
     },
     {
-      "title": "[주총 2026] LS증권, 홍원식 대표 신규 선임… 341억원 규모 현금배당",
-      "description": "홍 대표는 1964년생으로 증권감독원 국제업무국, LG증권 국제금융팀, 뱅크보스턴 서울지점 부지점장, 글로벌앤어소시에이츠 사내이사 등을 거쳤으며, 이베스트투자증권과 하이투자증권 대표이사를 역임한 금융...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=351100",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=351100",
+      "title": "LS증권, 홍원식 신임 대표이사 선임…\"증권사 본질 역량 회복하겠다\"",
+      "description": "LS증권 신임 대표이사로 홍원식 전 하이투자증권 대표이사가 선임됐다. LS증권은 24일 정기주주총회를 열고 홍 대표를 신규 임명했다고 밝혔다. 1964년생인 홍 대표는 증권감독원 국제업무국을 시작으로 LG증권...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=752658",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=752658",
       "press": "",
       "pubDate": "2026-03-24T17:16:00+09:00",
       "date": "2026-03-24",
@@ -35898,11 +35921,11 @@
       ]
     },
     {
-      "title": "[더벨][인사이드 헤지펀드] 아이트러스트운용 코벤펀드에 기관 러브콜",
-      "description": "그는 하이투자증권과 현대자산운용을 거쳤으며 벤처 구주 트레이딩 전략으로 5년 이상 공모·사모 코스닥벤처펀드를 운용한 경험을 보유하고 있다. 아이트러스트자산운용 관계자는 \"이번 펀드는 기관 수익자 펀드로...",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603201510420280109057",
-      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603201510420280109057",
-      "press": "더벨",
+      "title": "LS·대신증권, 새 대표 선임… 체질 개선 속도 낸다",
+      "description": "홍 대표는 증권감독원과 LG증권, 이베스트투자증권, 하이투자증권 등을 거친 업계 베테랑으로, 글로벌 금융과 경영 전반을 두루 경험한 인물이다. LS증권은 홍 대표가 전략 수립 능력과 리스크 관리 역량을 바탕으로...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003017813?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12053573?ref=naver",
+      "press": "디지털타임스",
       "pubDate": "2026-03-24T16:12:00+09:00",
       "date": "2026-03-24",
       "companies": [
@@ -35910,11 +35933,11 @@
       ]
     },
     {
-      "title": "LS·대신증권, 새 대표 선임… 체질 개선 속도 낸다",
-      "description": "홍 대표는 증권감독원과 LG증권, 이베스트투자증권, 하이투자증권 등을 거친 업계 베테랑으로, 글로벌 금융과 경영 전반을 두루 경험한 인물이다. LS증권은 홍 대표가 전략 수립 능력과 리스크 관리 역량을 바탕으로...",
-      "link": "https://n.news.naver.com/mnews/article/029/0003017813?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12053573?ref=naver",
-      "press": "디지털타임스",
+      "title": "[더벨][인사이드 헤지펀드] 아이트러스트운용 코벤펀드에 기관 러브콜",
+      "description": "그는 하이투자증권과 현대자산운용을 거쳤으며 벤처 구주 트레이딩 전략으로 5년 이상 공모·사모 코스닥벤처펀드를 운용한 경험을 보유하고 있다. 아이트러스트자산운용 관계자는 \"이번 펀드는 기관 수익자 펀드로...",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603201510420280109057",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603201510420280109057",
+      "press": "더벨",
       "pubDate": "2026-03-24T16:12:00+09:00",
       "date": "2026-03-24",
       "companies": [
