@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-07-31T13:50:51Z",
+  "lastUpdated": "2026-07-31T19:16:13Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 320,
+  "count": 321,
   "news": [
+    {
+      "title": "Goldman Sachs, Barclays, Jefferies Cut Robinhood (HOOD) Stock Price Target",
+      "description": "Wall Street giants Goldman Sachs, Barclays, and Jefferies lowered HOOD stock price targets despite Robinhood reporting strong Q2 earnings.",
+      "link": "https://coingape.com/news/stocks/goldman-sachs-barclays-jefferies-cut-robinhood-hood-stock-price-target/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-30T22:10:43+09:00",
+      "date": "2026-07-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood says event markets is firm’s fastest-growing unit",
       "description": "Robinhood Markets Inc.’s prediction markets business is the fastest growing in the firm’s history, chief executive Vlad Tenev said. Read on",
       "link": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-ceo-says-event-markets-fastest-growing-unit",
       "press": "Financial Post",
-      "pubDate": "2026-07-31T05:44:39+09:00",
+      "pubDate": "2026-07-30T20:44:39+00:00",
       "date": "2026-07-31",
       "category": "broker",
       "companies": [
