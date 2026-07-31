@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-07-31T08:41:11Z",
+  "lastUpdated": "2026-07-31T13:50:51Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Robinhood says event markets is firm’s fastest-growing unit",
+      "description": "Robinhood Markets Inc.’s prediction markets business is the fastest growing in the firm’s history, chief executive Vlad Tenev said. Read on",
+      "link": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-ceo-says-event-markets-fastest-growing-unit",
+      "press": "Financial Post",
+      "pubDate": "2026-07-31T05:44:39+09:00",
+      "date": "2026-07-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Microsoft's $480 billion rally fuels a debate: financial nihilism or the true AI moat, finally coming into view?",
       "description": "The market seems to be in a \"rip up the script every day\" kind of mode, Steve Sosnick of Interactive Brokers told Fortune. Unless that changes tomorrow.",
@@ -117,18 +129,6 @@
       "link": "https://www.cryptobreaking.com/robinhood-reports-record-1-3b/",
       "press": "Crypto Breaking News",
       "pubDate": "2026-07-30T18:51:33+09:00",
-      "date": "2026-07-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Stock Slides 4% After Crypto Revenue Falls to $100M",
-      "description": "Robinhood stock falls 4% after Q2 crypto revenue drops 38% to $100M, despite record $1.31B revenue, $0.62 EPS, and $573M net income in Q2.",
-      "link": "https://coingape.com/robinhood-stock-slides-4-after-crypto-revenue-falls-to-100m/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-30T17:43:58+09:00",
       "date": "2026-07-30",
       "category": "broker",
       "companies": [
