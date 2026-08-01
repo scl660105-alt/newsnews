@@ -1,16 +1,52 @@
 {
-  "lastUpdated": "2026-07-31T19:16:13Z",
+  "lastUpdated": "2026-08-01T02:14:18Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 321,
+  "count": 325,
   "news": [
     {
-      "title": "Goldman Sachs, Barclays, Jefferies Cut Robinhood (HOOD) Stock Price Target",
-      "description": "Wall Street giants Goldman Sachs, Barclays, and Jefferies lowered HOOD stock price targets despite Robinhood reporting strong Q2 earnings.",
-      "link": "https://coingape.com/news/stocks/goldman-sachs-barclays-jefferies-cut-robinhood-hood-stock-price-target/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-30T22:10:43+09:00",
-      "date": "2026-07-30",
+      "title": "Robinhood Markets Stock: Analyst Estimates & Ratings",
+      "description": "Robinhood Markets has lagged behind the broader market over the past year, and analysts remain moderately bullish about the stock’s prospects.",
+      "link": "https://www.barchart.com/story/news/3576009/robinhood-markets-stock-analyst-estimates-ratings",
+      "press": "Barchart",
+      "pubDate": "2026-07-31T22:04:46+09:00",
+      "date": "2026-07-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood’s crypto revenue plunged 38%, but a sudden explosion in options trading saved its record quarter",
+      "description": "Robinhood posted record Q2 revenue as crypto trading income fell 38% to $100 million and Bitstamp carried most crypto volume.",
+      "link": "https://cryptoslate.com/robinhood-posted-record-revenue-crypto-was-the-drag/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-07-31T21:30:19+09:00",
+      "date": "2026-07-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood earns $160 target from Bernstein on tokenization and Rothera growth",
+      "description": "Bernstein maintained its $160 price target on Robinhood, citing Robinhood Chain, tokenized stocks, Rothera and Earn as the next crypto growth drivers.",
+      "link": "https://crypto.news/robinhood-earns-160-target-from-bernstein-on-tokenization-and-rothera-growth/",
+      "press": "Crypto News",
+      "pubDate": "2026-07-31T20:43:15+09:00",
+      "date": "2026-07-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood's Aggressive Product Innovation Has Borne Fruit Amid Burgeoning Retail Investment Appetite",
+      "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+      "link": "https://www.morningstar.com/company-reports/1492072-robinhoods-aggressive-product-innovation-has-borne-fruit-amid-burgeoning-retail-investment-appetite",
+      "press": "Morningstar",
+      "pubDate": "2026-07-31T09:00:00+09:00",
+      "date": "2026-07-31",
       "category": "broker",
       "companies": [
         "Robinhood"
@@ -94,6 +130,18 @@
       "link": "https://crypto.news/tokenized-nvidia-found-its-first-real-market-memecoin-collateral/",
       "press": "Crypto News",
       "pubDate": "2026-07-30T13:57:45+00:00",
+      "date": "2026-07-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Goldman Sachs, Barclays, Jefferies Cut Robinhood (HOOD) Stock Price Target",
+      "description": "Wall Street giants Goldman Sachs, Barclays, and Jefferies lowered HOOD stock price targets despite Robinhood reporting strong Q2 earnings.",
+      "link": "https://coingape.com/news/stocks/goldman-sachs-barclays-jefferies-cut-robinhood-hood-stock-price-target/",
+      "press": "CoinGape",
+      "pubDate": "2026-07-30T13:10:43+00:00",
       "date": "2026-07-30",
       "category": "broker",
       "companies": [
