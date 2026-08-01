@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-01T02:14:18Z",
+  "lastUpdated": "2026-08-01T08:11:18Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Why a $20 billion Bitstamp slump makes Robinhood’s retail app look far weaker than it really is",
+      "description": "Bitstamp drove 77% of Robinhood’s $26 billion Q1-to-Q2 crypto-volume decline, falling 48% versus a 25% Robinhood App drop.",
+      "link": "https://cryptoslate.com/bitstamp-drove-77-of-robinhoods-crypto-volume-decline/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-08-01T04:50:01+09:00",
+      "date": "2026-08-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Y'all Street launches: Texas Stock Exchange goes live in Dallas",
+      "description": "The Texas Stock Exchange officially launched in Dallas as a new rival to the NYSE and Nasdaq. Financial backers include BlackRock, Goldman Sachs and Charles Schwab.",
+      "link": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+      "press": "Fox Business",
+      "pubDate": "2026-08-01T03:14:04+09:00",
+      "date": "2026-08-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Robinhood Markets Stock: Analyst Estimates & Ratings",
       "description": "Robinhood Markets has lagged behind the broader market over the past year, and analysts remain moderately bullish about the stock’s prospects.",
@@ -109,30 +134,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Robinhood's Prediction Market Had a Record Quarter. Its Stock Is Dropping Anyway After Its Earnings",
-      "description": "Robinhood's stock is falling on Thursday even though the company reported rapid growth in its prediction market area.",
-      "link": "https://www.ibtimes.com/robinhoods-prediction-market-had-record-quarter-its-stock-dropping-anyway-after-its-earnings-3805908",
-      "press": "International Business Times",
-      "pubDate": "2026-07-31T00:03:52+09:00",
-      "date": "2026-07-31",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Tokenized Nvidia found its first real market: memecoin collateral",
-      "description": "Memecoins quoted against tokenized NVDA and TSLA pushed Robinhood Chain past Solana in tokenized stock volume. What that mechanism actually measures.",
-      "link": "https://crypto.news/tokenized-nvidia-found-its-first-real-market-memecoin-collateral/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-30T22:57:45+09:00",
-      "date": "2026-07-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {

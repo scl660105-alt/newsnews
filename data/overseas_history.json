@@ -1,15 +1,40 @@
 {
-  "lastUpdated": "2026-08-01T02:14:18Z",
+  "lastUpdated": "2026-08-01T08:11:18Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 325,
+  "count": 327,
   "news": [
+    {
+      "title": "Why a $20 billion Bitstamp slump makes Robinhood’s retail app look far weaker than it really is",
+      "description": "Bitstamp drove 77% of Robinhood’s $26 billion Q1-to-Q2 crypto-volume decline, falling 48% versus a 25% Robinhood App drop.",
+      "link": "https://cryptoslate.com/bitstamp-drove-77-of-robinhoods-crypto-volume-decline/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-08-01T04:50:01+09:00",
+      "date": "2026-08-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Y'all Street launches: Texas Stock Exchange goes live in Dallas",
+      "description": "The Texas Stock Exchange officially launched in Dallas as a new rival to the NYSE and Nasdaq. Financial backers include BlackRock, Goldman Sachs and Charles Schwab.",
+      "link": "https://www.foxbusiness.com/markets/yall-street-launches-texas-stock-exchange-goes-live-dallas",
+      "press": "Fox Business",
+      "pubDate": "2026-08-01T03:14:04+09:00",
+      "date": "2026-08-01",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Robinhood Markets Stock: Analyst Estimates & Ratings",
       "description": "Robinhood Markets has lagged behind the broader market over the past year, and analysts remain moderately bullish about the stock’s prospects.",
       "link": "https://www.barchart.com/story/news/3576009/robinhood-markets-stock-analyst-estimates-ratings",
       "press": "Barchart",
-      "pubDate": "2026-07-31T22:04:46+09:00",
+      "pubDate": "2026-07-31T13:04:46+00:00",
       "date": "2026-07-31",
       "category": "broker",
       "companies": [
@@ -21,7 +46,7 @@
       "description": "Robinhood posted record Q2 revenue as crypto trading income fell 38% to $100 million and Bitstamp carried most crypto volume.",
       "link": "https://cryptoslate.com/robinhood-posted-record-revenue-crypto-was-the-drag/",
       "press": "CryptoSlate",
-      "pubDate": "2026-07-31T21:30:19+09:00",
+      "pubDate": "2026-07-31T12:30:19+00:00",
       "date": "2026-07-31",
       "category": "broker",
       "companies": [
@@ -33,7 +58,7 @@
       "description": "Bernstein maintained its $160 price target on Robinhood, citing Robinhood Chain, tokenized stocks, Rothera and Earn as the next crypto growth drivers.",
       "link": "https://crypto.news/robinhood-earns-160-target-from-bernstein-on-tokenization-and-rothera-growth/",
       "press": "Crypto News",
-      "pubDate": "2026-07-31T20:43:15+09:00",
+      "pubDate": "2026-07-31T11:43:15+00:00",
       "date": "2026-07-31",
       "category": "broker",
       "companies": [
@@ -45,7 +70,7 @@
       "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
       "link": "https://www.morningstar.com/company-reports/1492072-robinhoods-aggressive-product-innovation-has-borne-fruit-amid-burgeoning-retail-investment-appetite",
       "press": "Morningstar",
-      "pubDate": "2026-07-31T09:00:00+09:00",
+      "pubDate": "2026-07-31T00:00:00+00:00",
       "date": "2026-07-31",
       "category": "broker",
       "companies": [
