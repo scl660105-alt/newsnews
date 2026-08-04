@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-08-04T01:59:36Z",
+  "lastUpdated": "2026-08-04T08:28:16Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 332,
+  "count": 335,
   "news": [
+    {
+      "title": "Introducing Robinhood Ventures Fund II (RVII)",
+      "description": "Starting today, customers can request IPO shares of Robinhood Ventures Fund II (RVII) at an expected price of $25 per share....",
+      "link": "https://www.globenewswire.com/news-release/2026/08/03/3337801/0/en/introducing-robinhood-ventures-fund-ii-rvii.html",
+      "press": "GlobeNewswire",
+      "pubDate": "2026-08-04T01:48:31+09:00",
+      "date": "2026-08-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood is launching a publicly traded fund that invests in Y Combinator startups. Anyone can buy shares.",
+      "description": "Robinhood Ventures Fund II will IPO at $25/share on August 12, investing in YC startups. Fund I holds Databricks, Stripe, and Canva. Goldman, Citi, and JPMorgan are underwriting.",
+      "link": "https://thenextweb.com/news/robinhood-ventures-fund-ii-y-combinator-ipo",
+      "press": "TNW",
+      "pubDate": "2026-08-04T01:17:54+09:00",
+      "date": "2026-08-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Interactive Brokers Stock?",
+      "description": "Interactive Brokers has outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.",
+      "link": "https://www.barchart.com/story/news/3613990/what-are-wall-street-analysts-target-price-for-interactive-brokers-stock",
+      "press": "Barchart",
+      "pubDate": "2026-08-03T23:21:44+09:00",
+      "date": "2026-08-03",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
     {
       "title": "Robinhood secures UK crypto registration ahead of new FCA rules",
       "description": "Robinhood has secured FCA registration to offer crypto services in the UK, gaining approval before the country's new crypto regulatory framework begins in 2027.",
       "link": "https://crypto.news/robinhood-secures-uk-crypto-registration-ahead-of-new-fca-rules/",
       "press": "Crypto News",
-      "pubDate": "2026-08-03T19:29:57+09:00",
+      "pubDate": "2026-08-03T10:29:57+00:00",
       "date": "2026-08-03",
       "category": "broker",
       "companies": [
@@ -21,7 +57,7 @@
       "description": "Robinhood’s U.K. arm has been added to the FCA's list of registered cryptoasset companies as of July 31.",
       "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
       "press": "CoinDesk",
-      "pubDate": "2026-08-03T18:38:53+09:00",
+      "pubDate": "2026-08-03T09:38:53+00:00",
       "date": "2026-08-03",
       "category": "broker",
       "companies": [
@@ -33,7 +69,7 @@
       "description": "One tokenized product drove a 288 percent volume surge. Robinhood Chain is betting on tokenized equities with a gas subsidy that expires in September. The DTCC launches in October.",
       "link": "https://crypto.news/tokenized-qqq-drove-288-percent-july-volume-robinhood-chain/",
       "press": "Crypto News",
-      "pubDate": "2026-08-03T18:17:12+09:00",
+      "pubDate": "2026-08-03T09:17:12+00:00",
       "date": "2026-08-03",
       "category": "broker",
       "companies": [
