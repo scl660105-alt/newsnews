@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-08-07T18:46:20Z",
+  "lastUpdated": "2026-08-08T01:10:08Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 28,
   "news": [
+    {
+      "title": "WonderFi's founder says Canada's business climate forced him to sell to Robinhood",
+      "description": "The CEO of WonderFi says that he sold because Canada's burdensome regulatory climate makes international expansion out of reach.",
+      "link": "https://fortune.com/2026/08/07/i-built-canadas-largest-crypto-company-but-the-business-climate-here-made-selling-to-robinhood-inevitable/",
+      "press": "Fortune",
+      "pubDate": "2026-08-07T22:00:00+09:00",
+      "date": "2026-08-07",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Futu to Report Second Quarter 2026 Financial Results on August 20, 2026",
+      "description": "HONG KONG, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Futu Holdings Limited ('Futu” or the 'Company”) (Nasdaq: FUTU), a leading tech-driven online brokerage and wealth management platform, today announced that it will report its financial results for the second quarter ended June 30, 2026, before U.S. markets open on August 20, 2026.",
+      "link": "https://www.manilatimes.net/2026/08/07/tmt-newswire/globenewswire/futu-to-report-second-quarter-2026-financial-results-on-august-20-2026/2400818",
+      "press": "The Manila Times",
+      "pubDate": "2026-08-07T17:19:29+09:00",
+      "date": "2026-08-07",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Wintermute gains U.S. broker status, eyes tokenized stocks",
       "description": "Wintermute USA registered with the SEC and FINRA, opening a path into U.S. equities, ETFs and future tokenized securities trading.",
@@ -13,6 +37,18 @@
       "category": "theme",
       "companies": [
         "업계테마"
+      ]
+    },
+    {
+      "title": "The life currency that grows more valuable over time",
+      "description": "Among the most sought-after privileges is the discovery of something few others know exists. Beyond the world of finance, Webull, the globally recognised investment and trading platform, is expanding the Webull Prime experience to create a richer dimension of privilege -- one defined not only by access, but also by connection, shared experiences and the value of time.",
+      "link": "https://www.bangkokpost.com/business/general/3297865/the-life-currency-that-grows-more-valuable-over-time",
+      "press": "Bangkok Post",
+      "pubDate": "2026-08-07T03:01:00+09:00",
+      "date": "2026-08-07",
+      "category": "broker",
+      "companies": [
+        "Webull"
       ]
     },
     {
@@ -113,18 +149,6 @@
       ]
     },
     {
-      "title": "Robinhood files $200M second venture fund focused on YC startups",
-      "description": "Robinhood has filed to raise $200 million for its second public venture fund, targeting seed stage startups while introducing new management and performance fees.",
-      "link": "https://crypto.news/robinhood-files-200m-second-venture-fund-focused-on-yc-startups/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-05T17:04:21+09:00",
-      "date": "2026-08-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Elizabeth Warren, Richard Blumenthal Demand SEC Investigation Into 'Illegal Scam' TRUMP Meme Coin",
       "description": "Trump memecoin faces SEC scrutiny as Warren and Blumenthal seek an investigation into possible fraud and retail investor losses.",
       "link": "https://www.benzinga.com/crypto/cryptocurrency/26/08/60911648/elizabeth-warren-richard-blumenthal-demand-sec-investigation-into-illegal-scam-trump-meme-coin",
@@ -134,19 +158,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
-      "description": "Charles Schwab Corporation has underperformed the broader market over the past year, and analysts remain moderately optimistic about the stock’s prospects.",
-      "link": "https://www.barchart.com/story/news/3639084/do-wall-street-analysts-like-charles-schwab-corporation-stock",
-      "press": "Barchart",
-      "pubDate": "2026-08-04T23:48:05+09:00",
-      "date": "2026-08-04",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
