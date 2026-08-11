@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-08-11T06:56:50Z",
+  "lastUpdated": "2026-08-11T12:51:16Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Global stocks mixed while oil prices jump on Hormuz",
+      "description": "“Stocks are doing their best to ignore the situation in the Persian Gulf,” said analyst Steve Sosnick of Interactive Brokers.",
+      "link": "https://www.channelnewsasia.com/world/stocks-mixed-market-oil-prices-hormuz-6310596",
+      "press": "CNA",
+      "pubDate": "2026-08-11T06:20:20+09:00",
+      "date": "2026-08-11",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "HOOD Stock Alert: Robinhood Set to Launch Crypto Trading in UK This Week",
+      "description": "Robinhood to launch no-fee crypto trading in the UK this week. But does that warrant buying HOOD shares today?",
+      "link": "https://www.barchart.com/story/news/3763944/hood-stock-alert-robinhood-set-to-launch-crypto-trading-in-uk-this-week",
+      "press": "Barchart",
+      "pubDate": "2026-08-11T05:49:45+09:00",
+      "date": "2026-08-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "UK Investors Can Now Buy XRP, SHIB, and Other Tokens via Robinhood",
       "description": "Robinhood is expanding its cryptocurrency offering in the UK, bringing more than 50 cryptocurrencies to its investment app.",
@@ -100,18 +124,6 @@
       ]
     },
     {
-      "title": "Copy Trading on Robinhood Chain vs Solana: What Changes and What Stays the Same",
-      "description": "The chain a target wallet trades on decides what kind of market you are stepping into, not how you set up the copy. That split is the whole comparison in one line: same process, different territory underneath it.",
-      "link": "https://techbullion.com/copy-trading-on-robinhood-chain-vs-solana-what-changes-and-what-stays-the-same/",
-      "press": "TechBullion",
-      "pubDate": "2026-08-08T19:18:36+09:00",
-      "date": "2026-08-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Bybit Dual Asset Integrates Four New xStocks, Expanding Use Cases for Tokenized Equities on Bybit",
       "description": "**media[1168687]**DUBAI, UAE, Aug. 8, 2026 /PRNewswire/ -- Bybit, the world's second-largest cryptocurrency exchange by trading volume, announced the expansion of its xStocks Dual Asset offering with four newly supported tokenized stocks: METAx, TSLAx, HOODx, and CRCLx. The addition brings xStocks Dual Asset to a lineup of 10 tokenized stock pairs, following strong user demand",
       "link": "https://www.manilatimes.net/2026/08/08/tmt-newswire/pr-newswire/bybit-dual-asset-integrates-four-new-xstocks-expanding-use-cases-for-tokenized-equities-on-bybit/2401173",
@@ -121,18 +133,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "WonderFi's founder says Canada's business climate forced him to sell to Robinhood",
-      "description": "The CEO of WonderFi says that he sold because Canada's burdensome regulatory climate makes international expansion out of reach.",
-      "link": "https://fortune.com/2026/08/07/i-built-canadas-largest-crypto-company-but-the-business-climate-here-made-selling-to-robinhood-inevitable/",
-      "press": "Fortune",
-      "pubDate": "2026-08-07T22:00:00+09:00",
-      "date": "2026-08-07",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
