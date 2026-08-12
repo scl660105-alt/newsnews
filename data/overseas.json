@@ -1,14 +1,38 @@
 {
-  "lastUpdated": "2026-08-12T07:16:01Z",
+  "lastUpdated": "2026-08-12T12:56:10Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Spritehood NFTs raise $1.28M on Robinhood Chain",
+      "description": "Spritehood sold 42,956 paid NFTs on Robinhood Chain in 53 minutes, generating $1.28 million as its contract code remained unverified.",
+      "link": "https://crypto.news/spritehood-nfts-raise-1-28m-dollars-on-robinhood-chain/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-12T06:10:55+09:00",
+      "date": "2026-08-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "The controversial return of Pudgy Penguins founder ColeThereum",
       "description": "ColeThereum, the ousted Pudgy Penguins founder with a problematic past, has returned to pitch a Robinhood Chain NFT collection.",
       "link": "https://protos.com/the-controversial-return-of-pudgy-penguins-founder-colethereum/",
       "press": "Protos",
       "pubDate": "2026-08-11T22:18:01+09:00",
+      "date": "2026-08-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood offers crypto asset tied to FCA warning list",
+      "description": "Robinhood is offering a crypto asset to UK retail customers whose native platform is listed on the financial watchdog’s warning list.",
+      "link": "https://www.cityam.com/robinhood-offers-crypto-asset-tied-to-fca-warning-list/",
+      "press": "City A.M.",
+      "pubDate": "2026-08-11T20:05:36+09:00",
       "date": "2026-08-11",
       "category": "broker",
       "companies": [
@@ -93,30 +117,6 @@
       "link": "https://coingape.com/robinhood-launches-zero-fee-crypto-trading-via-bitstamp-in-uk/",
       "press": "CoinGape",
       "pubDate": "2026-08-10T17:43:39+09:00",
-      "date": "2026-08-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood rolls out crypto trading in UK with more than 50 assets",
-      "description": "Robinhood has launched crypto trading for eligible UK customers, offering more than 50 digital assets through FCA registered Bitstamp UK.",
-      "link": "https://crypto.news/robinhood-rolls-out-crypto-trading-in-uk-with-more-than-50-assets/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-10T16:44:16+09:00",
-      "date": "2026-08-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood (HOOD) brings crypto trading to UK in AI",
-      "description": "The trading firm is introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
-      "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-      "press": "CoinDesk",
-      "pubDate": "2026-08-10T16:00:00+09:00",
       "date": "2026-08-10",
       "category": "broker",
       "companies": [
