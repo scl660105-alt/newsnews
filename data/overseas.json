@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-08-11T18:54:29Z",
+  "lastUpdated": "2026-08-12T01:23:08Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "The controversial return of Pudgy Penguins founder ColeThereum",
+      "description": "ColeThereum, the ousted Pudgy Penguins founder with a problematic past, has returned to pitch a Robinhood Chain NFT collection.",
+      "link": "https://protos.com/the-controversial-return-of-pudgy-penguins-founder-colethereum/",
+      "press": "Protos",
+      "pubDate": "2026-08-11T22:18:01+09:00",
+      "date": "2026-08-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Global stocks mixed while oil prices jump on Hormuz",
       "description": "“Stocks are doing their best to ignore the situation in the Persian Gulf,” said analyst Steve Sosnick of Interactive Brokers.",
@@ -106,18 +118,6 @@
       "press": "CoinDesk",
       "pubDate": "2026-08-10T16:00:00+09:00",
       "date": "2026-08-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "description": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-      "link": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
-      "press": "Decrypt",
-      "pubDate": "2026-08-08T23:01:05+09:00",
-      "date": "2026-08-08",
       "category": "broker",
       "companies": [
         "Robinhood"
