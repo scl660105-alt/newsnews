@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-08-13T07:18:06Z",
+  "lastUpdated": "2026-08-13T12:57:09Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 365,
+  "count": 366,
   "news": [
+    {
+      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "description": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
+      "link": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "press": "CoinDesk",
+      "pubDate": "2026-08-13T07:11:09+09:00",
+      "date": "2026-08-13",
+      "category": "broker",
+      "companies": [
+        "E*Trade"
+      ]
+    },
     {
       "title": "Robinhood Is Fixing Its Biggest Weakness. HOOD Stock Could Keep Rising From Here.",
       "description": "Robinhood's crypto revenue plunged 38%, but the company still posted record total revenue as it became far less dependent on crypto.",
       "link": "https://www.barchart.com/story/news/3807844/robinhood-is-fixing-its-biggest-weakness-hood-stock-could-keep-rising-from-here",
       "press": "Barchart",
-      "pubDate": "2026-08-13T00:53:10+09:00",
+      "pubDate": "2026-08-12T15:53:10+00:00",
       "date": "2026-08-13",
       "category": "broker",
       "companies": [
