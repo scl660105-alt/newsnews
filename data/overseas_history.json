@@ -1,9 +1,46 @@
 {
-  "lastUpdated": "2026-08-13T18:55:01Z",
+  "lastUpdated": "2026-08-14T01:24:12Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 366,
+  "count": 369,
   "news": [
+    {
+      "title": "Robinhood Ventures Fund II Raises $200 Million in IPO: NYSE Content Update",
+      "description": "/PRNewswire/ -- The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market...",
+      "link": "https://www.prnewswire.co.uk/news-releases/robinhood-ventures-fund-ii-raises-200-million-in-ipo-nyse-content-update-302850879.html",
+      "press": "PR Newswire UK",
+      "pubDate": "2026-08-13T21:55:00+09:00",
+      "date": "2026-08-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab has added Bitcoin, Ether trading to its $13 trillion platform",
+      "description": "Charles Schwab has launched Bitcoin and Ether trading at a 0.75% fee, bringing direct crypto access to its $13 trillion brokerage platform.",
+      "link": "https://crypto.news/charles-schwab-has-added-bitcoin-ether-trading-to-its-13-trillion-platform/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-13T19:10:55+09:00",
+      "date": "2026-08-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Interactive Brokers Adds Access to the Bucharest Stock Exchange, Offering Access to One of Europe's Strongest-Performing Markets of 2025",
+      "description": "Eligible clients can now trade Romanian stocks on the Bucharest Stock Exchange, alongside products from over 170 global markets, on one platform",
+      "link": "https://www.cityam.com/interactive-brokers-adds-access-to-the-bucharest-stock-exchange-offering-access-to-one-of-europes-strongest-performing-markets-of-2025/",
+      "press": "City A.M.",
+      "pubDate": "2026-08-13T16:00:00+09:00",
+      "date": "2026-08-13",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
     {
       "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
       "description": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
