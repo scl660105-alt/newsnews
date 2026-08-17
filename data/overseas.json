@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-08-17T12:32:13Z",
+  "lastUpdated": "2026-08-17T18:30:33Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "SNDK stock perpetuals hit $1.73B open interest",
+      "description": "SNDK stock perpetual open interest reached $1.73B across crypto venues, while 24-hour trading volume climbed to $2.51B.",
+      "link": "https://crypto.news/sndk-stock-perpetuals-hit-1-73b-open-interest/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-17T13:13:39+09:00",
+      "date": "2026-08-17",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Tokenized Stock Holders More Than Double as Monthly Volume Rises",
       "description": "Tokenized stocks are seeing a rapid rise in participation and liquidity, according to new on-chain market tracking from RWA.xyz. The number of tokenized",
@@ -263,18 +275,6 @@
       "press": "Crypto News",
       "pubDate": "2026-07-24T06:16:20+09:00",
       "date": "2026-07-24",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
-      "description": "Payward's xStocks pushes beyond U.S. equities as competition to bring global stock markets onchain accelerates.",
-      "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
-      "press": "CoinDesk",
-      "pubDate": "2026-07-22T19:30:00+09:00",
-      "date": "2026-07-22",
       "category": "theme",
       "companies": [
         "업계테마"
