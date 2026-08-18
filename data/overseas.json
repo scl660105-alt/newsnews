@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-08-18T12:33:45Z",
+  "lastUpdated": "2026-08-18T18:29:07Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 26,
   "news": [
+    {
+      "title": "US Stock Market: Citadel Securities warns SEC rule change could hurt retail investors, market liquidity",
+      "description": "Citadel Securities has urged the SEC to reconsider its proposal to eliminate the order protection rule, warning it could weaken market liquidity, price discovery and retail investor protections. The market maker argues the change may divert trades from public exchanges and recommends alternatives, including minimum trading-volume thresholds for exchanges to qualify for protected status.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-citadel-securities-warns-sec-rule-change-could-hurt-retail-investors-market-liquidity/articleshow/133311215.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-08-18T13:07:00+09:00",
+      "date": "2026-08-18",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "$COOPER Announces Community-Building Initiative Within the Robinhood Chain Ecosystem",
       "description": "The community-driven project introduces a mascot-led engagement campaign as Robinhood Chain continues attracting builders, users, and on-chain activity",
