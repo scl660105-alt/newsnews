@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-19T12:34:44Z",
+  "lastUpdated": "2026-08-19T18:25:23Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Charles Schwab planning to scale India tech centre workforce to 2,000 by 2027",
+      "description": "Charles Schwab plans to significantly expand its India tech center workforce, aiming to reach approximately two thousand employees by the end of 2027. This Hyderabad office will support the firm's United States business operations. Technology development and engineering support will be provided from this location.",
+      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/charles-schwab-to-scale-india-tech-centre-workforce-to-2000-by-2027-source-says/articleshow/133338202.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-08-19T14:20:00+09:00",
+      "date": "2026-08-19",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "FalconX Links Interstice Connect to Ethereum, Solana and Robinhood Chain",
+      "description": "Interstice Digital has introduced a non-custodial cross-chain swap engine designed to connect the Canton Network with major public ecosystems, including",
+      "link": "https://www.cryptobreaking.com/falconx-links-interstice-connect-to/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-08-19T11:12:42+09:00",
+      "date": "2026-08-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Interstice, FalconX Link Canton to Ethereum, Solana",
       "description": "Interstice Digital and FalconX launched a cross-chain swap engine connecting Canton’s institutional tokenized-asset markets with Ethereum, Solana and Robinhood Chain.",
@@ -146,30 +171,6 @@
       "companies": [
         "Robinhood",
         "Webull"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Approaches $1B TVL as Uniswap Integration Boosts Liquidity",
-      "description": "Robinhood’s growing onchain ambitions are getting a major assist from decentralized exchange liquidity—at least according to a new note from Standard",
-      "link": "https://www.cryptobreaking.com/robinhood-chain-approaches-1b-tvl-2/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-14T16:10:42+09:00",
-      "date": "2026-08-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Approaches $1B TVL as Uniswap Boosts Liquidity",
-      "description": "Robinhood’s newly launched blockchain, Robinhood Chain, is scaling its onchain activity with help from Uniswap, according to Standard Chartered—an",
-      "link": "https://www.cryptobreaking.com/robinhood-chain-approaches-1b-tvl/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-14T03:57:03+09:00",
-      "date": "2026-08-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
