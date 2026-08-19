@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-08-18T18:29:07Z",
+  "lastUpdated": "2026-08-19T00:55:05Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 384,
+  "count": 385,
   "news": [
+    {
+      "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven",
+      "description": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
+      "link": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+      "press": "Decrypt",
+      "pubDate": "2026-08-18T21:37:02+09:00",
+      "date": "2026-08-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "US Stock Market: Citadel Securities warns SEC rule change could hurt retail investors, market liquidity",
       "description": "Citadel Securities has urged the SEC to reconsider its proposal to eliminate the order protection rule, warning it could weaken market liquidity, price discovery and retail investor protections. The market maker argues the change may divert trades from public exchanges and recommends alternatives, including minimum trading-volume thresholds for exchanges to qualify for protected status.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-citadel-securities-warns-sec-rule-change-could-hurt-retail-investors-market-liquidity/articleshow/133311215.cms",
       "press": "The Economic Times",
-      "pubDate": "2026-08-18T13:07:00+09:00",
+      "pubDate": "2026-08-18T04:07:00+00:00",
       "date": "2026-08-18",
       "category": "market",
       "companies": [
