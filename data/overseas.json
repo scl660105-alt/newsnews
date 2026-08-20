@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-08-20T12:36:20Z",
+  "lastUpdated": "2026-08-20T18:30:21Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Trump Accounts Offer S&P 500 to Keep Investing Simple: Robinhood CEO",
+      "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF.",
+      "link": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8",
+      "press": "Business Insider",
+      "pubDate": "2026-08-20T13:52:54+09:00",
+      "date": "2026-08-20",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "US Financial Services Firm Charles Schwab Opens Technology Capability Centre In Hyderabad",
       "description": "Schwab India will support Charles Schwab’s US business through technology development, engineering talent and operational capabilities, it further said.",
@@ -112,18 +124,6 @@
       "link": "https://www.cryptobreaking.com/falconx-links-interstice-connect-to/",
       "press": "Crypto Breaking News",
       "pubDate": "2026-08-19T11:12:42+09:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Interstice, FalconX Link Canton to Ethereum, Solana",
-      "description": "Interstice Digital and FalconX launched a cross-chain swap engine connecting Canton’s institutional tokenized-asset markets with Ethereum, Solana and Robinhood Chain.",
-      "link": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
-      "press": "Cointelegraph",
-      "pubDate": "2026-08-19T05:45:48+09:00",
       "date": "2026-08-19",
       "category": "broker",
       "companies": [
