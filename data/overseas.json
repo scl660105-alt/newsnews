@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-08-22T06:29:36Z",
+  "lastUpdated": "2026-08-22T12:27:15Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Uniswap tokenized stock volume on Robinhood Chain hits $1B",
+      "description": "Uniswap’s combined tokenized-stock trading volume on Robinhood Chain has reached $1 billion, while Hayden Adams projects $1 trillion.",
+      "link": "https://crypto.news/uniswap-tokenized-stock-volume-robinhood-chain-hits-1b/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-22T04:26:13+09:00",
+      "date": "2026-08-22",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "U.S. Stock Market Rebounds Amid Rising Treasury Yields and Geopolitical Tensions",
       "description": "U.S. stock markets showed recovery on Friday despite a turbulent week marked by rising Treasury yields and geopolitical tensions. Key indexes, including the Dow, S&P 500, and Nasdaq, faced declines but found some relief with gains in healthcare and financial sectors. Robinhood and Coinbase surged significantly.",
@@ -117,19 +129,6 @@
       "link": "https://www.outlookbusiness.com/corporate/us-financial-services-firm-charles-schwab-opens-technology-capability-centre-in-hyderabad",
       "press": "Outlook Business",
       "pubDate": "2026-08-19T19:27:54+09:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab opens Hyderabad centre, plans 2,000 employees by 2027",
-      "description": "Charles Schwab has opened a 3.45 lakh sq ft India centre in Hyderabad and plans to expand its workforce to around 2,000 employees by 2027.",
-      "link": "https://www.thehindubusinessline.com/info-tech/charles-schwab-opens-india-capability-centre-in-hyderabad-plans-2000-hires-by-2027/article71364063.ece",
-      "press": "The Hindu Business Line",
-      "pubDate": "2026-08-19T18:05:57+09:00",
       "date": "2026-08-19",
       "category": "broker",
       "companies": [
