@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-08-23T06:31:05Z",
+  "lastUpdated": "2026-08-23T12:27:42Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Is the Charles Schwab app down? Thousands report issues with logging in; company responds",
+      "description": "Charles Schwab’s app faced an outage Saturday, with over 1,600 users reporting login issues. Reports began around 12:50pm EDT and resumed around 2:33pm.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/is-the-charles-schwab-app-down-thousands-report-issues-with-logging-in-company-responds-101787426066126.html",
+      "press": "Hindustan Times",
+      "pubDate": "2026-08-23T04:26:57+09:00",
+      "date": "2026-08-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Tesla recalls nearly 3 million vehicles in China over door handles",
       "description": "Interactive Brokers chief strategist Steve Sosnick discusses stocks Americans should keep their eyes on on 'The Claman Countdown.'",
@@ -133,18 +146,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Trump Accounts Offer S&P 500 to Keep Investing Simple: Robinhood CEO",
-      "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF.",
-      "link": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8",
-      "press": "Business Insider",
-      "pubDate": "2026-08-20T13:52:54+09:00",
-      "date": "2026-08-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
