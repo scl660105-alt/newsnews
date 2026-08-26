@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-08-26T00:57:35Z",
+  "lastUpdated": "2026-08-26T06:38:15Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 407,
+  "count": 410,
   "news": [
+    {
+      "title": "Goldman Sachs backs crypto stocks amid Bitcoin breakout",
+      "description": "Goldman Sachs backs Coinbase and Robinhood as Bitcoin holds near $79,000 and the bank rebuilds its exposure to spot XRP ETFs.",
+      "link": "https://crypto.news/goldman-sachs-back-crypto-stocks-amid-bitcoin-breakout/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-26T03:38:01+09:00",
+      "date": "2026-08-26",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Bitcoin price today: BTC breaks $80,000 as crypto rally lifts Strategy, Coinbase, Robinhood",
+      "description": "Bitcoin price today crosses $80,000 as BTC gains 28% in eight days, helped by US Treasury moves, Trump’s crypto support and rising crypto stocks. | Business News",
+      "link": "https://www.hindustantimes.com/business/bitcoin-price-today-btc-breaks-80-000-as-crypto-rally-lifts-strategy-coinbase-robinhood-101787666183460.html",
+      "press": "Hindustan Times",
+      "pubDate": "2026-08-25T23:04:26+09:00",
+      "date": "2026-08-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Arcus Launches Tokenized Perp Positions on Robinhood Chain",
+      "description": "Arcus launched a protocol on Robinhood Chain that tokenizes perpetual futures positions and allows tokenized stocks to be used as collateral for leveraged trading.",
+      "link": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
+      "press": "Cointelegraph",
+      "pubDate": "2026-08-25T23:00:00+09:00",
+      "date": "2026-08-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
       "description": "These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
       "link": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
       "press": "Decrypt",
-      "pubDate": "2026-08-25T20:58:22+09:00",
+      "pubDate": "2026-08-25T11:58:22+00:00",
       "date": "2026-08-25",
       "category": "theme",
       "companies": [
@@ -21,7 +57,7 @@
       "description": "Goldman Sachs has turned cautiously bullish on crypto market for H2 and recommends buying Coinbase (COIN) and Robinhood (HOOD) stocks.",
       "link": "https://coingape.com/goldman-sachs-cautiously-optimistic-crypto-market-h2-suggests-coin-hood/",
       "press": "CoinGape",
-      "pubDate": "2026-08-25T20:38:42+09:00",
+      "pubDate": "2026-08-25T11:38:42+00:00",
       "date": "2026-08-25",
       "category": "broker",
       "companies": [
@@ -33,7 +69,7 @@
       "description": "Chump Coin, a Robinhood Chain memecoin, has surged 6,700x since launch, hitting a roughly $15 million market cap and trading near its peak.",
       "link": "https://crypto.news/chump-skyrockets-over-6700x-since-july-launch-eyes-robinhood-chains-top-memecoin-spot/",
       "press": "Crypto News",
-      "pubDate": "2026-08-25T18:40:12+09:00",
+      "pubDate": "2026-08-25T09:40:12+00:00",
       "date": "2026-08-25",
       "category": "broker",
       "companies": [
