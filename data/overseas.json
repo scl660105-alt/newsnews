@@ -1,8 +1,44 @@
 {
-  "lastUpdated": "2026-08-25T18:31:59Z",
+  "lastUpdated": "2026-08-26T00:57:35Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+      "description": "These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
+      "link": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+      "press": "Decrypt",
+      "pubDate": "2026-08-25T20:58:22+09:00",
+      "date": "2026-08-25",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Cautiously Optimistic on Crypto Market in H2, Suggests COIN & HOOD",
+      "description": "Goldman Sachs has turned cautiously bullish on crypto market for H2 and recommends buying Coinbase (COIN) and Robinhood (HOOD) stocks.",
+      "link": "https://coingape.com/goldman-sachs-cautiously-optimistic-crypto-market-h2-suggests-coin-hood/",
+      "press": "CoinGape",
+      "pubDate": "2026-08-25T20:38:42+09:00",
+      "date": "2026-08-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "CHUMP skyrockets over 6,700x since July launch, eyes Robinhood Chain's top memecoin spot",
+      "description": "Chump Coin, a Robinhood Chain memecoin, has surged 6,700x since launch, hitting a roughly $15 million market cap and trading near its peak.",
+      "link": "https://crypto.news/chump-skyrockets-over-6700x-since-july-launch-eyes-robinhood-chains-top-memecoin-spot/",
+      "press": "Crypto News",
+      "pubDate": "2026-08-25T18:40:12+09:00",
+      "date": "2026-08-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "PPFAS GIFT reduces minimum investment in its two outbound passive funds to $500",
       "description": "PPFAS GIFT has cut the minimum investment in its S&P 500 and Nasdaq 100 outbound passive funds from $5,000 to $500, effective August 25. The move aims to broaden access to global diversification for eligible Indian investors through GIFT City, offering index-linked exposure to leading US companies without requiring foreign brokerage accounts.",
@@ -122,30 +158,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull crypto revenue reaches $2.25M in record quarter",
-      "description": "Webull generated about $2.25 million from crypto in Q2 as total revenue reached a record $198.8 million and the company returned to profit.",
-      "link": "https://crypto.news/webull-crypto-revenue-reaches-2-25m/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-20T20:56:18+09:00",
-      "date": "2026-08-20",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
-      "title": "Crypto Generated Over 1% of Webull’s Record $198M Q2 Revenue",
-      "description": "Webull’s cryptocurrency trading generated $2.25 million, accounting for a little over 1% of the platform’s record $198 million second-quarter revenue stream.",
-      "link": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue",
-      "press": "Cointelegraph",
-      "pubDate": "2026-08-20T20:05:00+09:00",
-      "date": "2026-08-20",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
@@ -298,18 +310,6 @@
       "link": "https://crypto.news/tokenized-stocks-reach-752k-holders-as-robinhood-leads/",
       "press": "Crypto News",
       "pubDate": "2026-07-28T03:30:12+09:00",
-      "date": "2026-07-28",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Securitize gains SEC adviser status as SECZ falls 10%",
-      "description": "Securitize Capital gains SEC investment adviser status as SECZ stock falls nearly 10%, expanding the firm’s regulated US tokenization platform.",
-      "link": "https://crypto.news/securitize-gains-sec-adviser-status-as-secz-falls/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-28T02:42:25+09:00",
       "date": "2026-07-28",
       "category": "theme",
       "companies": [
