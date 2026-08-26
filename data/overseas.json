@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-08-26T06:38:15Z",
+  "lastUpdated": "2026-08-26T12:39:41Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Interactive Brokers Hits High, Among 13 On Best Stock Lists",
+      "description": "In a sign of strength, IBKR continued rising in extended hours trading, climbing as high as 98.50 shortly after the close.",
+      "link": "https://www.investors.com/research/interactive-brokers-leads-13-onto-best-stock-lists/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-08-26T08:06:52+09:00",
+      "date": "2026-08-26",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
+      "description": "Dow Jones futures: The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia.",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-08-26T05:44:59+09:00",
+      "date": "2026-08-26",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Goldman Sachs backs crypto stocks amid Bitcoin breakout",
       "description": "Goldman Sachs backs Coinbase and Robinhood as Bitcoin holds near $79,000 and the bank rebuilds its exposure to spot XRP ETFs.",
@@ -134,30 +158,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Uniswap tokenized stock volume on Robinhood Chain hits $1B",
-      "description": "Uniswap’s combined tokenized-stock trading volume on Robinhood Chain has reached $1 billion, while Hayden Adams projects $1 trillion.",
-      "link": "https://crypto.news/uniswap-tokenized-stock-volume-robinhood-chain-hits-1b/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-22T04:26:13+09:00",
-      "date": "2026-08-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "U.S. Stock Market Rebounds Amid Rising Treasury Yields and Geopolitical Tensions",
-      "description": "U.S. stock markets showed recovery on Friday despite a turbulent week marked by rising Treasury yields and geopolitical tensions. Key indexes, including the Dow, S&P 500, and Nasdaq, faced declines but found some relief with gains in healthcare and financial sectors. Robinhood and Coinbase surged significantly.",
-      "link": "https://www.devdiscourse.com/article/business/3966430-us-stock-market-rebounds-amid-rising-treasury-yields-and-geopolitical-tensions",
-      "press": "Devdiscourse",
-      "pubDate": "2026-08-22T01:10:54+09:00",
-      "date": "2026-08-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
