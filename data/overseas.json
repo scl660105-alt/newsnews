@@ -1,8 +1,46 @@
 {
-  "lastUpdated": "2026-08-26T19:41:36Z",
+  "lastUpdated": "2026-08-27T06:47:35Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Vanguard Takes On Fidelity, Charles Schwab With $4 Billion Altruist Deal",
+      "description": "Vanguard bolsters its wealth custody, advisory offerings with a reported $4 billion acquisition for AI-forward platform Altruist.",
+      "link": "https://www.investors.com/news/vanguard-altruist-acquisition-4-billion-wealth-management-fintech-charles-schwab-fidelity/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-08-27T01:39:17+09:00",
+      "date": "2026-08-27",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab",
+        "Fidelity"
+      ]
+    },
+    {
+      "title": "Webull HK Unveils Vega AI, Advancing from Professional Trading to an AI-Powered Smart Investment Platform",
+      "description": "**media[1190755]**Integrating professional investment research, personalized strategies and global market capabilities to empower retail investors in making informed decisions",
+      "link": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/webull-hk-unveils-vega-ai-advancing-from-professional-trading-to-an-ai-powered-smart-investment-platform/2412345",
+      "press": "The Manila Times",
+      "pubDate": "2026-08-26T18:14:55+09:00",
+      "date": "2026-08-26",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "UP Fintech Holding Limited Reports Unaudited Second Quarter 2026 Financial Results",
+      "description": "SINGAPORE, Aug. 26, 2026 (GLOBE NEWSWIRE) -- UP Fintech Holding Limited (NASDAQ: TIGR) ('UP Fintech” or the 'Company”), a leading online brokerage firm focusing on global investors, today announced its unaudited financial results for the second quarter ended June 30, 2026.",
+      "link": "https://www.manilatimes.net/2026/08/26/tmt-newswire/globenewswire/up-fintech-holding-limited-reports-unaudited-second-quarter-2026-financial-results/2412317",
+      "press": "The Manila Times",
+      "pubDate": "2026-08-26T17:01:23+09:00",
+      "date": "2026-08-26",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Interactive Brokers Hits High, Among 13 On Best Stock Lists",
       "description": "In a sign of strength, IBKR continued rising in extended hours trading, climbing as high as 98.50 shortly after the close.",
@@ -121,31 +159,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Is the Charles Schwab app down? Thousands report issues with logging in; company responds",
-      "description": "Charles Schwab’s app faced an outage Saturday, with over 1,600 users reporting login issues. Reports began around 12:50pm EDT and resumed around 2:33pm.",
-      "link": "https://www.hindustantimes.com/world-news/us-news/is-the-charles-schwab-app-down-thousands-report-issues-with-logging-in-company-responds-101787426066126.html",
-      "press": "Hindustan Times",
-      "pubDate": "2026-08-23T04:26:57+09:00",
-      "date": "2026-08-23",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Tesla recalls nearly 3 million vehicles in China over door handles",
-      "description": "Interactive Brokers chief strategist Steve Sosnick discusses stocks Americans should keep their eyes on on 'The Claman Countdown.'",
-      "link": "https://www.europesays.com/3208867/",
-      "press": "EUROPE SAYS",
-      "pubDate": "2026-08-22T19:38:27+09:00",
-      "date": "2026-08-22",
-      "category": "broker",
-      "companies": [
-        "Interactive Brokers"
       ]
     },
     {
@@ -299,18 +312,6 @@
       "press": "ANI (Asian News International)",
       "pubDate": "2026-07-29T21:44:07+09:00",
       "date": "2026-07-29",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Tokenized stocks reach 752K holders as Robinhood leads",
-      "description": "Tokenized stock holders reached 752,000 as Robinhood led retail adoption, while Ondo dominated asset value with $857 million.",
-      "link": "https://crypto.news/tokenized-stocks-reach-752k-holders-as-robinhood-leads/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-28T03:30:12+09:00",
-      "date": "2026-07-28",
       "category": "theme",
       "companies": [
         "업계테마"
