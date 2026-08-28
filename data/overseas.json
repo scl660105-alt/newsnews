@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-08-28T08:35:50Z",
+  "lastUpdated": "2026-08-28T21:39:51Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 27,
   "news": [
+    {
+      "title": "Charles Schwab Expands Crypto Coverage With Solana, Avalanche & Chainlink",
+      "description": "Charles Schwab says it plans to broaden the set of cryptocurrencies offered on its direct crypto trading platform by adding Solana (SOL), Avalanche (AVAX)",
+      "link": "https://www.cryptobreaking.com/charles-schwab-expands-crypto-coverage/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-08-28T12:02:07+09:00",
+      "date": "2026-08-28",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Jefferies includes this new age company in its model portfolio but CLSA sees 28% downside",
+      "description": "The brokerage describes Meesho as India's leading value-commerce platform by transactions, built around an asset-light, zero-commission marketplace model that targets price-sensitive consumers, particularly those in smaller cities and rural markets.",
+      "link": "https://www.cnbctv18.com/market/meesho-share-price-jefferies-includes-this-new-age-company-model-portfolio-but-clsa-sees-downside-19978749.htm",
+      "press": "CNBC TV18",
+      "pubDate": "2026-08-28T11:32:55+09:00",
+      "date": "2026-08-28",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Charles Schwab Adds Solana, Avalanche, and Chainlink to New Platform",
       "description": "Charles Schwab is set to expand the range of cryptocurrencies it offers to retail clients, adding Solana (SOL), Avalanche (AVAX) and Chainlink (LINK) to",
@@ -116,18 +141,6 @@
         "Charles Schwab",
         "Schwab",
         "Fidelity"
-      ]
-    },
-    {
-      "title": "Webull HK Unveils Vega AI, Advancing from Professional Trading to an AI-Powered Smart Investment Platform",
-      "description": "**media[1190755]**Integrating professional investment research, personalized strategies and global market capabilities to empower retail investors in making informed decisions",
-      "link": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/webull-hk-unveils-vega-ai-advancing-from-professional-trading-to-an-ai-powered-smart-investment-platform/2412345",
-      "press": "The Manila Times",
-      "pubDate": "2026-08-26T18:14:55+09:00",
-      "date": "2026-08-26",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
