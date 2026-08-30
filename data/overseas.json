@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-08-29T20:17:53Z",
+  "lastUpdated": "2026-08-30T03:07:43Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Bitcoin, Ethereum And HYPE? Charles Schwab's Adam Lynch Maps Out A Crypto Portfolio As Debasement Fears Build",
+      "description": "Lynch said most of a crypto allocation should be in the majors, with a smaller portion in riskier alternatives like Solana, XRP and Hyperliquid.",
+      "link": "https://www.europesays.com/3221397/",
+      "press": "EUROPE SAYS",
+      "pubDate": "2026-08-29T19:45:22+09:00",
+      "date": "2026-08-29",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
       "description": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
@@ -152,18 +165,6 @@
       "companies": [
         "Charles Schwab",
         "Schwab"
-      ]
-    },
-    {
-      "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
-      "description": "The chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.",
-      "link": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
-      "press": "Decrypt",
-      "pubDate": "2026-08-27T21:13:26+09:00",
-      "date": "2026-08-27",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
@@ -317,18 +318,6 @@
       "press": "Benzinga",
       "pubDate": "2026-08-04T23:55:06+09:00",
       "date": "2026-08-04",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "TOP Financial Group Limited Announces 1-for-5 Share Consolidation",
-      "description": "SINGAPORE, July 30, 2026 (GLOBE NEWSWIRE) -- TOP Financial Group Limited (NASDAQ: TOP) ('TOP” or the 'Company”), an online brokerage firm specializing in local and foreign equities, futures, and options products, today announced that its board of directors has approved a share consolidation of the Company’s issued and unissued Class A ordinary shares and Class B ordinary shares at a ratio of 1-for-5 (the 'Share Consolidation”), effective August 3, 2026. The Share Consolidation was authorized by the Company’s shareholders at the extraordinary general meeting held on May 27, 2026, with the final ratio determined by the board of directors. The Company’s Class A ordinary shares are expected to begin trading on a post-consolidation basis on the Nasdaq Stock Market at the open of trading on August 3, 2026, under the Company’s existing symbol 'TOP.” The new CUSIP number for the Class A ordinary shares following the Share Consolidation is G989A6110.",
-      "link": "https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/top-financial-group-limited-announces-1-for-5-share-consolidation/2395282",
-      "press": "The Manila Times",
-      "pubDate": "2026-07-31T00:09:43+09:00",
-      "date": "2026-07-31",
       "category": "market",
       "companies": [
         "거래소·규제"
