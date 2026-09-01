@@ -1,15 +1,52 @@
 {
-  "lastUpdated": "2026-08-31T22:17:42Z",
+  "lastUpdated": "2026-09-01T03:08:21Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 409,
+  "count": 394,
   "news": [
+    {
+      "title": "Coinbase Signs Crypto Infrastructure Deal With Webull for Canadian Expansion",
+      "description": "Coinbase partners with Webull Canada to provide crypto trading and custody infrastructure as Webull expands its digital asset services.",
+      "link": "https://coingape.com/coinbase-signs-crypto-infrastructure-deal-with-webull-for-canadian-expansion/",
+      "press": "CoinGape",
+      "pubDate": "2026-08-31T23:49:33+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+      "description": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
+      "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+      "press": "Decrypt",
+      "pubDate": "2026-08-31T21:37:44+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "PAIR Launches the First Multipool RWA Launchpad on Robinhood Chain, Pairing New Tokens With Baskets of Tokenized Stocks, Partners With AWS to Scale Its Infrastructure",
+      "description": "PAIR (pair.fund) lets anyone deploy a fixed-supply token that trades against one to five canonical Robinhood Stock Tokens such as NVDA, TSLA, AAPL and SPY in a single transaction, with permanently locked Uniswap v4 liquidity and no bonding curve or migration. The platform has passed $26 million in all-time trading volume and $180,000 in creator rewards in its first week of multipool trading.",
+      "link": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/pair-launches-the-first-multipool-rwa-launchpad-on-robinhood-chain-pairing-new-tokens-with-baskets-of-tokenized-stocks-partners-with-aws-to-scale-its-infrastructure/2415048",
+      "press": "The Manila Times",
+      "pubDate": "2026-08-31T20:40:25+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood Chain Hits $2.66M in 24h App Revenue, Flipping Ethereum and Hyperliquid",
       "description": "Robinhood Chain hit $2.66M in app revenue on August 31, beating Ethereum and Hyperliquid. Three apps drove 88% of it, keeping the HOOD bull case narrow.",
       "link": "https://coingape.com/robinhood-chain-hits-2-66m-in-24h-app-revenue-flipping-ethereum-and-hyperliquid/",
       "press": "CoinGape",
-      "pubDate": "2026-08-31T16:37:09+09:00",
+      "pubDate": "2026-08-31T07:37:09+00:00",
       "date": "2026-08-31",
       "category": "broker",
       "companies": [
@@ -21,7 +58,7 @@
       "description": "Robinhood Chain recorded $2.66 million in 24-hour app revenue, exceeding Hyperliquid, Ethereum and Base in a DeFiLlama snapshot.",
       "link": "https://crypto.news/robinhood-chain-app-revenue-tops-ethereum-in-24-hours/",
       "press": "Crypto News",
-      "pubDate": "2026-08-31T15:52:47+09:00",
+      "pubDate": "2026-08-31T06:52:47+00:00",
       "date": "2026-08-31",
       "category": "broker",
       "companies": [
@@ -4735,222 +4772,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "SEC looks into alleged insider trades on China's brokerage crackdown - report",
-      "description": "SEC probes alleged insider trading tied to China brokerage crackdown after Susquehanna lawsuit cites $100M options gains.",
-      "link": "https://seekingalpha.com/news/4609672-sec-looks-into-alleged-insider-trades-on-chinas-brokerage-crackdown-report",
-      "press": "Seeking Alpha",
-      "pubDate": "2026-07-02T14:54:36+00:00",
-      "date": "2026-07-02",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Why Is Robinhood Markets Stock Gaining Thursday?",
-      "description": "Robinhood (NASDAQ: HOOD) stock climbs 3.3% premarket. Mizuho lifts its price target to $130. Read our technical analysis here.",
-      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60242755/why-is-robinhood-markets-stock-gaining-thursday",
-      "press": "Benzinga",
-      "pubDate": "2026-07-02T12:48:50+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
-      "description": "The market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
-      "link": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
-      "press": "Decrypt",
-      "pubDate": "2026-07-02T12:06:26+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood will soar as it moves closer to becoming the first hyperscaler brokerage, says Mizuho",
-      "description": "Robinhood is likely to shoot higher if the trading platform can fashion itself into the first true hyperscaler among online brokerages, according to Mizuho.",
-      "link": "https://www.cnbc.com/2026/07/02/robinhood-will-soar-as-it-moves-closer-to-becoming-the-first-hyperscaler-brokerage-says-mizuho.html",
-      "press": "CNBC",
-      "pubDate": "2026-07-02T11:50:05+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
-      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
-      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-1",
-      "press": "U.Today",
-      "pubDate": "2026-07-02T11:48:30+00:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
-      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
-      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain",
-      "press": "U.Today",
-      "pubDate": "2026-07-02T11:48:30+00:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Bitget Wallet Integrates Robinhood Chain to Bring Tokenized Stocks Onchain",
-      "description": "Bitget Wallet has partnered with Robinhood Crypto to integrate Robinhood Chain, giving users access to more than 90 tokenized stocks through a self-custodial wallet without requiring a traditional brokerage account.",
-      "link": "https://u.today/bitget-wallet-integrates-robinhood-chain-to-bring-tokenized-stocks-onchain-0",
-      "press": "U.Today",
-      "pubDate": "2026-07-02T11:48:30+00:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood debuts Layer 2 mainnet for tokenized stock trading",
-      "description": "Robinhood has rolled out its Ethereum Layer 2 network, allowing eligible users to trade tokenized stocks and access DeFi features on chain.",
-      "link": "https://crypto.news/robinhood-debuts-layer-2-mainnet-for-tokenized-stock-trading/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-02T06:51:06+00:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood expands perpetual futures offering in Europe, plans crypto launch in UK",
-      "description": "July 1 (Reuters) - Robinhood said ⁠on Wednesday it plans to launch crypto trading in the ⁠UK and broadened its perpetual futures offering in Europe ‌beyond cryptocurrencies.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/07/02/robinhood-expands-perpetual-futures-offering-in-europe-plans-crypto-launch-in-uk",
-      "press": "The Star",
-      "pubDate": "2026-07-01T23:41:00+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Launches Public Blockchain and Prepares UK Crypto Trading",
-      "description": "Robinhood has moved its blockchain testing effort into the public spotlight, announcing that its Robinhood Chain layer 2 network has launched its public",
-      "link": "https://www.cryptobreaking.com/robinhood-launches-public-blockchain-and/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-01T23:39:58+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "2 Network, Tokenized Stock Trading",
-      "description": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-      "link": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
-      "press": "Decrypt",
-      "pubDate": "2026-07-01T20:56:38+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Launches With AI-Native Infrastructure and Real-World Assets",
-      "description": "Robinhood Chain mainnet is live as announced during a keynote called \"Robinhood Presents: The World is Flat\", which was hosted by CEO Vlad Tenev and Robinhood Chain mainnet is live with Chainlink oracles, Ethena as a collateral partner, a 7% yield-earning product and more. HOOD moves deep into on-chain finance.",
-      "link": "https://coingape.com/robinhood-chain-launches-with-ai-native-infrastructure-and-real-world-assets/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-01T20:43:22+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "0x to Power Swap Liquidity and Cross-Chain Access on Robinhood Chain at Launch",
-      "description": "/PRNewswire/ -- 0x, a software infrastructure company whose APIs power payments, trading, and tokenized asset products across the onchain financial system,...",
-      "link": "https://www.prnewswire.co.uk/news-releases/0x-to-power-swap-liquidity-and-cross-chain-access-on-robinhood-chain-at-launch-302816093.html",
-      "press": "PR Newswire UK",
-      "pubDate": "2026-07-01T20:01:00+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Stock Is Rising: What's Happening Behind The Scenes?",
-      "description": "Robinhood Markets shares are trading higher Wednesday. The company launched public mainnet for Robinhood Chain and is hosting a London event.",
-      "link": "https://www.benzinga.com/trading-ideas/movers/26/07/60230438/robinhood-stock-is-rising-whats-happening-behind-the-scenes",
-      "press": "Benzinga",
-      "pubDate": "2026-07-01T19:23:10+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "1inch integrates Robinhood Chain at Launch, Expanding Liquidity Access Across Tokenized Assets",
-      "description": "Road Town, British Virgin Islands, July 1st, 2026, FinanceWire1inch joins as a launch partner on Robinhood Chain, the Arbitru...",
-      "link": "https://markets.businessinsider.com/news/currencies/1inch-integrates-robinhood-chain-at-launch-expanding-liquidity-access-across-tokenized-assets-1036291962",
-      "press": "Markets Insider",
-      "pubDate": "2026-07-01T19:00:44+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood (HOOD) rolls out public blockchain as it expands deeper into crypto",
-      "description": "Robinhood's product push continues to blur the line between crypto and more traditional finance.",
-      "link": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
-      "press": "CoinDesk",
-      "pubDate": "2026-07-01T18:25:00+00:00",
-      "date": "2026-07-02",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
-      "description": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
-      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
-      "press": "Decrypt",
-      "pubDate": "2026-07-01T16:36:39+00:00",
-      "date": "2026-07-02",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Strategy's MSTR Stock Crash Leads Wall Street Analysts To Cut Price Target To $130",
-      "description": "Wall Street brokerage Canaccord has lowered its price estimate on Michael Saylor's Strategy (NASDAQ: MSTR). It slashed the MSTR stock target to $130 from",
-      "link": "https://coingape.com/strategys-mstr-stock-crash-leads-wall-street-analysts-to-cut-price-target-to-130/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-01T16:32:21+00:00",
-      "date": "2026-07-02",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
       ]
     }
   ]

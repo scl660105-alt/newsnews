@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-08-31T22:17:42Z",
+  "lastUpdated": "2026-09-01T03:08:21Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Coinbase Signs Crypto Infrastructure Deal With Webull for Canadian Expansion",
+      "description": "Coinbase partners with Webull Canada to provide crypto trading and custody infrastructure as Webull expands its digital asset services.",
+      "link": "https://coingape.com/coinbase-signs-crypto-infrastructure-deal-with-webull-for-canadian-expansion/",
+      "press": "CoinGape",
+      "pubDate": "2026-08-31T23:49:33+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+      "description": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
+      "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+      "press": "Decrypt",
+      "pubDate": "2026-08-31T21:37:44+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "PAIR Launches the First Multipool RWA Launchpad on Robinhood Chain, Pairing New Tokens With Baskets of Tokenized Stocks, Partners With AWS to Scale Its Infrastructure",
+      "description": "PAIR (pair.fund) lets anyone deploy a fixed-supply token that trades against one to five canonical Robinhood Stock Tokens such as NVDA, TSLA, AAPL and SPY in a single transaction, with permanently locked Uniswap v4 liquidity and no bonding curve or migration. The platform has passed $26 million in all-time trading volume and $180,000 in creator rewards in its first week of multipool trading.",
+      "link": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/pair-launches-the-first-multipool-rwa-launchpad-on-robinhood-chain-pairing-new-tokens-with-baskets-of-tokenized-stocks-partners-with-aws-to-scale-its-infrastructure/2415048",
+      "press": "The Manila Times",
+      "pubDate": "2026-08-31T20:40:25+09:00",
+      "date": "2026-08-31",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood Chain Hits $2.66M in 24h App Revenue, Flipping Ethereum and Hyperliquid",
       "description": "Robinhood Chain hit $2.66M in app revenue on August 31, beating Ethereum and Hyperliquid. Three apps drove 88% of it, keeping the HOOD bull case narrow.",
@@ -127,19 +164,6 @@
       ]
     },
     {
-      "title": "Charles Schwab Expands Crypto Coverage With Solana, Avalanche & Chainlink",
-      "description": "Charles Schwab says it plans to broaden the set of cryptocurrencies offered on its direct crypto trading platform by adding Solana (SOL), Avalanche (AVAX)",
-      "link": "https://www.cryptobreaking.com/charles-schwab-expands-crypto-coverage/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-28T12:02:07+09:00",
-      "date": "2026-08-28",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "Jefferies includes this new age company in its model portfolio but CLSA sees 28% downside",
       "description": "The brokerage describes Meesho as India's leading value-commerce platform by transactions, built around an asset-light, zero-commission marketplace model that targets price-sensitive consumers, particularly those in smaller cities and rural markets.",
       "link": "https://www.cnbctv18.com/market/meesho-share-price-jefferies-includes-this-new-age-company-model-portfolio-but-clsa-sees-downside-19978749.htm",
@@ -149,32 +173,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Charles Schwab Adds Solana, Avalanche, and Chainlink to New Platform",
-      "description": "Charles Schwab is set to expand the range of cryptocurrencies it offers to retail clients, adding Solana (SOL), Avalanche (AVAX) and Chainlink (LINK) to",
-      "link": "https://www.cryptobreaking.com/charles-schwab-adds-solana-avalanche/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-28T01:53:02+09:00",
-      "date": "2026-08-28",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Schwab Expands Crypto Trading With SOL, AVAX and LINK",
-      "description": "Charles Schwab plans to add Solana, Avalanche and Chainlink to its crypto platform, expanding direct trading beyond Bitcoin and Ether.",
-      "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform",
-      "press": "Cointelegraph",
-      "pubDate": "2026-08-28T01:13:10+09:00",
-      "date": "2026-08-28",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
@@ -307,18 +305,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Wintermute gains U.S. broker status, eyes tokenized stocks",
-      "description": "Wintermute USA registered with the SEC and FINRA, opening a path into U.S. equities, ETFs and future tokenized securities trading.",
-      "link": "https://crypto.news/wintermute-gains-u-s-broker-status-eyes-tokenized-stocks/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-07T14:28:03+09:00",
-      "date": "2026-08-07",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {
