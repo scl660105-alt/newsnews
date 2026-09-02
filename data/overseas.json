@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-02T02:27:40Z",
+  "lastUpdated": "2026-09-02T10:25:47Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+      "description": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+      "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+      "press": "Decrypt",
+      "pubDate": "2026-09-02T06:01:04+09:00",
+      "date": "2026-09-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood: Shares Catch A Sell-Side Boost, Don't Go All In Yet",
       "description": "Robinhood Markets, Inc. is rated a Hold, as valuation appears fair and technicals indicate consolidation. Learn more about HOOD stock here.",
@@ -118,18 +130,6 @@
       "link": "https://www.cryptobreaking.com/webull-launches-crypto-trading-in-2/",
       "press": "Crypto Breaking News",
       "pubDate": "2026-09-01T04:23:42+09:00",
-      "date": "2026-09-01",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
-      "title": "Webull Launches Crypto Trading in Canada via Coinbase Partnership",
-      "description": "Webull, a self-directed brokerage and trading platform, is widening its Canadian product lineup by adding cryptocurrency trading for retail customers. The",
-      "link": "https://www.cryptobreaking.com/webull-launches-crypto-trading-in/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-09-01T03:22:14+09:00",
       "date": "2026-09-01",
       "category": "broker",
       "companies": [
