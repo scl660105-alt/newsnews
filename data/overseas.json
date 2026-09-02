@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-02T10:25:47Z",
+  "lastUpdated": "2026-09-02T15:49:14Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Robinhood’s take stays unclear",
+      "description": "Robinhood Chain revenue topped $2.6 million across apps, but Robinhood’s fee split leaves its corporate earnings impact unclear.",
+      "link": "https://cryptoslate.com/robinhood-chains-2-7-million-app-day-says-little-about-robinhoods-actual-take/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-09-02T12:40:45+09:00",
+      "date": "2026-09-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
       "description": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
@@ -122,18 +134,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull Launches Crypto Trading in Canada With Coinbase Pact",
-      "description": "Webull, the retail trading platform known for commission-free stocks and options, is taking a bigger step into digital assets by expanding its Canadian",
-      "link": "https://www.cryptobreaking.com/webull-launches-crypto-trading-in-2/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-09-01T04:23:42+09:00",
-      "date": "2026-09-01",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
