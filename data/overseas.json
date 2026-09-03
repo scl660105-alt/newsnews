@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-09-02T20:24:42Z",
+  "lastUpdated": "2026-09-03T02:34:29Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Analyst Raises Robinhood Stock Price Target to $145 But HOOD Retreats",
+      "description": "Piper Sandler raises Robinhood stock price target to $145 on prediction-market growth, but HOOD retreats as broader crypto-market weakness weighs on sentiment.",
+      "link": "https://coingape.com/analyst-raises-robinhood-stock-price-target-to-145-but-hood-retreats/",
+      "press": "CoinGape",
+      "pubDate": "2026-09-02T21:14:39+09:00",
+      "date": "2026-09-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Oura Taps Netflix, Robinhood Veterans for Board Ahead of IPO",
+      "description": "Oura, the maker of popular smart rings that track health, fitness, and sleep, is expanding its board of directors as it prepares for an initial public offering.The company said Wednesday that it is appointing four new independent directors with public company experience. The new members - who have held leadership positions at firms including Netflix Inc., Robinhood Markets Inc. and Deliveroo Plc - “know what it takes to build and scale category-defining global businesses,” Chief Executive Officer Tom Hale said in a statement.Oura is seeking to raise as much as $3 billion in a US IPO that could take place as soon as this month, Bloomberg News has reported.",
+      "link": "https://www.spokesman.com/stories/2026/sep/02/oura-taps-netflix-robinhood-veterans-for-board-ahe/",
+      "press": "Spokane Spokesman-Review",
+      "pubDate": "2026-09-02T21:00:00+09:00",
+      "date": "2026-09-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain RWA volume hits $390M as memecoin stock pairs surge",
+      "description": "Robinhood Chain RWA trading volume reached a record $390 million as memecoin stock pairs generated $217 million and tokenized stocks recorded $127 million.",
+      "link": "https://crypto.news/robinhood-chain-rwa-volume-hits-390m-as-memecoin-stock-pairs-surge/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-02T19:30:39+09:00",
+      "date": "2026-09-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood memecoin expansion teased by CEO Vlad Tenev",
       "description": "Robinhood CEO Vlad Tenev responded to a call for memecoins, but the company has not announced new listings or a product expansion.",
@@ -81,43 +118,6 @@
       "link": "https://www.investors.com/news/robinhood-stock-upgrade-overweight-price-target-growth-outlook-hood-stock-base/",
       "press": "Investor's Business Daily",
       "pubDate": "2026-09-01T21:41:39+09:00",
-      "date": "2026-09-01",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Is Charles Schwab Stock Underperforming the S&P 500?",
-      "description": "The Charles Schwab has underperformed the broader market over the past year, while analysts remain moderately optimistic about its future prospects.",
-      "link": "https://www.barchart.com/story/news/4372858/is-charles-schwab-stock-underperforming-the-s-p-500",
-      "press": "Barchart",
-      "pubDate": "2026-09-01T20:57:30+09:00",
-      "date": "2026-09-01",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Why is Uniswap Price Up By 10% Outpacing Bitcoin, Ethereum, and XRP?",
-      "description": "Uniswap price jumps 10% as Robinhood Chain volume, rising fees and UNI burns fuel momentum toward the key $6.00 resistance.",
-      "link": "https://coingape.com/markets/why-is-uniswap-price-up-by-10-outpacing-bitcoin-ethereum-and-xrp/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-01T20:29:20+09:00",
-      "date": "2026-09-01",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "There's an underappreciated growth driver for Robinhood, Morgan Stanley says",
-      "description": "Robinhood should be able to see considerable upside by increasing its efforts to monetize its existing user base, per Morgan Stanley.",
-      "link": "https://www.cnbc.com/2026/09/01/theres-an-underappreciated-growth-driver-for-robinhood-morgan-stanley-says.html",
-      "press": "CNBC",
-      "pubDate": "2026-09-01T20:03:39+09:00",
       "date": "2026-09-01",
       "category": "broker",
       "companies": [
@@ -287,18 +287,6 @@
       "press": "Crypto News",
       "pubDate": "2026-08-17T13:13:39+09:00",
       "date": "2026-08-17",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Tokenized Stock Holders More Than Double as Monthly Volume Rises",
-      "description": "Tokenized stocks are seeing a rapid rise in participation and liquidity, according to new on-chain market tracking from RWA.xyz. The number of tokenized",
-      "link": "https://www.cryptobreaking.com/tokenized-stock-holders-more-than/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-16T02:47:36+09:00",
-      "date": "2026-08-16",
       "category": "theme",
       "companies": [
         "업계테마"
