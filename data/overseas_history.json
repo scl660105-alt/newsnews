@@ -1,9 +1,33 @@
 {
-  "lastUpdated": "2026-09-03T15:38:49Z",
+  "lastUpdated": "2026-09-03T20:24:14Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 395,
+  "count": 397,
   "news": [
+    {
+      "title": "Robinhood Chain hit $945M in daily DEX volume and nobody on crypto Twitter noticed",
+      "description": "Robinhood Chain processed $945 million in daily DEX volume on Aug. 25, placing fifth globally by 30-day volume just two months after launch.",
+      "link": "https://crypto.news/robinhood-chain-945m-dex-volume-nobody-noticed/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-03T16:37:33+09:00",
+      "date": "2026-09-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Investors argue against novel ETF label in letters to US SEC",
+      "description": "Market participants raised concerns over the U.S. Securities and Exchange Commission's proposal to label a broad ‌swathe of exchange-traded funds as \"novel ETFs,\" according to a Reuters review of letters filed with the Wall Street regulator by asset managers, exchanges, brokerage firms, clearing houses and others.",
+      "link": "https://www.reuters.com/legal/government/investors-argue-against-novel-etf-label-letters-us-sec-2026-09-01/",
+      "press": "Reuters",
+      "pubDate": "2026-09-02T05:45:43+09:00",
+      "date": "2026-09-02",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Schwab Imposes Stricter Limits on Tax-Aware Long-Short Accounts",
       "description": "Charles Schwab Corp. is imposing even stricter limits for customers interested in tax-aware long-short accounts, at least the third time the retail brokerage has done so, according to a note distributed to clients.",
