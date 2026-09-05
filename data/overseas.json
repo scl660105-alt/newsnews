@@ -1,91 +1,141 @@
 {
-  "lastUpdated": "2026-09-05T02:31:53Z",
+  "lastUpdated": "2026-09-05T09:50:22Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 28,
   "news": [
     {
-      "title": "Robinhood Chain Outage Disrupts Network Amid Tokenized Stock Trading Boom",
-      "description": "Robinhood Chain suffered a network outage today that halted block production as tokenized stock trading surged.",
-      "link": "https://coingape.com/robinhood-chain-outage-disrupts-network-amid-tokenized-stock-trading-boom/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-04T22:39:06+09:00",
-      "date": "2026-09-04",
+      "title": "Robinhood Stock: Why Football Season Could Matter More Than Crypto",
+      "description": "Robinhood Markets (HOOD), the online brokerage, is getting more attention from investors as its prediction-market business grows and football se...",
+      "link": "https://markets.businessinsider.com/news/stocks/robinhood-stock-why-football-season-could-matter-more-than-crypto-1036524541",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-05T06:33:00+09:00",
+      "date": "2026-09-05",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Grabbing Robinhood Blockchain Stops Recording New Transactions",
-      "description": "Robinhood Chain appears to have suffered a network outage on Sept. 4, temporarily halting new block production.",
-      "link": "https://u.today/headline-grabbing-robinhood-blockchain-stops-recording-new-transactions",
+      "title": "TOP Financial Group Limited Announces Strategic Relocation of Global Headquarters to the United States",
+      "description": "HOUSTON, Texas, Sept. 04, 2026 (GLOBE NEWSWIRE) -- TOP Financial Group Limited (NASDAQ: TOP, 'TOP” or the 'Company”), a fast-growing online brokerage firm specializing in local and foreign equities, futures, and options products, today announced the strategic relocation of its global headquarters to the United States. This transition marks a pivotal milestone in the company’s long-term growth strategy, as it gradually shifts its primary corporate focus and operational footprint to the American market. The new headquarters address is: 4201 Main Street, Suite 200, Houston, Texas 77002.",
+      "link": "https://www.manilatimes.net/2026/09/05/tmt-newswire/globenewswire/top-financial-group-limited-announces-strategic-relocation-of-global-headquarters-to-the-united-states/2419043",
+      "press": "The Manila Times",
+      "pubDate": "2026-09-05T05:39:47+09:00",
+      "date": "2026-09-05",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Robinhood-AMC clash may speed US stock token rules",
+      "description": "Robinhood rejects AMC’s stock-token demand as RedStone says the clash could speed US rules on consent, registration and ownership rights.",
+      "link": "https://crypto.news/robinhood-amc-clash-may-speed-us-stock-token-rules/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-05T05:24:04+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood-And It's Working (Sort Of)",
+      "description": "A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
+      "link": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
+      "press": "Decrypt",
+      "pubDate": "2026-09-05T04:16:03+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+      "description": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
+      "link": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+      "press": "Decrypt",
+      "pubDate": "2026-09-05T03:36:41+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "AMC CEO Adam Aron Blasts Robinhood for 'Quasi",
+      "description": "\"I hereby call on you and Robinhood to voluntarily CEASE AND DECIST the trading of AMC stock tokens,\" Adam Aron said.",
+      "link": "https://www.businessinsider.com/amc-ceo-robinhood-tokenized-stock-criticism-adam-aron-2026-9",
+      "press": "Business Insider",
+      "pubDate": "2026-09-05T02:26:51+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain suffers 14-minute network outage",
+      "description": "Robinhood Chain halted block production for over 14 minutes, stalling transactions as HOOD shares fell as much as 5.1% during Friday trading.",
+      "link": "https://crypto.news/robinhood-chain-suffers-14-minute-network-outage/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-05T01:35:16+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "'We Stand Behind Stock Tokens': Robinhood CEO Backs $104 Million Ecosystem Amid Backlash",
+      "description": "Robinhood's Vlad Tenev backs the $104 million \"stock token\" market, defying AMC's legal threats over on-chain trading.",
+      "link": "https://u.today/we-stand-behind-stock-tokens-robinhood-ceo-backs-104-million-ecosystem-amid-backlash",
       "press": "U.Today",
-      "pubDate": "2026-09-04T22:37:42+09:00",
-      "date": "2026-09-04",
+      "pubDate": "2026-09-05T01:31:45+09:00",
+      "date": "2026-09-05",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "Deutsche Bank Raises HOOD Stock Target to $136 as Robinhood Chain Gains Traction",
-      "description": "Deutsche Bank raised its target for the HOOD stock to $136 from $115 as they predict that Robinhood could see more upside thanks to its chain.",
-      "link": "https://coingape.com/news/stocks/deutsche-bank-raises-hood-stock-target-to-136-as-robinhood-chain-gains-traction/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-04T22:26:54+09:00",
-      "date": "2026-09-04",
+      "title": "Pendle launches on Robinhood Chain with sNET market",
+      "description": "Pendle launches on Robinhood Chain with an sNET market maturing Sept. 17, bringing principal and yield trading to the Ethereum Layer 2.",
+      "link": "https://crypto.news/pendle-launches-on-robinhood-chain-with-snet-market/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-05T01:02:19+09:00",
+      "date": "2026-09-05",
       "category": "broker",
       "companies": [
         "Robinhood"
       ]
     },
     {
-      "title": "AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading",
-      "description": "AMC CEO takes aim at Robinhood over stock token listings, calls for the broker to remove the offerings. AMC stock jumps.",
-      "link": "https://www.investors.com/news/amc-robinhood-stock-token-dispute-tokenization/",
+      "title": "AMC Stock Surges on Robinhood Clash - Here’s Who Owns the Meme Stock",
+      "description": "Movie theater chain AMC Entertainment (AMC) stock is up more than 8% in early trading on Friday. The surge came after CEO Adam Aron publicly cri...",
+      "link": "https://markets.businessinsider.com/news/stocks/amc-stock-surges-on-robinhood-clash-here-s-who-owns-the-meme-stock-1036524300",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-05T00:32:13+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Schwab Stock, Robinhood In Or Near Buy Zones But Interactive Brokers Triggers Sell",
+      "description": "Charles Schwab stock, along with Robinhood Markets, Ameriprise and LPL Financial, are in or near buy zones in the ongoing stock market action.",
+      "link": "https://www.investors.com/research/ibd-industry-themes/charles-schwab-stock-schw-brokerage-firms-in-or-near-buy-zones/",
       "press": "Investor's Business Daily",
-      "pubDate": "2026-09-04T22:14:14+09:00",
-      "date": "2026-09-04",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Robinhood, Oracle, PulteGroup & more",
-      "description": "Here are Friday's biggest calls on Wall Street.",
-      "link": "https://www.cnbctv18.com/market/here-are-fridays-biggest-analyst-calls-nvidia-tesla-apple-robinhood-oracle-pultegroup-more-19984525.htm",
-      "press": "CNBC TV18",
-      "pubDate": "2026-09-04T21:54:40+09:00",
-      "date": "2026-09-04",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "An Oakland woman answered a frantic call from someone claiming to be Charles Schwab security; minutes later, her entire $12,145 investment account had been wired away",
-      "description": "US News: Jazz Powell-Loggins usually does not answer calls from numbers she does not recognise. But on July 13, she decided to pick up one such call. The perso.",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-oakland-woman-answered-a-frantic-call-from-someone-claiming-to-be-charles-schwab-security-minutes-later-her-entire-12145-investment-account-had-been-wired-away/articleshow/133756989.cms",
-      "press": "Times of India",
-      "pubDate": "2026-09-04T20:39:00+09:00",
-      "date": "2026-09-04",
+      "pubDate": "2026-09-05T00:07:16+09:00",
+      "date": "2026-09-05",
       "category": "broker",
       "companies": [
         "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Robinhood may pop on one of latest crypto ventures, Deutsche Bank says",
-      "description": "Robinhood Markets could see even more upside as its recently launched blockchain helps it bring in more revenue, per Deutsche Bank.",
-      "link": "https://www.cnbc.com/2026/09/04/robinhood-may-pop-on-one-of-latest-crypto-ventures-deutsche-bank-says.html",
-      "press": "CNBC",
-      "pubDate": "2026-09-04T19:44:39+09:00",
-      "date": "2026-09-04",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
+        "Schwab",
+        "Robinhood",
+        "Interactive Brokers"
       ]
     },
     {
@@ -95,34 +145,9 @@
       "press": "Cointelegraph",
       "pubDate": "2026-09-04T18:56:52+09:00",
       "date": "2026-09-04",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
-      ]
-    },
-    {
-      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-      "description": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
-      "link": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
-      "press": "Decrypt",
-      "pubDate": "2026-09-04T18:24:56+09:00",
-      "date": "2026-09-04",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Cash Cat (CASHCAT) Hits Another ATH: Robinhood Memes Spike Up",
-      "description": "The market is witnessing rise of new generation of memes and Cash Cat is leading the way.",
-      "link": "https://u.today/cash-cat-cashcat-hits-another-ath-robinhood-memes-spike-up",
-      "press": "U.Today",
-      "pubDate": "2026-09-04T16:55:00+09:00",
-      "date": "2026-09-04",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
