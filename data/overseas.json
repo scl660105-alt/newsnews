@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-06T02:28:47Z",
+  "lastUpdated": "2026-09-06T10:06:51Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 28,
   "news": [
+    {
+      "title": "Cathie Wood Buys $3.6M of HOOD, Sells $2.9M of 2 High-Growth Stocks - September 5",
+      "description": "Cathie Wood-led ARK Invest made several notable trades on Friday, September 4, with Robinhood Markets (HOOD), an online brokerage and financial-...",
+      "link": "https://markets.businessinsider.com/news/stocks/cathie-wood-buys-3-6m-of-hood-sells-2-9m-of-2-high-growth-stocks-september-5-1036524774",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-05T23:36:00+09:00",
+      "date": "2026-09-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Chain Hits Record $3.7 Billion in 24",
       "description": "Robinhood Chain has unlocked a new level in its 24-hour DEX volume, as activity across its DeFi market continues to grow and adoption intensifies.",
@@ -130,9 +142,8 @@
       "press": "Crypto Breaking News",
       "pubDate": "2026-09-05T13:14:22+09:00",
       "date": "2026-09-05",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
