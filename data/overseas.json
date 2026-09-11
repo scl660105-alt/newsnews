@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-09-11T15:42:55Z",
+  "lastUpdated": "2026-09-11T20:20:26Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Backed Startup Pushes Stock Tokenization Into Shopping Rewards",
+      "description": "Crumbs, a Robinhood Chain-backed startup, is turning everyday shopping receipts into stock-token rewards, letting users earn exposure to companies they shop from.",
+      "link": "https://coingape.com/block-of-fame/pulse/crumbs-robinhood-chain-backed-startup-pushes-stock-tokenization-into-shopping-rewards/",
+      "press": "CoinGape",
+      "pubDate": "2026-09-11T14:03:41+09:00",
+      "date": "2026-09-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
       "description": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
@@ -136,19 +149,6 @@
       ]
     },
     {
-      "title": "Why Kiplinger Readers Recommend Schwab for Internet Banking",
-      "description": "Charles Schwab has won the Kiplinger Readers' Choice Awards for internet banks three years in a row. Here's why.",
-      "link": "https://www.kiplinger.com/personal-finance/online-banking/reasons-kiplinger-readers-voted-schwab-the-best-internet-bank",
-      "press": "Kiplinger",
-      "pubDate": "2026-09-09T21:15:00+09:00",
-      "date": "2026-09-09",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "Ice Moves Tokenization Into Mainstream Infrastructure",
       "description": "ICE’s planned investment in tZERO suggests tokenization is moving into mainstream securities infrastructure, tying blockchain settlement to traditional transfer and brokerage systems.",
       "link": "https://www.cryptobreaking.com/ice-moves-tokenization-into-mainstream/",
@@ -238,18 +238,6 @@
       "link": "https://crypto.news/ai-trading-platforms-bots-multi-agent-systems-2026/",
       "press": "Crypto News",
       "pubDate": "2026-09-03T23:26:37+09:00",
-      "date": "2026-09-03",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence News: MoneySimpler Launches AI Trading App for Automated Global Stock and Forex Investing",
-      "description": "NEW YORK, Sept. 02, 2026 (GLOBE NEWSWIRE) -- The stock and forex markets are constantly changing, but not every investor has the time to monitor them continuously. For the average investor, determining market trends and when to trade often requires significant time and effort.",
-      "link": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/artificial-intelligence-news-moneysimpler-launches-ai-trading-app-for-automated-global-stock-and-forex-investing/2417415",
-      "press": "The Manila Times",
-      "pubDate": "2026-09-03T04:01:22+09:00",
       "date": "2026-09-03",
       "category": "theme",
       "companies": [
