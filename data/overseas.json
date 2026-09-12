@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-11T20:20:26Z",
+  "lastUpdated": "2026-09-12T02:43:49Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Robinhood’s Crypto Volume Rebounds 61% in August",
+      "description": "Robinhood reported $17.5 billion in August crypto volume, up 61% from July but down 38% year over year as Bitstamp contributed $10.1 billion.",
+      "link": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-11T20:49:07+09:00",
+      "date": "2026-09-11",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Backed Startup Pushes Stock Tokenization Into Shopping Rewards",
       "description": "Crumbs, a Robinhood Chain-backed startup, is turning everyday shopping receipts into stock-token rewards, letting users earn exposure to companies they shop from.",
@@ -130,18 +142,6 @@
       "link": "https://www.investors.com/news/cathie-wood-ark-invest-robinhood-amd-palantir-etf/",
       "press": "Investor's Business Daily",
       "pubDate": "2026-09-09T22:06:56+09:00",
-      "date": "2026-09-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, Affirm Holdings, Eagle Materials, Klarna Group, Martin Marietta Materials, Oklo, Qualcomm, Robinhood Markets, Ulta Beaut",
-      "description": "All major indices closed sharply lower Tuesday as Brent Crude surged near $99 and looming PPI and CPI readings raised fears of a Fed rate hike.",
-      "link": "https://www.europesays.com/3241767/",
-      "press": "EUROPE SAYS",
-      "pubDate": "2026-09-09T21:24:27+09:00",
       "date": "2026-09-09",
       "category": "broker",
       "companies": [
