@@ -1,9 +1,33 @@
 {
-  "lastUpdated": "2026-09-13T20:09:09Z",
+  "lastUpdated": "2026-09-14T02:57:11Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 404,
+  "count": 400,
   "news": [
+    {
+      "title": "AMC CEO challenges Robinhood’s 1:1 token backing",
+      "description": "AMC CEO Adam Aron questioned whether Robinhood’s stock tokens remain fully backed if collateral shares are lent to short sellers.",
+      "link": "https://crypto.news/amc-ceo-challenges-robinhoods-11-token-backing/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-13T19:19:48+09:00",
+      "date": "2026-09-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Base tokenized stock volume reaches $100 million",
+      "description": "Base tokenized stocks reached a $100 million daily DEX record, while Aerodrome captured 76% of the $730.9 million monthly volume.",
+      "link": "https://crypto.news/base-tokenized-stock-volume-reaches-100-million/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-13T18:38:29+09:00",
+      "date": "2026-09-13",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Issuers Can't Veto Stock Tokens That Keep Rights Intact",
       "description": "Vlad Tenev says issuers can't block third-party stock tokens as tokenized-stock DEX volume hits $4.3B and the Robinhood-AMC feud escalates to the SEC.",
@@ -4826,78 +4850,6 @@
       "press": "The Manila Times",
       "pubDate": "2026-07-15T19:06:31+00:00",
       "date": "2026-07-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Growth: What It Signals for ETH’s Outlook",
-      "description": "Robinhood’s newly launched Ethereum layer-2, built on Arbitrum technology, has quickly become one of the busiest rollups in the ecosystem—prompting fresh",
-      "link": "https://www.cryptobreaking.com/robinhood-chain-growth-what-it/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-07-15T14:28:53+00:00",
-      "date": "2026-07-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Morning Minute: Crypto Rips on Cool CPI",
-      "description": "Circle has a rough day. Pump.fun pumps on first major unlock. And Robinhood Chain sees its first big rotation.",
-      "link": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
-      "press": "Decrypt",
-      "pubDate": "2026-07-15T12:26:45+00:00",
-      "date": "2026-07-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "How Robinhood Chain's biggest launchpad made $12 million and disappeared",
-      "description": "Noxa, the launchpad behind CASHCAT's rise, racked up nearly $12 million in fees before going dark, giving away its revenue, and leaving Robinhood Chain's memecoin economy in freefall.",
-      "link": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
-      "press": "CoinDesk",
-      "pubDate": "2026-07-15T12:11:58+00:00",
-      "date": "2026-07-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Ark Invest buys $13.9M in Circle shares while trimming Robinhood stake",
-      "description": "Ark Invest bought nearly $13.9 million worth of Circle shares and added Block while selling Robinhood stock as it continued rebalancing its ETF portfolios.",
-      "link": "https://crypto.news/ark-invest-buys-13-9m-in-circle-shares-while-trimming-robinhood-stake/",
-      "press": "Crypto News",
-      "pubDate": "2026-07-15T06:51:57+00:00",
-      "date": "2026-07-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "HoodDomains Launches .hood: The Identity Layer Turning Wallet Addresses Into Names, Agents, and Payment Rails on Robinhood Chain",
-      "description": "Menlo Park, California , July 14, 2026 (GLOBE NEWSWIRE) -- **media[1137212]**",
-      "link": "https://www.manilatimes.net/2026/07/15/tmt-newswire/globenewswire/hooddomains-launches-hood-the-identity-layer-turning-wallet-addresses-into-names-agents-and-payment-rails-on-robinhood-chain/2384505",
-      "press": "The Manila Times",
-      "pubDate": "2026-07-14T18:45:49+00:00",
-      "date": "2026-07-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Easy Bridge for Ethereum to Robinhood Chain: A Complete Guide for Fast and Secure Transfers",
-      "description": "If you're looking for an easy way to bridge assets from Ethereum to Robinhood Chain, this guide explains everything you need to know—from choosing the right bridge to completing your first transfer safely.",
-      "link": "https://techbullion.com/easy-bridge-for-ethereum-to-robinhood-chain-a-complete-guide-for-fast-and-secure-transfers/",
-      "press": "TechBullion",
-      "pubDate": "2026-07-14T16:12:49+00:00",
-      "date": "2026-07-15",
       "category": "broker",
       "companies": [
         "Robinhood"
