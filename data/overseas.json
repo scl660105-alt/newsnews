@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-09-14T11:31:36Z",
+  "lastUpdated": "2026-09-14T17:27:24Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 25,
   "news": [
+    {
+      "title": "Robinhood CEO Defends Tokenized Stocks After AMC Criticism",
+      "description": "Robinhood CEO Vlad Tenev said companies should not have veto power over tokenized stock products that do not change issuer rights or obligations.",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-14T13:55:28+09:00",
+      "date": "2026-09-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "AMC CEO challenges Robinhood’s 1:1 token backing",
       "description": "AMC CEO Adam Aron questioned whether Robinhood’s stock tokens remain fully backed if collateral shares are lent to short sellers.",
@@ -149,18 +162,6 @@
       ]
     },
     {
-      "title": "Robinhood asset pages send JUGGERNAUT up 500%",
-      "description": "JUGGERNAUT surged 500% and FRONG gained 130% after Robinhood added asset pages, though neither token received a spot listing.",
-      "link": "https://crypto.news/robinhood-asset-pages-send-juggernaut-up-500-percent/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-11T00:33:58+09:00",
-      "date": "2026-09-11",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Nasdaq invests $100 million in crypto firm, eyes 2027 launch of 'tokenized' stocks",
       "description": "Nasdaq is making a big bet that tokenization of stocks and other assets are becoming part of the plumbing of the stock market.",
       "link": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
@@ -215,18 +216,6 @@
       "press": "Crypto News",
       "pubDate": "2026-09-06T16:35:33+09:00",
       "date": "2026-09-06",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Ave.ai Launches 150,000 USDT bStocks Trading Sprint With BNB Chain and Four.meme",
-      "description": "Two-week campaign connects tokenized stocks, Stock Memes and the growing BNB Chain trading ecosystem. September 3, 2026 — Ave.ai, a leading multi-chain on-chain trading platform supporting more than 190 blockchain networks, has launched the Ave × BNB Chain × Four.meme bStocks Trading Sprint, featuring a total prize pool of 150,000 USDT. The campaign runs from […]",
-      "link": "https://techbullion.com/ave-ai-launches-150000-usdt-bstocks-trading-sprint-with-bnb-chain-and-four-meme/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-05T17:46:53+09:00",
-      "date": "2026-09-05",
       "category": "theme",
       "companies": [
         "업계테마"

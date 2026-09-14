@@ -1,9 +1,22 @@
 {
-  "lastUpdated": "2026-09-14T11:31:36Z",
+  "lastUpdated": "2026-09-14T17:27:24Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 400,
+  "count": 401,
   "news": [
+    {
+      "title": "Robinhood CEO Defends Tokenized Stocks After AMC Criticism",
+      "description": "Robinhood CEO Vlad Tenev said companies should not have veto power over tokenized stock products that do not change issuer rights or obligations.",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-14T13:55:28+09:00",
+      "date": "2026-09-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "AMC CEO challenges Robinhood’s 1:1 token backing",
       "description": "AMC CEO Adam Aron questioned whether Robinhood’s stock tokens remain fully backed if collateral shares are lent to short sellers.",
