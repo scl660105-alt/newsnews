@@ -1,15 +1,28 @@
 {
-  "lastUpdated": "2026-09-15T02:59:17Z",
+  "lastUpdated": "2026-09-15T10:52:19Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 393,
+  "count": 394,
   "news": [
+    {
+      "title": "Anthropic pitches new Claude tool for financial advisors",
+      "description": "Anthropic is taking Claude deeper into finance with a new tool for financial advisers that connects the AI assistant to portfolio analytics and investment research from firms including BlackRock, Vanguard, Charles Schwab and iCapital.",
+      "link": "https://www.moneycontrol.com/news/business/anthropic-pitches-new-claude-tool-for-financial-advisors-14029722.html",
+      "press": "Moneycontrol",
+      "pubDate": "2026-09-15T02:20:05+09:00",
+      "date": "2026-09-15",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Bittensor’s TAO Goes Live on Robinhood Chain via Chainlink CCIP After Base Expansion",
       "description": "Bittensor's TAO is now live on Robinhood Chain. Forever Money built the bridge using Chainlink CCIP, giving the leading decentralized-AI token a 1:1",
       "link": "https://coingape.com/bittensors-tao-goes-live-on-robinhood-chain-via-chainlink-ccip-after-base-expansion/",
       "press": "CoinGape",
-      "pubDate": "2026-09-14T22:10:51+09:00",
+      "pubDate": "2026-09-14T13:10:51+00:00",
       "date": "2026-09-14",
       "category": "broker",
       "companies": [
@@ -21,7 +34,7 @@
       "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
       "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
       "press": "Fortune",
-      "pubDate": "2026-09-14T21:36:52+09:00",
+      "pubDate": "2026-09-14T12:36:52+00:00",
       "date": "2026-09-14",
       "category": "broker",
       "companies": [

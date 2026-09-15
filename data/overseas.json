@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-09-15T02:59:17Z",
+  "lastUpdated": "2026-09-15T10:52:19Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 24,
+  "count": 25,
   "news": [
+    {
+      "title": "Anthropic pitches new Claude tool for financial advisors",
+      "description": "Anthropic is taking Claude deeper into finance with a new tool for financial advisers that connects the AI assistant to portfolio analytics and investment research from firms including BlackRock, Vanguard, Charles Schwab and iCapital.",
+      "link": "https://www.moneycontrol.com/news/business/anthropic-pitches-new-claude-tool-for-financial-advisors-14029722.html",
+      "press": "Moneycontrol",
+      "pubDate": "2026-09-15T02:20:05+09:00",
+      "date": "2026-09-15",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Bittensor’s TAO Goes Live on Robinhood Chain via Chainlink CCIP After Base Expansion",
       "description": "Bittensor's TAO is now live on Robinhood Chain. Forever Money built the bridge using Chainlink CCIP, giving the leading decentralized-AI token a 1:1",
@@ -156,9 +169,8 @@
       "press": "CoinGape",
       "pubDate": "2026-09-11T14:03:41+09:00",
       "date": "2026-09-11",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
