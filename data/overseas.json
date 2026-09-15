@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-09-14T21:18:59Z",
+  "lastUpdated": "2026-09-15T02:59:17Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 24,
   "news": [
+    {
+      "title": "Bittensor’s TAO Goes Live on Robinhood Chain via Chainlink CCIP After Base Expansion",
+      "description": "Bittensor's TAO is now live on Robinhood Chain. Forever Money built the bridge using Chainlink CCIP, giving the leading decentralized-AI token a 1:1",
+      "link": "https://coingape.com/bittensors-tao-goes-live-on-robinhood-chain-via-chainlink-ccip-after-base-expansion/",
+      "press": "CoinGape",
+      "pubDate": "2026-09-14T22:10:51+09:00",
+      "date": "2026-09-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "What the Robinhood-AMC fight over tokenized stocks is really about",
+      "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
+      "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
+      "press": "Fortune",
+      "pubDate": "2026-09-14T21:36:52+09:00",
+      "date": "2026-09-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood CEO Defends Tokenized Stocks After AMC Criticism",
       "description": "Robinhood CEO Vlad Tenev said companies should not have veto power over tokenized stock products that do not change issuer rights or obligations.",
@@ -138,30 +163,6 @@
       ]
     },
     {
-      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-      "description": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
-      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-      "press": "Decrypt",
-      "pubDate": "2026-09-11T03:51:04+09:00",
-      "date": "2026-09-11",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull Accused of Misleading Traders on Tax Calculation Options",
-      "description": "A brokerage that caters to day traders allegedly breached its contract with customers and committed common-law fraud by misrepresenting its tax accounting methods, according to a proposed class action.",
-      "link": "https://news.bloombergtax.com/daily-tax-report/webull-accused-of-misleading-traders-on-tax-calculation-options",
-      "press": "Bloomberg Tax News",
-      "pubDate": "2026-09-11T03:20:49+09:00",
-      "date": "2026-09-11",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
       "title": "Nasdaq invests $100 million in crypto firm, eyes 2027 launch of 'tokenized' stocks",
       "description": "Nasdaq is making a big bet that tokenization of stocks and other assets are becoming part of the plumbing of the stock market.",
       "link": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
@@ -204,18 +205,6 @@
       "press": "The Manila Times",
       "pubDate": "2026-09-08T23:54:47+09:00",
       "date": "2026-09-08",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Uniswap V4 leads tokenized stocks with $59M TVL",
-      "description": "Uniswap V4 leads DeFi venues with $59.1 million in tokenized stock deposits, as total category TVL reaches approximately $192.6 million.",
-      "link": "https://crypto.news/uniswap-v4-leads-tokenized-stocks-with-59m-tvl/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-06T16:35:33+09:00",
-      "date": "2026-09-06",
       "category": "theme",
       "companies": [
         "업계테마"
