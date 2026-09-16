@@ -1,8 +1,93 @@
 {
-  "lastUpdated": "2026-09-16T02:55:46Z",
+  "lastUpdated": "2026-09-16T10:41:55Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 27,
   "news": [
+    {
+      "title": "Agnico Eagle Mines, Charles Schwab, 16 Other Stocks Added To IBD Watchlists",
+      "description": "Agnico Eagle Mines, Charles Schwab, Veeva Systems, Guardant Health and Royal Gold are among the 18 new stocks on IBD watchlists Tuesday.",
+      "link": "https://www.investors.com/research/agnico-eagle-mines-charles-schwab-veeva-systems-best-growth-stocks/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-16T07:27:52+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Robinhood engineers charged over $50K crypto scheme",
+      "description": "US prosecutors charged two Robinhood engineers who allegedly earned over $50,000 each by trading Hyperliquid futures before crypto listings.",
+      "link": "https://crypto.news/robinhood-engineers-charged-over-50k-crypto-scheme/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-16T05:36:14+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Stock (HOOD) Drops 4% as Two Employees Charged with Fraud",
+      "description": "The stock of online brokerage Robinhood Markets (HOOD) is down 4% after the U.S. Attorney’s Office for New York charged two of the company’s emp...",
+      "link": "https://markets.businessinsider.com/news/stocks/robinhood-stock-hood-drops-4-as-two-employees-charged-with-fraud-1036548664",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-16T05:00:07+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood staffers charged with crypto-related trading fraud",
+      "description": "Two former Robinhood Markets Inc. employees were charged with fraud for allegedly using nonpublic information to trade futures. Read here",
+      "link": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-staffers-charged-trading-fraud",
+      "press": "Financial Post",
+      "pubDate": "2026-09-16T04:35:50+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "DOJ Charges Robinhood Engineers With Fraud Over Hyperliquid Perpetual Trades",
+      "description": "DOJ charges two Robinhood engineers for allegedly using confidential token listing information to trade perpetual futures on Hyperliquid.",
+      "link": "https://coingape.com/doj-charges-robinhood-engineers-with-fraud-over-hyperliquid-perpetual-trades/",
+      "press": "CoinGape",
+      "pubDate": "2026-09-16T04:31:39+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+      "description": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+      "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "press": "Decrypt",
+      "pubDate": "2026-09-16T02:49:23+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "7,000% Growth by 2030: Standard Chartered Predicts Arbitrum (ARB) to Hit $10",
+      "description": "Standard Chartered looks past Ethereum to predict a 7,000% surge for Arbitrum as the L2 network secures major TradFi and Robinhood integrations.",
+      "link": "https://u.today/7000-growth-by-2030-standard-chartered-predicts-arbitrum-arb-to-hit-10",
+      "press": "U.Today",
+      "pubDate": "2026-09-16T00:25:05+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
       "description": "The bank expects tokenization to make Arbitrum a favored network for traditional finance, even though ARB holders currently have no direct claim on the fees.",
@@ -42,65 +127,14 @@
       ]
     },
     {
-      "title": "Analysts Offer Insights on Financial Companies: Macquarie Group Limited (OtherMCQEF) and Robinhood (HOOD)",
-      "description": "Analysts have been eager to weigh in on the Financial sector with new ratings on Macquarie Group Limited (MCQEF) and Robinhood (HOOD). Macquari...",
-      "link": "https://markets.businessinsider.com/news/stocks/analysts-offer-insights-on-financial-companies-macquarie-group-limited-othermcqef-and-robinhood-hood-1036545347",
-      "press": "Markets Insider",
-      "pubDate": "2026-09-15T10:40:09+09:00",
-      "date": "2026-09-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Anthropic targets financial advisers with new Claude tool",
-      "description": "Sept 14 (Reuters) - AI ⁠lab Anthropic on Monday launched a set ⁠of tools for financial advisers, connecting its ‌Claude chatbot to investment analytics and wealth-management software from firms including BlackRock, Charles Schwab and Addepar.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/09/15/anthropic-targets-financial-advisers-with-new-claude-tool",
-      "press": "The Star",
-      "pubDate": "2026-09-15T08:19:00+09:00",
-      "date": "2026-09-15",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Anthropic pitches new Claude tool for financial advisors",
-      "description": "Anthropic is taking Claude deeper into finance with a new tool for financial advisers that connects the AI assistant to portfolio analytics and investment research from firms including BlackRock, Vanguard, Charles Schwab and iCapital.",
-      "link": "https://www.moneycontrol.com/news/business/anthropic-pitches-new-claude-tool-for-financial-advisors-14029722.html",
-      "press": "Moneycontrol",
-      "pubDate": "2026-09-15T02:20:05+09:00",
-      "date": "2026-09-15",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Bittensor’s TAO Goes Live on Robinhood Chain via Chainlink CCIP After Base Expansion",
-      "description": "Bittensor's TAO is now live on Robinhood Chain. Forever Money built the bridge using Chainlink CCIP, giving the leading decentralized-AI token a 1:1",
-      "link": "https://coingape.com/bittensors-tao-goes-live-on-robinhood-chain-via-chainlink-ccip-after-base-expansion/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-14T22:10:51+09:00",
-      "date": "2026-09-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "What the Robinhood-AMC fight over tokenized stocks is really about",
       "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
       "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
       "press": "Fortune",
       "pubDate": "2026-09-14T21:36:52+09:00",
       "date": "2026-09-14",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
@@ -111,22 +145,9 @@
       "press": "Cointelegraph",
       "pubDate": "2026-09-14T13:55:28+09:00",
       "date": "2026-09-14",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
-      ]
-    },
-    {
-      "title": "AMC CEO challenges Robinhood’s 1:1 token backing",
-      "description": "AMC CEO Adam Aron questioned whether Robinhood’s stock tokens remain fully backed if collateral shares are lent to short sellers.",
-      "link": "https://crypto.news/amc-ceo-challenges-robinhoods-11-token-backing/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-13T19:19:48+09:00",
-      "date": "2026-09-13",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
