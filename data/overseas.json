@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:41:55Z",
+  "lastUpdated": "2026-09-16T15:57:47Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
@@ -20,6 +20,18 @@
       "title": "Robinhood engineers charged over $50K crypto scheme",
       "description": "US prosecutors charged two Robinhood engineers who allegedly earned over $50,000 each by trading Hyperliquid futures before crypto listings.",
       "link": "https://crypto.news/robinhood-engineers-charged-over-50k-crypto-scheme/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-16T05:36:14+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Former Robinhood engineers charged over $50K crypto scheme",
+      "description": "US prosecutors charged two former Robinhood engineers over alleged Hyperliquid trades made before crypto listing announcements.",
+      "link": "https://crypto.news/former-robinhood-engineers-charged-50k-crypto-scheme/",
       "press": "Crypto News",
       "pubDate": "2026-09-16T05:36:14+09:00",
       "date": "2026-09-16",
@@ -65,6 +77,18 @@
       ]
     },
     {
+      "title": "Futures Insider Charges Reveal Betting on Company Secrets",
+      "description": "Some information is meant to sit locked in a company's back rooms, invisible until the moment it's officially announced. Two Robinhood Markets engineers allegedly decided that lock wasn't worth respecting. Federal prosecutors in New York announced Tuesday that Hefu Chai and Huaisong \"Jerry\" Xiang each pocketed more than $50,000 by unlawfully trading futures on the Robinhood Engineers Crypto-Futures Insider Charges allege $50K illicit gains each.",
+      "link": "https://usaherald.com/robinhood-engineers-crypto-futures-insider-charges-reveal-betting-on-company-secrets/",
+      "press": "USA Herald",
+      "pubDate": "2026-09-16T04:11:07+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
       "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
       "description": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
       "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
@@ -98,32 +122,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Anthropic partners with Charles Schwab to bring Claude AI to financial advisors",
-      "description": "Charles Schwab has partnered with Anthropic to bring “Claude for Financial Advisors” to its independent registered investment advisors (RIAs), according to a company statement.",
-      "link": "https://www.tribuneindia.com/news/business/anthropic-partners-with-charles-schwab-to-bring-claude-ai-to-financial-advisors/",
-      "press": "The Tribune",
-      "pubDate": "2026-09-15T12:07:58+09:00",
-      "date": "2026-09-15",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Anthropic partners with Charles Schwab to bring Claude AI to financial advisors",
-      "description": "Charles Schwab has partnered with Anthropic to bring “Claude for Financial Advisors” to its independent registered investment advisors (RIAs), according to a company statement.",
-      "link": "https://www.aninews.in/news/business/anthropic-partners-with-charles-schwab-to-bring-claude-ai-to-financial-advisors20260915083614/",
-      "press": "ANI (Asian News International)",
-      "pubDate": "2026-09-15T12:06:14+09:00",
-      "date": "2026-09-15",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
