@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-09-16T15:57:47Z",
+  "lastUpdated": "2026-09-16T20:45:58Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "US Indicts Ex-Robinhood Engineers for Alleged Pre-Listing Crypto Trades",
+      "description": "U.S. prosecutors have charged two former Robinhood engineers with fraud allegations tied to cryptocurrency token listings, accusing them of using",
+      "link": "https://www.cryptobreaking.com/us-indicts-ex-robinhood-engineers/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-09-16T14:51:25+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "US Charges Robinhood Engineers Over Crypto Listing Trades",
+      "description": "Two former Robinhood engineers allegedly used confidential token-listing information to trade Hyperliquid perpetuals, earning over $50,000 each.",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-16T13:48:20+09:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Agnico Eagle Mines, Charles Schwab, 16 Other Stocks Added To IBD Watchlists",
       "description": "Agnico Eagle Mines, Charles Schwab, Veeva Systems, Guardant Health and Royal Gold are among the 18 new stocks on IBD watchlists Tuesday.",
@@ -95,30 +119,6 @@
       "press": "Decrypt",
       "pubDate": "2026-09-16T02:49:23+09:00",
       "date": "2026-09-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "7,000% Growth by 2030: Standard Chartered Predicts Arbitrum (ARB) to Hit $10",
-      "description": "Standard Chartered looks past Ethereum to predict a 7,000% surge for Arbitrum as the L2 network secures major TradFi and Robinhood integrations.",
-      "link": "https://u.today/7000-growth-by-2030-standard-chartered-predicts-arbitrum-arb-to-hit-10",
-      "press": "U.Today",
-      "pubDate": "2026-09-16T00:25:05+09:00",
-      "date": "2026-09-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-      "description": "The bank expects tokenization to make Arbitrum a favored network for traditional finance, even though ARB holders currently have no direct claim on the fees.",
-      "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-15T22:25:52+09:00",
-      "date": "2026-09-15",
       "category": "broker",
       "companies": [
         "Robinhood"

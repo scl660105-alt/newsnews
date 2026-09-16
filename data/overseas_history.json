@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-16T15:57:47Z",
+  "lastUpdated": "2026-09-16T20:45:58Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 394,
+  "count": 396,
   "news": [
     {
-      "title": "Former Robinhood engineers charged over $50K crypto scheme",
-      "description": "US prosecutors charged two former Robinhood engineers over alleged Hyperliquid trades made before crypto listing announcements.",
-      "link": "https://crypto.news/former-robinhood-engineers-charged-50k-crypto-scheme/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-16T05:36:14+09:00",
+      "title": "US Indicts Ex-Robinhood Engineers for Alleged Pre-Listing Crypto Trades",
+      "description": "U.S. prosecutors have charged two former Robinhood engineers with fraud allegations tied to cryptocurrency token listings, accusing them of using",
+      "link": "https://www.cryptobreaking.com/us-indicts-ex-robinhood-engineers/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-09-16T14:51:25+09:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
@@ -17,11 +17,11 @@
       ]
     },
     {
-      "title": "Futures Insider Charges Reveal Betting on Company Secrets",
-      "description": "Some information is meant to sit locked in a company's back rooms, invisible until the moment it's officially announced. Two Robinhood Markets engineers allegedly decided that lock wasn't worth respecting. Federal prosecutors in New York announced Tuesday that Hefu Chai and Huaisong \"Jerry\" Xiang each pocketed more than $50,000 by unlawfully trading futures on the Robinhood Engineers Crypto-Futures Insider Charges allege $50K illicit gains each.",
-      "link": "https://usaherald.com/robinhood-engineers-crypto-futures-insider-charges-reveal-betting-on-company-secrets/",
-      "press": "USA Herald",
-      "pubDate": "2026-09-16T04:11:07+09:00",
+      "title": "US Charges Robinhood Engineers Over Crypto Listing Trades",
+      "description": "Two former Robinhood engineers allegedly used confidential token-listing information to trade Hyperliquid perpetuals, earning over $50,000 each.",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-16T13:48:20+09:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
@@ -39,6 +39,18 @@
       "companies": [
         "Charles Schwab",
         "Schwab"
+      ]
+    },
+    {
+      "title": "Former Robinhood engineers charged over $50K crypto scheme",
+      "description": "US prosecutors charged two former Robinhood engineers over alleged Hyperliquid trades made before crypto listing announcements.",
+      "link": "https://crypto.news/former-robinhood-engineers-charged-50k-crypto-scheme/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-15T20:36:14+00:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
       ]
     },
     {
@@ -83,6 +95,18 @@
       "link": "https://coingape.com/doj-charges-robinhood-engineers-with-fraud-over-hyperliquid-perpetual-trades/",
       "press": "CoinGape",
       "pubDate": "2026-09-15T19:31:39+00:00",
+      "date": "2026-09-16",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Futures Insider Charges Reveal Betting on Company Secrets",
+      "description": "Some information is meant to sit locked in a company's back rooms, invisible until the moment it's officially announced. Two Robinhood Markets engineers allegedly decided that lock wasn't worth respecting. Federal prosecutors in New York announced Tuesday that Hefu Chai and Huaisong \"Jerry\" Xiang each pocketed more than $50,000 by unlawfully trading futures on the Robinhood Engineers Crypto-Futures Insider Charges allege $50K illicit gains each.",
+      "link": "https://usaherald.com/robinhood-engineers-crypto-futures-insider-charges-reveal-betting-on-company-secrets/",
+      "press": "USA Herald",
+      "pubDate": "2026-09-15T19:11:07+00:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
