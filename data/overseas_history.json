@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-09-17T02:58:53Z",
+  "lastUpdated": "2026-09-17T10:49:35Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 394,
+  "count": 397,
   "news": [
+    {
+      "title": "Robinhood engineers charged over fraudulent Hyperliquid trades",
+      "description": "Two Robinhood engineers allegedly used confidential crypto listings to insider trade on decentralized derivatives exchange Hyperliquid.",
+      "link": "https://protos.com/robinhood-engineers-charged-over-fraudulent-hyperliquid-trades/",
+      "press": "Protos",
+      "pubDate": "2026-09-17T03:07:06+09:00",
+      "date": "2026-09-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood engineers face up to 30 years over $50,000 alleged Hyperliquid profits",
+      "description": "Two Robinhood employees face commodities-fraud and wire-fraud charges over Hyperliquid trades tied to confidential token listings.",
+      "link": "https://cryptoslate.com/robinhood-engineers-face-up-to-30-years-over-50000-alleged-hyperliquid-profits/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-09-17T02:40:32+09:00",
+      "date": "2026-09-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Two Robinhood Engineers Accused Of Making $50,000 By Front-Running Crypto Listings",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "link": "https://www.zerohedge.com/markets/two-robinhood-engineers-accused-making-50000-front-running-crypto-listings",
+      "press": "ZeroHedge",
+      "pubDate": "2026-09-17T02:05:00+09:00",
+      "date": "2026-09-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "SPDR S&P 500 Trust Tokenized ETF (Robinhood)",
       "description": "SPDR S&P 500 Trust Tokenized ETF (Robinhood) price is $759.74 on Sep 16, 2026. Market cap $23.6M; 24h volume $36.09M.",
       "link": "https://cryptoslate.com/coins/spdr-sp-500-trust-tokenized-etf-robinhood/",
       "press": "CryptoSlate",
-      "pubDate": "2026-09-16T23:47:00+09:00",
+      "pubDate": "2026-09-16T14:47:00+00:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
@@ -21,7 +57,7 @@
       "description": "Panda Bundler brings token configuration, wallet funding and supported post-launch trading into one web workspace. For Robinhood Chain, its supported launch venue is Pons.",
       "link": "https://coingape.com/panda-bundler-on-robinhood-chain-preparing-a-token-launch-on-pons/",
       "press": "CoinGape",
-      "pubDate": "2026-09-16T19:19:12+09:00",
+      "pubDate": "2026-09-16T10:19:12+00:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
@@ -33,7 +69,7 @@
       "description": "If you were to guess which stocks have enjoyed the biggest runs in the past four and a half years, you might say Nvidia. Indeed, that is correct. But notably, shares of Robinhood have enjoyed an even greater climb during that same stretch.",
       "link": "https://www.bnnbloomberg.ca/ticker-take/2026/09/16/robinhood-beat-nvidia-now-its-coming-for-canada-jon-erlichman/",
       "press": "Bnn Bloomberg",
-      "pubDate": "2026-09-16T19:00:00+09:00",
+      "pubDate": "2026-09-16T10:00:00+00:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
@@ -45,7 +81,7 @@
       "description": "U.S. authorities allege the pair accessed restricted listing channels to execute dozens of illegal pre-announcement trades for personal profit.",
       "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
       "press": "CoinDesk",
-      "pubDate": "2026-09-16T18:42:37+09:00",
+      "pubDate": "2026-09-16T09:42:37+00:00",
       "date": "2026-09-16",
       "category": "broker",
       "companies": [
