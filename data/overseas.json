@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-09-18T15:39:28Z",
+  "lastUpdated": "2026-09-18T20:17:12Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "US Market: SEC unveils five-year exemption for tokenized stock trading",
+      "description": "The SEC has introduced a five-year exemption to facilitate trading in tokenized stocks, allowing certain blockchain-based platforms to operate under limited regulatory relief. The framework gives issuers the right to object to tokenized listings and excludes synthetic stock tokens, while seeking to balance innovation with investor protection and market integrity.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-sec-unveils-five-year-exemption-for-tokenized-stock-trading/articleshow/134328527.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-09-18T16:03:00+09:00",
+      "date": "2026-09-18",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Prediction markets will overcome big binary risks",
+      "description": "Coin-flip contracts peddled by Polymarket, ‌Robinhood and others are booming toward $1 trln. Kalshi may soon be worth $40 bln, a near-doubling in mere months. ​Sports trading and Wall Street adoption are ​big unknowns, but bets on consolidation and rising ⁠valuations should pay off.",
+      "link": "https://www.reuters.com/commentary/breakingviews/prediction-markets-will-overcome-big-binary-risks-2026-09-18/",
+      "press": "Reuters",
+      "pubDate": "2026-09-18T14:00:27+09:00",
+      "date": "2026-09-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through tokenization",
       "description": "SEC's A five-year exemption would bring tokenized stocks onshore while testing whether they can support lending and settlement.",
@@ -198,35 +222,11 @@
       ]
     },
     {
-      "title": "SPDR S&P 500 Trust Tokenized ETF (Robinhood)",
-      "description": "SPDR S&P 500 Trust Tokenized ETF (Robinhood) price is $759.74 on Sep 16, 2026. Market cap $23.6M; 24h volume $36.09M.",
-      "link": "https://cryptoslate.com/coins/spdr-sp-500-trust-tokenized-etf-robinhood/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-09-16T23:47:00+09:00",
-      "date": "2026-09-16",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "What the Robinhood-AMC fight over tokenized stocks is really about",
       "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
       "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
       "press": "Fortune",
       "pubDate": "2026-09-14T21:36:52+09:00",
-      "date": "2026-09-14",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood CEO Defends Tokenized Stocks After AMC Criticism",
-      "description": "Robinhood CEO Vlad Tenev said companies should not have veto power over tokenized stock products that do not change issuer rights or obligations.",
-      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
-      "press": "Cointelegraph",
-      "pubDate": "2026-09-14T13:55:28+09:00",
       "date": "2026-09-14",
       "category": "theme",
       "companies": [
