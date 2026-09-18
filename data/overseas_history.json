@@ -1,15 +1,89 @@
 {
-  "lastUpdated": "2026-09-18T02:46:07Z",
+  "lastUpdated": "2026-09-18T10:24:56Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 400,
+  "count": 406,
   "news": [
+    {
+      "title": "After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through tokenization",
+      "description": "SEC's A five-year exemption would bring tokenized stocks onshore while testing whether they can support lending and settlement.",
+      "link": "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-09-18T06:00:20+09:00",
+      "date": "2026-09-18",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Stock Of The Day XP, The Charles Schwab Of Brazil, Nears Buy Point",
+      "description": "XP, IBD Stock Of The Day, is benefiting from buybacks as Brazil's leading provider of low-cost financial services lowers its capital cushion.",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/xp-charles-schwab-brazil-buy-point/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-18T04:04:21+09:00",
+      "date": "2026-09-18",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "description": "The five-year experiment gives DeFi-style trading venues, tokenization firms and liquidity providers a new U.S. pathway while leaving synthetic stock tokens outside the framework.",
+      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-18T03:38:10+09:00",
+      "date": "2026-09-18",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Ave.ai Launches 150,000 USDT bStocks Trading Sprint With BNB Chain and Four.meme",
+      "description": "Two-week campaign connects tokenized stocks, Stock Memes and the growing BNB Chain trading ecosystem. September 3, 2026 — Ave.ai, a leading multi-chain on-chain trading platform supporting more than 190 blockchain networks, has launched the Ave × BNB Chain × Four.meme bStocks Trading Sprint, featuring a total prize pool of 150,000 USDT. The campaign runs from […]",
+      "link": "https://techbullion.com/ave-ai-launches-150000-usdt-bstocks-trading-sprint-with-bnb-chain-and-four-meme-2/",
+      "press": "TechBullion",
+      "pubDate": "2026-09-18T02:29:31+09:00",
+      "date": "2026-09-18",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "SEC gives tokenized stock trading platforms five-year regulatory relief",
+      "description": "The US SEC has granted a five-year exemption to platforms offering tokenized stocks, easing regulatory hurdles for blockchain-based share trading. The move could bring crypto platforms deeper into traditional equity markets, allowing potential 24/7 trading, instant settlement and fractional ownership, while maintaining issuer consent and investor protection requirements.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sec-gives-tokenized-stock-trading-platforms-five-year-regulatory-relief/articleshow/134317750.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-09-18T02:07:00+09:00",
+      "date": "2026-09-18",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "'Tokenization Is Coming to America': Robinhood CEO Hails SEC's Historic Ruling",
+      "description": "Robinhood CEO declares ‘Tokenization is coming to America’ after historic SEC rules greenlight 24/7 blockchain stock trading.",
+      "link": "https://u.today/tokenization-is-coming-to-america-robinhood-ceo-hails-secs-historic-ruling",
+      "press": "U.Today",
+      "pubDate": "2026-09-18T01:04:15+09:00",
+      "date": "2026-09-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "year exemption for tokenized stock trading",
       "description": "The agency is offering a five-year exemption to platforms that facilitate trading of tokenized stocks from many of the rules that apply to the Nasdaq, NYSE and other stock exchanges.",
       "link": "https://www.cnbctv18.com/world/us-securities-regulator-rolls-out-five-year-exemption-for-tokenized-stock-trading-19993090.htm",
       "press": "CNBC TV18",
-      "pubDate": "2026-09-17T22:40:33+09:00",
+      "pubDate": "2026-09-17T13:40:33+00:00",
       "date": "2026-09-17",
       "category": "theme",
       "companies": [
@@ -21,7 +95,7 @@
       "description": "The SEC approved a temporary exemption for limited tokenized stock trading on onchain venues, subject to trading limits and transparency rules.",
       "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading",
       "press": "Cointelegraph",
-      "pubDate": "2026-09-17T22:34:17+09:00",
+      "pubDate": "2026-09-17T13:34:17+00:00",
       "date": "2026-09-17",
       "category": "theme",
       "companies": [
@@ -33,7 +107,7 @@
       "description": "The U.S. Securities ​and Exchange Commission on Thursday unveiled its long-awaited exemption that will allow companies to offer trading in blockchain-based or \"tokenized\" stocks ‌and other securities, in a major move that could integrate digital assets more deeply into traditional markets.",
       "link": "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/",
       "press": "Reuters",
-      "pubDate": "2026-09-17T22:02:56+09:00",
+      "pubDate": "2026-09-17T13:02:56+00:00",
       "date": "2026-09-17",
       "category": "theme",
       "companies": [
@@ -45,19 +119,7 @@
       "description": "memeCI is an AI powered meme coin intelligence platform that monitors emerging tokens across Solana, Robinhood Chain and BNB Chain, with Practice Trading for users.",
       "link": "https://techbullion.com/memeci-levels-the-playing-field-by-showing-people-early-coins-the-snipers-see/",
       "press": "TechBullion",
-      "pubDate": "2026-09-17T21:30:12+09:00",
-      "date": "2026-09-17",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Matt Levine’s Money Stuff: BlackRock Wants Pensions",
-      "description": "Matt Levine discusses how everybody wants a pension, Robinhood insider trading, Epstein Kovel letters, and what the steps are these days to getting your first job in finance and how to identify talent early.",
-      "link": "https://news.bloombergtax.com/daily-tax-report/matt-levines-money-stuff-blackrock-wants-pensions",
-      "press": "Bloomberg Tax News",
-      "pubDate": "2026-09-17T02:58:16+09:00",
+      "pubDate": "2026-09-17T12:30:12+00:00",
       "date": "2026-09-17",
       "category": "broker",
       "companies": [
@@ -94,6 +156,18 @@
       "link": "https://protos.com/robinhood-engineers-charged-over-fraudulent-hyperliquid-trades/",
       "press": "Protos",
       "pubDate": "2026-09-16T18:07:06+00:00",
+      "date": "2026-09-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Matt Levine’s Money Stuff: BlackRock Wants Pensions",
+      "description": "Matt Levine discusses how everybody wants a pension, Robinhood insider trading, Epstein Kovel letters, and what the steps are these days to getting your first job in finance and how to identify talent early.",
+      "link": "https://news.bloombergtax.com/daily-tax-report/matt-levines-money-stuff-blackrock-wants-pensions",
+      "press": "Bloomberg Tax News",
+      "pubDate": "2026-09-16T17:58:16+00:00",
       "date": "2026-09-17",
       "category": "broker",
       "companies": [
