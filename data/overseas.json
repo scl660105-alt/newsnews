@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-19T10:09:15Z",
+  "lastUpdated": "2026-09-19T15:12:12Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Company can be more than a trading app",
+      "description": "Robinhood CEO Vlad Tenev wants to use trading as a way to acquire customers and then continue to manage their wealth throughout their lifetime.",
+      "link": "https://www.cnbc.com/2026/09/18/cramer-robinhood-wealth-management-strategy.html",
+      "press": "CNBC",
+      "pubDate": "2026-09-19T07:25:41+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Missouri AG issues cease-and-desist orders to six prediction markets",
       "description": "COLUMBIA, Mo. (KMIZ) Missouri Attorney General Catherine Hanaway issued cease-and-desist orders to six online prediction market operators, demanding they stop offering sports \"event contracts\" to state residents without a sports wagering license, according to a Friday press release from her office. The letters were sent to Polymarket, Kalshi, Crypto.com, Novig, Underdog and Robinhood. The AG's",
@@ -219,18 +231,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "memeCI Levels the Playing Field by Showing People Early Coins the Snipers See!",
-      "description": "memeCI is an AI powered meme coin intelligence platform that monitors emerging tokens across Solana, Robinhood Chain and BNB Chain, with Practice Trading for users.",
-      "link": "https://techbullion.com/memeci-levels-the-playing-field-by-showing-people-early-coins-the-snipers-see/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-17T21:30:12+09:00",
-      "date": "2026-09-17",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
