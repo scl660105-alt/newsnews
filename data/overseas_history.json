@@ -1,15 +1,75 @@
 {
-  "lastUpdated": "2026-09-19T02:44:45Z",
+  "lastUpdated": "2026-09-19T10:09:15Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 406,
+  "count": 411,
   "news": [
+    {
+      "title": "Missouri AG issues cease-and-desist orders to six prediction markets",
+      "description": "COLUMBIA, Mo. (KMIZ) Missouri Attorney General Catherine Hanaway issued cease-and-desist orders to six online prediction market operators, demanding they stop offering sports \"event contracts\" to state residents without a sports wagering license, according to a Friday press release from her office. The letters were sent to Polymarket, Kalshi, Crypto.com, Novig, Underdog and Robinhood. The AG's",
+      "link": "https://abc17news.com/news/missouri/2026/09/18/missouri-ag-issues-cease-and-desist-orders-to-six-prediction-markets/",
+      "press": "ABC17News.com",
+      "pubDate": "2026-09-19T05:48:32+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "description": "Dow Jones futures: The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-19T05:38:02+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Coinbase Stock (COIN) Soars 12% as Baird Says SEC Exemption Puts Offerings ‘More on Par’ with Robinhood’s",
+      "description": "Shares in U.S. crypto exchange Coinbase (COIN) continued their rally on Friday afternoon, jumping 12% to around $194. This came as crypto stocks...",
+      "link": "https://markets.businessinsider.com/news/stocks/coinbase-stock-coin-soars-12-as-baird-says-sec-exemption-puts-offerings-more-on-par-with-robinhood-s-1036558465",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-19T05:23:31+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Tokenization is set to change stock trading. These stocks could get a boost",
+      "description": "Digital exchanges are rocketing upward in Friday morning trading after regulatory changes that follow the failure of the Clarity Act in Congress.",
+      "link": "https://www.cnbc.com/2026/09/18/tokenization-is-set-to-change-stock-trading-these-stocks-could-get-a-boost.html",
+      "press": "CNBC",
+      "pubDate": "2026-09-19T01:53:51+09:00",
+      "date": "2026-09-19",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria joins Disrupt 2026",
+      "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before Sept 25.",
+      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "press": "TechCrunch",
+      "pubDate": "2026-09-19T00:00:00+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Crypto trader turns $3.8k into $3 million on Robinhood Chain meme coin",
       "description": "A crypto trader has reportedly turned a $3,800 investment into nearly $3 million in just two months by trading AI-powered tokens.",
       "link": "https://finbold.com/crypto-trader-turns-3-8k-into-3-million-on-robinhood-chain-meme-coin/",
       "press": "Finbold",
-      "pubDate": "2026-09-18T20:04:13+09:00",
+      "pubDate": "2026-09-18T11:04:13+00:00",
       "date": "2026-09-18",
       "category": "broker",
       "companies": [
@@ -21,7 +81,7 @@
       "description": "The Toronto office is now the company’s third-largest globally by head count and one of its fastest-growing",
       "link": "https://www.theglobeandmail.com/investing/personal-finance/article-robinhood-grows-toronto-work-force-to-200-as-trading-giant-ramps-up/",
       "press": "The Globe and Mail",
-      "pubDate": "2026-09-18T19:00:00+09:00",
+      "pubDate": "2026-09-18T10:00:00+00:00",
       "date": "2026-09-18",
       "category": "broker",
       "companies": [
