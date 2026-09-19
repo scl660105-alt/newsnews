@@ -1,15 +1,39 @@
 {
-  "lastUpdated": "2026-09-18T20:17:12Z",
+  "lastUpdated": "2026-09-19T02:44:45Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 408,
+  "count": 406,
   "news": [
+    {
+      "title": "Crypto trader turns $3.8k into $3 million on Robinhood Chain meme coin",
+      "description": "A crypto trader has reportedly turned a $3,800 investment into nearly $3 million in just two months by trading AI-powered tokens.",
+      "link": "https://finbold.com/crypto-trader-turns-3-8k-into-3-million-on-robinhood-chain-meme-coin/",
+      "press": "Finbold",
+      "pubDate": "2026-09-18T20:04:13+09:00",
+      "date": "2026-09-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood grows Toronto work force to 200 as trading giant ramps up Canadian expansion",
+      "description": "The Toronto office is now the company’s third-largest globally by head count and one of its fastest-growing",
+      "link": "https://www.theglobeandmail.com/investing/personal-finance/article-robinhood-grows-toronto-work-force-to-200-as-trading-giant-ramps-up/",
+      "press": "The Globe and Mail",
+      "pubDate": "2026-09-18T19:00:00+09:00",
+      "date": "2026-09-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "US Market: SEC unveils five-year exemption for tokenized stock trading",
       "description": "The SEC has introduced a five-year exemption to facilitate trading in tokenized stocks, allowing certain blockchain-based platforms to operate under limited regulatory relief. The framework gives issuers the right to object to tokenized listings and excludes synthetic stock tokens, while seeking to balance innovation with investor protection and market integrity.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-sec-unveils-five-year-exemption-for-tokenized-stock-trading/articleshow/134328527.cms",
       "press": "The Economic Times",
-      "pubDate": "2026-09-18T16:03:00+09:00",
+      "pubDate": "2026-09-18T07:03:00+00:00",
       "date": "2026-09-18",
       "category": "theme",
       "companies": [
@@ -21,7 +45,7 @@
       "description": "Coin-flip contracts peddled by Polymarket, ‌Robinhood and others are booming toward $1 trln. Kalshi may soon be worth $40 bln, a near-doubling in mere months. ​Sports trading and Wall Street adoption are ​big unknowns, but bets on consolidation and rising ⁠valuations should pay off.",
       "link": "https://www.reuters.com/commentary/breakingviews/prediction-markets-will-overcome-big-binary-risks-2026-09-18/",
       "press": "Reuters",
-      "pubDate": "2026-09-18T14:00:27+09:00",
+      "pubDate": "2026-09-18T05:00:27+00:00",
       "date": "2026-09-18",
       "category": "broker",
       "companies": [
@@ -4908,55 +4932,6 @@
       "companies": [
         "Charles Schwab",
         "Schwab"
-      ]
-    },
-    {
-      "title": "HOOD Stock Jumps as Bernstein Raises Price Target for Robinhood",
-      "description": "Bernstein gives outperform rating on Robinhood Markets for 12-month an raised HOOD stock price target from $130 to $160.",
-      "link": "https://coingape.com/news/stocks/hood-stock-jumps-as-bernstein-raises-price-target-for-robinhood/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-20T12:53:16+00:00",
-      "date": "2026-07-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Inside Robinhood Chain’s Revenue Model: What’s in It for Ethereum and Arbitrum?",
-      "description": "Robinhood Chain has surpassed 52 million transactions and $3B in volume. Here's how its revenue model works and what Ethereum and Arbitrum stand to gain.",
-      "link": "https://coingape.com/block-of-fame/pulse/inside-robinhood-chains-revenue-model-whats-in-it-for-ethereum-and-arbitrum/",
-      "press": "CoinGape",
-      "pubDate": "2026-07-20T12:34:06+00:00",
-      "date": "2026-07-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Charles Schwab downgraded to Market Perform from Outperform at BMO Capital",
-      "description": "BMO Capital downgraded Charles Schwab (SCHW) to Market Perform from Outperform with an unchanged price target of $105. The firm cites valuation ...",
-      "link": "https://markets.businessinsider.com/news/stocks/charles-schwab-downgraded-to-market-perform-from-outperform-at-bmo-capital-1036340418",
-      "press": "Markets Insider",
-      "pubDate": "2026-07-20T01:05:05+00:00",
-      "date": "2026-07-20",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "LINK Price Holds Steady While Pepeto Nears Listing",
-      "description": "Explore the LINK price stability following Robinhood's integration of CHAINLINK as its official oracle on layer 2 blockchain.",
-      "link": "https://techbullion.com/link-price-holds-steady-while-pepeto-nears-listing/",
-      "press": "TechBullion",
-      "pubDate": "2026-07-19T16:45:15+00:00",
-      "date": "2026-07-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     }
   ]
