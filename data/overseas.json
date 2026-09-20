@@ -1,8 +1,44 @@
 {
-  "lastUpdated": "2026-09-19T19:54:59Z",
+  "lastUpdated": "2026-09-20T02:57:00Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
+      "description": "Robinhood stock surged in an end-of-week crypto rally. SpaceX is testing an aggressive entry. They lead five stocks near buy points.",
+      "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-19T21:00:39+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "description": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-19T21:00:00+09:00",
+      "date": "2026-09-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Fed hikes rates, CLARITY fails, SEC backs tokenized stocks | Weekly recap",
+      "description": "Fed rate hike pressures Bitcoin as CLARITY stalls, while SEC relief opens a five-year path for tokenized U.S. stock trading this week.",
+      "link": "https://crypto.news/fed-hikes-rates-clarity-fails-sec-backs-tokenized-stocks/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-19T16:58:08+09:00",
+      "date": "2026-09-19",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Company can be more than a trading app",
       "description": "Robinhood CEO Vlad Tenev wants to use trading as a way to acquire customers and then continue to manage their wealth throughout their lifetime.",
@@ -136,19 +172,6 @@
       ]
     },
     {
-      "title": "Stock Of The Day XP, The Charles Schwab Of Brazil, Nears Buy Point",
-      "description": "XP, IBD Stock Of The Day, is benefiting from buybacks as Brazil's leading provider of low-cost financial services lowers its capital cushion.",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/xp-charles-schwab-brazil-buy-point/",
-      "press": "Investor's Business Daily",
-      "pubDate": "2026-09-18T04:04:21+09:00",
-      "date": "2026-09-18",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
       "description": "The five-year experiment gives DeFi-style trading venues, tokenization firms and liquidity providers a new U.S. pathway while leaving synthetic stock tokens outside the framework.",
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
@@ -179,9 +202,8 @@
       "press": "U.Today",
       "pubDate": "2026-09-18T01:04:15+09:00",
       "date": "2026-09-18",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
@@ -216,18 +238,6 @@
       "press": "Reuters",
       "pubDate": "2026-09-17T22:02:56+09:00",
       "date": "2026-09-17",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "What the Robinhood-AMC fight over tokenized stocks is really about",
-      "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
-      "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
-      "press": "Fortune",
-      "pubDate": "2026-09-14T21:36:52+09:00",
-      "date": "2026-09-14",
       "category": "theme",
       "companies": [
         "업계테마"
@@ -288,18 +298,6 @@
       "press": "The Economic Times",
       "pubDate": "2026-08-25T14:36:00+09:00",
       "date": "2026-08-25",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Futu Announces Second Quarter 2026 Unaudited Financial Results",
-      "description": "HONG KONG, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Futu Holdings Limited ('Futu” or the 'Company”) (Nasdaq: FUTU), a leading tech-driven online brokerage and wealth management platform, today announced its unaudited financial results for the second quarter ended June 30, 2026.",
-      "link": "https://www.manilatimes.net/2026/08/20/tmt-newswire/globenewswire/futu-announces-second-quarter-2026-unaudited-financial-results/2408990",
-      "press": "The Manila Times",
-      "pubDate": "2026-08-20T17:07:20+09:00",
-      "date": "2026-08-20",
       "category": "market",
       "companies": [
         "거래소·규제"
