@@ -1,15 +1,39 @@
 {
-  "lastUpdated": "2026-09-20T02:57:00Z",
+  "lastUpdated": "2026-09-20T10:28:24Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 404,
+  "count": 406,
   "news": [
+    {
+      "title": "New Crypto Alert: SEC Opens Tokenized Stock Trading as Pepeto Exchange Goes Live",
+      "description": "Discover the potential of new crypto trends as tokenized stocks hit the blockchain. Learn more about Pepeto's presale.",
+      "link": "https://techbullion.com/new-crypto-alert-sec-opens-tokenized-stock-trading-as-pepeto-exchange-goes-live/",
+      "press": "TechBullion",
+      "pubDate": "2026-09-20T04:40:05+09:00",
+      "date": "2026-09-20",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Missouri AG goes after Kalshi, Polymarket and other predicti",
+      "description": "Attorney General Catherine Hanaway’s office has sent cease-and-desist letters to companies like Polymarket, Kalshi and Robinhood, which offer sports “event contracts” to Missouri bettors.",
+      "link": "https://www.stltoday.com/news/local/business/article_a12211ea-cbb9-487a-8fdb-21aaf4570a91.html",
+      "press": "St. Louis Post-Dispatch",
+      "pubDate": "2026-09-20T02:35:00+09:00",
+      "date": "2026-09-20",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
       "description": "Robinhood stock surged in an end-of-week crypto rally. SpaceX is testing an aggressive entry. They lead five stocks near buy points.",
       "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/",
       "press": "Investor's Business Daily",
-      "pubDate": "2026-09-19T21:00:39+09:00",
+      "pubDate": "2026-09-19T12:00:39+00:00",
       "date": "2026-09-19",
       "category": "broker",
       "companies": [
@@ -21,7 +45,7 @@
       "description": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
       "press": "CoinDesk",
-      "pubDate": "2026-09-19T21:00:00+09:00",
+      "pubDate": "2026-09-19T12:00:00+00:00",
       "date": "2026-09-19",
       "category": "broker",
       "companies": [
@@ -33,7 +57,7 @@
       "description": "Fed rate hike pressures Bitcoin as CLARITY stalls, while SEC relief opens a five-year path for tokenized U.S. stock trading this week.",
       "link": "https://crypto.news/fed-hikes-rates-clarity-fails-sec-backs-tokenized-stocks/",
       "press": "Crypto News",
-      "pubDate": "2026-09-19T16:58:08+09:00",
+      "pubDate": "2026-09-19T07:58:08+00:00",
       "date": "2026-09-19",
       "category": "theme",
       "companies": [
