@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T10:37:36Z",
+  "lastUpdated": "2026-09-23T15:57:06Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
@@ -7,6 +7,19 @@
       "title": "Schwab Stock, JPMorgan Chase Slide On Vanguard AI Threat",
       "description": "Charles Schwab stock previously was pummeled in February on AI fears tied to startup Altruist. Vanguard's recent takeover raises the ante.",
       "link": "https://www.investors.com/news/schwab-stock-charles-schw-jpmorgan-case-altruist-vanguard-ai-sp-500/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-23T03:22:07+09:00",
+      "date": "2026-09-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
+      "description": "Charles Schwab stock has lost key support as threats rise from Meta's Muse personal AI agent and Vanguard-owned Altruist.",
+      "link": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/",
       "press": "Investor's Business Daily",
       "pubDate": "2026-09-23T03:22:07+09:00",
       "date": "2026-09-23",
@@ -154,18 +167,6 @@
       "link": "https://seekingalpha.com/article/4948230-stocks-didnt-rally-because-of-rate-hike-smh-robinhood-markets-ready-to-run",
       "press": "Seeking Alpha",
       "pubDate": "2026-09-21T21:30:00+09:00",
-      "date": "2026-09-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "The corporate blockchain wars are heating up as Circle's Arc goes live",
-      "description": "A new wave of blockchains—including Arc, Canton, Tempo, and Robinhood—are vying to be Wall Street's favorite chain.",
-      "link": "https://fortune.com/2026/09/21/corporate-blockchain-wars-circle-arc-launch-canton-tempo-avalanche-robinhood-base-chain-wall-street/",
-      "press": "Fortune",
-      "pubDate": "2026-09-21T20:22:44+09:00",
       "date": "2026-09-21",
       "category": "broker",
       "companies": [
