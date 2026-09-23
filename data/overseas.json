@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-22T20:46:08Z",
+  "lastUpdated": "2026-09-23T02:55:24Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
+      "description": "Crypto is interesting again and that means attention is flowing back to the sector. And it’s starting to show in the data.",
+      "link": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
+      "press": "Decrypt",
+      "pubDate": "2026-09-22T21:15:44+09:00",
+      "date": "2026-09-22",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Telegram Trading Lands on Robinhood Chain as Zappin Offers 90% Fee Cashback in ETH",
       "description": "Zappin brings Telegram-native token trading to Robinhood Chain via Uniswap, cutting effective fees to 0.1% with a 30-day ETH rebate. No native token planned.",
@@ -153,18 +165,6 @@
       "link": "https://crypto.news/sec-tokenized-stock-exemption-opens-coinbase-path/",
       "press": "Crypto News",
       "pubDate": "2026-09-20T23:29:40+09:00",
-      "date": "2026-09-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Coinbase (COIN), Robinhood (HOOD), Circle (CRCL) stand to gain from SEC's tokenized",
-      "description": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain products.",
-      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-20T21:00:00+09:00",
       "date": "2026-09-20",
       "category": "broker",
       "companies": [
