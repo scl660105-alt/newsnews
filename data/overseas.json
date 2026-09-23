@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-09-23T02:55:24Z",
+  "lastUpdated": "2026-09-23T10:37:36Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Schwab Stock, JPMorgan Chase Slide On Vanguard AI Threat",
+      "description": "Charles Schwab stock previously was pummeled in February on AI fears tied to startup Altruist. Vanguard's recent takeover raises the ante.",
+      "link": "https://www.investors.com/news/schwab-stock-charles-schw-jpmorgan-case-altruist-vanguard-ai-sp-500/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-09-23T03:22:07+09:00",
+      "date": "2026-09-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
       "description": "Crypto is interesting again and that means attention is flowing back to the sector. And it’s starting to show in the data.",
@@ -154,18 +167,6 @@
       "press": "Fortune",
       "pubDate": "2026-09-21T20:22:44+09:00",
       "date": "2026-09-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "SEC tokenized-stock exemption opens Coinbase path",
-      "description": "SEC's five-year tokenized-stock exemption opens permissioned AMM trading, with analysts seeing potential benefits for Coinbase, Robinhood and Circle.",
-      "link": "https://crypto.news/sec-tokenized-stock-exemption-opens-coinbase-path/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-20T23:29:40+09:00",
-      "date": "2026-09-20",
       "category": "broker",
       "companies": [
         "Robinhood"
