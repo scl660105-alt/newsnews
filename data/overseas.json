@@ -1,8 +1,81 @@
 {
-  "lastUpdated": "2026-09-23T20:57:59Z",
+  "lastUpdated": "2026-09-24T02:45:24Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Winners And Losers Of SEC’s New Tokenized Stocks Rules",
+      "description": "The SEC’s five-year tokenized stocks exemption favors some existing players while others will be forced to adapt. Here’s what it means for Coinbase, Robinhood, Uniswap and others.",
+      "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-23T22:30:00+09:00",
+      "date": "2026-09-23",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "NYSE and Blockchain.com to explore selling tokenised stocks",
+      "description": "The New ​York Stock Exchange and crypto brokerage Blockchain.com will together explore creating crypto ‌versions of US-listed stocks, Blockchain.com said in a press release on Wednesday.",
+      "link": "https://www.reuters.com/legal/government/nyse-blockchaincom-explore-selling-tokenised-stocks-2026-09-23/",
+      "press": "Reuters",
+      "pubDate": "2026-09-23T22:06:20+09:00",
+      "date": "2026-09-23",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "MoonPay acquires brokerage firm North Capital for $60",
+      "description": "Acquiring the Utah-based firm will provide MoonPay with key licenses at a time when its tokenization ambitions are growing.",
+      "link": "https://fortune.com/2026/09/23/moonpay-eyes-tokenized-securities-push-with-60-million-acquisition-of-brokerage-firm-north-capital/",
+      "press": "Fortune",
+      "pubDate": "2026-09-23T22:00:00+09:00",
+      "date": "2026-09-23",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "X launches Cashtag Trading Programme with Coinbase, Kraken, Gemini and Other Platforms: Benefits and use",
+      "description": "X has launched the US Cashtag Partner Programme, connecting stock, ETF and cryptocurrency pages with five external trading platforms. Coinbase, Gemini, Kraken, Interactive Brokers and Moomoo are the initial partners. Users can select the “Trade” option from supported Cashtags.",
+      "link": "https://www.indiatvnews.com/technology/news/x-launches-cashtag-trading-programme-with-coinbase-kraken-gemini-and-other-platforms-benefits-and-use-2026-09-23-1055062",
+      "press": "India TV News",
+      "pubDate": "2026-09-23T20:17:06+09:00",
+      "date": "2026-09-23",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "CFTC, SEC Advance Tokenization After CLARITY Act Setback",
+      "description": "CFTC Chair Michael Selig says US markets should prepare for “mass tokenization” as the SEC also advances tokenized stock trading.",
+      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
+      "press": "Cointelegraph",
+      "pubDate": "2026-09-23T19:06:55+09:00",
+      "date": "2026-09-23",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Robinhood Stock: Tokenized Stocks Are Coming, But It's Time To Sell (NASDAQ:HOOD)",
+      "description": "Robinhood's revenue growth rebounded, driven by transaction-based revenues and products like prediction markets. Read why HOOD stock is downgraded to a sell.",
+      "link": "https://seekingalpha.com/article/4948916-robinhood-tokenized-stocks-are-coming-but-its-time-to-sell",
+      "press": "Seeking Alpha",
+      "pubDate": "2026-09-23T18:31:57+09:00",
+      "date": "2026-09-23",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Schwab Stock, JPMorgan Chase Slide On Vanguard AI Threat",
       "description": "Charles Schwab stock previously was pummeled in February on AI fears tied to startup Altruist. Vanguard's recent takeover raises the ante.",
@@ -102,30 +175,6 @@
       ]
     },
     {
-      "title": "Analysts Are Bullish on Top Financial Stocks: Robinhood (HOOD), Atlanticus Holdings (ATLC)",
-      "description": "There’s a lot to be optimistic about in the Financial sector as 2 analysts just weighed in on Robinhood (HOOD) and Atlanticus Holdings (ATLC) wi...",
-      "link": "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-top-financial-stocks-robinhood-hood-atlanticus-holdings-atlc-1036562439",
-      "press": "Markets Insider",
-      "pubDate": "2026-09-22T08:10:23+09:00",
-      "date": "2026-09-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
-      "description": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
-      "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
-      "press": "Decrypt",
-      "pubDate": "2026-09-22T06:46:03+09:00",
-      "date": "2026-09-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Tokenized stocks may see limited U.S. demand: TD Cowen",
       "description": "TD Cowen expects limited U.S. demand for tokenized stocks as thin liquidity, issuer resistance and stock perpetuals constrain adoption.",
       "link": "https://crypto.news/tokenized-stocks-may-see-limited-u-s-demand-td-cowen/",
@@ -162,18 +211,6 @@
       ]
     },
     {
-      "title": "Stocks Didn't Really Rally Because Of The Rate Hike; SMH & Robinhood Markets Ready To Run",
-      "description": "The most bullish part of the FOMC meeting wasn’t the rate hike; it was the clarity it gave investors. SMH, QQQ, and a select cohort of chip stocks all look ready to run. Read more here...",
-      "link": "https://seekingalpha.com/article/4948230-stocks-didnt-rally-because-of-rate-hike-smh-robinhood-markets-ready-to-run",
-      "press": "Seeking Alpha",
-      "pubDate": "2026-09-21T21:30:00+09:00",
-      "date": "2026-09-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "New Crypto Alert: SEC Opens Tokenized Stock Trading as Pepeto Exchange Goes Live",
       "description": "Discover the potential of new crypto trends as tokenized stocks hit the blockchain. Learn more about Pepeto's presale.",
       "link": "https://techbullion.com/new-crypto-alert-sec-opens-tokenized-stock-trading-as-pepeto-exchange-goes-live/",
@@ -204,42 +241,6 @@
       "press": "CNBC",
       "pubDate": "2026-09-19T01:53:51+09:00",
       "date": "2026-09-19",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "US Market: SEC unveils five-year exemption for tokenized stock trading",
-      "description": "The SEC has introduced a five-year exemption to facilitate trading in tokenized stocks, allowing certain blockchain-based platforms to operate under limited regulatory relief. The framework gives issuers the right to object to tokenized listings and excludes synthetic stock tokens, while seeking to balance innovation with investor protection and market integrity.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-sec-unveils-five-year-exemption-for-tokenized-stock-trading/articleshow/134328527.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-09-18T16:03:00+09:00",
-      "date": "2026-09-18",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "After Congress killed its landmark crypto bill, the SEC unlocked the $77 trillion US stock market through tokenization",
-      "description": "SEC's A five-year exemption would bring tokenized stocks onshore while testing whether they can support lending and settlement.",
-      "link": "https://cryptoslate.com/after-congress-killed-its-landmark-crypto-bill-the-sec-unlocked-the-77-trillion-us-stock-market-through-tokenization/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-09-18T06:00:20+09:00",
-      "date": "2026-09-18",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "description": "The five-year experiment gives DeFi-style trading venues, tokenization firms and liquidity providers a new U.S. pathway while leaving synthetic stock tokens outside the framework.",
-      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-18T03:38:10+09:00",
-      "date": "2026-09-18",
       "category": "theme",
       "companies": [
         "업계테마"
