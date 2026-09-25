@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-09-25T03:01:47Z",
+  "lastUpdated": "2026-09-25T10:58:15Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 25,
   "news": [
+    {
+      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+      "description": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-25T05:05:00+09:00",
+      "date": "2026-09-25",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "The stock token debate, and the gap nobody can close alone",
+      "description": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
+      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-25T05:03:21+09:00",
+      "date": "2026-09-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "NYSE's tokenized stocks plan puts control of onchain trading under scrutiny",
       "description": "NYSE’s tokenized stock plan could bring U.S. equities onchain, but questions remain over ownership, investor rights and who controls the market.",
@@ -187,18 +212,6 @@
       ]
     },
     {
-      "title": "Telegram Trading Lands on Robinhood Chain as Zappin Offers 90% Fee Cashback in ETH",
-      "description": "Zappin brings Telegram-native token trading to Robinhood Chain via Uniswap, cutting effective fees to 0.1% with a 30-day ETH rebate. No native token planned.",
-      "link": "https://coingape.com/telegram-trading-lands-on-robinhood-chain-as-zappin-offers-90-fee-cashback-in-eth/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-22T16:58:47+09:00",
-      "date": "2026-09-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Ondo Finance launches in-kind tokenized stock conversion",
       "description": "Ondo Finance now lets approved institutions mint and redeem tokenized stocks using underlying shares through Alpaca on Ethereum and BNB Chain.",
       "link": "https://crypto.news/ondo-launches-in-kind-tokenized-stock-conversion/",
@@ -241,30 +254,6 @@
       "press": "TechBullion",
       "pubDate": "2026-09-22T02:20:17+09:00",
       "date": "2026-09-22",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "New Crypto Alert: SEC Opens Tokenized Stock Trading as Pepeto Exchange Goes Live",
-      "description": "Discover the potential of new crypto trends as tokenized stocks hit the blockchain. Learn more about Pepeto's presale.",
-      "link": "https://techbullion.com/new-crypto-alert-sec-opens-tokenized-stock-trading-as-pepeto-exchange-goes-live/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-20T04:40:05+09:00",
-      "date": "2026-09-20",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Fed hikes rates, CLARITY fails, SEC backs tokenized stocks | Weekly recap",
-      "description": "Fed rate hike pressures Bitcoin as CLARITY stalls, while SEC relief opens a five-year path for tokenized U.S. stock trading this week.",
-      "link": "https://crypto.news/fed-hikes-rates-clarity-fails-sec-backs-tokenized-stocks/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-19T16:58:08+09:00",
-      "date": "2026-09-19",
       "category": "theme",
       "companies": [
         "업계테마"

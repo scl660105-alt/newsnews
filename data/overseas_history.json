@@ -1,15 +1,40 @@
 {
-  "lastUpdated": "2026-09-25T03:01:47Z",
+  "lastUpdated": "2026-09-25T10:58:15Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 395,
+  "count": 397,
   "news": [
+    {
+      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+      "description": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
+      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-25T05:05:00+09:00",
+      "date": "2026-09-25",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "The stock token debate, and the gap nobody can close alone",
+      "description": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
+      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-25T05:03:21+09:00",
+      "date": "2026-09-25",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "NYSE's tokenized stocks plan puts control of onchain trading under scrutiny",
       "description": "NYSE’s tokenized stock plan could bring U.S. equities onchain, but questions remain over ownership, investor rights and who controls the market.",
       "link": "https://crypto.news/nyses-tokenized-stocks-plan-puts-control-of-onchain-trading-under-scrutiny/",
       "press": "Crypto News",
-      "pubDate": "2026-09-24T19:03:33+09:00",
+      "pubDate": "2026-09-24T10:03:33+00:00",
       "date": "2026-09-24",
       "category": "theme",
       "companies": [
