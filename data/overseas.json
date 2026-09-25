@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-24T21:02:29Z",
+  "lastUpdated": "2026-09-25T03:01:47Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "NYSE's tokenized stocks plan puts control of onchain trading under scrutiny",
+      "description": "NYSE’s tokenized stock plan could bring U.S. equities onchain, but questions remain over ownership, investor rights and who controls the market.",
+      "link": "https://crypto.news/nyses-tokenized-stocks-plan-puts-control-of-onchain-trading-under-scrutiny/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-24T19:03:33+09:00",
+      "date": "2026-09-24",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood CEO Vlad Tenev on Selling Spree, Plans More HOOD Stock Sale",
       "description": "HOOD stock falls as Robinhood CEO Vlad Tenev sold 259,166 Class A common shares and plans to sell 240,834 more.",
@@ -259,18 +271,6 @@
       ]
     },
     {
-      "title": "Tokenization is set to change stock trading. These stocks could get a boost",
-      "description": "Digital exchanges are rocketing upward in Friday morning trading after regulatory changes that follow the failure of the Clarity Act in Congress.",
-      "link": "https://www.cnbc.com/2026/09/18/tokenization-is-set-to-change-stock-trading-these-stocks-could-get-a-boost.html",
-      "press": "CNBC",
-      "pubDate": "2026-09-19T01:53:51+09:00",
-      "date": "2026-09-19",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
       "title": "TOP Financial Group Limited Announces Strategic Relocation of Global Headquarters to the United States",
       "description": "HOUSTON, Texas, Sept. 04, 2026 (GLOBE NEWSWIRE) -- TOP Financial Group Limited (NASDAQ: TOP, 'TOP” or the 'Company”), a fast-growing online brokerage firm specializing in local and foreign equities, futures, and options products, today announced the strategic relocation of its global headquarters to the United States. This transition marks a pivotal milestone in the company’s long-term growth strategy, as it gradually shifts its primary corporate focus and operational footprint to the American market. The new headquarters address is: 4201 Main Street, Suite 200, Houston, Texas 77002.",
       "link": "https://www.manilatimes.net/2026/09/05/tmt-newswire/globenewswire/top-financial-group-limited-announces-strategic-relocation-of-global-headquarters-to-the-united-states/2419043",
@@ -313,18 +313,6 @@
       "press": "The Manila Times",
       "pubDate": "2026-08-26T17:01:23+09:00",
       "date": "2026-08-26",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "PPFAS GIFT reduces minimum investment in its two outbound passive funds to $500",
-      "description": "PPFAS GIFT has cut the minimum investment in its S&P 500 and Nasdaq 100 outbound passive funds from $5,000 to $500, effective August 25. The move aims to broaden access to global diversification for eligible Indian investors through GIFT City, offering index-linked exposure to leading US companies without requiring foreign brokerage accounts.",
-      "link": "https://economictimes.indiatimes.com/mf/mf-news/ppfas-gift-reduces-minimum-investment-in-its-two-outbound-passive-funds-to-500/articleshow/133494705.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-08-25T14:36:00+09:00",
-      "date": "2026-08-25",
       "category": "market",
       "companies": [
         "거래소·규제"
