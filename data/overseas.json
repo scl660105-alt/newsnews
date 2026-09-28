@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-28T12:40:36Z",
+  "lastUpdated": "2026-09-28T22:51:53Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 23,
   "news": [
+    {
+      "title": "Ethereum price could rally to $5,000: Arthur Hayes",
+      "description": "Arthur Hayes says Ethereum price could reach $5,000 within a year as Robinhood's use of Ethereum strengthens the case for institutional adoption.",
+      "link": "https://crypto.news/ethereum-price-could-rally-to-5000-arthur-hayes/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-28T15:45:30+09:00",
+      "date": "2026-09-28",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Why your tokenized stock could stop trading for three months",
       "description": "What are tokenized stocks, and why can trading pause for three months? Understand the SEC experiment, volume caps, and possible exits.",
@@ -225,19 +237,6 @@
       "title": "Schwab Stock, JPMorgan Chase Slide On Vanguard AI Threat",
       "description": "Charles Schwab stock previously was pummeled in February on AI fears tied to startup Altruist. Vanguard's recent takeover raises the ante.",
       "link": "https://www.investors.com/news/schwab-stock-charles-schw-jpmorgan-case-altruist-vanguard-ai-sp-500/",
-      "press": "Investor's Business Daily",
-      "pubDate": "2026-09-23T03:22:07+09:00",
-      "date": "2026-09-23",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
-      "description": "Charles Schwab stock has lost key support as threats rise from Meta's Muse personal AI agent and Vanguard-owned Altruist.",
-      "link": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/",
       "press": "Investor's Business Daily",
       "pubDate": "2026-09-23T03:22:07+09:00",
       "date": "2026-09-23",
