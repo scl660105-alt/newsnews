@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-09-27T20:43:03Z",
+  "lastUpdated": "2026-09-28T03:08:18Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 24,
+  "count": 23,
   "news": [
+    {
+      "title": "Why your tokenized stock could stop trading for three months",
+      "description": "What are tokenized stocks, and why can trading pause for three months? Understand the SEC experiment, volume caps, and possible exits.",
+      "link": "https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-09-27T18:01:10+09:00",
+      "date": "2026-09-27",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Backpack CEO plans to bring 10,000 tokenized stocks to Solana",
       "description": "Backpack CEO Armani Ferrante plans to bring 10,000 tokenized stocks to Solana, linking brokerage holdings with DeFi through one API.",
@@ -248,18 +260,6 @@
       ]
     },
     {
-      "title": "Tokenized stocks may see limited U.S. demand: TD Cowen",
-      "description": "TD Cowen expects limited U.S. demand for tokenized stocks as thin liquidity, issuer resistance and stock perpetuals constrain adoption.",
-      "link": "https://crypto.news/tokenized-stocks-may-see-limited-u-s-demand-td-cowen/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-22T05:31:38+09:00",
-      "date": "2026-09-22",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
       "title": "TOP Financial Group Limited Announces Strategic Relocation of Global Headquarters to the United States",
       "description": "HOUSTON, Texas, Sept. 04, 2026 (GLOBE NEWSWIRE) -- TOP Financial Group Limited (NASDAQ: TOP, 'TOP” or the 'Company”), a fast-growing online brokerage firm specializing in local and foreign equities, futures, and options products, today announced the strategic relocation of its global headquarters to the United States. This transition marks a pivotal milestone in the company’s long-term growth strategy, as it gradually shifts its primary corporate focus and operational footprint to the American market. The new headquarters address is: 4201 Main Street, Suite 200, Houston, Texas 77002.",
       "link": "https://www.manilatimes.net/2026/09/05/tmt-newswire/globenewswire/top-financial-group-limited-announces-strategic-relocation-of-global-headquarters-to-the-united-states/2419043",
@@ -278,18 +278,6 @@
       "press": "Reuters",
       "pubDate": "2026-09-02T05:45:43+09:00",
       "date": "2026-09-02",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "MoneyHero Group to Announce Second Quarter 2026 Results",
-      "description": "HONG KONG and SINGAPORE, Aug. 28, 2026 (GLOBE NEWSWIRE) -- MoneyHero Limited (Nasdaq: MNY) ('MoneyHero” or the 'Company”), a leading tech- and AI-powered personal finance aggregation and comparison platform and a digital insurance brokerage provider in Greater Southeast Asia, today announced that it will release its second quarter 2026 results on Friday, September 11, 2026 before market opens and will hold a related conference call to discuss the results at 8:00 a.m. EDT (or 8:00 p.m. Hong Kong / Singapore time) on the same day.",
-      "link": "https://www.manilatimes.net/2026/08/28/tmt-newswire/globenewswire/moneyhero-group-to-announce-second-quarter-2026-results/2414054",
-      "press": "The Manila Times",
-      "pubDate": "2026-08-28T19:40:41+09:00",
-      "date": "2026-08-28",
       "category": "market",
       "companies": [
         "거래소·규제"
