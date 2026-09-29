@@ -1,8 +1,56 @@
 {
-  "lastUpdated": "2026-09-29T11:58:31Z",
+  "lastUpdated": "2026-09-29T17:51:49Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 23,
+  "count": 25,
   "news": [
+    {
+      "title": "Analysts Are Bullish on Top Financial Stocks: Macquarie Group Limited (MCQEF), Robinhood (HOOD)",
+      "description": "There’s a lot to be optimistic about in the Financial sector as 2 analysts just weighed in on Macquarie Group Limited (MCQEF) and Robinhood (HOO...",
+      "link": "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-top-financial-stocks-macquarie-group-limited-mcqef-robinhood-hood-1036580445",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-29T12:50:41+09:00",
+      "date": "2026-09-29",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "SingSaver, Singapore's Leading Personal Finance Platform, Launches Home Loans Segment",
+      "description": "Affiliate partnership with Redbrick Mortgage Advisory gives SingSaver users bank-by-bank rate comparison and advice through to applicationThe launch takes SingSaver into Singapore's largest household debt category, worth S$296.4 billion, where the gap between bank home loan rates and the HDB concessionary rate of 2.6% can add up to hundreds of dollars a month for borrowers SINGAPORE, Sept. 29, 2026 (GLOBE NEWSWIRE) -- SingSaver, Singapore's leading personal finance comparison platform and part of Nasdaq-listed MoneyHero Group (NASDAQ: MNY), today launched a Home Loans comparison category in partnership with Redbrick Mortgage Advisory. The launch takes SingSaver into the largest category of household debt in Singapore and extends its product suite beyond credit cards, personal loans, insurance and brokerage.",
+      "link": "https://www.manilatimes.net/2026/09/29/tmt-newswire/globenewswire/singsaver-singapores-leading-personal-finance-platform-launches-home-loans-segment/2434645",
+      "press": "The Manila Times",
+      "pubDate": "2026-09-29T12:44:39+09:00",
+      "date": "2026-09-29",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Robinhood price target raised to $135 from $125 at BTIG",
+      "description": "BTIG raised the firm’s price target on Robinhood (HOOD) to $135 from $125 and keeps a Buy rating on the shares. The company has released its mo...",
+      "link": "https://markets.businessinsider.com/news/stocks/robinhood-price-target-raised-to-135-from-125-at-btig-1036580220",
+      "press": "Markets Insider",
+      "pubDate": "2026-09-29T10:50:19+09:00",
+      "date": "2026-09-29",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain’s $1.5 billion boom is attracting memecoin rug factories",
+      "description": "Robinhood Chain's $1.5 billion TVL milestone is being shadowed by serial memecoin rug operations on the network.",
+      "link": "https://cryptoslate.com/robinhood-chains-1-5-billion-boom-is-attracting-memecoin-rug-factories/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-09-29T09:20:34+09:00",
+      "date": "2026-09-29",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "How much money is considered rich in America? $2.3 million may be the benchmark, but where you live changes everything",
       "description": "There is no number that suddenly makes a person rich. Still, Americans have a figure in mind. A 2025 Charles Schwab survey found that people believe an average net worth of $2.3 million is needed to be considered rich. That is a useful glimpse into how Americans view wealth, but it is not a fixed rule. Two households with the same amount of money can have very different financial lives.",
@@ -162,18 +210,6 @@
       ]
     },
     {
-      "title": "Winners And Losers Of SEC’s New Tokenized Stocks Rules",
-      "description": "The SEC’s five-year tokenized stocks exemption favors some existing players while others will be forced to adapt. Here’s what it means for Coinbase, Robinhood, Uniswap and others.",
-      "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
-      "press": "Cointelegraph",
-      "pubDate": "2026-09-23T22:30:00+09:00",
-      "date": "2026-09-23",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "NYSE and Blockchain.com to explore selling tokenised stocks",
       "description": "The New ​York Stock Exchange and crypto brokerage Blockchain.com will together explore creating crypto ‌versions of US-listed stocks, Blockchain.com said in a press release on Wednesday.",
       "link": "https://www.reuters.com/legal/government/nyse-blockchaincom-explore-selling-tokenised-stocks-2026-09-23/",
@@ -210,18 +246,6 @@
       ]
     },
     {
-      "title": "X launches Cashtag Trading Programme with Coinbase, Kraken, Gemini and Other Platforms: Benefits and use",
-      "description": "X has launched the US Cashtag Partner Programme, connecting stock, ETF and cryptocurrency pages with five external trading platforms. Coinbase, Gemini, Kraken, Interactive Brokers and Moomoo are the initial partners. Users can select the “Trade” option from supported Cashtags.",
-      "link": "https://www.indiatvnews.com/technology/news/x-launches-cashtag-trading-programme-with-coinbase-kraken-gemini-and-other-platforms-benefits-and-use-2026-09-23-1055062",
-      "press": "India TV News",
-      "pubDate": "2026-09-23T20:17:06+09:00",
-      "date": "2026-09-23",
-      "category": "broker",
-      "companies": [
-        "Interactive Brokers"
-      ]
-    },
-    {
       "title": "CFTC, SEC Advance Tokenization After CLARITY Act Setback",
       "description": "CFTC Chair Michael Selig says US markets should prepare for “mass tokenization” as the SEC also advances tokenized stock trading.",
       "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
@@ -240,9 +264,8 @@
       "press": "Seeking Alpha",
       "pubDate": "2026-09-23T18:31:57+09:00",
       "date": "2026-09-23",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
