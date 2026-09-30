@@ -1,15 +1,76 @@
 {
-  "lastUpdated": "2026-09-30T17:27:09Z",
+  "lastUpdated": "2026-09-30T21:46:31Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 360,
+  "count": 365,
   "news": [
+    {
+      "title": "Big companies used to treat retail investors as an afterthought-now, they are at the IPO table",
+      "description": "Robinhood’s name among the underwriters for Oura’s IPO is the latest example of retail investors growing influence.",
+      "link": "https://fortune.com/2026/09/30/big-companies-used-to-treat-retail-investors-afterthought-now-ipo-table/",
+      "press": "Fortune",
+      "pubDate": "2026-09-30T18:01:58+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "DoorDash To Create 3,000 Jobs In Hyderabad In 2 Years",
+      "description": "DoorDash joins companies such as Costco, McDonald's, Charles Schwab, Marriott and Southwest Airlines that have opened offshore centres in Hyderabad over the past few months.",
+      "link": "https://www.ndtv.com/world-news/doordash-to-create-3-000-jobs-in-hyderabad-in-2-years-12119050",
+      "press": "NDTV.com",
+      "pubDate": "2026-09-30T17:44:36+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Robinhood's new AI agent will trade for you even while you sleep",
+      "description": "Robinhood users could soon access an AI agent that trades on behalf of them even at 2 am. Plus, they will get to trade crypto perpetuals.",
+      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-30T14:59:31+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "TNG Digital, Webull Malaysia partner to bring global share trading to TNG eWallet",
+      "description": "PETALING JAYA: TNG Digital Sdn Bhd and Webull Securities (Malaysia) Sdn Bhd have partnered to introduce global share trading through GOfinance in TNG eWallet, giving eligible Malaysians access to the United States, Hong Kong and China A-share markets.",
+      "link": "https://www.thestar.com.my/business/business-news/2026/09/30/tng-digital-webull-malaysia-partner-to-bring-global-share-trading-to-tng-ewallet",
+      "press": "The Star",
+      "pubDate": "2026-09-30T14:47:00+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Robinhood plans 10x crypto perps for U.S. traders",
+      "description": "Robinhood plans U.S. crypto perps with up to 10x leverage and 24/7 weekend stock trading, with the equity rollout pending regulatory review.",
+      "link": "https://crypto.news/robinhood-plans-10x-crypto-perps-for-u-s-traders/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-30T14:41:42+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "US trading platform Robinhood introduces round-the-clock trading, allows weekend transactions: A look at top features",
       "description": "Robinhood is expanding access to 24/7 trading by allowing weekend transactions in select US stocks and ETFs. The platform is also introducing earnings-related bets, perpetual futures, AI trading agents and a social platform as markets move towards longer trading hours.",
       "link": "https://www.livemint.com/market/stock-market-news/us-trading-platform-robinhood-introduces-round-the-clock-trading-allows-weekend-transactions-a-look-at-top-features-11790739007362.html",
       "press": "Livemint",
-      "pubDate": "2026-09-30T12:50:22+09:00",
+      "pubDate": "2026-09-30T03:50:22+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -21,7 +82,7 @@
       "description": "An Indore private firm employee was allegedly duped of ₹7.20 lakh through a fake AI-based trading app promising daily returns of 5% to 10%. The fraudsters initially allowed him to withdraw $50 to gain his confidence before demanding larger investments, brokerage charges and a purported “cross-country tax”.",
       "link": "https://www.freepressjournal.in/indore/50-withdrawal-builds-trust-indore-man-later-loses-720-lakh-in-fake-ai-trading-app-scam",
       "press": "Free Press Journal",
-      "pubDate": "2026-09-30T12:30:00+09:00",
+      "pubDate": "2026-09-30T03:30:00+00:00",
       "date": "2026-09-30",
       "category": "theme",
       "companies": [
@@ -33,7 +94,7 @@
       "description": "Robinhood is set to revolutionize trading by offering 24/7 access to select US stocks during weekends, fostering a more flexible investment environment for its users. This move aligns with a growing trend towards longer trading hours. Alongside this, new features will allow betting on corporate earnings and trading perpetual futures.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access/articleshow/134577438.cms",
       "press": "The Economic Times",
-      "pubDate": "2026-09-30T11:12:00+09:00",
+      "pubDate": "2026-09-30T02:12:00+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -45,7 +106,7 @@
       "description": "The move comes as Nasdaq, London Stock Exchange plan to expand trading hours. Read more at straitstimes.com.",
       "link": "https://www.straitstimes.com/business/companies-markets/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access",
       "press": "The Straits Times",
-      "pubDate": "2026-09-30T10:20:00+09:00",
+      "pubDate": "2026-09-30T01:20:00+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -57,7 +118,7 @@
       "description": "Robinhood Markets said Tuesday it plans to let customers trade a selection of US equities and ETFs around the clock, including weekends, pending regulatory review, as it rolls out a slate of...",
       "link": "https://www.marketscreener.com/news/robinhood-markets-plans-weekend-equities-trading-perpetual-futures-for-us-customers-ce785ad2db8bf624",
       "press": "MarketScreener",
-      "pubDate": "2026-09-30T08:59:15+09:00",
+      "pubDate": "2026-09-29T23:59:15+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [

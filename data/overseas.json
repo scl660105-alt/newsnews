@@ -1,8 +1,69 @@
 {
-  "lastUpdated": "2026-09-30T17:27:09Z",
+  "lastUpdated": "2026-09-30T21:46:31Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Big companies used to treat retail investors as an afterthought-now, they are at the IPO table",
+      "description": "Robinhood’s name among the underwriters for Oura’s IPO is the latest example of retail investors growing influence.",
+      "link": "https://fortune.com/2026/09/30/big-companies-used-to-treat-retail-investors-afterthought-now-ipo-table/",
+      "press": "Fortune",
+      "pubDate": "2026-09-30T18:01:58+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "DoorDash To Create 3,000 Jobs In Hyderabad In 2 Years",
+      "description": "DoorDash joins companies such as Costco, McDonald's, Charles Schwab, Marriott and Southwest Airlines that have opened offshore centres in Hyderabad over the past few months.",
+      "link": "https://www.ndtv.com/world-news/doordash-to-create-3-000-jobs-in-hyderabad-in-2-years-12119050",
+      "press": "NDTV.com",
+      "pubDate": "2026-09-30T17:44:36+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Robinhood's new AI agent will trade for you even while you sleep",
+      "description": "Robinhood users could soon access an AI agent that trades on behalf of them even at 2 am. Plus, they will get to trade crypto perpetuals.",
+      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "press": "CoinDesk",
+      "pubDate": "2026-09-30T14:59:31+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "TNG Digital, Webull Malaysia partner to bring global share trading to TNG eWallet",
+      "description": "PETALING JAYA: TNG Digital Sdn Bhd and Webull Securities (Malaysia) Sdn Bhd have partnered to introduce global share trading through GOfinance in TNG eWallet, giving eligible Malaysians access to the United States, Hong Kong and China A-share markets.",
+      "link": "https://www.thestar.com.my/business/business-news/2026/09/30/tng-digital-webull-malaysia-partner-to-bring-global-share-trading-to-tng-ewallet",
+      "press": "The Star",
+      "pubDate": "2026-09-30T14:47:00+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Robinhood plans 10x crypto perps for U.S. traders",
+      "description": "Robinhood plans U.S. crypto perps with up to 10x leverage and 24/7 weekend stock trading, with the equity rollout pending regulatory review.",
+      "link": "https://crypto.news/robinhood-plans-10x-crypto-perps-for-u-s-traders/",
+      "press": "Crypto News",
+      "pubDate": "2026-09-30T14:41:42+09:00",
+      "date": "2026-09-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "US trading platform Robinhood introduces round-the-clock trading, allows weekend transactions: A look at top features",
       "description": "Robinhood is expanding access to 24/7 trading by allowing weekend transactions in select US stocks and ETFs. The platform is also introducing earnings-related bets, perpetual futures, AI trading agents and a social platform as markets move towards longer trading hours.",
@@ -76,42 +137,6 @@
       ]
     },
     {
-      "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
-      "description": "Robinhood said on Tuesday it will let users trade some US stocks round-the-clock during weekends, marking its latest effort to keep up as the industry marches toward 24-hour access.\nThe...",
-      "link": "https://www.marketscreener.com/news/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access-ce785ad2db89f626",
-      "press": "MarketScreener",
-      "pubDate": "2026-09-30T08:01:25+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood (HOOD) adds AI agents, perps and weekend trading in push to win active traders",
-      "description": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
-      "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-30T08:00:00+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood rolls out OpenAI and Anthropic trading agents to millions of users",
-      "description": "The new agents will be available to millions of Robinhood users, who can choose between OpenAI and Anthropic models.",
-      "link": "https://fortune.com/2026/09/29/robinhood-trading-agents-hood-openai-anthropic/",
-      "press": "Fortune",
-      "pubDate": "2026-09-30T08:00:00+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
       "description": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
       "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
@@ -133,30 +158,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "How the Rise of Prediction Markets Impacts Sportsbooks",
-      "description": "Bloomberg's Romaine Bostick reports on how the rise of prediction markets is impacting sports betting and if more regulation is needed. Executives from BetMGM, DraftKings, FanDuel, Robinhood and...",
-      "link": "https://www.marketscreener.com/news/how-the-rise-of-prediction-markets-impacts-sportsbooks-ce785addd08ff726",
-      "press": "MarketScreener",
-      "pubDate": "2026-09-30T02:59:25+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Erupts as MUBARAK Ignites Buzz Over the Next 100x Meme Coin on BSC",
-      "description": "MUBARAK is drawing meme-driven volume on Robinhood Chain as traders watch whether the narrative spills over to BSC.",
-      "link": "https://techbullion.com/robinhood-chain-erupts-as-mubarak-ignites-buzz-over-the-next-100x-meme-coin-on-bsc/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-30T00:21:06+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
