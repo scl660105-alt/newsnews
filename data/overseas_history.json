@@ -1,15 +1,63 @@
 {
-  "lastUpdated": "2026-10-01T03:40:28Z",
+  "lastUpdated": "2026-10-01T12:15:44Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 370,
+  "count": 374,
   "news": [
+    {
+      "title": "Robinhood’s new launches underscore its product velocity, says Goldman Sachs",
+      "description": "Goldman Sachs keeps a buy rating and $145 price target on Robinhood (HOOD) following the company’s new product announcements at Hood Summit. Th...",
+      "link": "https://markets.businessinsider.com/news/stocks/robinhood-s-new-launches-underscore-its-product-velocity-says-goldman-sachs-1036587907",
+      "press": "Markets Insider",
+      "pubDate": "2026-10-01T08:25:13+09:00",
+      "date": "2026-10-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Ai Meets Wall Street: Robinhood Unveils A New Era Of Automated Trading",
+      "description": "Robinhood plans to expand trading with weekend stock access, Bitcoin and Ether perpetual futures up to 10x leverage, and automated trading agents that can execute trades under user-defined conditions.",
+      "link": "https://www.cryptobreaking.com/ai-meets-wall-street-robinhood/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-10-01T04:12:05+09:00",
+      "date": "2026-10-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
+      "description": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-01T03:17:00+09:00",
+      "date": "2026-10-01",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Robinhood to Offer Weekend Equities Trade; Cal-Maine Falls on Sales Miss | Stock Movers",
+      "description": "On this episode of Stock Movers:\n- Cal-Maine shares fell after the egg producer reported net sales for the first quarter that missed the average analyst estimate, and said it won't pay a cash...",
+      "link": "https://www.marketscreener.com/news/robinhood-to-offer-weekend-equities-trade-cal-maine-falls-on-sales-miss-stock-movers-ce785ad3d98aff20",
+      "press": "MarketScreener",
+      "pubDate": "2026-10-01T00:55:08+09:00",
+      "date": "2026-10-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Chain kept producing blocks as apps faltered",
       "description": "Robinhood Chain kept producing blocks during its Sept. 4 disruption, while successful app traffic fell sharply for roughly 40 minutes.",
       "link": "https://cryptoslate.com/robinhood-chain-kept-producing-blocks-through-a-roughly-40-minute-app-disruption/",
       "press": "CryptoSlate",
-      "pubDate": "2026-10-01T00:20:28+09:00",
+      "pubDate": "2026-09-30T15:20:28+00:00",
       "date": "2026-10-01",
       "category": "broker",
       "companies": [
@@ -21,7 +69,7 @@
       "description": "It’s Wednesday, September 30, 2026, and the AI industry spent the last day doing two things at once: warning that its systems can lie, hack, and maybe threaten humanity, then asking governments, banks, and the public to let it police itself while it borrows hundreds of billions to build faster. That’s the split running through",
       "link": "https://techstartups.com/2026/09/30/top-tech-news-today-september-30-2026-deepseek-anthropic-google-meta-openai-robinhood-more/",
       "press": "TechStartups.com",
-      "pubDate": "2026-09-30T23:57:03+09:00",
+      "pubDate": "2026-09-30T14:57:03+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -33,7 +81,7 @@
       "description": "Robinhood stock surges after announcing plans to launch 24/7 AI trading agents for retail customers, providing institutional resources.",
       "link": "https://www.investors.com/news/robinhood-ai-trading-bots-agentic-trading-hood-stock/",
       "press": "Investor's Business Daily",
-      "pubDate": "2026-09-30T22:21:19+09:00",
+      "pubDate": "2026-09-30T13:21:19+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -46,7 +94,7 @@
       "description": "Dune, a data analytics platform, found that the $34 billion market for tokenized assets now looks more like an always-open crypto trading platform.",
       "link": "https://fortune.com/2026/09/30/new-report-expansion-tokenization-new-styles-investing/",
       "press": "Fortune",
-      "pubDate": "2026-09-30T22:00:00+09:00",
+      "pubDate": "2026-09-30T13:00:00+00:00",
       "date": "2026-09-30",
       "category": "theme",
       "companies": [
@@ -58,7 +106,7 @@
       "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
       "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
       "press": "CNBC",
-      "pubDate": "2026-09-30T21:00:00+09:00",
+      "pubDate": "2026-09-30T12:00:00+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -70,7 +118,7 @@
       "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
       "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
       "press": "Decrypt",
-      "pubDate": "2026-09-30T20:54:22+09:00",
+      "pubDate": "2026-09-30T11:54:22+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -82,7 +130,7 @@
       "description": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
       "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
       "press": "CoinDesk",
-      "pubDate": "2026-09-30T19:11:36+09:00",
+      "pubDate": "2026-09-30T10:11:36+00:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
