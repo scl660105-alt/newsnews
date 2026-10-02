@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-02T03:40:11Z",
+  "lastUpdated": "2026-10-02T11:44:42Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 27,
   "news": [
+    {
+      "title": "Next OpenAI, Anthropic may go direct to retail investor. Buyer beware",
+      "description": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
+      "link": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
+      "press": "CNBC",
+      "pubDate": "2026-10-02T01:50:28+09:00",
+      "date": "2026-10-02",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Charles Schwab adding dual listing to Texas Stock Exchange",
+      "description": "Westlake-based financial services firm Charles Schwab will begin trading on TXSE on Oct. 7.",
+      "link": "https://www.dallasnews.com/business/banking/article/charles-schwab-adding-dual-listing-texas-stock-22457714.php",
+      "press": "The Dallas Morning News",
+      "pubDate": "2026-10-02T01:07:52+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Robinhood Stock Prediction After September US Jobs Report",
       "description": "Robinhood Stock prediction explores unemployment claims, softer inflation and resistance levels shaping HOOD's $114 target.",
@@ -130,18 +155,6 @@
       "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
       "press": "CNBC",
       "pubDate": "2026-09-30T21:00:00+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-      "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
-      "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-      "press": "Decrypt",
-      "pubDate": "2026-09-30T20:54:22+09:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
