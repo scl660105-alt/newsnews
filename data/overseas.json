@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-01T22:14:30Z",
+  "lastUpdated": "2026-10-02T03:40:11Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Robinhood Stock Prediction After September US Jobs Report",
+      "description": "Robinhood Stock prediction explores unemployment claims, softer inflation and resistance levels shaping HOOD's $114 target.",
+      "link": "https://coingape.com/markets/robinhood-stock-prediction-after-september-us-jobs-report/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-01T23:30:37+09:00",
+      "date": "2026-10-01",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "HOOD Stock Forecast as Robinhood Gears Up for Cboe KPI Contracts Launch in October",
       "description": "HOOD stock price edged lower on September 30 despite the Cboe announcing it will launch KPI binary options on the exchange in October.",
@@ -130,18 +142,6 @@
       "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
       "press": "Decrypt",
       "pubDate": "2026-09-30T20:54:22+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Bitcoin edges lower as yields climb and Robinhood targets perps traders",
-      "description": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-30T19:11:36+09:00",
       "date": "2026-09-30",
       "category": "broker",
       "companies": [
@@ -311,18 +311,6 @@
       "press": "The Manila Times",
       "pubDate": "2026-09-05T05:39:47+09:00",
       "date": "2026-09-05",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Investors argue against novel ETF label in letters to US SEC",
-      "description": "Market participants raised concerns over the U.S. Securities and Exchange Commission's proposal to label a broad ‌swathe of exchange-traded funds as \"novel ETFs,\" according to a Reuters review of letters filed with the Wall Street regulator by asset managers, exchanges, brokerage firms, clearing houses and others.",
-      "link": "https://www.reuters.com/legal/government/investors-argue-against-novel-etf-label-letters-us-sec-2026-09-01/",
-      "press": "Reuters",
-      "pubDate": "2026-09-02T05:45:43+09:00",
-      "date": "2026-09-02",
       "category": "market",
       "companies": [
         "거래소·규제"
