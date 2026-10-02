@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-10-02T17:16:41Z",
+  "lastUpdated": "2026-10-02T21:43:16Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 27,
+  "count": 26,
   "news": [
+    {
+      "title": "Robinhood says stock token volume is nearing SEC exemption caps",
+      "description": "Robinhood says its stock token volume is already high enough to potentially hit trading limits under the SEC’s new tokenization exemption.",
+      "link": "https://crypto.news/robinhood-says-stock-token-volume-is-nearing-sec-exemption-caps/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-02T18:13:10+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "업계테마"
+      ]
+    },
     {
       "title": "Next OpenAI, Anthropic may go direct to retail investor. Buyer beware",
       "description": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
@@ -150,18 +163,6 @@
       ]
     },
     {
-      "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-      "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
-      "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-      "press": "CNBC",
-      "pubDate": "2026-09-30T21:00:00+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "$50 Withdrawal Builds Trust, Indore Man Later Loses ₹7.20 Lakh In Fake AI Trading App Scam",
       "description": "An Indore private firm employee was allegedly duped of ₹7.20 lakh through a fake AI-based trading app promising daily returns of 5% to 10%. The fraudsters initially allowed him to withdraw $50 to gain his confidence before demanding larger investments, brokerage charges and a purported “cross-country tax”.",
       "link": "https://www.freepressjournal.in/indore/50-withdrawal-builds-trust-indore-man-later-loses-720-lakh-in-fake-ai-trading-app-scam",
@@ -264,18 +265,6 @@
       "press": "CoinDesk",
       "pubDate": "2026-09-25T05:03:21+09:00",
       "date": "2026-09-25",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "NYSE's tokenized stocks plan puts control of onchain trading under scrutiny",
-      "description": "NYSE’s tokenized stock plan could bring U.S. equities onchain, but questions remain over ownership, investor rights and who controls the market.",
-      "link": "https://crypto.news/nyses-tokenized-stocks-plan-puts-control-of-onchain-trading-under-scrutiny/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-24T19:03:33+09:00",
-      "date": "2026-09-24",
       "category": "theme",
       "companies": [
         "업계테마"
