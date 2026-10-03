@@ -1,8 +1,69 @@
 {
-  "lastUpdated": "2026-10-02T21:43:16Z",
+  "lastUpdated": "2026-10-03T03:24:29Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 27,
   "news": [
+    {
+      "title": "Robinhood stock token fuelled US$440 million memecoin frenzy",
+      "description": "Low Ze Sheng has spent the past two years trading memecoins, chasing the jokes that send tokens soaring before the crowd moves on. Read here",
+      "link": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-stock-tokens-fuelled-memecoin-frenzy",
+      "press": "Financial Post",
+      "pubDate": "2026-10-03T00:05:24+09:00",
+      "date": "2026-10-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Wells Fargo Initiates Coverage on Interactive Brokers With Overweight Rating",
+      "description": "Interactive Brokers Group has an average rating of overweight and mean price target of $108.80, according to analysts polled by FactSet.\n...",
+      "link": "https://www.marketscreener.com/news/wells-fargo-initiates-coverage-on-interactive-brokers-with-overweight-rating-ce785ddade80f022",
+      "press": "MarketScreener",
+      "pubDate": "2026-10-02T20:44:12+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "Wells Fargo Initiates Coverage on Charles Schwab With Equal Weight Rating",
+      "description": "Charles Schwab has an average rating of overweight and mean price target of $124.63, according to analysts polled by FactSet.\n...",
+      "link": "https://www.marketscreener.com/news/wells-fargo-initiates-coverage-on-charles-schwab-with-equal-weight-rating-ce785ddade80f020",
+      "press": "MarketScreener",
+      "pubDate": "2026-10-02T20:43:24+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Wells Fargo Initiates Robinhood Markets at Equalweight",
+      "description": "Robinhood Markets has an average rating of overweight and mean price target of $135.40, according to analysts polled by FactSet.\n...",
+      "link": "https://www.marketscreener.com/news/wells-fargo-initiates-robinhood-markets-at-equalweight-ce785ddade80f025",
+      "press": "MarketScreener",
+      "pubDate": "2026-10-02T20:43:16+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Chain Cat Memecoins Catch Fire: Commander VRAX Up 50%, Super Cat Surges 750% in 24 Hours",
+      "description": "Robinhood Chain memecoins surge as Commander VRAX rises 50% and Super Cat 750% in 24 hours, after Robinhood's \"he's a cat now\" post on Commander Vrax.",
+      "link": "https://coingape.com/robinhood-chain-cat-memecoins-catch-fire-commander-vrax-up-50-super-cat-surges-750-in-24-hours/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-02T18:52:30+09:00",
+      "date": "2026-10-02",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood says stock token volume is nearing SEC exemption caps",
       "description": "Robinhood says its stock token volume is already high enough to potentially hit trading limits under the SEC’s new tokenization exemption.",
@@ -78,18 +139,6 @@
       ]
     },
     {
-      "title": "Ai Meets Wall Street: Robinhood Unveils A New Era Of Automated Trading",
-      "description": "Robinhood plans to expand trading with weekend stock access, Bitcoin and Ether perpetual futures up to 10x leverage, and automated trading agents that can execute trades under user-defined conditions.",
-      "link": "https://www.cryptobreaking.com/ai-meets-wall-street-robinhood/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-10-01T04:12:05+09:00",
-      "date": "2026-10-01",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
       "description": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
@@ -102,51 +151,14 @@
       ]
     },
     {
-      "title": "Robinhood to Offer Weekend Equities Trade; Cal-Maine Falls on Sales Miss | Stock Movers",
-      "description": "On this episode of Stock Movers:\n- Cal-Maine shares fell after the egg producer reported net sales for the first quarter that missed the average analyst estimate, and said it won't pay a cash...",
-      "link": "https://www.marketscreener.com/news/robinhood-to-offer-weekend-equities-trade-cal-maine-falls-on-sales-miss-stock-movers-ce785ad3d98aff20",
-      "press": "MarketScreener",
-      "pubDate": "2026-10-01T00:55:08+09:00",
-      "date": "2026-10-01",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain kept producing blocks as apps faltered",
-      "description": "Robinhood Chain kept producing blocks during its Sept. 4 disruption, while successful app traffic fell sharply for roughly 40 minutes.",
-      "link": "https://cryptoslate.com/robinhood-chain-kept-producing-blocks-through-a-roughly-40-minute-app-disruption/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-10-01T00:20:28+09:00",
-      "date": "2026-10-01",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Top Tech News Today, September 30, 2026: DeepSeek, Anthropic, Google, Meta, OpenAI, Robinhood & More",
-      "description": "It’s Wednesday, September 30, 2026, and the AI industry spent the last day doing two things at once: warning that its systems can lie, hack, and maybe threaten humanity, then asking governments, banks, and the public to let it police itself while it borrows hundreds of billions to build faster. That’s the split running through",
-      "link": "https://techstartups.com/2026/09/30/top-tech-news-today-september-30-2026-deepseek-anthropic-google-meta-openai-robinhood-more/",
-      "press": "TechStartups.com",
-      "pubDate": "2026-09-30T23:57:03+09:00",
-      "date": "2026-09-30",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Robinhood Gives Retail Traders Institutional Tools With AI Trading Bots",
       "description": "Robinhood stock surges after announcing plans to launch 24/7 AI trading agents for retail customers, providing institutional resources.",
       "link": "https://www.investors.com/news/robinhood-ai-trading-bots-agentic-trading-hood-stock/",
       "press": "Investor's Business Daily",
       "pubDate": "2026-09-30T22:21:19+09:00",
       "date": "2026-09-30",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
