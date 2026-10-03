@@ -1,9 +1,33 @@
 {
-  "lastUpdated": "2026-10-03T15:34:52Z",
+  "lastUpdated": "2026-10-03T20:28:26Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 379,
+  "count": 381,
   "news": [
+    {
+      "title": "Robinhood pushes toward 24/7 trading: When does one trading day end and another begin?",
+      "description": "Robinhood Markets plans to offer weekend trading for selected stocks and ETFs, raising questions about trading day boundaries. The service will run from Sunday evening through Friday, despite traditional hours remaining unchanged.",
+      "link": "https://www.livemint.com/market/stock-market-news/robinhood-pushes-toward-24-7-trading-when-does-one-trading-day-end-and-another-begin-11791014947200.html",
+      "press": "Livemint",
+      "pubDate": "2026-10-03T17:19:17+09:00",
+      "date": "2026-10-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood stock tokens turbocharge a new era of meme trading",
+      "description": "Traders are actively engaging in memecoin and stock token swaps on Robinhood's platform, blurring traditional investment lines. The SEC has allowed temporary tokenized stock trades, reflecting a growing retail trend. Companies like AMC have expressed concerns over tokens trading without their involvement. As these trades evolve, stock prices may become detached from their underlying assets. This shift signifies a potential change in how risk is perceived by day traders.",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/robinhood-stock-tokens-turbocharge-a-new-era-of-meme-trading/articleshow/134652233.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-03T14:04:00+09:00",
+      "date": "2026-10-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "based Blast chain shuts down as operating 'no longer makes sense'",
       "description": "Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise and bigger platforms like Coinbase and Robinhood build networks of their own.",
