@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T03:36:44Z",
+  "lastUpdated": "2026-10-05T13:21:29Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
@@ -21,6 +21,18 @@
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/robinhood-stock-tokens-turbocharge-a-new-era-of-meme-trading/articleshow/134652233.cms",
       "press": "The Economic Times",
       "pubDate": "2026-10-03T14:04:00+09:00",
+      "date": "2026-10-03",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Hitting the Bull's-Eye On Robinhood Stock",
+      "description": "Our first arrow might have missed on HOOD stock, but that didn't mean it was time to give up. Consistency won the day when we hit our target.",
+      "link": "https://www.investors.com/research/swing-trading/hitting-bulls-eye-on-hood-stock/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-10-03T06:29:06+09:00",
       "date": "2026-10-03",
       "category": "broker",
       "companies": [
@@ -123,19 +135,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Charles Schwab adding dual listing to Texas Stock Exchange",
-      "description": "Westlake-based financial services firm Charles Schwab will begin trading on TXSE on Oct. 7.",
-      "link": "https://www.dallasnews.com/business/banking/article/charles-schwab-adding-dual-listing-texas-stock-22457714.php",
-      "press": "The Dallas Morning News",
-      "pubDate": "2026-10-02T01:07:52+09:00",
-      "date": "2026-10-02",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
