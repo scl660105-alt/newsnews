@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-05T13:21:29Z",
+  "lastUpdated": "2026-10-05T23:36:18Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 26,
+  "count": 27,
   "news": [
+    {
+      "title": "3 Newly-Rated Stocks with Strong Buy Ratings and Double-Digit Upside",
+      "description": "Visa Inc. (V), Robinhood Markets (HOOD), and Uber Technologies (UBER) are three stocks with Strong Buy ratings and double-digit upside, accordin...",
+      "link": "https://markets.businessinsider.com/news/stocks/3-newly-rated-stocks-with-strong-buy-ratings-and-double-digit-upside-1036596958",
+      "press": "Markets Insider",
+      "pubDate": "2026-10-05T17:35:02+09:00",
+      "date": "2026-10-05",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood pushes toward 24/7 trading: When does one trading day end and another begin?",
       "description": "Robinhood Markets plans to offer weekend trading for selected stocks and ETFs, raising questions about trading day boundaries. The service will run from Sunday evening through Friday, despite traditional hours remaining unchanged.",
@@ -119,9 +131,8 @@
       "press": "Crypto News",
       "pubDate": "2026-10-02T18:13:10+09:00",
       "date": "2026-10-02",
-      "category": "broker",
+      "category": "theme",
       "companies": [
-        "Robinhood",
         "업계테마"
       ]
     },
