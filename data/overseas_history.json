@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-10-08T22:45:28Z",
+  "lastUpdated": "2026-10-09T04:09:44Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 390,
+  "count": 394,
   "news": [
+    {
+      "title": "Cathie Wood's ARK Invest Doubles Down On Air Taxi Stocks, Defense Plays",
+      "description": "Cathie Wood buys more air taxi stocks and defense names for the second day in a row. Sells more Robinhood, DraftKings.",
+      "link": "https://www.investors.com/news/cathie-wood-ark-invest-air-taxi-joby-archer-aviation-defense-aerovironment-kratos/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-10-08T22:16:38+09:00",
+      "date": "2026-10-08",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Webull plunged 32% on report of ‘structural’ ties to China",
+      "description": "The US House Select Committee says Webull’s \"American\" brokerage and crypto trading brand has structural ties to China.",
+      "link": "https://protos.com/webull-plunged-32-on-report-of-structural-ties-to-china/",
+      "press": "Protos",
+      "pubDate": "2026-10-08T20:39:35+09:00",
+      "date": "2026-10-08",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors",
+      "description": "A $30 million seed round will help the startup’s founders build out their army of investing agents.",
+      "link": "https://fortune.com/2026/10/08/sequoia-backed-catalyst-raises-30-million-build-ai-trading-agents-everyday-investors/",
+      "press": "Fortune",
+      "pubDate": "2026-10-08T20:31:22+09:00",
+      "date": "2026-10-08",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Why is NEAR Protocol Price Outperforming BTC, ETH and XRP Today?",
+      "description": "NEAR Protocol price gains 7%, outpacing BTC, ETH and XRP, with Robinhood integration and growing Intents activity in focus.",
+      "link": "https://coingape.com/markets/why-is-near-protocol-price-outperforming-btc-eth-and-xrp-today/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-08T20:15:28+09:00",
+      "date": "2026-10-08",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Bitcoin News Today: Robinhood Makes a $25M BTC Bet as Remittix Targets Its Next 40,000 Users",
       "description": "Bitcoin news today has a new corporate buyer. Robinhood says it has added $25 million worth of BTC to its balance sheet, a move its crypto chief described as a signal of the company’s commitment to the sector",
