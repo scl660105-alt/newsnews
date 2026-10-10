@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-10-10T03:54:49Z",
+  "lastUpdated": "2026-10-10T11:45:40Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 393,
+  "count": 394,
   "news": [
+    {
+      "title": "Robinhood Chain is weighing new payment",
+      "description": "A recently updated version of the paid-for transaction-ordering technology “Time Boost” will be available on Arbitrum, Robinhood Chain’s infrastructure provider.",
+      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "press": "CoinDesk",
+      "pubDate": "2026-10-10T03:11:00+09:00",
+      "date": "2026-10-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Crypto platform Webull is getting slammed over its alleged China ties",
       "description": "Shares of Webull, the crypto trading platform that has faced scrutiny over its alleged China ties, have tanked nearly 76% since it went public through a special acquisition corporation early last year – but that should hardly be a surprise if you read On The Money.",
       "link": "https://nypost.com/2026/10/09/business/crypto-platform-webull-is-getting-slammed-over-its-alleged-china-ties/",
       "press": "New York Post",
-      "pubDate": "2026-10-09T23:19:56+09:00",
+      "pubDate": "2026-10-09T14:19:56+00:00",
       "date": "2026-10-09",
       "category": "broker",
       "companies": [
@@ -21,7 +33,7 @@
       "description": "Ohio gambling regulators have ordered Polymarket, Robinhood and other prediction-market operators to stop offering sports-related event contracts to Ohioans.",
       "link": "https://www.cleveland.com/open/2026/10/ohio-ramps-up-fight-against-prediction-market-sports-betting-capitol-letter.html",
       "press": "cleveland.com",
-      "pubDate": "2026-10-09T21:00:00+09:00",
+      "pubDate": "2026-10-09T12:00:00+00:00",
       "date": "2026-10-09",
       "category": "broker",
       "companies": [

@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-10T03:54:49Z",
+  "lastUpdated": "2026-10-10T11:45:40Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Robinhood Chain is weighing new payment",
+      "description": "A recently updated version of the paid-for transaction-ordering technology “Time Boost” will be available on Arbitrum, Robinhood Chain’s infrastructure provider.",
+      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "press": "CoinDesk",
+      "pubDate": "2026-10-10T03:11:00+09:00",
+      "date": "2026-10-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Crypto platform Webull is getting slammed over its alleged China ties",
       "description": "Shares of Webull, the crypto trading platform that has faced scrutiny over its alleged China ties, have tanked nearly 76% since it went public through a special acquisition corporation early last year – but that should hardly be a surprise if you read On The Money.",
@@ -117,18 +129,6 @@
       "link": "https://markets.businessinsider.com/news/stocks/why-webull-bull-stock-is-crashing-today-october-7-2026-1036607129",
       "press": "Markets Insider",
       "pubDate": "2026-10-08T05:55:56+09:00",
-      "date": "2026-10-08",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
-      "title": "Trading app Webull tanks 18 percent over ‘ties’ to Chinese government, national security concerns: report",
-      "description": "Webull, a digital brokerage platform, is quietly “tied in structural ways” to the Chinese government -- representing a national security threat to the nation’s finances, according to reported findings from US lawmakers.",
-      "link": "https://nypost.com/2026/10/07/business/trading-app-webull-plummets-18-percent-over-ties-to-chinese-government-national-security-concerns-report/",
-      "press": "New York Post",
-      "pubDate": "2026-10-08T05:16:15+09:00",
       "date": "2026-10-08",
       "category": "broker",
       "companies": [
