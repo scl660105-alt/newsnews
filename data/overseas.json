@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-10T11:45:40Z",
+  "lastUpdated": "2026-10-10T16:48:32Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall 40%",
+      "description": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "press": "CoinDesk",
+      "pubDate": "2026-10-10T13:44:35+09:00",
+      "date": "2026-10-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Chain is weighing new payment",
       "description": "A recently updated version of the paid-for transaction-ordering technology “Time Boost” will be available on Arbitrum, Robinhood Chain’s infrastructure provider.",
@@ -121,18 +133,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Why Webull (BULL) Stock Is Crashing Today - October 7, 2026",
-      "description": "Online brokerage Webull (BULL) plunged by about 20% on Wednesday after a bipartisan House committee raised national security concerns about the ...",
-      "link": "https://markets.businessinsider.com/news/stocks/why-webull-bull-stock-is-crashing-today-october-7-2026-1036607129",
-      "press": "Markets Insider",
-      "pubDate": "2026-10-08T05:55:56+09:00",
-      "date": "2026-10-08",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
