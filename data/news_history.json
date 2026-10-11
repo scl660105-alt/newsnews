@@ -1,16 +1,831 @@
 {
-  "lastUpdated": "2026-10-11T17:21:12Z",
+  "lastUpdated": "2026-10-11T21:30:24Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 112504,
+  "count": 112566,
   "news": [
+    {
+      "title": "美 은행 보안인력 韓 최대 47배…체급별 방어망 구축 시급",
+      "description": "12일 미국 증권거래위원회(SEC)에 따르면 지난해 말 기준 씨티은행과 뱅크오브아메리카(BofA)의 사이버보안 전담인력은 각각 약 3400명에 달한다. 반면 국내 4대 은행의 정보보호 인력은 KB국민은행 96.7명, 신한은행 97.8명...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004670102?sid=101",
+      "originallink": "https://www.sedaily.com/article/20100229?ref=naver",
+      "press": "서울경제",
+      "pubDate": "2026-10-12T06:21:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "외인 삼성전자 보유율, 2008년 금융위기 수준까지 하락...지난해말 52.40...",
+      "description": "이재원 유안타증권 연구원은 \"외국인은 SK하이닉스와 SK스퀘어를, 기관은 삼성전자와 삼성전기를 집중 매도하고 있다\"며 \"좋은 실적만으로는 외국인 수급 반전을 기대하기 어려운 환경이라는 점을 재확인했다....",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202610120616109142aaae0046f_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202610120616109142aaae0046f_30",
+      "press": "",
+      "pubDate": "2026-10-12T06:20:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "[교육] 신약개발 위기 대응 전략부터 실습까지, PR·IR 실무 과정",
+      "description": "당시 유한양행, 키움증권, 뉴로핏 등 현장 전문가들이 강사로 나서 보도자료 작성법, 언론 대응 노하우, IR 스토리라인 설계, 밸류에이션 논리 점검 등 실무 밀착형 강연을 펼쳐 수강생들로부터 높은 만족도를...",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79785",
+      "originallink": "https://www.hitnews.co.kr/news/articleView.html?idxno=79785",
+      "press": "",
+      "pubDate": "2026-10-12T06:12:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "키움증권",
+        "신영증권"
+      ]
+    },
+    {
+      "title": "제품 출시 3년여 만에 1000억원, K-에스테틱에 새 시장이 열렸다",
+      "description": "지난 6월 신한투자증권이 제시한 보고서를 보면 국내 ECM 스킨부스터 시장은 2025년 99억원에서 2026년 925억원, 2027년엔 1729억원에 달할 것으로 봤다. 출시 후 3년간 연평균 성장률이 317%에 달한다. 스킨부스터 시장에서...",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=79494",
+      "originallink": "https://www.hitnews.co.kr/news/articleView.html?idxno=79494",
+      "press": "",
+      "pubDate": "2026-10-12T06:12:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "“역시 주식은 낮에 하는 게 아니네요”...개미들, 국장 믿음 버리고 미...",
+      "description": "김종민 삼성증권 수석연구위원은 “고금리를 견딜 고성장 산업인 AI 밸류체인으로만 자금이 이동 중”이라며 “신흥국 대비 선진국, 신흥국 내 한국 대비 대만 우세가 겹치며 자산 쏠림이 미국 AI 밸류체인으로...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005746909?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12173229",
+      "press": "매일경제",
+      "pubDate": "2026-10-12T06:11:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "삼성증권"
+      ]
+    },
+    {
+      "title": "[미리보는 증시재료] 美 CPI·PPI 줄줄이…은행 실적·연준 베이지북 주...",
+      "description": "김민규 KB증권 연구원은 \"대형주에 집중된 수급이 확산되는 과정에서 코스닥의 반등 가능성에 주목한다\"며 \"정책 모멘텀이 존재하는 친환경과 업황 호조가 이어지는 반도체 소부장을 주목하며, 개별 이벤트가...",
+      "link": "https://www.newspim.com/news/view/20261008001171",
+      "originallink": "https://www.newspim.com/news/view/20261008001171",
+      "press": "뉴스핌",
+      "pubDate": "2026-10-12T06:10:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권",
+        "대신증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "외국인·패션이 떠받친 백화점…3분기 실적도 개선 기대",
+      "description": "이진협 한화투자증권 연구원은 \"명품 성장률이 둔화된 반면 패션 성장률이 반등한 것이 3분기의 특징\"이라며 \"롯데쇼핑은 상대적으로 패션 매출 비중이 높아 기존점 성장률의 방어력이 높게 나타났다\"고 분석했다....",
+      "link": "https://n.news.naver.com/mnews/article/421/0009220995?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6314883",
+      "press": "뉴스1",
+      "pubDate": "2026-10-12T06:10:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한화투자증권",
+        "교보증권",
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "“긴축의 시대지만 예적금은 좀”…투자 대가 4인방, 포트폴리오 공통점...",
+      "description": "포트폴리오 4인방은 김영익 내일희망경제연구소장, 목대균 KCGI자산운용 대표, 유동원 유안타증권 글로벌자산배분본부장(상무), 홍춘욱 프리즘투자자문 대표 등이다. 이들은 오는 29~31일 서울 코엑스 마곡에서 열리는...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005746908?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12173228",
+      "press": "매일경제",
+      "pubDate": "2026-10-12T06:10:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "코메론, 발행주식 11.7% 규모 자사주 소각 예정",
+      "description": "소각 대상은 기존 보유분 6만3630주와 SK증권 신탁계약 취득분 48만8261주, NH투자증권 신탁계약 취득분 50만7785주다. 9월 4일 체결한 신규 자기주식 취득 신탁계약으로 취득 중인 물량은 이번 소각 대상에서...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392201",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392201",
+      "press": "",
+      "pubDate": "2026-10-12T06:08:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "NH투자증권",
+        "SK증권"
+      ]
+    },
+    {
+      "title": "[무리수파업 논란 삼성바이오] ② 유증 국면 위험성...노조 문제 키우고...",
+      "description": "유안타증권은 208만원에서 200만원으로 조정했고, 하나증권은 203만원에서 195만원, 현대차증권은 198만원에서 190만원 등 하향 조정 흐름이 뚜렷하다. 3분기 실적은 양호할 전망이다. 증권가 예상 매출은 1조3477억~1조4063억원...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279716",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279716",
+      "press": "",
+      "pubDate": "2026-10-12T06:06:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권",
+        "유안타증권",
+        "현대차증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "대신증권, 시장조성 의무이행률 2%…첫해부터 철수 가닥",
+      "description": "미래에셋증권은 지난해 9월 계약 기간 도중 유가증권시장 115개와 코스닥시장 139개 종목에 대한 시장조성 계약을 중도 해지한 바 있다. 거래소와 하반기 시장조성 변경계약을 체결한 지 약 두 달 만이었다. 당시...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004670098?sid=101",
+      "originallink": "https://www.sedaily.com/article/20100057?ref=naver",
+      "press": "서울경제",
+      "pubDate": "2026-10-12T06:05:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "NH투자증권",
+        "신한투자증권",
+        "대신증권",
+        "교보증권",
+        "신영증권"
+      ]
+    },
+    {
+      "title": "삼성전자 역대급 실적에도 코스피 '흔들'…반등의 열쇠는?",
+      "description": "삼성전자 실적 이후로는 시장의 중심 변수가 금리와 유가 등 매크로 변수에서 실적으로 옮겨갈 것이란 의견이다.김록호 하나증권 연구원은 \"(메모리) 물량과 가격이 모두 제한된 상황에서 더 이상 실적에 대한...",
+      "link": "https://news.mtn.co.kr/news-detail/2026101121093775298",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026101121093775298",
+      "press": "머니투데이방송",
+      "pubDate": "2026-10-12T06:04:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권",
+        "메리츠증권"
+      ]
+    },
+    {
+      "title": "삼전 외국인 지분 46%대… 금융위기 수준 급락",
+      "description": "김종민 삼성증권 수석연구위원은 “신흥시장 대비 선진시장 우세, 신흥시장 내 한국 대비 대만 우세 등이 겹치며 자산의 쏠림이 미국 인공지능(AI) 밸류체인으로 향하고 있다”며 “국내 개인 투자자도 원화 강세...",
+      "link": "https://n.news.naver.com/mnews/article/022/0004165787?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261011512501?OutUrl=naver",
+      "press": "세계일보",
+      "pubDate": "2026-10-12T06:03:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "삼성증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "[증권리포트 분석] ① 적중률 한화투자증권 꼴찌, iM증권 1위",
+      "description": "DS투자증권(17개 중 1개), 대신증권(17개 중 1개), 한화투자증권(20개 중 1개)이 1개씩 맞추는 데 그쳐 적중수 공동 꼴찌를 기록했고, 미래에셋증권(20개 중 2개), 현대차증권(34개 중 2개), 하나증권(39개 중 2개)...",
+      "link": "https://www.bigtanews.co.kr/article/view/big202610110002",
+      "originallink": "https://www.bigtanews.co.kr/article/view/big202610110002",
+      "press": "",
+      "pubDate": "2026-10-12T06:02:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "KB증권",
+        "신한투자증권",
+        "하나증권",
+        "대신증권",
+        "한화투자증권",
+        "유안타증권",
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "금리·유가 부담 상쇄할 ‘메모리 슈퍼사이클’… 다시 구천피 찍나 [마...",
+      "description": "박연주 미래에셋증권 AI리서치센터장은 특정 지수를 제시하지 않았지만 “코스피는 이익 창출력을 감안할 때 글로벌 주요 증시 대비 여전히 상당 폭 싼 구간에 있다”고 진단했다. ◆금리·유가 vs AI·반도체 실적...",
+      "link": "https://n.news.naver.com/mnews/article/022/0004165779?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261011511669?OutUrl=naver",
+      "press": "세계일보",
+      "pubDate": "2026-10-12T06:02:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권",
+        "키움증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "“고점 확신 전까진 단기채…조급함은 금물이죠”",
+      "description": "[스페셜]고금리 시대 투자법 - 윤여삼 메리츠증권 채권 애널리스트 한국은행이 지난 8월 기준금리를 연 3%로... 경제 지표 하나가 갑자기 급변했다기보다 정책당국의 반응함수, 즉 물가가 번진 뒤가 아니라 번지기 전에...",
+      "link": "https://magazine.hankyung.com/money/article/202609078509c",
+      "originallink": "https://magazine.hankyung.com/money/article/202609078509c",
+      "press": "한국경제",
+      "pubDate": "2026-10-12T06:02:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권",
+        "메리츠증권"
+      ]
+    },
+    {
+      "title": "엠에스바이오·디티에스 공모 청약… 진코스텍·멜콘 상장 [이번주 증시...",
+      "description": "인텔리빅스는 폐쇄회로(CC)TV 영상 분석 기술을 기반으로 재난·산업 현장 위험을 감지하는 솔루션을 개발하는 기업으로 희망 공모가는 7600~9000원이며 미래에셋증권이 대표주관사를 맡았다. 골프 시뮬레이터와...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004670091?sid=101",
+      "originallink": "https://www.sedaily.com/article/20100109?ref=naver",
+      "press": "서울경제",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "KB증권",
+        "하나증권",
+        "대신증권",
+        "SK증권"
+      ]
+    },
+    {
+      "title": "스페이스X 투자 대박 뒤 커진 ‘이익 민감도’…미래에셋증권 “변동성...",
+      "description": "2분기 순이익 2조원 육박했는데 3분기엔 지배주주 순손실 전망 지난 2분기 2조원에 육박하는 순이익을 낸 미래에셋증권이 3분기엔 이익 규모가 크게 줄어들 전망이다. 회사가 대규모로 투자한 스페이스X 주가가 하락한...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001197232?sid=101",
+      "originallink": "https://biz.chosun.com/stock/stock_general/2026/10/12/SPAVEPLVDJG4FMZF6RS2RXXF4Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "press": "조선비즈",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "KB증권"
+      ]
+    },
+    {
+      "title": "AI 병목 뚫는 ‘빛의 고속도로’… 美 주문 쌓이는 K-광케이블",
+      "description": "미래에셋증권은 지난달 18일 보고서에서 AI 데이터센터에 GPU가 고밀도로 들어서면서 내부 통신량이 늘고, 같은 전력 규모에서도 필요한 광 연결 수와 전송 대역폭이 함께 증가한다고 분석했다. 데이터센터 증설과 연결...",
+      "link": "https://n.news.naver.com/mnews/article/023/0004003267?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/10/12/NP3V3HMWJFDRXJA7Q4B2ROM2WE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "press": "조선일보",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "솔리다임 프리IPO, 공개경쟁입찰로 간다... 몸값 높이기 승부수",
+      "description": "한국투자증권을 비롯한 국내 증권사와 대형 PEF 운용사들이 투자 가능성을 살펴보고 있다. 상당수 국내 금융기관이 적극적으로 참여를 검토 중이다. 과거 SK하이닉스의 인텔 낸드 사업부 인수를 주도했던 노종원 전...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001197243?sid=101",
+      "originallink": "https://biz.chosun.com/stock/market_trend/2026/10/12/4CEB7O546VDV7B6IGIO76CE47A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "press": "조선비즈",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
+      "title": "김동선, 독립경영 강화 속도전 … 한화M&S 지분 19% 공개매수",
+      "description": "공개매수 주관사는 NH투자증권으로 결제일은 다음달 4일이다. 공개매수가 8000원은 전 거래일 종가(6110원) 대비 약 31% 높은 가격이다. 공개매수 전 주요 주주는 한화에너지(23.94%), 김승연 한화그룹 회장(12.24...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005746906?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12173217",
+      "press": "매일경제",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "AI 신약 설계부터 뇌질환 신약까지…빅파마가 찾는 K스타트업",
+      "description": "허혜민 키움증권 연구원은 “정책 변화로 불확실성이 커지고 신약개발 경쟁이 심화하는 상황에서 빅파마들이 선제적으로 대응하고 있는 만큼, 앞으로 기술이전과 인수합병(M&A)이 늘어나 국내 바이오기업에도 기회가 될...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001197245?sid=101",
+      "originallink": "https://biz.chosun.com/science-chosun/bio/2026/10/12/TH4DIF4IPRGBNIV6YJS2BOVU5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "press": "조선비즈",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "금리 고공행진에도… 개인 리츠 ETF 순매수 1달 새 40% 늘어 [마켓시그널...",
+      "description": "박세라 신영증권 연구원은 “금리 상승 국면에서는 자산가치 할인율이 부담으로 작용하지만 새 금리 수준이 정착된 이후에는 임대료와 가동률, 이익 체력으로 시선이 전환될 것”이라며 “개별 리츠가 보유한 자산...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004670092?sid=101",
+      "originallink": "https://www.sedaily.com/article/20100097?ref=naver",
+      "press": "서울경제",
+      "pubDate": "2026-10-12T06:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "신영증권"
+      ]
+    },
+    {
+      "title": "\"주문창 닫고 공부창 연다\"…MTS, 주식거래 앱서 '스터디 플랫폼'으로",
+      "description": "미래에셋증권의 'MAPS'를 비롯해 메리츠증권 'MOUM', 하나증권 '하나증권V' 등이 대표적이다. 한국투자증권, KB증권, 신한투자증권 역시 AI 기반 종목 분석 솔루션을 전면에 배치했다. 일부 증권사는 해외 투자자 간 실시간...",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=148781",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148781",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "KB증권",
+        "신한투자증권",
+        "하나증권",
+        "메리츠증권"
+      ]
+    },
+    {
+      "title": "한투증권, “36세 연금 고객 은퇴까지 책임진다”…초개인화 자산관리 ...",
+      "description": "한국투자증권이 모바일트레이딩시스템(MTS) 내 연금 서비스를 전면 개편하며 퇴직연금 시장 주도권 잡기에 박차를 가하고 있다. 단순 상품 판매와 수익률 관리를 넘어, 고객별 자산 현황과 투자 성향에 따라 ‘지금 해야...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001271833?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1639735?ref=naver",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
+      "title": "힘없는 증시, 실적부진 전망 때문?… 이익 개선株 찾아보니",
+      "description": "최영광 NH투자증권 연구원은 \"석유화학 업황 부진 장기화에도 첨단소재 사업부와 배터리 자회사를 통한 실적 성장이 나타날 전망\"이라고 분석했다. HMM은 올해 영업이익 전망치가 1조7730억원으로, 한 달 전...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171703",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092171703",
+      "press": "조선일보",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "국채 발행 줄여도 금리 다시 '4% 턱밑'…정부, 추가 안정책 고심",
+      "description": "삼성증권은 올해 국고채 총발행이 213조 원 안팎으로 당초 한도(225조 7000억 원)보다 12조 7000억 원가량 줄 것으로 봤지만, 금리 고점은 아직 확인되지 않았다고 판단했다. 반도체 수출 호조로 성장률 전망이 추가로 오를...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009220982?sid=101",
+      "originallink": "https://www.news1.kr/economy/trend/6315056",
+      "press": "뉴스1",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "삼성증권",
+        "KB증권",
+        "신영증권"
+      ]
+    },
+    {
+      "title": "코스닥 반등 이끄는 기관⋯‘반도체 소부장’ 바구니에 담았다",
+      "description": "김종민 삼성증권 연구원은 \"10월 전술 측면에서 대형주는 점진적 비중 확대를 준비하되, 중소형주에 대해 적극적인 비중 확대 전략을 취하는 것이 바람직하다\"고 조언했다. 이어 \"AI를 중심으로 글로벌 증시의 이익...",
+      "link": "https://www.etoday.co.kr/news/view/2634033",
+      "originallink": "https://www.etoday.co.kr/news/view/2634033",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "삼성증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "AI·로봇기업 상장 본격화, 이번 주만 10곳 수요예측",
+      "description": "태윤선 KB증권 연구원은 \"올해 상반기 IPO 시장은 위축된 흐름을 보여왔으나 4분기부터는 점차 회복세가 기대된다\"며 \"특히 최근 시장의 관심이 높은 AI, 반도체, 로봇 관련 기업들이 다수 상장을 앞두고 있어 시장...",
+      "link": "https://n.news.naver.com/mnews/article/417/0001160553?sid=101",
+      "originallink": "https://www.sidae.com/article/2026101109175534684",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "외인, 소부장·2차전지로 8.5% 수익…반도체 고집한 개미 -7% 손실",
+      "description": "강진혁 신한투자증권 연구원은 \"인공지능(AI) 등 실적 기대가 매크로 압력을 이겨낸다고 하면 추세의 회복을 기대해 볼 수 있지만 오히려 실망 매물 출회의 재료로도 작용할 수 있다\"고 지적했다.",
+      "link": "https://n.news.naver.com/mnews/article/421/0009220981?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6316025",
+      "press": "뉴스1",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[오늘의 주요일정]사회(10월12일 월요일)",
+      "description": "여의도 하나증권 앞, 단협 투쟁 승리 결의대회 ▲낮 12시 서울의소리, 여의도동 국민의힘 당사 앞 이면도로, 국민의힘 해체 촉구 ▲오후 1시30분 성산동 마포구청 앞, 시장 현안 대책 마련 촉구 ▲오후 3시 한미자유의물결...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014245600?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20261011_0003821208",
+      "press": "뉴시스",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "\"AI 데이터센터, 공장에서 찍어낸다\"…삼성·LG, 모듈형 속도전 격돌",
+      "description": "하나증권에 따르면 기존 데이터센터 프로젝트의 90%가 일정 지연을 겪고 있으며, 실제 가동까지 걸리는 기간은 당초 계획보다 평균 34% 길어지고 있다. 초대형 프로젝트의 경우 평균 지연 기간이 20개월에 달한다. AI...",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=148390",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148390",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "73조 굴리는 이지스의 변신…빌딩 운용사 넘어 산업 지휘자로",
+      "description": "부동산 전문 자산운용사로 성장한 이지스자산운용이 사업 영역을 인프라와 리츠, 증권으로 넓히며... 이지스는 앞으로 기업 고객이 어떤 공간과 시설을 필요로 하는지부터 파악해 투자·개발·금융·운영을 하나의...",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727121",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727121",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[솔리다임 IPO 논란] (完) 90억달러로 17배 키운 'K-투자'…회수 막으면...",
+      "description": "먼저 이 길을 간 일본은 2024회계연도 1차 소득수지가 41조7100억엔에 달했는데, 그중 기업이 해외 자회사에서 번 직접투자수익(25조9000억엔)이 증권투자수익(14조7000억엔)보다 컸다. 국내 투자자의 미국 주식 보관액은...",
+      "link": "https://www.newspim.com/news/view/20261010000052",
+      "originallink": "https://www.newspim.com/news/view/20261010000052",
+      "press": "뉴스핌",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "1조 달러 IPO에 흥분하지 마라…내부자들의 3가지 원칙",
+      "description": "가운데 하나가 될 수 있는 스페이스X의 궤도 데이터센터를 예로 든다. 핵심은 회사가 무엇을 파는지... S-1은 모든 기업이 상장 전에 미국 증권거래위원회(Securities and Exchange Commission·SEC)에 제출하는 공시 문서다....",
+      "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54362",
+      "originallink": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54362",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[주간수급리포트] 6620선 주저앉은 코스피…삼전 셀온·외인 팔자에 5% ...",
+      "description": "이경민 대신증권 연구원은 \"8일 발표된 삼성전자 3분기 잠정실적은 원화 강세라는 비우호적 환율 여건 속에서도 메모리 가격 상승과 견조한 수요에 힘입어 호실적을 달성했다\"고 설명했다. 이 연구원은 \"다만...",
+      "link": "https://www.etoday.co.kr/news/view/2634163",
+      "originallink": "https://www.etoday.co.kr/news/view/2634163",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "대신증권",
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "[이주의 관전포인트] 미국 물가·한은 총재, 대출금리 방향 정한다",
+      "description": "대신증권은 12개월 선행 주가수익비율(PER·앞으로 1년 예상 이익 대비 주가 수준)이 역사적 저점권이라며 상승 여력이 있다고 봤다. LS증권은 높은 이익 기대치가 오히려 부담으로 바뀔 수 있다고 경고했다. 환율...",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=107045",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=107045",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[취재수첩] 카카오가 신뢰를 얻으려면",
+      "description": "카카오는 카카오톡·광고·커머스 등 플랫폼 사업을 신설법인 카카오AI에, 카카오뱅크·카카오페이... 문제를 인식한 듯 카카오는 지난 1일 국내 기관투자자와 간담회를 연 데 이어 오는 13일에는 증권사 애널리스트...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610091511255770983",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610091511255770983",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "카카오페이증권"
+      ]
+    },
+    {
+      "title": "건설주 한 달 새 최대 15% 하락⋯원전 기대 뒤엔 주택 이익, 재평가 조건...",
+      "description": "박세라 신영증권 연구원은 \"첫 번째 수주가 두 번째 수주로 이어지고, 수주잔고가 매출로 전환되며, 그 과정에서 일정한 마진과 현금흐름이 반복된다면 시장은 더 이상 이 사업을 단순한 옵션으로만 볼 필요가...",
+      "link": "https://www.etoday.co.kr/news/view/2634246",
+      "originallink": "https://www.etoday.co.kr/news/view/2634246",
+      "press": "",
+      "pubDate": "2026-10-12T06:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "신영증권"
+      ]
+    },
+    {
+      "title": "한국투자증권, 발행어음 특판…10월 말까지 선착순",
+      "description": "한국투자증권 본사 전경. 사진=한국투자증권  한국투자증권이 10월 말까지 특판 발행어음을 판매한다고 12일 밝혔다. 이번 특판은 올해 한국투자증권을 처음 거래하는 뱅키스 고객이나 신규자금을 입금한 모든 고객을...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=148397",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148397",
+      "press": "",
+      "pubDate": "2026-10-12T05:56:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
+      "title": "[무리수파업 논란 삼성바이오] ① '관세 불확실성' 면했지만 때마침 파...",
+      "description": "하나증권의 경우, 삼성바이오로직스가 3분기 매출 1조4063억원, 영업이익 6354억원을 거둬 시장 예상치를 각각 5%, 8% 상회할 것으로 전망한다. 김선아 하나증권 연구원은 \"회사가 항상 서프라이즈를 기록했던 것을...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279717",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279717",
+      "press": "",
+      "pubDate": "2026-10-12T05:50:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권",
+        "메리츠증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "엔비티, 15일 키움 콥데이서 사업전략 소개",
+      "description": "키움증권이 주관하는 이번 기업설명회에는 국내 기업 15곳이 참여한다. 엔비티는 오전 세션 발표 기업 6곳 중 한 곳으로 이름을 올렸다. 행사는 오전 9시 10분부터 세 개 세션룸에서 동시에 진행된다. 주제는 ‘스몰캡...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392180",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392180",
+      "press": "",
+      "pubDate": "2026-10-12T05:24:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "[삼전닉스 초슈퍼마진 시대] ①실적ㆍ보상ㆍ투자 ‘삼박자 쿵짝’… 1인...",
+      "description": "김동원 KB증권 리서치본부장은 “내년 삼성전자의 HBM 판매 가격은 전년대비 100% 이상 상승할 것으로 보인다”며 “삼성전자는 2027년부터 글로벌 영업이익 1위 기업으로서 이익 성장 가속 국면에 진입할 것”으로...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610101922267440009",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610101922267440009",
+      "press": "",
+      "pubDate": "2026-10-12T05:20:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "\"반도체 호황에도 외국인 떠났다\"…삼전 지분율 2008년 이후 최저",
+      "description": "이재원 유안타증권 연구원은 \"호실적만으로 외국인 수급의 구조적 전환을 기대하기 어려운 시장 환경이 이어지고 있다\"며 \"외국인의 복귀 시점을 예단해 선제 진입하기보다는 실제 매수 전환 조짐을 확인하고...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005587508?sid=101",
+      "originallink": "https://www.fnnews.com/news/202610112109461585",
+      "press": "파이낸셜뉴스",
+      "pubDate": "2026-10-12T05:20:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "삼양컴텍, 14일 기관투자자 대상 IR",
+      "description": "지난 8일 금융감독원 전자공시시스템에 제출한 ‘기업설명회(IR) 개최’ 안내 공시에 따르면 이번 설명회는 대면 미팅 방식의 NDR로 열린다. IBK투자증권이 후원기관으로 기재됐다.",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392176",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392176",
+      "press": "",
+      "pubDate": "2026-10-12T05:16:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "[데스크 시각] 이재근이 남겨야 할 ‘KB의 유산’",
+      "description": "당시 추진 중이던 LIG손보 인수를 마무리했고, 이는 지금 KB가 신한금융과 선두를 다투는 데 든든한 수익원이 됐다. 현대 증권 인수까지 성공적으로 마치며 은행에 지나치게 기대왔던 그룹의 모습도 바꿨다. 이 내정자는...",
+      "link": "https://n.news.naver.com/mnews/article/081/0003687892?sid=110",
+      "originallink": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/10/12/20261012027004?wlog_tag3=naver",
+      "press": "서울신문",
+      "pubDate": "2026-10-12T05:12:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권",
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "가온전선, 대신증권 행사서 사업 현황·성장전략 설명",
+      "description": "오는 12일 여의도서 애널리스트·기관투자자 대상 가온전선이 오는 12일 대신증권 Corporate Day에 참가해 애널리스트와 기관투자자에게 주요 사업 현황과 성장 전략을 설명한다. 설명회는 이날 오후 1시 30분 서울...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392172",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392172",
+      "press": "",
+      "pubDate": "2026-10-12T05:06:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "반도체 수출 호황에…달러 넘치는 외환시장",
+      "description": "문다운 한국투자증권 연구원은 “급등하는 경상수지 흑자가 7월 주요 수출기업의 달러 매도 전환을 기점으로 국내 외환시장으로 유입되기 시작한 점이 뚜렷한 환율 하방 압력을 만들고 있다”고 말했다. 시장은...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006386124?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01436646645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "press": "이데일리",
+      "pubDate": "2026-10-12T05:03:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한국투자증권",
+        "KB증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[경제산책] 농민의 퇴직연금 가입을 위한 농협의 역할",
+      "description": "고용노동부의 퇴직연금사업자평가를 통해 매년 수십개 금융기관의 퇴직연금사업을 들여다본 필자가 아는 한 2017년 전 국민에게 IRP 가입이 허용된 이후 NH농협은행이나 NH투자증권에서 농민의 IRP 가입을 독려하는 변변한...",
+      "link": "https://n.news.naver.com/mnews/article/662/0000105885?sid=110",
+      "originallink": "https://www.nongmin.com/article/20261007500586",
+      "press": "",
+      "pubDate": "2026-10-12T05:02:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "코스피, 두 달 가까이 박스권에 갇혔다…올해 가장 긴 횡보",
+      "description": "서상영 미래에셋증권 상무는 미국 시장이 높은 장기금리에도 사상 최고치 부근을 유지할 수 있었던 핵심 배경으로 강한 이익 증가를 짚었다. 받치던 힘은 약해지고 있다. 한국거래소 자료에 따르면 지난주(6...",
+      "link": "https://n.news.naver.com/mnews/article/079/0004197475?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6589612?utm_source=naver&utm_medium=article&utm_campaign=20261012050020",
+      "press": "",
+      "pubDate": "2026-10-12T05:01:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "삼전 역대급 실적에도 웃지 못한 코스피…10월 반등 핵심 포인트 '주목...",
+      "description": "서상영 미래에셋증권 상무는 \"이번 OCP는 신규 AI 인프라 투자 계획과 규모, 회수 기간, 자금조달 방식 등 광범위한 변화를 예상할 수 있는 중요한 무대\"라고 말했다.",
+      "link": "https://www.ajunews.com/view/20261011150206694",
+      "originallink": "https://www.ajunews.com/view/20261011150206694",
+      "press": "아주경제",
+      "pubDate": "2026-10-12T05:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "매출 88%는 구축사업…키노톤, 상장 앞두고 콘텐츠 IP 수익화 과제 [IPO ...",
+      "description": "주관사는 한국투자증권이다. 2006년 설립된 키노톤은 영화관 영상·음향 시스템을 시작으로 대형 발광다이오드(LED) 전광판, 스포츠 경기장, 옥외 미디어 등으로 사업 영역을 넓혔다. 회사에 따르면 메가박스 코엑스점...",
+      "link": "https://www.etoday.co.kr/news/view/2633984",
+      "originallink": "https://www.etoday.co.kr/news/view/2633984",
+      "press": "",
+      "pubDate": "2026-10-12T05:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한국투자증권"
+      ]
+    },
+    {
+      "title": "돈 빌려 한미사이언스 지분 늘리는 신동국…'5000억 대출' 이자부담 커진...",
+      "description": "한국증권금융에서 빌린 1380억원에는 연 4.25%, 하나증권에서 빌린 약 987억원에는 연 4.45%의 금리가 적용된다. 대출 잔액과 금리가 1년간 유지된다고 가정하면 두 건의 연간 이자 비용만 약 103억원에 달한다. 여기에...",
+      "link": "https://www.etoday.co.kr/news/view/2633862",
+      "originallink": "https://www.etoday.co.kr/news/view/2633862",
+      "press": "",
+      "pubDate": "2026-10-12T05:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "에이직랜드, 12일 여의도서 기관 IR 진행",
+      "description": "에이직랜드가 8일 공시한 내용에 따르면 설명회는 오후 2시에 시작한다. 하나증권 Corporate Day의 일환으로 그룹 미팅 방식으로 진행된다. 회사는 주요 경영 현황을 설명하고 질의응답을 진행할 예정이다.",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392168",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392168",
+      "press": "",
+      "pubDate": "2026-10-12T04:58:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[N2 뷰] 삼성전자 107조 호실적에도 코스피 '뒷걸음'…7,000선 회복 조건...",
+      "description": "김석환 미래에셋증권 연구원은 “(삼성전자 등의) 자사주 종료 이후 코스피 상단의 핵심은 수급 공백보다 이익 모멘텀의 지속성과 확산”이라며 “반도체 이익 상향이 소부장으로 이어지고 외국인의 매도 강도까지...",
+      "link": "https://www.news2day.co.kr/article/20261011500044",
+      "originallink": "https://www.news2day.co.kr/article/20261011500044",
+      "press": "",
+      "pubDate": "2026-10-12T04:18:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "키움증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[IPO 워치] 멜콘·진코스텍 코스닥 입성…수요예측 10곳",
+      "description": "KB증권이 대표주관사다. 디티에스는 오는 13~14일 일반청약을 받는다. 발전·정유·석유화학·액화천연가스(LNG) 플랜트 등에 사용되는 공랭식 열교환기와 복수기 등을 설계·제작하는 기업이다. 최근 국내외 대형 LNG...",
+      "link": "https://www.news2day.co.kr/article/20261011500012",
+      "originallink": "https://www.news2day.co.kr/article/20261011500012",
+      "press": "",
+      "pubDate": "2026-10-12T04:16:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "KB증권",
+        "하나증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[N2 포커스] 실적 뛴 증권사, 배당도 커진다…미래에셋證 106%↑",
+      "description": "12일 금융정보업체 에프앤가이드에 따르면 보통주 기준 미래에셋증권과 삼성증권, 키움증권, NH투자증권, 한국금융지주의 올해 예상 주당배당금(DPS)은 모두 지난해보다 증가했다. 대신증권은 지난해와 같은 수준을...",
+      "link": "https://www.news2day.co.kr/article/20261009500072",
+      "originallink": "https://www.news2day.co.kr/article/20261009500072",
+      "press": "",
+      "pubDate": "2026-10-12T04:06:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "NH투자증권",
+        "삼성증권",
+        "키움증권",
+        "대신증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "박스피 고차방정식… '실적시즌'에 풀릴까",
+      "description": "김석환 미래에셋증권 연구원은 \"시장의 관심은 '자사주 매입 없이도 실적이 주가를 지지할 수 있는가'로 이동하고 있다\"고 말했다. 이번주 분수령으로는 미국의 물가지표 발표와 해외 대형주 실적이 거론된다....",
+      "link": "https://n.news.naver.com/mnews/article/008/0005424574?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/10/12/2026101119430475445",
+      "press": "머니투데이",
+      "pubDate": "2026-10-12T04:00:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "카카오, 13일 애널리스트 간담회서 AI·분할 계획 논의",
+      "description": "카카오는 오는 20일 오후 2시 서울 여의도 금융투자센터 한국금융투자협회 불스홀에서 지배구조 개편 관련 내용을 설명하고 질의응답을 진행한다. 이 행사는 오프라인과 컨퍼런스콜을 병행하며 NH투자증권이 후원한다.",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392129",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392129",
+      "press": "",
+      "pubDate": "2026-10-12T03:36:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "한화투자증권 신주 1억주 발행…납입액 5000억원",
+      "description": "보통주·전환우선주 각 5000만주 발행 한화투자증권의 제3자배정 유상증자 대금 5000억원이 전액 납입됐다. 회사가 지난 8일 제출한 ‘유상증자또는주식관련사채등의발행결과(자율공시)’에는 실제 발행액 5000억원과...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392123",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392123",
+      "press": "",
+      "pubDate": "2026-10-12T03:22:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "현대모비스, 12일 기관투자자에 경영전략 설명",
+      "description": "(IR) 개최 안내공시에 따르면 행사는 오전 10시 여의도 금융투자교육원에서 열린다. 대신증권 Corporate Day 참가 일정으로, 소그룹 미팅 방식으로 진행된다. 설명 내용은 최근 경영현황과 전략, 주요 관심사항 등이다.",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392117",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392117",
+      "press": "",
+      "pubDate": "2026-10-12T03:10:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "3.65㎏ 연탄에 실은 36.5도… 중3 아이도 비탈길 함께 올라",
+      "description": "어떡하나 싶다”고 말했다. 10일 오전 개미마을에서는 연탄은행의 ‘2026-2027 재개식’이 열렸다. 코리아에셋투자증권이 연탄 6만장을 내놓는 등 후원이 이어졌고, 이창용 전 한국은행 총재와 강정애 전 국가보훈부 장관...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001878039?sid=103",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000021649&cp=nv",
+      "press": "국민일보",
+      "pubDate": "2026-10-12T03:07:00+09:00",
+      "date": "2026-10-12",
+      "companies": [
+        "하나증권"
+      ]
+    },
     {
       "title": "\"세종시에 7조 원 쏟아붓는다\"…360MW급 AI 데이터센터 건립 추진",
       "description": "세종특별자치시는 지난 8일 시청 회의실에서 SK증권, 메테우스자산운용, 시드에이치와 AI 데이터센터 건립 투자를 위한 업무협약을 체결했다. 이날 협약식에는 조상호 세종시장과 정준호 SK증권 공동대표, 김세헌...",
       "link": "https://www.tournews21.com/news/articleView.html?idxno=145419",
       "originallink": "https://www.tournews21.com/news/articleView.html?idxno=145419",
       "press": "",
-      "pubDate": "2026-10-12T02:18:00+09:00",
+      "pubDate": "2026-10-11T17:18:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "SK증권"
@@ -22,7 +837,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=392089",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=392089",
       "press": "",
-      "pubDate": "2026-10-12T02:14:00+09:00",
+      "pubDate": "2026-10-11T17:14:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "KB증권"
@@ -34,7 +849,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001878026?sid=101",
       "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000021633&cp=nv",
       "press": "국민일보",
-      "pubDate": "2026-10-12T02:13:00+09:00",
+      "pubDate": "2026-10-11T17:13:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -46,7 +861,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001878023?sid=101",
       "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000021630&cp=nv",
       "press": "국민일보",
-      "pubDate": "2026-10-12T02:07:00+09:00",
+      "pubDate": "2026-10-11T17:07:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권",
@@ -59,7 +874,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005424556?sid=110",
       "originallink": "https://www.mt.co.kr/opinion/2026/10/12/2026101108450538061",
       "press": "머니투데이",
-      "pubDate": "2026-10-12T02:00:00+09:00",
+      "pubDate": "2026-10-11T17:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -71,7 +886,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=392075",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=392075",
       "press": "",
-      "pubDate": "2026-10-12T01:22:00+09:00",
+      "pubDate": "2026-10-11T16:22:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권"
@@ -83,7 +898,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=392074",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=392074",
       "press": "",
-      "pubDate": "2026-10-12T01:20:00+09:00",
+      "pubDate": "2026-10-11T16:20:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "삼성증권"
@@ -95,7 +910,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0004003220?sid=101",
       "originallink": "https://www.chosun.com/economy/money/2026/10/12/IC5R4S5ENZH5HEUEJTXHUTYSHI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-10-12T00:37:00+09:00",
+      "pubDate": "2026-10-11T15:37:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "유안타증권"
@@ -107,7 +922,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0004003207?sid=101",
       "originallink": "https://www.chosun.com/economy/money/2026/10/12/O4VVMGGPXJFI7LNVCEKTQYER3M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-10-12T00:33:00+09:00",
+      "pubDate": "2026-10-11T15:33:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권",
@@ -121,7 +936,7 @@
       "link": "https://n.news.naver.com/mnews/article/020/0003754127?sid=101",
       "originallink": "https://www.donga.com/news/Economy/article/all/20261011/134821490/2",
       "press": "동아일보",
-      "pubDate": "2026-10-12T00:31:00+09:00",
+      "pubDate": "2026-10-11T15:31:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "신한투자증권"
@@ -133,7 +948,7 @@
       "link": "https://www.newspim.com/news/view/20261012000020",
       "originallink": "https://www.newspim.com/news/view/20261012000020",
       "press": "뉴스핌",
-      "pubDate": "2026-10-12T00:30:00+09:00",
+      "pubDate": "2026-10-11T15:30:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -145,7 +960,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494180",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494180",
       "press": "",
-      "pubDate": "2026-10-12T00:16:00+09:00",
+      "pubDate": "2026-10-11T15:16:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권"
@@ -157,7 +972,7 @@
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3717934",
       "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3717934",
       "press": "",
-      "pubDate": "2026-10-12T00:10:00+09:00",
+      "pubDate": "2026-10-11T15:10:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권"
@@ -169,7 +984,7 @@
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3717895",
       "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3717895",
       "press": "",
-      "pubDate": "2026-10-12T00:10:00+09:00",
+      "pubDate": "2026-10-11T15:10:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "삼성증권"
@@ -181,7 +996,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494157",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494157",
       "press": "",
-      "pubDate": "2026-10-12T00:10:00+09:00",
+      "pubDate": "2026-10-11T15:10:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "유안타증권"
@@ -193,7 +1008,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494199",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494199",
       "press": "",
-      "pubDate": "2026-10-12T00:10:00+09:00",
+      "pubDate": "2026-10-11T15:10:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "IBK투자증권"
@@ -205,7 +1020,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494173",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494173",
       "press": "",
-      "pubDate": "2026-10-12T00:06:00+09:00",
+      "pubDate": "2026-10-11T15:06:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "대신증권"
@@ -217,7 +1032,7 @@
       "link": "https://www.fntimes.com/html/view.php?ud=202610090018315698dd55077bc2_18",
       "originallink": "https://www.fntimes.com/html/view.php?ud=202610090018315698dd55077bc2_18",
       "press": "",
-      "pubDate": "2026-10-12T00:02:00+09:00",
+      "pubDate": "2026-10-11T15:02:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "한국투자증권",
@@ -231,7 +1046,7 @@
       "link": "https://www.fntimes.com/html/view.php?ud=202610090055103043dd55077bc2_18",
       "originallink": "https://www.fntimes.com/html/view.php?ud=202610090055103043dd55077bc2_18",
       "press": "",
-      "pubDate": "2026-10-12T00:02:00+09:00",
+      "pubDate": "2026-10-11T15:02:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "삼성증권",
@@ -246,7 +1061,7 @@
       "link": "https://www.fntimes.com/html/view.php?ud=202610082349306520dd55077bc2_18",
       "originallink": "https://www.fntimes.com/html/view.php?ud=202610082349306520dd55077bc2_18",
       "press": "",
-      "pubDate": "2026-10-12T00:02:00+09:00",
+      "pubDate": "2026-10-11T15:02:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "KB증권",
@@ -260,7 +1075,7 @@
       "link": "https://www.fntimes.com/html/view.php?ud=202610090106064996dd55077bc2_18",
       "originallink": "https://www.fntimes.com/html/view.php?ud=202610090106064996dd55077bc2_18",
       "press": "",
-      "pubDate": "2026-10-12T00:02:00+09:00",
+      "pubDate": "2026-10-11T15:02:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "키움증권",
@@ -274,7 +1089,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003557099?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25468775",
       "press": "중앙일보",
-      "pubDate": "2026-10-12T00:02:00+09:00",
+      "pubDate": "2026-10-11T15:02:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -286,7 +1101,7 @@
       "link": "https://n.news.naver.com/mnews/article/629/0000540915?sid=101",
       "originallink": "https://news.tf.co.kr/read/economy/2374247.htm",
       "press": "",
-      "pubDate": "2026-10-12T00:01:00+09:00",
+      "pubDate": "2026-10-11T15:01:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권"
@@ -298,7 +1113,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614176",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=614176",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "미래에셋증권",
@@ -311,7 +1126,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614175",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=614175",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "한국투자증권",
@@ -324,7 +1139,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614172",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=614172",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "삼성증권"
@@ -336,7 +1151,7 @@
       "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90178",
       "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90178",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "KB증권",
@@ -349,7 +1164,7 @@
       "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93213",
       "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93213",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "KB증권",
@@ -363,7 +1178,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614242",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=614242",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "신한투자증권",
@@ -377,7 +1192,7 @@
       "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93231",
       "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93231",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권",
@@ -391,7 +1206,7 @@
       "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93183",
       "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93183",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -403,7 +1218,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202610111007291491906806b77b_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202610111007291491906806b77b_1",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -415,7 +1230,7 @@
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279703",
       "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279703",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "하나증권"
@@ -427,7 +1242,7 @@
       "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93240",
       "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93240",
       "press": "",
-      "pubDate": "2026-10-12T00:00:00+09:00",
+      "pubDate": "2026-10-11T15:00:00+00:00",
       "date": "2026-10-12",
       "companies": [
         "DB금융투자"
@@ -439,7 +1254,7 @@
       "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231510",
       "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=231510",
       "press": "",
-      "pubDate": "2026-10-11T23:44:00+09:00",
+      "pubDate": "2026-10-11T14:44:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "하나증권",
@@ -452,7 +1267,7 @@
       "link": "https://www.dailyt.co.kr/newsView/dlt202610110014",
       "originallink": "https://www.dailyt.co.kr/newsView/dlt202610110014",
       "press": "",
-      "pubDate": "2026-10-11T23:36:00+09:00",
+      "pubDate": "2026-10-11T14:36:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "KB증권",
@@ -466,7 +1281,7 @@
       "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307651",
       "originallink": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307651",
       "press": "",
-      "pubDate": "2026-10-11T23:32:00+09:00",
+      "pubDate": "2026-10-11T14:32:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "미래에셋증권",
@@ -483,7 +1298,7 @@
       "link": "https://www.the-today.com/news/articleView.html?idxno=91498",
       "originallink": "https://www.the-today.com/news/articleView.html?idxno=91498",
       "press": "",
-      "pubDate": "2026-10-11T22:44:00+09:00",
+      "pubDate": "2026-10-11T13:44:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "하나증권"
@@ -495,7 +1310,7 @@
       "link": "https://www.the-today.com/news/articleView.html?idxno=91487",
       "originallink": "https://www.the-today.com/news/articleView.html?idxno=91487",
       "press": "",
-      "pubDate": "2026-10-11T22:32:00+09:00",
+      "pubDate": "2026-10-11T13:32:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "IBK투자증권"
@@ -507,7 +1322,7 @@
       "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256215",
       "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256215",
       "press": "",
-      "pubDate": "2026-10-11T22:30:00+09:00",
+      "pubDate": "2026-10-11T13:30:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "KB증권"
@@ -519,7 +1334,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202610112213257171daecd3dad5_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202610112213257171daecd3dad5_1",
       "press": "",
-      "pubDate": "2026-10-11T22:24:00+09:00",
+      "pubDate": "2026-10-11T13:24:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "NH투자증권"
@@ -531,7 +1346,7 @@
       "link": "https://n.news.naver.com/mnews/article/016/0002707743?sid=105",
       "originallink": "https://biz.heraldcorp.com/article/10897939?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-10-11T21:41:00+09:00",
+      "pubDate": "2026-10-11T12:41:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "키움증권",
@@ -547,7 +1362,7 @@
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=148450",
       "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148450",
       "press": "",
-      "pubDate": "2026-10-11T21:18:00+09:00",
+      "pubDate": "2026-10-11T12:18:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "SK증권"
@@ -559,7 +1374,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005746890?sid=101",
       "originallink": "https://www.mk.co.kr/article/12173206",
       "press": "매일경제",
-      "pubDate": "2026-10-11T21:04:00+09:00",
+      "pubDate": "2026-10-11T12:04:00+00:00",
       "date": "2026-10-11",
       "companies": [
         "미래에셋증권",
