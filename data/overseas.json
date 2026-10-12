@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-11T21:22:46Z",
+  "lastUpdated": "2026-10-12T03:53:08Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "same rights, different trading protections",
+      "description": "Tokenized stocks can keep shareholder rights under the SEC exemption while venue protections differ. Douro seeks feed guidance; broker duties remain.",
+      "link": "https://cryptoslate.com/secs-tokenized-stock-exemption-leaves-key-price-feed-choices-to-venues/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-10-12T00:00:49+09:00",
+      "date": "2026-10-12",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood Chain transactions drop 42%: What's next?",
       "description": "Robinhood Chain transactions fall 42% as trading slows, while deposits remain above $1 billion and free wallet swaps continue through December.",
@@ -274,18 +286,6 @@
       "press": "CryptoSlate",
       "pubDate": "2026-09-27T18:01:10+09:00",
       "date": "2026-09-27",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Backpack CEO plans to bring 10,000 tokenized stocks to Solana",
-      "description": "Backpack CEO Armani Ferrante plans to bring 10,000 tokenized stocks to Solana, linking brokerage holdings with DeFi through one API.",
-      "link": "https://crypto.news/backpack-ceo-bring-10000-tokenized-stocks-to-solana/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-26T19:19:15+09:00",
-      "date": "2026-09-26",
       "category": "theme",
       "companies": [
         "업계테마"

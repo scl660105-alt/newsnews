@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-10-11T21:22:46Z",
+  "lastUpdated": "2026-10-12T03:53:08Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 389,
+  "count": 388,
   "news": [
+    {
+      "title": "same rights, different trading protections",
+      "description": "Tokenized stocks can keep shareholder rights under the SEC exemption while venue protections differ. Douro seeks feed guidance; broker duties remain.",
+      "link": "https://cryptoslate.com/secs-tokenized-stock-exemption-leaves-key-price-feed-choices-to-venues/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-10-12T00:00:49+09:00",
+      "date": "2026-10-12",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood Chain transactions drop 42%: What's next?",
       "description": "Robinhood Chain transactions fall 42% as trading slows, while deposits remain above $1 billion and free wallet swaps continue through December.",
       "link": "https://crypto.news/robinhood-chain-transactions-drop-42-whats-next/",
       "press": "Crypto News",
-      "pubDate": "2026-10-11T16:04:51+09:00",
+      "pubDate": "2026-10-11T07:04:51+00:00",
       "date": "2026-10-11",
       "category": "broker",
       "companies": [
@@ -4699,30 +4711,6 @@
       "press": "Barchart",
       "pubDate": "2026-08-12T15:53:10+00:00",
       "date": "2026-08-13",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "MEXC's July Highlights: Stock Futures Volume Up 111%, Tokenized Equities Take 62% of TradFi Spot",
-      "description": "MEXC, a pioneer in 0-fee digital asset trading, today released its July trading highlights. Robinhood Chain, launched July 1, supplied six of the month's ten most traded new listings.",
-      "link": "https://techbullion.com/mexcs-july-highlights-stock-futures-volume-up-111-tokenized-equities-take-62-of-tradfi-spot/",
-      "press": "TechBullion",
-      "pubDate": "2026-08-12T10:03:19+00:00",
-      "date": "2026-08-12",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Spritehood NFTs raise $1.28M on Robinhood Chain",
-      "description": "Spritehood sold 42,956 paid NFTs on Robinhood Chain in 53 minutes, generating $1.28 million as its contract code remained unverified.",
-      "link": "https://crypto.news/spritehood-nfts-raise-1-28m-dollars-on-robinhood-chain/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-11T21:10:55+00:00",
-      "date": "2026-08-12",
       "category": "broker",
       "companies": [
         "Robinhood"
