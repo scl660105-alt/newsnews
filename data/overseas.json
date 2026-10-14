@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-13T22:12:08Z",
+  "lastUpdated": "2026-10-14T03:10:27Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Interactive Brokers Launches Ethereum Staking, Expanding Crypto Offering",
+      "description": "Interactive Brokers has launched Ethereum staking for its users, expanding its crypto offering as it already offers trading of 20 cryptos.",
+      "link": "https://coingape.com/interactive-brokers-launches-ethereum-staking-expanding-crypto-offering/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-13T23:55:33+09:00",
+      "date": "2026-10-13",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
     {
       "title": "Robinhood CEO Vlad Tenev sold his Class A stock to zero… again",
       "description": "Robinhood CEO Vlad Tenev has sold his Class A stock down to zero, but somehow that exact same headline keeps repeating.",
@@ -133,18 +145,6 @@
       "category": "broker",
       "companies": [
         "Webull"
-      ]
-    },
-    {
-      "title": "Ohio ramps up fight against prediction-market sports betting: Capitol Letter",
-      "description": "Ohio gambling regulators have ordered Polymarket, Robinhood and other prediction-market operators to stop offering sports-related event contracts to Ohioans.",
-      "link": "https://www.cleveland.com/open/2026/10/ohio-ramps-up-fight-against-prediction-market-sports-betting-capitol-letter.html",
-      "press": "cleveland.com",
-      "pubDate": "2026-10-09T21:00:00+09:00",
-      "date": "2026-10-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
