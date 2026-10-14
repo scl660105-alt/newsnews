@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-10-14T16:20:59Z",
+  "lastUpdated": "2026-10-14T21:13:00Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
+      "description": "Interactive Brokers has entered Ethereum's $110 billion staking market, expanding its crypto services beyond buying and selling assets.",
+      "link": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-10-14T18:10:03+09:00",
+      "date": "2026-10-14",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "Insider Report: Robinhood CEO cashes out US$42-million in planned sale",
+      "description": "A look at recent notable transactions",
+      "link": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-insider-report-robinhood-ceo-cashes-out-us42-million-in-planned-sale/",
+      "press": "The Globe and Mail",
+      "pubDate": "2026-10-14T17:47:26+09:00",
+      "date": "2026-10-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Tokenized Stocks Hit $3.3B as After",
       "description": "Blockworks data shows that more than 70% of tokenized stock trading on BNB Chain occurs outside regular US market hours, compared with 63% on Solana.",
@@ -133,30 +157,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood Chain transactions drop 42%: What's next?",
-      "description": "Robinhood Chain transactions fall 42% as trading slows, while deposits remain above $1 billion and free wallet swaps continue through December.",
-      "link": "https://crypto.news/robinhood-chain-transactions-drop-42-whats-next/",
-      "press": "Crypto News",
-      "pubDate": "2026-10-11T16:04:51+09:00",
-      "date": "2026-10-11",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall 40%",
-      "description": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "press": "CoinDesk",
-      "pubDate": "2026-10-10T13:44:35+09:00",
-      "date": "2026-10-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
