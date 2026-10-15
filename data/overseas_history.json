@@ -1,9 +1,21 @@
 {
-  "lastUpdated": "2026-10-15T16:08:49Z",
+  "lastUpdated": "2026-10-15T20:50:37Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 387,
+  "count": 388,
   "news": [
+    {
+      "title": "SEC approves binary options tied to Coinbase volume and Bitcoin mining output",
+      "description": "The SEC has approved binary options tied to Coinbase trading volume, MARA Bitcoin production and Robinhood metrics under existing securities exchange rules.",
+      "link": "https://crypto.news/sec-approves-binary-options-tied-to-coinbase-volume-and-bitcoin-mining-output/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-15T15:58:39+09:00",
+      "date": "2026-10-15",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
       "description": "Ripple plans to bring RLUSD into European brokerage settlement through DriveWealth while partnering with South Korea's Meritz Securities on tokenization.",
