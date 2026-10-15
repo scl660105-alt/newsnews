@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-10-14T21:13:00Z",
+  "lastUpdated": "2026-10-15T02:49:28Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 385,
+  "count": 384,
   "news": [
+    {
+      "title": "Buffett Says to 'Make Money While You Sleep,' AI Agents May Be Answer",
+      "description": "Warren Buffett says to put your money to work. Robinhood CEO Vlad Tenev says everyone should have AI agents that are \"productive while they sleep.\"",
+      "link": "https://www.businessinsider.com/warren-buffett-robinhood-tenev-investing-ai-agents-wealth-passive-income-2026-10",
+      "press": "Business Insider",
+      "pubDate": "2026-10-14T22:29:04+09:00",
+      "date": "2026-10-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Interactive Brokers moves into Ethereum's $110 billion staking market as institutional demand accelerates",
       "description": "Interactive Brokers has entered Ethereum's $110 billion staking market, expanding its crypto services beyond buying and selling assets.",
       "link": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
       "press": "CryptoSlate",
-      "pubDate": "2026-10-14T18:10:03+09:00",
+      "pubDate": "2026-10-14T09:10:03+00:00",
       "date": "2026-10-14",
       "category": "broker",
       "companies": [
@@ -21,7 +33,7 @@
       "description": "A look at recent notable transactions",
       "link": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-insider-report-robinhood-ceo-cashes-out-us42-million-in-planned-sale/",
       "press": "The Globe and Mail",
-      "pubDate": "2026-10-14T17:47:26+09:00",
+      "pubDate": "2026-10-14T08:47:26+00:00",
       "date": "2026-10-14",
       "category": "broker",
       "companies": [
@@ -4652,30 +4664,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood’s $225.5M venture fund opens below IPO price",
-      "description": "Robinhood Ventures Fund II raised $225.5 million and opened 10% below its IPO price as retail investors gained access to YC startups.",
-      "link": "https://crypto.news/robinhoods-225-5m-venture-fund-opens-below-ipo-price/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-15T08:21:13+00:00",
-      "date": "2026-08-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood (HOOD) Pushes Deeper into Private Markets with New Y Combinator Fund",
-      "description": "Robinhood Markets (HOOD) is expanding further into private markets with the launch of its second venture fund, called Robinhood Ventures Fund II...",
-      "link": "https://markets.businessinsider.com/news/stocks/robinhood-hood-pushes-deeper-into-private-markets-with-new-y-combinator-fund-1036461169",
-      "press": "Markets Insider",
-      "pubDate": "2026-08-14T20:06:24+00:00",
-      "date": "2026-08-15",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     }
   ]
