@@ -1,8 +1,44 @@
 {
-  "lastUpdated": "2026-10-15T02:49:28Z",
+  "lastUpdated": "2026-10-15T10:43:45Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
+      "description": "Ripple plans to bring RLUSD into European brokerage settlement through DriveWealth while partnering with South Korea's Meritz Securities on tokenization.",
+      "link": "https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-10-15T03:40:19+09:00",
+      "date": "2026-10-15",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "XDC now listed on Robinhood, expanding access to millions of U.S. users",
+      "description": "The XDC token is available to trade for eligible U.S. customers on Robinhood Crypto starting today, bringing a blockchain built for trade finance and institutional settlement to a mainstream retail audience.",
+      "link": "https://cointelegraph.com/press-releases/xdc-now-listed-on-robinhood-expanding-access-to-millions-of-us-users",
+      "press": "Cointelegraph",
+      "pubDate": "2026-10-15T03:13:28+09:00",
+      "date": "2026-10-15",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "New Crypto: Remittix Announces November 24 RTX Launch as Interactive Brokers Opens Ethereum Staking and ETH and Cardano Price Predictions Target $12,000 and $3",
+      "description": "Remittix approaches its confirmed market debut with PayFi testing underway as Ethereum staking expands into traditional brokerage and Cardano records its busiest five-day period.",
+      "link": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/new-crypto-remittix-announces-november-24-rtx-launch-as-interactive-brokers-opens-ethereum-staking-and-eth-and-cardano-price-predictions-target-12000-and-3/2445930",
+      "press": "The Manila Times",
+      "pubDate": "2026-10-15T02:05:51+09:00",
+      "date": "2026-10-15",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
     {
       "title": "Buffett Says to 'Make Money While You Sleep,' AI Agents May Be Answer",
       "description": "Warren Buffett says to put your money to work. Robinhood CEO Vlad Tenev says everyone should have AI agents that are \"productive while they sleep.\"",
@@ -64,11 +100,47 @@
       ]
     },
     {
-      "title": "Robinhood’s AI Agents Won’t Help You Beat the Market",
-      "description": "We are all investors now, or at least the majority of us are. More Americans than ever are investing in the stock market, and surveys show a large share of Gen Z and millennials actively trade individual stocks as their preferred investment strategy. Most people lose money or underperform with this latter endeavor. But take a bull run and technology that makes trading feel like a video game, and suddenly, everyone thinks they can beat the market.",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-10-12/robinhood-s-ai-agents-won-t-help-you-beat-the-market",
-      "press": "Bloomberg",
-      "pubDate": "2026-10-12T19:30:16+09:00",
+      "title": "Senate bill seeks to commend drug-free officials",
+      "description": "SEN. Robinhood Padilla has filed Senate Bill (SB) 2541, or the proposed Gawad Integridad Kontra Droga Recognition Act.",
+      "link": "https://www.manilatimes.net/2026/10/14/news/national/senate-bill-seeks-to-commend-drug-free-officials/2444897",
+      "press": "The Manila Times",
+      "pubDate": "2026-10-14T01:02:00+09:00",
+      "date": "2026-10-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Interactive Brokers Launches Ethereum Staking, Expanding Crypto Offering",
+      "description": "Interactive Brokers has launched Ethereum staking for its users, expanding its crypto offering as it already offers trading of 20 cryptos.",
+      "link": "https://coingape.com/interactive-brokers-launches-ethereum-staking-expanding-crypto-offering/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-13T23:55:33+09:00",
+      "date": "2026-10-13",
+      "category": "broker",
+      "companies": [
+        "Interactive Brokers"
+      ]
+    },
+    {
+      "title": "Robinhood CEO Vlad Tenev sold his Class A stock to zero… again",
+      "description": "Robinhood CEO Vlad Tenev has sold his Class A stock down to zero, but somehow that exact same headline keeps repeating.",
+      "link": "https://protos.com/robinhood-ceo-vlad-tenev-sold-his-class-a-stock-to-zero-again/",
+      "press": "Protos",
+      "pubDate": "2026-10-12T20:29:17+09:00",
+      "date": "2026-10-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Uniswap Burn Rate Plummets to Zero as Robinhood Chain Struggles With Activity",
+      "description": "Uniswap's activity on Robinhood is certainly taking a plunge as investors enter risk-off mode.",
+      "link": "https://u.today/uniswap-burn-rate-plummets-to-zero-as-robinhood-chain-struggles-with-activity",
+      "press": "U.Today",
+      "pubDate": "2026-10-12T20:20:00+09:00",
       "date": "2026-10-12",
       "category": "broker",
       "companies": [
@@ -97,66 +169,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood Chain transactions drop 42%: What's next?",
-      "description": "Robinhood Chain transactions fall 42% as trading slows, while deposits remain above $1 billion and free wallet swaps continue through December.",
-      "link": "https://crypto.news/robinhood-chain-transactions-drop-42-whats-next/",
-      "press": "Crypto News",
-      "pubDate": "2026-10-11T16:04:51+09:00",
-      "date": "2026-10-11",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain is weighing new payment",
-      "description": "A recently updated version of the paid-for transaction-ordering technology “Time Boost” will be available on Arbitrum, Robinhood Chain’s infrastructure provider.",
-      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "press": "CoinDesk",
-      "pubDate": "2026-10-10T03:11:00+09:00",
-      "date": "2026-10-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Crypto Explores New Product with $1.9T AUM T. Rowe Price",
-      "description": "Robinhood Crypto plans to launch a Stock Token linked to an actively managed ETF on Robinhood Chain with T Rowe Price.",
-      "link": "https://coingape.com/robinhood-crypto-explores-new-product-with-1-9t-aum-t-rowe-price/",
-      "press": "CoinGape",
-      "pubDate": "2026-10-09T15:02:00+09:00",
-      "date": "2026-10-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Cathie Wood's ARK Invest Doubles Down On Air Taxi Stocks, Defense Plays",
-      "description": "Cathie Wood buys more air taxi stocks and defense names for the second day in a row. Sells more Robinhood, DraftKings.",
-      "link": "https://www.investors.com/news/cathie-wood-ark-invest-air-taxi-joby-archer-aviation-defense-aerovironment-kratos/",
-      "press": "Investor's Business Daily",
-      "pubDate": "2026-10-08T22:16:38+09:00",
-      "date": "2026-10-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull plunged 32% on report of ‘structural’ ties to China",
-      "description": "The US House Select Committee says Webull’s \"American\" brokerage and crypto trading brand has structural ties to China.",
-      "link": "https://protos.com/webull-plunged-32-on-report-of-structural-ties-to-china/",
-      "press": "Protos",
-      "pubDate": "2026-10-08T20:39:35+09:00",
-      "date": "2026-10-08",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
@@ -277,18 +289,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Dinari, Ondo Team With Kakaopay on Korean Stock Tokenization",
-      "description": "Kakaopay Securities is exploring tokenized Korean stocks with Dinari and Ondo as South Korea prepares to implement its token securities framework.",
-      "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push",
-      "press": "Cointelegraph",
-      "pubDate": "2026-09-30T04:49:53+09:00",
-      "date": "2026-09-30",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {
