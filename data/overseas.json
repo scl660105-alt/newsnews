@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-10-15T20:50:37Z",
+  "lastUpdated": "2026-10-16T02:46:16Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Schwab Prepares Its Own Version of Tax Strategy Used by the Rich",
+      "description": "Charles Schwab Corp. is preparing to build out its own tax-aware long-short products as the firm’s customers have piled into the strategy beloved by millionaires looking to cut their tax bills.",
+      "link": "https://news.bloombergtax.com/daily-tax-report/schwab-prepares-its-own-version-of-tax-strategy-used-by-the-rich",
+      "press": "Bloomberg Tax News",
+      "pubDate": "2026-10-15T23:20:32+09:00",
+      "date": "2026-10-15",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "SEC approves binary options tied to Coinbase volume and Bitcoin mining output",
       "description": "The SEC has approved binary options tied to Coinbase trading volume, MARA Bitcoin production and Robinhood metrics under existing securities exchange rules.",
@@ -133,18 +146,6 @@
       "category": "broker",
       "companies": [
         "Interactive Brokers"
-      ]
-    },
-    {
-      "title": "Robinhood CEO Vlad Tenev sold his Class A stock to zero… again",
-      "description": "Robinhood CEO Vlad Tenev has sold his Class A stock down to zero, but somehow that exact same headline keeps repeating.",
-      "link": "https://protos.com/robinhood-ceo-vlad-tenev-sold-his-class-a-stock-to-zero-again/",
-      "press": "Protos",
-      "pubDate": "2026-10-12T20:29:17+09:00",
-      "date": "2026-10-12",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
