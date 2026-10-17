@@ -1,16 +1,207 @@
 {
-  "lastUpdated": "2026-10-17T17:50:19Z",
+  "lastUpdated": "2026-10-17T20:09:22Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 114302,
+  "count": 114317,
   "news": [
+    {
+      "title": "107조 벌고도 삼전 7만원?…폭락장에 불붙은 반도체 고평가 논쟁 [숫자 ...",
+      "description": "◆KB증권은 과도한 조정…실적 전망은 오히려 상향 국내 증권가에서는 다른 평가도 나온다. 김동원 KB증권 리서치본부장은 16일 보고서에서 삼성전자와 SK하이닉스의 급락을 기업 실적 악화보다 국내 증시의 수급...",
+      "link": "https://n.news.naver.com/mnews/article/022/0004167466?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261018501843?OutUrl=naver",
+      "press": "세계일보",
+      "pubDate": "2026-10-18T05:02:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환...",
+      "description": "하건형 신한투자증권 연구위원은 “반도체 수출 호조에 따른 달러 매도가 환율 상승을 억제하겠지만, 원화 강세가 이어지려면 AI 산업의 성장성에 관한 의구심이 먼저 해소돼야 한다”며 “오는 22일 금통위의...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006390531?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01115206645614232&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "press": "이데일리",
+      "pubDate": "2026-10-18T05:02:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "\"드러누워서라도 막았어야\" 이찬진 입에 쏠린 금감원 국감",
+      "description": "도입 당시 \"주식시장이 상당히 올라와 있던 상태여서 우려를 많이 했었다\"며 \"증권사 배불리는 결과만... 이날 국감에는 이환주 KB국민은행장, 정상혁 신한은행장, 이호성 하나은행장, 정진완 우리은행장, 강태영...",
+      "link": "https://n.news.naver.com/mnews/article/079/0004199794?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6592916?utm_source=naver&utm_medium=article&utm_campaign=20261018050033",
+      "press": "",
+      "pubDate": "2026-10-18T05:01:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "해킹·희망퇴직 부담 벗어난 통신 3사, 3Q 기저효과 본격화",
+      "description": "최유진 미래에셋증권 연구원은 SK텔레콤의 이동전화 수익이 전년 동기보다 22.5% 증가한 2조6000억원을 기록할 것으로 전망했다. KT, 영업익 제자리걸음…가입자 이탈·부동산 기저효과 부담 KT의 3분기 예상...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003143854?sid=105",
+      "originallink": "https://www.dailian.co.kr/news/view/1702356/?sc=Naver",
+      "press": "",
+      "pubDate": "2026-10-18T05:00:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "하나증권",
+        "유안타증권",
+        "SK증권"
+      ]
+    },
+    {
+      "title": "[이거 봤어?] 김유정은 밀정, 박신혜는 신입사원...정체 숨긴 이들의 '거...",
+      "description": "사소한 실수 하나만으로도 정체가 드러날 수 있는 상황에서 매 순간 자신의 행동과 말을 통제해야 한다.... ■ 언더커버 미쓰홍 tvN '언더커버 미쓰홍'은 1990년대 세기말을 배경으로 30대 엘리트 증권감독관 홍금보(박신혜)...",
+      "link": "https://m.entertain.naver.com/article/311/0002069820",
+      "originallink": "https://www.xportsnews.com/article/2208361",
+      "press": "",
+      "pubDate": "2026-10-18T04:45:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[크립토리뷰] 위믹스, '서틱'과 손잡고 버그바운티 개편…위믹스3.0 보안...",
+      "description": "페어스퀘어랩은 그동안 국내 금융기관과 함께 디지털 자산 수탁, 지갑 인프라, 토큰증권, 스테이블코인... DFNS는 하나의 개인키를 여러 조각으로 나눠 분산 보관하고 서명 시에도 키를 한곳에 모으지 않는 다자간...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=108400",
+      "originallink": "https://www.theguru.co.kr/news/article.html?no=108400",
+      "press": "",
+      "pubDate": "2026-10-18T04:42:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "삼성증권, 30일까지 모니모서 계좌 개설 때 주식 증정 이벤트 전개",
+      "description": "삼성증권이 모니모 고객 대상 이벤트를 연다. 사진=삼성증권  삼성증권이 삼성금융네트웍스 통합 앱 '모니모' 이용 고객을 대상으로 'KOSPI 200 국내주식 1주 100% 당첨 이벤트'를 오는 30일까지 진행한다고 18일 밝혔다....",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=148979",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148979",
+      "press": "",
+      "pubDate": "2026-10-18T04:40:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "삼성증권"
+      ]
+    },
+    {
+      "title": "SGC에너지, 22일 3분기 실적 설명회",
+      "description": "SGC에너지가 금융감독원 전자공시시스템에 제출한 기업설명회 개최 안내에 따르면 주요 내용은 3분기... 실적 발표 자료는 설명회 당일 오후 3시 50분 회사 홈페이지 투자정보 내 IR 메뉴에 게시된다. (사진=비건뉴스 DB)",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393714",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393714",
+      "press": "",
+      "pubDate": "2026-10-18T04:32:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "대림제지, 자사주 92만주 장내 취득…소각 계획",
+      "description": "코스닥시장에서 직접 취득하며 위탁투자중개업자는 NH투자증권으로 기재됐다. 공시에 따르면 취득 예정 금액은 이사회 결의 전일 종가인 주당 2170원을 기준으로 산정했다. 실제 취득 금액은 향후 주가에 따라...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393711",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393711",
+      "press": "",
+      "pubDate": "2026-10-18T04:26:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "NH투자증권",
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "[증시 UP&DOWN] 코스피 박스권 횡보…3분기 실적 차별화 심화",
+      "description": "서울 여의도 증권가. 사진=연합뉴스  5000선 중반으로 밀려난 국내 증시가 다음 주 강한 상단 저항선에 막혀... 여기에 연말 배당 시즌을 앞두고 안정적인 실적과 높은 주주환원율을 유지하고 있는 금융지주사(KB금융...",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322595",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322595",
+      "press": "",
+      "pubDate": "2026-10-18T04:00:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권",
+        "메리츠증권",
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "삼성E&A, 22일 오후 2시 3분기 실적 설명회",
+      "description": "금융감독원 전자공시시스템에 제출된 기업설명회 개최 안내공시에 따르면 참석 대상은 기관투자자와... 22일 회사 홈페이지의 IR 실적자료에 게시할 예정이라고 기재됐다. 개최일은 변경될 수 있다. (사진=비건뉴스 DB)",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393682",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393682",
+      "press": "",
+      "pubDate": "2026-10-18T03:26:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "우성머티리얼스 유증·BW 납입 6개월 연기",
+      "description": "금융시장 변동성, 인수인 측 자금 집행 일정 조율, 회사의 자금 운용 및 사업 일정 조정 등을 지연 사유로 들었다. 자금조달 계획의 이행을 위해 투자자와 협의를 이어가겠다는 내용도 담았다. (사진=비건뉴스 DB)",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393681",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393681",
+      "press": "",
+      "pubDate": "2026-10-18T03:24:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "쿠콘, 20일 기관 대상 2분기 실적 설명회",
+      "description": "기관투자자를 대상으로 2026년 2분기 경영실적과 사업 현황을 설명한다. 금융감독원 전자공시시스템(DART)... 신사업 추진 현황과 하반기 시장 전망을 다룰 예정이다. 행사에는 질의응답도 포함된다. (사진=비건뉴스 DB)",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393673",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393673",
+      "press": "",
+      "pubDate": "2026-10-18T03:08:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "토스, 11월에 보안 콘퍼런스 '가디언즈 26' 개최…21일까지 참가 신청 접...",
+      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 세션을 통해 공유한다는...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149118",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149118",
+      "press": "",
+      "pubDate": "2026-10-18T02:58:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "토스증권"
+      ]
+    },
+    {
+      "title": "노머스, 20억원 자사주 취득 신탁계약 결정",
+      "description": "삼성증권과 계약…내년 1월 15일까지 코스닥 상장사 노머스가 주가 안정과 주주가치 제고를 위해 20억원 규모의 자기주식 취득 신탁계약을 체결하기로 했다. 노머스는 지난 16일 금융감독원 전자공시시스템에 제출한...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=393666",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=393666",
+      "press": "",
+      "pubDate": "2026-10-18T02:54:00+09:00",
+      "date": "2026-10-18",
+      "companies": [
+        "삼성증권"
+      ]
+    },
     {
       "title": "CSA 코스믹 20~21일 196만주 공모 청약",
       "description": "청약 취급처는 SK증권 본·지점과 HTS·MTS다. 납입일은 오는 26일이며 신주 상장 예정일은 11월 6일이다. 모집 주식 수에 청약이 미달하면 청약된 주식 수만 배정하고 남은 주식은 발행하지 않는다. (사진...",
       "link": "https://www.vegannews.co.kr/news/article.html?no=393655",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=393655",
       "press": "",
-      "pubDate": "2026-10-18T02:32:00+09:00",
+      "pubDate": "2026-10-17T17:32:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "SK증권"
@@ -22,7 +213,7 @@
       "link": "https://n.news.naver.com/mnews/article/665/0000008378?sid=101",
       "originallink": "https://www.thescoop.co.kr/news/articleView.html?idxno=311964",
       "press": "",
-      "pubDate": "2026-10-18T02:27:00+09:00",
+      "pubDate": "2026-10-17T17:27:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "하나증권"
@@ -34,7 +225,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=393650",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=393650",
       "press": "",
-      "pubDate": "2026-10-18T02:22:00+09:00",
+      "pubDate": "2026-10-17T17:22:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "현대차증권",
@@ -47,7 +238,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=393649",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=393649",
       "press": "",
-      "pubDate": "2026-10-18T02:20:00+09:00",
+      "pubDate": "2026-10-17T17:20:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "DB금융투자"
@@ -59,7 +250,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=393647",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=393647",
       "press": "",
-      "pubDate": "2026-10-18T02:16:00+09:00",
+      "pubDate": "2026-10-17T17:16:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "DB금융투자"
@@ -71,7 +262,7 @@
       "link": "http://wemakenews.co.kr/news/view.php?no=26579",
       "originallink": "http://wemakenews.co.kr/news/view.php?no=26579",
       "press": "",
-      "pubDate": "2026-10-18T00:40:00+09:00",
+      "pubDate": "2026-10-17T15:40:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "SK증권"
@@ -83,7 +274,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496138",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496138",
       "press": "",
-      "pubDate": "2026-10-18T00:26:00+09:00",
+      "pubDate": "2026-10-17T15:26:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "삼성증권"
@@ -95,7 +286,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003475966?sid=104",
       "originallink": "https://www.etnews.com/20261018000001",
       "press": "전자신문",
-      "pubDate": "2026-10-18T00:25:00+09:00",
+      "pubDate": "2026-10-17T15:25:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "KB증권"
@@ -107,7 +298,7 @@
       "link": "https://www.wikitree.co.kr/articles/1167043",
       "originallink": "https://www.wikitree.co.kr/articles/1167043",
       "press": "",
-      "pubDate": "2026-10-18T00:24:00+09:00",
+      "pubDate": "2026-10-17T15:24:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "하나증권"
@@ -119,7 +310,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496143",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496143",
       "press": "",
-      "pubDate": "2026-10-18T00:16:00+09:00",
+      "pubDate": "2026-10-17T15:16:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "삼성증권"
@@ -131,7 +322,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496094",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496094",
       "press": "",
-      "pubDate": "2026-10-18T00:16:00+09:00",
+      "pubDate": "2026-10-17T15:16:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "하나증권"
@@ -143,7 +334,7 @@
       "link": "https://www.tokenpost.kr/news/cryptocurrency/423745",
       "originallink": "https://www.tokenpost.kr/news/cryptocurrency/423745",
       "press": "",
-      "pubDate": "2026-10-18T00:10:00+09:00",
+      "pubDate": "2026-10-17T15:10:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "하나증권"
@@ -155,7 +346,7 @@
       "link": "http://www.kjdaily.com/article.php?aid=1792249449689372276",
       "originallink": "http://www.kjdaily.com/article.php?aid=1792249449689372276",
       "press": "",
-      "pubDate": "2026-10-18T00:06:00+09:00",
+      "pubDate": "2026-10-17T15:06:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "미래에셋증권",
@@ -172,7 +363,7 @@
       "link": "http://www.kjdaily.com/article.php?aid=1792249510689371276",
       "originallink": "http://www.kjdaily.com/article.php?aid=1792249510689371276",
       "press": "",
-      "pubDate": "2026-10-18T00:06:00+09:00",
+      "pubDate": "2026-10-17T15:06:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "하나증권"
@@ -184,7 +375,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003053571?sid=101",
       "originallink": "https://www.dt.co.kr/article/12089561?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-10-18T00:03:00+09:00",
+      "pubDate": "2026-10-17T15:03:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "NH투자증권",
@@ -198,7 +389,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616568",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=616568",
       "press": "",
-      "pubDate": "2026-10-18T00:00:00+09:00",
+      "pubDate": "2026-10-17T15:00:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "미래에셋증권",
@@ -217,7 +408,7 @@
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616546",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=616546",
       "press": "",
-      "pubDate": "2026-10-18T00:00:00+09:00",
+      "pubDate": "2026-10-17T15:00:00+00:00",
       "date": "2026-10-18",
       "companies": [
         "DB금융투자"
