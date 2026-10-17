@@ -1,15 +1,41 @@
 {
-  "lastUpdated": "2026-10-17T14:49:31Z",
+  "lastUpdated": "2026-10-17T19:58:31Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 399,
+  "count": 401,
   "news": [
+    {
+      "title": "What's next for humanoid robots? Groping and sexual assault, apparently",
+      "description": "Charles Schwab and other US banks are restricting unauthorised AI agents from accessing customer accounts, citing security, privacy and transaction-control concerns.",
+      "link": "https://www.digitaltrends.com/computing/whats-next-for-humanoid-robots-groping-and-sexual-assault-apparently/",
+      "press": "Digital Trends",
+      "pubDate": "2026-10-17T15:37:09+09:00",
+      "date": "2026-10-17",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Charles Schwab won't let unauthorized AI agents access client accounts",
+      "description": "Charles Schwab is blocking unauthorised AI agents, including Meta's Muse, from accessing customer accounts to address potential security risks.",
+      "link": "https://www.newsbytesapp.com/news/business/charles-schwab-stops-unauthorized-ai-agents-from-accessing-client-accounts/story",
+      "press": "NewsBytes",
+      "pubDate": "2026-10-17T14:42:59+09:00",
+      "date": "2026-10-17",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "US banks want to block AI agents from moving your money. Well, at least that's one good move.",
       "description": "US banks are putting the brakes on AI agents that try to move your money. Charles Schwab and JPMorgan Chase are restricting outside agents from taking financial actions, while exploring safer ways to let AI access account information.",
       "link": "https://www.digitaltrends.com/computing/us-banks-want-to-block-ai-agents-from-moving-your-money-well-at-least-thats-one-good-move/",
       "press": "Digital Trends",
-      "pubDate": "2026-10-17T08:47:12+09:00",
+      "pubDate": "2026-10-16T23:47:12+00:00",
       "date": "2026-10-17",
       "category": "broker",
       "companies": [
@@ -22,7 +48,7 @@
       "description": "Fortunately, Charles Schwab CEO Rick Wurster says only a relative handful of dummies are trying to.",
       "link": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
       "press": "Gizmodo",
-      "pubDate": "2026-10-17T08:15:00+09:00",
+      "pubDate": "2026-10-16T23:15:00+00:00",
       "date": "2026-10-17",
       "category": "broker",
       "companies": [
@@ -35,7 +61,7 @@
       "description": "During an interview with Bloomberg, Charles Schwab Corp. CEO Rick Wurster called out Meta’s AI agent, Muse, saying:\n> We don’t want someone just giving their password to Muse, and letting Muse come in and take action on that client’s behalf. We can’t control it, the client can’t control it, something could go wrong and who’s liable? For the protection of the client and for the protection of us, we’re not allowing it.\nJPMorgan Chase has also confirmed that it’s keeping AI agents out.",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013303/charles-schwab-is-blocking-ai-agents-too",
       "press": "The Verge",
-      "pubDate": "2026-10-17T07:09:43+09:00",
+      "pubDate": "2026-10-16T22:09:43+00:00",
       "date": "2026-10-17",
       "category": "broker",
       "companies": [
