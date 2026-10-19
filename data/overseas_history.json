@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-10-18T19:58:20Z",
+  "lastUpdated": "2026-10-19T02:52:41Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 397,
+  "count": 388,
   "news": [
+    {
+      "title": "Grok Bot Wants To Be In Your Chats, Contracts, And Shopping Cart. Amazon Is In Its Way",
+      "description": "Grok Bot is now three times faster at computer tasks, with quicker replies, improved voice calls and X DM integration. Updates also include a redesigned interface, email aliases and connections to services like Coinbase, Trello and Robinhood.",
+      "link": "https://www.ndtvprofit.com/technology/grok-bot-wants-to-be-in-your-chats-contracts-and-shopping-cart-amazon-is-in-its-way-12198508",
+      "press": "NDTV Profit",
+      "pubDate": "2026-10-18T23:16:50+09:00",
+      "date": "2026-10-18",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Crypto Market News: Robinhood Chain Tops $100B in Trades as Pepeto Presale Hits $11.2M",
       "description": "Stay updated with the latest Crypto Market News. Discover trade trends and major events impacting cryptocurrency values.",
       "link": "https://techbullion.com/crypto-market-news-robinhood-chain-tops-100b-in-trades-as-pepeto-presale-hits-11-2m/",
       "press": "TechBullion",
-      "pubDate": "2026-10-18T16:15:02+09:00",
+      "pubDate": "2026-10-18T07:15:02+00:00",
       "date": "2026-10-18",
       "category": "broker",
       "companies": [
@@ -4700,133 +4712,6 @@
       "press": "Business Insider",
       "pubDate": "2026-08-20T04:52:54+00:00",
       "date": "2026-08-20",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "US Financial Services Firm Charles Schwab Opens Technology Capability Centre In Hyderabad",
-      "description": "Schwab India will support Charles Schwab’s US business through technology development, engineering talent and operational capabilities, it further said.",
-      "link": "https://www.outlookbusiness.com/corporate/us-financial-services-firm-charles-schwab-opens-technology-capability-centre-in-hyderabad",
-      "press": "Outlook Business",
-      "pubDate": "2026-08-19T10:27:54+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab opens Hyderabad centre, plans 2,000 employees by 2027",
-      "description": "Charles Schwab has opened a 3.45 lakh sq ft India centre in Hyderabad and plans to expand its workforce to around 2,000 employees by 2027.",
-      "link": "https://www.thehindubusinessline.com/info-tech/charles-schwab-opens-india-capability-centre-in-hyderabad-plans-2000-hires-by-2027/article71364063.ece",
-      "press": "The Hindu Business Line",
-      "pubDate": "2026-08-19T09:05:57+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab opens Hyderabad tech centre with target of 2,000 jobs by 2027",
-      "description": "Charles Schwab opens Schwab India, a 3.45 lakh sq ft tech center in Hyderabad, creating 2,000 jobs by 2027. Strengthening US operations.",
-      "link": "https://www.cnbctv18.com/business/companies/charles-schwab-opens-hyderabad-tech-centre-with-target-of-2000-jobs-by-2027-19972675.htm",
-      "press": "CNBC TV18",
-      "pubDate": "2026-08-19T08:26:57+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab opens first India tech capability centre in Hyderabad with plans to grow to 2000 by 2027",
-      "description": "Charles Schwab launches 345,000 sq ft tech capability centre in Hyderabad, its first in India; plans to grow to 2,000 employees by 2027, supporting US operations.",
-      "link": "https://timesofindia.indiatimes.com/city/hyderabad/charles-schwab-opens-first-india-tech-capability-centre-in-hyderabad-with-plans-to-grow-to-2000-by-2027/articleshow/133340696.cms",
-      "press": "Times of India",
-      "pubDate": "2026-08-19T07:02:00+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Interstice Digital launches Canton cross-chain swap engine with FalconX",
-      "description": "Interstice Digital and FalconX have launched a cross-chain swap engine connecting Canton with Ethereum, Solana, and Robinhood Chain.",
-      "link": "https://crypto.news/interstice-digital-launches-canton-cross-chain-swap-engine-with-falconx/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-19T06:52:08+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Charles Schwab to scale Hyd GCC to 2,000 employees by 2027",
-      "description": "Charles Schwab will expand its Hyderabad GCC to 500 staff by end-2026 and 2,000 by 2027, focusing on engineering, cloud, data, AI and cybersecurity.",
-      "link": "https://timesofindia.indiatimes.com/city/bengaluru/charles-schwab-to-scale-hyd-gcc-to-2000-employees-by-2027/articleshow/133326587.cms",
-      "press": "Times of India",
-      "pubDate": "2026-08-19T06:30:00+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab planning to scale India tech centre workforce to 2,000 by 2027",
-      "description": "Charles Schwab plans to significantly expand its India tech center workforce, aiming to reach approximately two thousand employees by the end of 2027. This Hyderabad office will support the firm's United States business operations. Technology development and engineering support will be provided from this location.",
-      "link": "https://economictimes.indiatimes.com/news/company/corporate-trends/charles-schwab-to-scale-india-tech-centre-workforce-to-2000-by-2027-source-says/articleshow/133338202.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-08-19T05:20:00+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab to scale India centre workforce to 2,000 by 2027",
-      "description": "U.S. financial services firm Charles Schwab plans to expand the workforce at its newly opened ​India-based global capability centre to about 2,000 employees by the ‌end of 2027, according to a state government statement.",
-      "link": "https://www.reuters.com/world/india/charles-schwab-scale-india-tech-centre-workforce-2000-by-2027-source-says-2026-08-19/",
-      "press": "Reuters",
-      "pubDate": "2026-08-19T05:16:23+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "FalconX Links Interstice Connect to Ethereum, Solana and Robinhood Chain",
-      "description": "Interstice Digital has introduced a non-custodial cross-chain swap engine designed to connect the Canton Network with major public ecosystems, including",
-      "link": "https://www.cryptobreaking.com/falconx-links-interstice-connect-to/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-08-19T02:12:42+00:00",
-      "date": "2026-08-19",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Interstice, FalconX Link Canton to Ethereum, Solana",
-      "description": "Interstice Digital and FalconX launched a cross-chain swap engine connecting Canton’s institutional tokenized-asset markets with Ethereum, Solana and Robinhood Chain.",
-      "link": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
-      "press": "Cointelegraph",
-      "pubDate": "2026-08-18T20:45:48+00:00",
-      "date": "2026-08-19",
       "category": "broker",
       "companies": [
         "Robinhood"
