@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-21T02:57:21Z",
+  "lastUpdated": "2026-10-21T11:01:18Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "description": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+      "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "press": "Decrypt",
+      "pubDate": "2026-10-21T05:16:04+09:00",
+      "date": "2026-10-21",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Best Crypto To Buy: Bitcoin and Ethereum Reach Schwab Clients as AlphaPepe’s Presale Pushes Past $3.1M",
+      "description": "Bitcoin and Ethereum are now available to eligible Charles Schwab clients through its crypto accounts, bringing two familiar coins onto a platform used by traditional investors",
+      "link": "https://techbullion.com/best-crypto-to-buy-bitcoin-and-ethereum-reach-schwab-clients-as-alphapepes-presale-pushes-past-3-1m/",
+      "press": "TechBullion",
+      "pubDate": "2026-10-21T04:05:16+09:00",
+      "date": "2026-10-21",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Webull to debut crypto-linked perpetual futures in November",
       "description": "Online trading platform Webull said on Tuesday it has partnered with prediction market operator Kalshi to offer perpetual futures to US customers from November, starting with cryptocurrencies.\n...",
@@ -140,19 +165,6 @@
       ]
     },
     {
-      "title": "US banks want to block AI agents from moving your money. Well, at least that's one good move.",
-      "description": "US banks are putting the brakes on AI agents that try to move your money. Charles Schwab and JPMorgan Chase are restricting outside agents from taking financial actions, while exploring safer ways to let AI access account information.",
-      "link": "https://www.digitaltrends.com/computing/us-banks-want-to-block-ai-agents-from-moving-your-money-well-at-least-thats-one-good-move/",
-      "press": "Digital Trends",
-      "pubDate": "2026-10-17T08:47:12+09:00",
-      "date": "2026-10-17",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "Tokenized Stocks Gain Traction After Hours",
       "description": "More than 70% of BNB Chain’s tokenized stock volume occurs outside US market hours as Strive adds 3,311 BTC and miners face billions in AI financing needs.",
       "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
@@ -243,18 +255,6 @@
       "press": "CryptoSlate",
       "pubDate": "2026-10-06T00:30:48+09:00",
       "date": "2026-10-06",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood says stock token volume is nearing SEC exemption caps",
-      "description": "Robinhood says its stock token volume is already high enough to potentially hit trading limits under the SEC’s new tokenization exemption.",
-      "link": "https://crypto.news/robinhood-says-stock-token-volume-is-nearing-sec-exemption-caps/",
-      "press": "Crypto News",
-      "pubDate": "2026-10-02T18:13:10+09:00",
-      "date": "2026-10-02",
       "category": "theme",
       "companies": [
         "업계테마"
