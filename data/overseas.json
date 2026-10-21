@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-10-20T21:08:49Z",
+  "lastUpdated": "2026-10-21T02:57:21Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Webull to debut crypto-linked perpetual futures in November",
+      "description": "Online trading platform Webull said on Tuesday it has partnered with prediction market operator Kalshi to offer perpetual futures to US customers from November, starting with cryptocurrencies.\n...",
+      "link": "https://www.marketscreener.com/news/webull-to-debut-crypto-linked-perpetual-futures-in-november-ce785cd8da89f02d",
+      "press": "MarketScreener",
+      "pubDate": "2026-10-20T23:28:28+09:00",
+      "date": "2026-10-20",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
+      "description": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
+      "link": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
+      "press": "Decrypt",
+      "pubDate": "2026-10-20T21:06:44+09:00",
+      "date": "2026-10-20",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Charles Schwab, JPMorgan Restrict Third-Party AI Agents Over Security Risk",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "link": "https://www.zerohedge.com/markets/charles-schwab-jpmorgan-restrict-third-party-ai-agents-over-security-risk",
+      "press": "ZeroHedge",
+      "pubDate": "2026-10-20T21:05:00+09:00",
+      "date": "2026-10-20",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Arkham reports 35 million labels for Robinhood Chain tracking",
       "description": "Arkham says Robinhood Chain has over 35 million labels on its platform, with address searches, transfer tracing and alerts for network activity.",
@@ -108,32 +145,6 @@
       "link": "https://www.digitaltrends.com/computing/us-banks-want-to-block-ai-agents-from-moving-your-money-well-at-least-thats-one-good-move/",
       "press": "Digital Trends",
       "pubDate": "2026-10-17T08:47:12+09:00",
-      "date": "2026-10-17",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money",
-      "description": "Fortunately, Charles Schwab CEO Rick Wurster says only a relative handful of dummies are trying to.",
-      "link": "https://gizmodo.com/after-muse-launch-u-s-banks-are-saying-hell-no-to-ai-agents-moving-money-2000827221",
-      "press": "Gizmodo",
-      "pubDate": "2026-10-17T08:15:00+09:00",
-      "date": "2026-10-17",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab is blocking AI agents, too.",
-      "description": "During an interview with Bloomberg, Charles Schwab Corp. CEO Rick Wurster called out Meta’s AI agent, Muse, saying:\n> We don’t want someone just giving their password to Muse, and letting Muse come in and take action on that client’s behalf. We can’t control it, the client can’t control it, something could go wrong and who’s liable? For the protection of the client and for the protection of us, we’re not allowing it.\nJPMorgan Chase has also confirmed that it’s keeping AI agents out.",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013303/charles-schwab-is-blocking-ai-agents-too",
-      "press": "The Verge",
-      "pubDate": "2026-10-17T07:09:43+09:00",
       "date": "2026-10-17",
       "category": "broker",
       "companies": [
@@ -271,18 +282,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Robinhood Gives Retail Traders Institutional Tools With AI Trading Bots",
-      "description": "Robinhood stock surges after announcing plans to launch 24/7 AI trading agents for retail customers, providing institutional resources.",
-      "link": "https://www.investors.com/news/robinhood-ai-trading-bots-agentic-trading-hood-stock/",
-      "press": "Investor's Business Daily",
-      "pubDate": "2026-09-30T22:21:19+09:00",
-      "date": "2026-09-30",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {
