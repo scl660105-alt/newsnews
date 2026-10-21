@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-10-21T11:01:18Z",
+  "lastUpdated": "2026-10-21T16:27:37Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "Rosenblatt starts Robinhood at Buy, says market still under-appreciates maturity",
+      "description": "Rosenblatt initiated coverage of Robinhood (HOOD) with a Buy rating and $135 price target Few companies can claim to have changed an entire in...",
+      "link": "https://markets.businessinsider.com/news/stocks/rosenblatt-starts-robinhood-at-buy-says-market-still-under-appreciates-maturity-1036646361",
+      "press": "Markets Insider",
+      "pubDate": "2026-10-21T09:05:16+09:00",
+      "date": "2026-10-21",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
       "description": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
@@ -144,19 +156,6 @@
       "link": "https://www.digitaltrends.com/computing/whats-next-for-humanoid-robots-groping-and-sexual-assault-apparently/",
       "press": "Digital Trends",
       "pubDate": "2026-10-17T15:37:09+09:00",
-      "date": "2026-10-17",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab won't let unauthorized AI agents access client accounts",
-      "description": "Charles Schwab is blocking unauthorised AI agents, including Meta's Muse, from accessing customer accounts to address potential security risks.",
-      "link": "https://www.newsbytesapp.com/news/business/charles-schwab-stops-unauthorized-ai-agents-from-accessing-client-accounts/story",
-      "press": "NewsBytes",
-      "pubDate": "2026-10-17T14:42:59+09:00",
       "date": "2026-10-17",
       "category": "broker",
       "companies": [
