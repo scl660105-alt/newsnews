@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-10-21T21:07:41Z",
+  "lastUpdated": "2026-10-22T02:56:12Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 28,
   "news": [
+    {
+      "title": "US House Panel questions Webull’s data security assurances over China links",
+      "description": "A US congressional committee raised data security concerns regarding online brokerage Webull's corporate and operational ties to China. While Webull denied that its China-based employees can access US customer data, lawmakers questioned the company's privacy policies and international corporate structure.",
+      "link": "https://www.aninews.in/news/world/us/us-house-panel-questions-webull8217s-data-security-assurances-over-china-links20261021180238/",
+      "press": "ANI (Asian News International)",
+      "pubDate": "2026-10-21T21:32:38+09:00",
+      "date": "2026-10-21",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "Bitget Expands Institutional RWA Strategy With New Liquidity Framework",
+      "description": "Bitget is developing an institutional-grade liquidity framework for tokenized stocks and ETFs, combining its Super Match engine with a new service that lets users transfer eligible securities from traditional brokerage accounts into its crypto ecosystem.",
+      "link": "https://u.today/bitget-expands-institutional-rwa-strategy-with-new-liquidity-framework",
+      "press": "U.Today",
+      "pubDate": "2026-10-21T19:00:00+09:00",
+      "date": "2026-10-21",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Rosenblatt starts Robinhood at Buy, says market still under-appreciates maturity",
       "description": "Rosenblatt initiated coverage of Robinhood (HOOD) with a Buy rating and $135 price target Few companies can claim to have changed an entire in...",
@@ -151,19 +175,6 @@
       ]
     },
     {
-      "title": "What's next for humanoid robots? Groping and sexual assault, apparently",
-      "description": "Charles Schwab and other US banks are restricting unauthorised AI agents from accessing customer accounts, citing security, privacy and transaction-control concerns.",
-      "link": "https://www.digitaltrends.com/computing/whats-next-for-humanoid-robots-groping-and-sexual-assault-apparently/",
-      "press": "Digital Trends",
-      "pubDate": "2026-10-17T15:37:09+09:00",
-      "date": "2026-10-17",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "Tokenized Stocks Gain Traction After Hours",
       "description": "More than 70% of BNB Chain’s tokenized stock volume occurs outside US market hours as Strive adds 3,311 BTC and miners face billions in AI financing needs.",
       "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
@@ -242,18 +253,6 @@
       "press": "TechBullion",
       "pubDate": "2026-10-08T02:30:05+09:00",
       "date": "2026-10-08",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
-      "description": "A new OKX and ICE venture would put 63 tokenized stocks on a 24/7 market built with crypto-native trading infrastructure.",
-      "link": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-10-06T00:30:48+09:00",
-      "date": "2026-10-06",
       "category": "theme",
       "companies": [
         "업계테마"
