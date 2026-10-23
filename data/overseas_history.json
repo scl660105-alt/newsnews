@@ -1,15 +1,41 @@
 {
-  "lastUpdated": "2026-10-23T10:53:04Z",
+  "lastUpdated": "2026-10-23T16:17:22Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 398,
+  "count": 400,
   "news": [
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
+      "link": "https://economictimes.indiatimes.com/news/international/business/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say/articleshow/135131006.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-23T09:55:00+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say/articleshow/135131006.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-23T09:55:00+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Charles Schwab invested an estimated $30 million in a 2,600-acre Montana horse ranch once owned by copper tycoon Marcus Daly to build a private golf club",
       "description": "Charles Schwab, the discount brokerage businessman, found a quiet retreat from his corporate life in Montana’s Bitterroot Valley, where he could enjoy the",
       "link": "https://timesofindia.indiatimes.com/world/us/charles-schwab-invested-an-estimated-30-million-in-a-2600-acre-montana-horse-ranch-once-owned-by-copper-tycoon-marcus-daly-to-build-a-private-golf-club/articleshow/135115541.cms",
       "press": "Times of India",
-      "pubDate": "2026-10-23T04:00:00+09:00",
+      "pubDate": "2026-10-22T19:00:00+00:00",
       "date": "2026-10-23",
       "category": "broker",
       "companies": [
@@ -22,7 +48,7 @@
       "description": "Robinhood Chain reaches $1.14 billion in TVL as Morpho enables borrowing against Stock Tokens, while US access restrictions remain in place.",
       "link": "https://crypto.news/robinhood-chain-1-14b-tvl-morpho-stock-token-loans/",
       "press": "Crypto News",
-      "pubDate": "2026-10-23T00:47:30+09:00",
+      "pubDate": "2026-10-22T15:47:30+00:00",
       "date": "2026-10-23",
       "category": "broker",
       "companies": [
@@ -34,7 +60,7 @@
       "description": "Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.",
       "link": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
       "press": "Bitcoin Magazine",
-      "pubDate": "2026-10-23T00:35:01+09:00",
+      "pubDate": "2026-10-22T15:35:01+00:00",
       "date": "2026-10-23",
       "category": "broker",
       "companies": [
@@ -46,7 +72,7 @@
       "description": "Robinhood's three-month-old blockchain generated $51.1 million in fees as tokenized stock trading and DeFi activity expanded rapidly.",
       "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
       "press": "CryptoSlate",
-      "pubDate": "2026-10-23T00:00:14+09:00",
+      "pubDate": "2026-10-22T15:00:14+00:00",
       "date": "2026-10-23",
       "category": "broker",
       "companies": [

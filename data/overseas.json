@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-23T10:53:04Z",
+  "lastUpdated": "2026-10-23T16:17:22Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
+      "link": "https://economictimes.indiatimes.com/news/international/business/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say/articleshow/135131006.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-23T09:55:00+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say/articleshow/135131006.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-10-23T09:55:00+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Charles Schwab invested an estimated $30 million in a 2,600-acre Montana horse ranch once owned by copper tycoon Marcus Daly to build a private golf club",
       "description": "Charles Schwab, the discount brokerage businessman, found a quiet retreat from his corporate life in Montana’s Bitterroot Valley, where he could enjoy the",
@@ -122,31 +148,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Bybit will look for big broker partnerships to take on Robinhood (HOOD) in the U.S.",
-      "description": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.",
-      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "press": "CoinDesk",
-      "pubDate": "2026-10-22T00:09:22+09:00",
-      "date": "2026-10-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "Interactive Brokers"
-      ]
-    },
-    {
-      "title": "US House Panel questions Webull’s data security assurances over China links",
-      "description": "A US congressional committee raised data security concerns regarding online brokerage Webull's corporate and operational ties to China. While Webull denied that its China-based employees can access US customer data, lawmakers questioned the company's privacy policies and international corporate structure.",
-      "link": "https://www.aninews.in/news/world/us/us-house-panel-questions-webull8217s-data-security-assurances-over-china-links20261021180238/",
-      "press": "ANI (Asian News International)",
-      "pubDate": "2026-10-21T21:32:38+09:00",
-      "date": "2026-10-21",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
