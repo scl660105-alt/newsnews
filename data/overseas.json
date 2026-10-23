@@ -1,8 +1,34 @@
 {
-  "lastUpdated": "2026-10-23T16:17:22Z",
+  "lastUpdated": "2026-10-23T20:53:28Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Thinkorswim reportedly down for hundreds; users complain about Charles Schwab-owned platform online",
+      "description": "Thinkorswim appeared to be down for hundreds of users on October 23 as many complained about the outage online.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/thinkorswim-down-for-hundreds-users-complain-online-downdetector-101792742260902.html",
+      "press": "Hindustan Times",
+      "pubDate": "2026-10-23T17:02:37+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "JPMorgan, Morgan Stanley restrict third-party AI agents amid banking security concerns",
+      "description": "Major US lenders are restricting access to customer accounts for third-party AI agents as concerns grow over automated systems acting beyond users’ instructions. JPMorgan Chase and Charles Schwab have warned of the risks, while Morgan Stanley has blocked external agents from its platforms, despite reporting no known rogue-agent incidents.",
+      "link": "https://www.firstpost.com/tech/jpmorgan-morgan-stanley-restrict-third-party-ai-agents-amid-banking-security-concerns-14054835.html",
+      "press": "Firstpost",
+      "pubDate": "2026-10-23T16:59:10+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
       "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
@@ -115,18 +141,6 @@
       ]
     },
     {
-      "title": "Robinhood Secures Dubai's DFSA Approval to Launch Crypto, Stocks, ETFs in Middle East",
-      "description": "Robinhood received Dubai's DFSA approval to launch crypto, stocks, ETFs and other services across the Middle East.",
-      "link": "https://coingape.com/robinhood-secures-dubai-dfsa-approval-launch-crypto-stocks-etfs-in-middle-east/",
-      "press": "CoinGape",
-      "pubDate": "2026-10-22T17:02:00+09:00",
-      "date": "2026-10-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Vishal Mega Mart, Indian Hotels, , Mahindra Finance Q2 Review: HDFC Sec Sees Up To 50% Upside; Check Target Prices",
       "description": "HDFC Securities has maintained its positive stance on all the three stocks, even as the brokerage revised its target prices for two of the three stocks.",
       "link": "https://www.ndtvprofit.com/markets/vishal-mega-mart-indian-hotels-mahindra-finance-q2-review-hdfc-sec-sees-up-to-50-percent-upside-check-target-prices-12218065",
@@ -136,18 +150,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "Lighter price jumps 21% as Robinhood Wallet partnership draws attention",
-      "description": "Lighter price jumps 21% near $3.90 as its Robinhood Wallet partnership draws attention, while U.S. residents remain excluded from the product.",
-      "link": "https://crypto.news/lighter-price-rally-robinhood-wallet-delphi/",
-      "press": "Crypto News",
-      "pubDate": "2026-10-22T04:55:45+09:00",
-      "date": "2026-10-22",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
