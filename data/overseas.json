@@ -1,8 +1,57 @@
 {
-  "lastUpdated": "2026-10-23T02:59:46Z",
+  "lastUpdated": "2026-10-23T10:53:04Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Charles Schwab invested an estimated $30 million in a 2,600-acre Montana horse ranch once owned by copper tycoon Marcus Daly to build a private golf club",
+      "description": "Charles Schwab, the discount brokerage businessman, found a quiet retreat from his corporate life in Montana’s Bitterroot Valley, where he could enjoy the",
+      "link": "https://timesofindia.indiatimes.com/world/us/charles-schwab-invested-an-estimated-30-million-in-a-2600-acre-montana-horse-ranch-once-owned-by-copper-tycoon-marcus-daly-to-build-a-private-golf-club/articleshow/135115541.cms",
+      "press": "Times of India",
+      "pubDate": "2026-10-23T04:00:00+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Robinhood Chain reaches $1.14B TVL as Morpho enables stock-token loans",
+      "description": "Robinhood Chain reaches $1.14 billion in TVL as Morpho enables borrowing against Stock Tokens, while US access restrictions remain in place.",
+      "link": "https://crypto.news/robinhood-chain-1-14b-tvl-morpho-stock-token-loans/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-23T00:47:30+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Wins Dubai License For Bitcoin, Stock Trading",
+      "description": "Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.",
+      "link": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+      "press": "Bitcoin Magazine",
+      "pubDate": "2026-10-23T00:35:01+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+      "description": "Robinhood's three-month-old blockchain generated $51.1 million in fees as tokenized stock trading and DeFi activity expanded rapidly.",
+      "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
+      "press": "CryptoSlate",
+      "pubDate": "2026-10-23T00:00:14+09:00",
+      "date": "2026-10-23",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Bitcoin perpetual futures are coming to U.S. brokerage accounts",
       "description": "Webull plans Bitcoin perpetual futures for eligible U.S. users in November. Kalshi lists and clears the contracts; funding and margin still apply.",
@@ -113,18 +162,6 @@
       ]
     },
     {
-      "title": "Rosenblatt starts Robinhood at Buy, says market still under-appreciates maturity",
-      "description": "Rosenblatt initiated coverage of Robinhood (HOOD) with a Buy rating and $135 price target Few companies can claim to have changed an entire in...",
-      "link": "https://markets.businessinsider.com/news/stocks/rosenblatt-starts-robinhood-at-buy-says-market-still-under-appreciates-maturity-1036646361",
-      "press": "Markets Insider",
-      "pubDate": "2026-10-21T09:05:16+09:00",
-      "date": "2026-10-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
       "description": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
       "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
@@ -137,31 +174,6 @@
       ]
     },
     {
-      "title": "Best Crypto To Buy: Bitcoin and Ethereum Reach Schwab Clients as AlphaPepe’s Presale Pushes Past $3.1M",
-      "description": "Bitcoin and Ethereum are now available to eligible Charles Schwab clients through its crypto accounts, bringing two familiar coins onto a platform used by traditional investors",
-      "link": "https://techbullion.com/best-crypto-to-buy-bitcoin-and-ethereum-reach-schwab-clients-as-alphapepes-presale-pushes-past-3-1m/",
-      "press": "TechBullion",
-      "pubDate": "2026-10-21T04:05:16+09:00",
-      "date": "2026-10-21",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Webull to debut crypto-linked perpetual futures in November",
-      "description": "Online trading platform Webull said on Tuesday it has partnered with prediction market operator Kalshi to offer perpetual futures to US customers from November, starting with cryptocurrencies.\n...",
-      "link": "https://www.marketscreener.com/news/webull-to-debut-crypto-linked-perpetual-futures-in-november-ce785cd8da89f02d",
-      "press": "MarketScreener",
-      "pubDate": "2026-10-20T23:28:28+09:00",
-      "date": "2026-10-20",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
       "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
       "description": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
       "link": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
@@ -171,19 +183,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Charles Schwab, JPMorgan Restrict Third-Party AI Agents Over Security Risk",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "link": "https://www.zerohedge.com/markets/charles-schwab-jpmorgan-restrict-third-party-ai-agents-over-security-risk",
-      "press": "ZeroHedge",
-      "pubDate": "2026-10-20T21:05:00+09:00",
-      "date": "2026-10-20",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
