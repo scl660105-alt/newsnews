@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-26T02:47:18Z",
+  "lastUpdated": "2026-10-26T12:05:57Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 27,
   "news": [
+    {
+      "title": "Rory Sabbatini gets hot late, wins Stifel Charity Classic with 62",
+      "description": "Rory Sabbatini completed a surprise Sunday push with an eagle and three birdies in his final four holes to win the Stifel Charity Classic, the first leg of the PGA Tour Champions' Charles Schwab Cup playoffs, at Norwood Hills Country Club in St.",
+      "link": "https://www.yardbarker.com/golf/articles/rory_sabbatini_gets_hot_late_wins_stifel_charity_classic_with_62/s1_17060_44473289",
+      "press": "Yardbarker",
+      "pubDate": "2026-10-26T07:37:07+09:00",
+      "date": "2026-10-26",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "description": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
+      "link": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+      "press": "Decrypt",
+      "pubDate": "2026-10-26T01:01:03+09:00",
+      "date": "2026-10-26",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Solana, Tether, and XRP Ledger Drive New Wave of Asset Tokenization",
       "description": "Solana corners 73% of fund inflows and Tether boards 1.7 million wallets, leaving Ethereum’s $26 million RWA stock loss far behind.",
@@ -120,19 +145,6 @@
       "link": "https://www.firstpost.com/tech/jpmorgan-morgan-stanley-restrict-third-party-ai-agents-amid-banking-security-concerns-14054835.html",
       "press": "Firstpost",
       "pubDate": "2026-10-23T16:59:10+09:00",
-      "date": "2026-10-23",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
-      "description": "Major US banks, including Morgan Stanley and JPMorgan Chase, are blocking third-party AI agents from transactions. This decision comes after concerns that AI agents might act independently without customer instructions. Both Morgan Stanley and Charles Schwab have reported blocking unauthorized agent access to their platforms. Banking executives are increasingly worried about the risks associated with AI technology in financial transactions.",
-      "link": "https://economictimes.indiatimes.com/news/international/business/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say/articleshow/135131006.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-10-23T09:55:00+09:00",
       "date": "2026-10-23",
       "category": "broker",
       "companies": [
@@ -271,18 +283,6 @@
       "category": "market",
       "companies": [
         "거래소·규제"
-      ]
-    },
-    {
-      "title": "same rights, different trading protections",
-      "description": "Tokenized stocks can keep shareholder rights under the SEC exemption while venue protections differ. Douro seeks feed guidance; broker duties remain.",
-      "link": "https://cryptoslate.com/secs-tokenized-stock-exemption-leaves-key-price-feed-choices-to-venues/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-10-12T00:00:49+09:00",
-      "date": "2026-10-12",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     },
     {
