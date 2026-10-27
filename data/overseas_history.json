@@ -1,15 +1,40 @@
 {
-  "lastUpdated": "2026-10-27T03:21:24Z",
+  "lastUpdated": "2026-10-27T11:26:43Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 399,
+  "count": 401,
   "news": [
+    {
+      "title": "Nevis raises $70M in Series B funding backed by Charles Schwab as AI wealth management platform grows to $700B in assets",
+      "description": "New York-based AI startup Nevis has raised $70 million in Series B funding led by EQT Ventures, with Charles Schwab joining as a strategic investor, as the two-year-old company reports a 14-fold increase in client assets represented on its wealth management platform to $700 billion. The latest financing brings Nevis' total funding to $110 million",
+      "link": "https://techstartups.com/2026/10/26/nevis-raises-70m-in-series-b-funding-backed-by-charles-schwab-as-ai-wealth-management-platform-grows-to-700b-in-assets/",
+      "press": "TechStartups.com",
+      "pubDate": "2026-10-27T01:04:55+09:00",
+      "date": "2026-10-27",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Bernstein: HOOD Prediction Markets Could Reach $1.7B Revenue by 2028",
+      "description": "Prediction markets are starting to look less like a side project and more like a potential earnings engine for Robinhood Markets. In a note discussed with",
+      "link": "https://www.cryptobreaking.com/bernstein-hood-prediction-markets-could/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-10-27T00:51:45+09:00",
+      "date": "2026-10-27",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Robinhood Chain DEX volume falls 23% as traders question its momentum",
       "description": "Robinhood Chain’s weekly DEX volume fell 23.1% as TVL held above $1.1 billion, dividing traders over growth and builder support.",
       "link": "https://crypto.news/robinhood-chain-dex-volume-falls-23-percent/",
       "press": "Crypto News",
-      "pubDate": "2026-10-27T00:06:38+09:00",
+      "pubDate": "2026-10-26T15:06:38+00:00",
       "date": "2026-10-27",
       "category": "broker",
       "companies": [
@@ -21,7 +46,7 @@
       "description": "Nevis, founded by former Revolut executives, has raised a $70m Series B led by EQT Ventures, with Charles Schwab and QuantumLight joining.",
       "link": "https://thenextweb.com/news/nevis-70m-series-b-ai-wealth-management",
       "press": "TNW",
-      "pubDate": "2026-10-26T23:56:16+09:00",
+      "pubDate": "2026-10-26T14:56:16+00:00",
       "date": "2026-10-26",
       "category": "broker",
       "companies": [
@@ -34,7 +59,7 @@
       "description": "Backed by EQT Ventures and Charles Schwab, Nevis automates paperwork for advisory firms that handle hundreds of billions of dollars in assets.",
       "link": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/",
       "press": "Fortune",
-      "pubDate": "2026-10-26T23:00:00+09:00",
+      "pubDate": "2026-10-26T14:00:00+00:00",
       "date": "2026-10-26",
       "category": "broker",
       "companies": [
@@ -47,7 +72,7 @@
       "description": "Bernstein said prediction market revenue will flip Robinhood’s crypto-derived revenue by 2028 and kept their HOOD price target unchanged.",
       "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein",
       "press": "Cointelegraph",
-      "pubDate": "2026-10-26T22:12:41+09:00",
+      "pubDate": "2026-10-26T13:12:41+00:00",
       "date": "2026-10-26",
       "category": "broker",
       "companies": [
