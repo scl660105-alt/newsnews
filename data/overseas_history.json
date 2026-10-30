@@ -1,15 +1,64 @@
 {
-  "lastUpdated": "2026-10-29T22:20:05Z",
+  "lastUpdated": "2026-10-30T03:59:16Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 430,
+  "count": 433,
   "news": [
+    {
+      "title": "Crypto Stocks to Watch as Prices Retreat & Analysts Remain Bullish",
+      "description": "Crypto stocks retreat as Circle, Robinhood, and Coinbase shares decline, while analysts assess inflation trends, Federal Reserve policy, and potential risks amid bearish sentiment.",
+      "link": "https://coingape.com/crypto-stocks-to-watch-as-prices-retreat-analysts-remain-bullish/",
+      "press": "CoinGape",
+      "pubDate": "2026-10-30T00:44:07+09:00",
+      "date": "2026-10-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Robinhood Misses Profit Estimates Despite Record Trading Volumes",
+      "description": "Robinhood missed Wall Street profit estimates in Q3 as crypto trading slowed, expenses rose, and interest income declined, even as activity in stocks, options, and prediction markets hit records.",
+      "link": "https://www.cryptobreaking.com/robinhood-misses-profit-estimates-despite/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-10-30T00:27:17+09:00",
+      "date": "2026-10-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "OpenWorld Announces Pricing of $3.5 Million Registered Direct Offering Priced At-The-Market Under Nasdaq Rules",
+      "description": "LAKE MARY, Fla., Oct. 29, 2026 (GLOBE NEWSWIRE) -- OpenWorld, Inc. (NASDAQ: OPNW) ('OpenWorld' or the 'Company'), an innovation company advancing global real-world asset ('RWA”) tokenization, today announced that it has entered into a securities purchase agreement with a single institutional investor for the purchase and sale of 2,517,985 shares of common stock (or pre-funded warrants in-lieu thereof), together with Series A warrants to purchase up to an aggregate of 2,517,985 shares of common stock, and Series B warrants to purchase up to an aggregate of 2,517,985 shares of common stock, in a registered direct offering priced at-the-market under Nasdaq rules. Each share of common stock and accompanying warrants are being sold together at a combined purchase price of $1.39. The Series A warrants will have an exercise price of $1.53 per share, will be subject to shareholder approval, and will expire five years from the date of shareholder approval. The Series B warrants will have an exercise price of $1.39 per share, will be subject to shareholder approval, and will expire eighteen months from the date of shareholder approval. The Series B warrants will be callable by the Company, subject to certain conditions, if the daily trading price of the common stock exceeds 400% of the exercise price and the average daily trading volume of the common stock exceeds $1.0 million over a period of ten consecutive trading days. Upon a call, any portion of the Series B warrants not exercised within ten trading days following the holder's receipt of the call notice will be cancelled.",
+      "link": "https://www.manilatimes.net/2026/10/29/tmt-newswire/globenewswire/openworld-announces-pricing-of-35-million-registered-direct-offering-priced-at-the-market-under-nasdaq-rules/2457361",
+      "press": "The Manila Times",
+      "pubDate": "2026-10-29T21:42:32+09:00",
+      "date": "2026-10-29",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Is AI money management on the way? Schwab CEO Rick Wurster weighs in",
+      "description": "President and CEO Rick Wurster is leading Charles Schwab through the responsible middle of implementing AI for finance.",
+      "link": "https://www.dallasnews.com/business/banking/article/ai-money-management-way-schwab-ceo-rick-wurster-22487480.php",
+      "press": "The Dallas Morning News",
+      "pubDate": "2026-10-29T20:00:00+09:00",
+      "date": "2026-10-29",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Ripple President Breaks Down Why Tokenization Is Crypto's Next Big Chapter",
       "description": "Ripple’s Monica Long and Robinhood’s Johann Kerbrat discuss crypto’s next chapter at Swell event.",
       "link": "https://u.today/ripple-president-breaks-down-why-tokenization-is-cryptos-next-big-chapter",
       "press": "U.Today",
-      "pubDate": "2026-10-29T19:00:23+09:00",
+      "pubDate": "2026-10-29T10:00:23+00:00",
       "date": "2026-10-29",
       "category": "broker",
       "companies": [
@@ -21,7 +70,7 @@
       "description": "Bitcoin Price Prediction: Robinhood Wins Dubai Approval as BTC Trades Near $80,134 and Remittix Plans Its November Debut",
       "link": "https://techbullion.com/bitcoin-price-prediction-robinhood-wins-dubai-approval-as-btc-trades-near-80134-and-remittix-plans-its-november-debut/",
       "press": "TechBullion",
-      "pubDate": "2026-10-29T10:20:03+09:00",
+      "pubDate": "2026-10-29T01:20:03+00:00",
       "date": "2026-10-29",
       "category": "broker",
       "companies": [
@@ -5211,18 +5260,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Tokenized stocks hit $29.5B as Coinbase joins Base",
-      "description": "Tokenized stock transfers jumped 415% to $29.5 billion as Coinbase launched four share-backed equity tokens on Base for non-U.S. users.",
-      "link": "https://crypto.news/tokenized-stocks-hit-29-5b-as-coinbase-joins-base/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-30T08:15:21+00:00",
-      "date": "2026-08-30",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     }
   ]
