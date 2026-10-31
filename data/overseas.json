@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-10-30T21:52:35Z",
+  "lastUpdated": "2026-10-31T03:43:41Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 24,
   "news": [
+    {
+      "title": "38 companies oppose OKXICE tokenized stocks amid Nasdaq lobbying claims",
+      "description": "Nasdaq faces questions over reported pressure on listed companies as 38 issuers reject OKXICE tokenized stock trading under the SEC's 30-day objection rule.",
+      "link": "https://crypto.news/nasdaq-okxice-tokenized-stock-trading-objections/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-30T19:24:48+09:00",
+      "date": "2026-10-30",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "CertiK to provide security tools and mentorship to Web3 startups through Arbitrum program",
+      "description": "CertiK partners with Arbitrum and Robinhood Crypto to provide Web3 startups with security tools, expert mentorship and discounted audits before launch.",
+      "link": "https://crypto.news/certik-security-mentorship-web3-startups-arbitrum/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-30T19:11:46+09:00",
+      "date": "2026-10-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Simmons Bank Championship loaded at the top",
       "description": "It's been a three-horse race for the PGA Tour Champions' Charles Schwab Cup in 2026 as the second of three playoff events tees off Friday with the Simmons Bank Championship at Pleasant Valley Country Club in Little Rock.",
@@ -120,18 +144,6 @@
       "link": "https://techbullion.com/bitcoin-price-prediction-robinhood-wins-dubai-approval-as-btc-trades-near-80134-and-remittix-plans-its-november-debut/",
       "press": "TechBullion",
       "pubDate": "2026-10-29T10:20:03+09:00",
-      "date": "2026-10-29",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood posts record $1.4 billion revenue, but a 14% profit drop exposes hidden portfolio losses",
-      "description": "Robinhood’s prediction-market revenue hit $173 million, surpassing crypto as a 10-state regulatory battle threatens growth.",
-      "link": "https://cryptoslate.com/robinhood-posts-record-1-4-billion-revenue-but-a-14-profit-drop-exposes-hidden-portfolio-losses/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-10-29T05:50:25+09:00",
       "date": "2026-10-29",
       "category": "broker",
       "companies": [
@@ -259,18 +271,6 @@
       ]
     },
     {
-      "title": "Tokenized Stocks Gain Traction After Hours",
-      "description": "More than 70% of BNB Chain’s tokenized stock volume occurs outside US market hours as Strive adds 3,311 BTC and miners face billions in AI financing needs.",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz",
-      "press": "Cointelegraph",
-      "pubDate": "2026-10-17T00:52:28+09:00",
-      "date": "2026-10-17",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
       "title": "Top NBFC stocks to buy: HDFC Sec recommend 15 shares to add in portfolio ahead of Q2 results",
       "description": "Top NBFC stocks to buy: The brokerage firm highlighted that NBFC credit growth has sustained the growth momentum in Aug-26 (16% YoY), driven largely by retail and services segment.",
       "link": "https://www.livemint.com/market/stock-market-news/top-nbfc-stocks-to-buy-hdfc-sec-recommend-15-shares-to-add-in-portfolio-ahead-of-q2-results-check-rating-target-11791792673950.html",
@@ -289,18 +289,6 @@
       "press": "CNBC",
       "pubDate": "2026-10-02T01:50:28+09:00",
       "date": "2026-10-02",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "US SEC proposes wider retail investor access to private assets amid risk concerns",
-      "description": "The SEC has proposed new rules to expand access to private assets typically available only to wealthy investors. These rules aim to allow more professionals to qualify as accredited investors, which may lead to higher returns. Critics express concern that this move could expose retail investors to significant risks and fees. Additionally, proposed changes would allow closed-end funds to redeem shares more frequently and offer varied share classes.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-sec-proposes-wider-retail-investor-access-to-private-assets-amid-risk-concerns/articleshow/134600545.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-10-01T03:17:00+09:00",
-      "date": "2026-10-01",
       "category": "market",
       "companies": [
         "거래소·규제"

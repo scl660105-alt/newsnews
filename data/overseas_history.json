@@ -1,15 +1,39 @@
 {
-  "lastUpdated": "2026-10-30T21:52:35Z",
+  "lastUpdated": "2026-10-31T03:43:41Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 437,
+  "count": 434,
   "news": [
+    {
+      "title": "38 companies oppose OKXICE tokenized stocks amid Nasdaq lobbying claims",
+      "description": "Nasdaq faces questions over reported pressure on listed companies as 38 issuers reject OKXICE tokenized stock trading under the SEC's 30-day objection rule.",
+      "link": "https://crypto.news/nasdaq-okxice-tokenized-stock-trading-objections/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-30T19:24:48+09:00",
+      "date": "2026-10-30",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "CertiK to provide security tools and mentorship to Web3 startups through Arbitrum program",
+      "description": "CertiK partners with Arbitrum and Robinhood Crypto to provide Web3 startups with security tools, expert mentorship and discounted audits before launch.",
+      "link": "https://crypto.news/certik-security-mentorship-web3-startups-arbitrum/",
+      "press": "Crypto News",
+      "pubDate": "2026-10-30T19:11:46+09:00",
+      "date": "2026-10-30",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Simmons Bank Championship loaded at the top",
       "description": "It's been a three-horse race for the PGA Tour Champions' Charles Schwab Cup in 2026 as the second of three playoff events tees off Friday with the Simmons Bank Championship at Pleasant Valley Country Club in Little Rock.",
       "link": "https://www.arkansasonline.com/news/2026/oct/30/simmons-bank-championship-loaded-at-the-top/",
       "press": "Arkansas Online",
-      "pubDate": "2026-10-30T16:11:00+09:00",
+      "pubDate": "2026-10-30T07:11:00+00:00",
       "date": "2026-10-30",
       "category": "broker",
       "companies": [
@@ -5249,67 +5273,6 @@
       "category": "broker",
       "companies": [
         "Webull"
-      ]
-    },
-    {
-      "title": "Coinbase Signs Crypto Infrastructure Deal With Webull for Canadian Expansion",
-      "description": "Coinbase partners with Webull Canada to provide crypto trading and custody infrastructure as Webull expands its digital asset services.",
-      "link": "https://coingape.com/coinbase-signs-crypto-infrastructure-deal-with-webull-for-canadian-expansion/",
-      "press": "CoinGape",
-      "pubDate": "2026-08-31T14:49:33+00:00",
-      "date": "2026-08-31",
-      "category": "broker",
-      "companies": [
-        "Webull"
-      ]
-    },
-    {
-      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-      "description": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
-      "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-      "press": "Decrypt",
-      "pubDate": "2026-08-31T12:37:44+00:00",
-      "date": "2026-08-31",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "PAIR Launches the First Multipool RWA Launchpad on Robinhood Chain, Pairing New Tokens With Baskets of Tokenized Stocks, Partners With AWS to Scale Its Infrastructure",
-      "description": "PAIR (pair.fund) lets anyone deploy a fixed-supply token that trades against one to five canonical Robinhood Stock Tokens such as NVDA, TSLA, AAPL and SPY in a single transaction, with permanently locked Uniswap v4 liquidity and no bonding curve or migration. The platform has passed $26 million in all-time trading volume and $180,000 in creator rewards in its first week of multipool trading.",
-      "link": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/pair-launches-the-first-multipool-rwa-launchpad-on-robinhood-chain-pairing-new-tokens-with-baskets-of-tokenized-stocks-partners-with-aws-to-scale-its-infrastructure/2415048",
-      "press": "The Manila Times",
-      "pubDate": "2026-08-31T11:40:25+00:00",
-      "date": "2026-08-31",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Hits $2.66M in 24h App Revenue, Flipping Ethereum and Hyperliquid",
-      "description": "Robinhood Chain hit $2.66M in app revenue on August 31, beating Ethereum and Hyperliquid. Three apps drove 88% of it, keeping the HOOD bull case narrow.",
-      "link": "https://coingape.com/robinhood-chain-hits-2-66m-in-24h-app-revenue-flipping-ethereum-and-hyperliquid/",
-      "press": "CoinGape",
-      "pubDate": "2026-08-31T07:37:09+00:00",
-      "date": "2026-08-31",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain app revenue tops Ethereum in 24 hours",
-      "description": "Robinhood Chain recorded $2.66 million in 24-hour app revenue, exceeding Hyperliquid, Ethereum and Base in a DeFiLlama snapshot.",
-      "link": "https://crypto.news/robinhood-chain-app-revenue-tops-ethereum-in-24-hours/",
-      "press": "Crypto News",
-      "pubDate": "2026-08-31T06:52:47+00:00",
-      "date": "2026-08-31",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     }
   ]
