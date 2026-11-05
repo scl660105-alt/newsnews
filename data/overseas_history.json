@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-11-04T23:05:33Z",
+  "lastUpdated": "2026-11-05T04:45:09Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 410,
+  "count": 389,
   "news": [
+    {
+      "title": "Company Strike to Freeze U.S. Stock Tokenization",
+      "description": "Apple leads 59 corporate giants to freeze the SEC-backed stock tokenization plan, halting Wall Street's crypto push.",
+      "link": "https://u.today/apple-joins-59-company-strike-to-freeze-us-stock-tokenization",
+      "press": "U.Today",
+      "pubDate": "2026-11-05T00:30:05+09:00",
+      "date": "2026-11-05",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "What's Next for Crypto? Ripple Exec Shares Key Insights From BlackRock Discussion",
+      "description": "Ripple, BlackRock, Standard Chartered and Robinhood discuss what's next for digital assets at major event.",
+      "link": "https://u.today/whats-next-for-crypto-ripple-exec-shares-key-insights-from-blackrock-discussion",
+      "press": "U.Today",
+      "pubDate": "2026-11-04T22:30:07+09:00",
+      "date": "2026-11-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Polymarket Hits 100% Odds on Democratic Sweep as Trump Faces Crushing Midterm Defeat",
+      "description": "Polymarket shows a Democratic sweep of Congress after the midterms, leaving the CLARITY Act stalled while Coinbase and Robinhood shares rebound.",
+      "link": "https://coingape.com/polymarket-hits-100-odds-on-democratic-sweep-as-trump-faces-crushing-midterm-defeat/",
+      "press": "CoinGape",
+      "pubDate": "2026-11-04T20:17:34+09:00",
+      "date": "2026-11-04",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Tesla, Amazon Deal Fresh Blow to OKX Tokenization Push",
       "description": "Tesla, Amazon, Netflix and three other major companies have dealt another blow to OKX’s stock tokenization ambitions.",
@@ -4697,298 +4733,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Cathie Wood Buys $3.6M of HOOD, Sells $2.9M of 2 High-Growth Stocks - September 5",
-      "description": "Cathie Wood-led ARK Invest made several notable trades on Friday, September 4, with Robinhood Markets (HOOD), an online brokerage and financial-...",
-      "link": "https://markets.businessinsider.com/news/stocks/cathie-wood-buys-3-6m-of-hood-sells-2-9m-of-2-high-growth-stocks-september-5-1036524774",
-      "press": "Markets Insider",
-      "pubDate": "2026-09-05T14:36:00+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain Hits Record $3.7 Billion in 24",
-      "description": "Robinhood Chain has unlocked a new level in its 24-hour DEX volume, as activity across its DeFi market continues to grow and adoption intensifies.",
-      "link": "https://u.today/robinhood-chain-hits-record-37-billion-in-24-hour-dex-volume",
-      "press": "U.Today",
-      "pubDate": "2026-09-05T12:54:39+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain activity is mostly ‘degen flow,’ ARK researcher says",
-      "description": "ARK’s Lorenzo Valente says less than 1% of Robinhood Chain activity came through confirmed Robinhood Wallet swaps.",
-      "link": "https://crypto.news/robinhood-chain-activity-is-mostly-degen-flow-ark-says/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T10:18:13+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain daily fees hit record $6 million",
-      "description": "Robinhood Chain daily fees reached a record $6.04 million as GMGN, Pons and rising DEX activity lifted its annualized revenue rate.",
-      "link": "https://crypto.news/robinhood-chain-daily-fees-hit-record-6-million-dollar/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T10:03:51+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Ave.ai Launches 150,000 USDT bStocks Trading Sprint With BNB Chain and Four.meme",
-      "description": "Two-week campaign connects tokenized stocks, Stock Memes and the growing BNB Chain trading ecosystem. September 3, 2026 — Ave.ai, a leading multi-chain on-chain trading platform supporting more than 190 blockchain networks, has launched the Ave × BNB Chain × Four.meme bStocks Trading Sprint, featuring a total prize pool of 150,000 USDT. The campaign runs from […]",
-      "link": "https://techbullion.com/ave-ai-launches-150000-usdt-bstocks-trading-sprint-with-bnb-chain-and-four-meme/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-05T08:46:53+00:00",
-      "date": "2026-09-05",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "two months in, who is winning?",
-      "description": "Robinhood Chain hit $791M TVL and $4M daily revenue in 60 days, outpacing Solana on key metrics. Here is what the numbers say about the L2 challenger.",
-      "link": "https://crypto.news/robinhood-chain-vs-solana-two-months-challenging-2/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:59:13+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "two months in, who is winning?",
-      "description": "Robinhood Chain hit $791M TVL and $4M daily revenue in 60 days, outpacing Solana on key metrics. Here is what the numbers say about the L2 challenger.",
-      "link": "https://crypto.news/robinhood-chain-vs-solana-two-months-challenging/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:59:13+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "the launchpad war nobody expected",
-      "description": "Pons on Robinhood Chain has outearned Pump.fun in daily fees since Aug. 29. How zero gas, creator incentives, and $4B in volume changed the launchpad game.",
-      "link": "https://crypto.news/pons-vs-pumpfun-launchpad-war-robinhood-chain/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:58:58+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "the launchpad war nobody expected",
-      "description": "Pons on Robinhood Chain has outearned Pump.fun in daily fees since Aug. 29. How zero gas, creator incentives, and $4B in volume changed the launchpad game.",
-      "link": "https://crypto.news/pons-vs-pumpfun-launchpad-war-robinhood-chain-2/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:58:58+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "AMC CEO calls Robinhood stock token contemptible and vile",
-      "description": "Adam Aron discovered Robinhood tokenized AMC stock without consent. AMC jumped 21% as the CEO called the token vile and threatened SEC action.",
-      "link": "https://crypto.news/amc-ceo-robinhood-chain-tokenized-stock-contemptible-3/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:58:30+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "AMC CEO calls Robinhood stock token contemptible and vile",
-      "description": "Adam Aron discovered Robinhood tokenized AMC stock without consent. AMC jumped 21% as the CEO called the token vile and threatened SEC action.",
-      "link": "https://crypto.news/amc-ceo-robinhood-chain-tokenized-stock-contemptible/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-05T06:58:30+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "AMC CEO Slams Robinhood’s Tokenized Stocks as Unregulated, to Seek Probe",
-      "description": "AMC Entertainment CEO Adam Aron has publicly challenged Robinhood’s tokenized stock offerings, calling them “outrageous” and stating AMC has no",
-      "link": "https://www.cryptobreaking.com/amc-ceo-slams-robinhoods-tokenized/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-09-05T04:14:22+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood Chain just ran into two problems at once",
-      "description": "Robinhood Chain halted for at least 14 minutes after capturing nearly 80% of L2 revenue and scaling its Stock Token business.",
-      "link": "https://cryptoslate.com/a-major-outage-and-corporate-backlash-hit-robinhood-chain-at-the-peak-of-its-growth/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-09-05T00:20:00+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Stock: Why Football Season Could Matter More Than Crypto",
-      "description": "Robinhood Markets (HOOD), the online brokerage, is getting more attention from investors as its prediction-market business grows and football se...",
-      "link": "https://markets.businessinsider.com/news/stocks/robinhood-stock-why-football-season-could-matter-more-than-crypto-1036524541",
-      "press": "Markets Insider",
-      "pubDate": "2026-09-04T21:33:00+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "TOP Financial Group Limited Announces Strategic Relocation of Global Headquarters to the United States",
-      "description": "HOUSTON, Texas, Sept. 04, 2026 (GLOBE NEWSWIRE) -- TOP Financial Group Limited (NASDAQ: TOP, 'TOP” or the 'Company”), a fast-growing online brokerage firm specializing in local and foreign equities, futures, and options products, today announced the strategic relocation of its global headquarters to the United States. This transition marks a pivotal milestone in the company’s long-term growth strategy, as it gradually shifts its primary corporate focus and operational footprint to the American market. The new headquarters address is: 4201 Main Street, Suite 200, Houston, Texas 77002.",
-      "link": "https://www.manilatimes.net/2026/09/05/tmt-newswire/globenewswire/top-financial-group-limited-announces-strategic-relocation-of-global-headquarters-to-the-united-states/2419043",
-      "press": "The Manila Times",
-      "pubDate": "2026-09-04T20:39:47+00:00",
-      "date": "2026-09-05",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Robinhood-AMC clash may speed US stock token rules",
-      "description": "Robinhood rejects AMC’s stock-token demand as RedStone says the clash could speed US rules on consent, registration and ownership rights.",
-      "link": "https://crypto.news/robinhood-amc-clash-may-speed-us-stock-token-rules/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-04T20:24:04+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood-And It's Working (Sort Of)",
-      "description": "A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-      "link": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-      "press": "Decrypt",
-      "pubDate": "2026-09-04T19:16:03+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-      "description": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
-      "link": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-      "press": "Decrypt",
-      "pubDate": "2026-09-04T18:36:41+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "AMC CEO Adam Aron Blasts Robinhood for 'Quasi",
-      "description": "\"I hereby call on you and Robinhood to voluntarily CEASE AND DECIST the trading of AMC stock tokens,\" Adam Aron said.",
-      "link": "https://www.businessinsider.com/amc-ceo-robinhood-tokenized-stock-criticism-adam-aron-2026-9",
-      "press": "Business Insider",
-      "pubDate": "2026-09-04T17:26:51+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Robinhood Chain suffers 14-minute network outage",
-      "description": "Robinhood Chain halted block production for over 14 minutes, stalling transactions as HOOD shares fell as much as 5.1% during Friday trading.",
-      "link": "https://crypto.news/robinhood-chain-suffers-14-minute-network-outage/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-04T16:35:16+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "'We Stand Behind Stock Tokens': Robinhood CEO Backs $104 Million Ecosystem Amid Backlash",
-      "description": "Robinhood's Vlad Tenev backs the $104 million \"stock token\" market, defying AMC's legal threats over on-chain trading.",
-      "link": "https://u.today/we-stand-behind-stock-tokens-robinhood-ceo-backs-104-million-ecosystem-amid-backlash",
-      "press": "U.Today",
-      "pubDate": "2026-09-04T16:31:45+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Pendle launches on Robinhood Chain with sNET market",
-      "description": "Pendle launches on Robinhood Chain with an sNET market maturing Sept. 17, bringing principal and yield trading to the Ethereum Layer 2.",
-      "link": "https://crypto.news/pendle-launches-on-robinhood-chain-with-snet-market/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-04T16:02:19+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "AMC Stock Surges on Robinhood Clash - Here’s Who Owns the Meme Stock",
-      "description": "Movie theater chain AMC Entertainment (AMC) stock is up more than 8% in early trading on Friday. The surge came after CEO Adam Aron publicly cri...",
-      "link": "https://markets.businessinsider.com/news/stocks/amc-stock-surges-on-robinhood-clash-here-s-who-owns-the-meme-stock-1036524300",
-      "press": "Markets Insider",
-      "pubDate": "2026-09-04T15:32:13+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Schwab Stock, Robinhood In Or Near Buy Zones But Interactive Brokers Triggers Sell",
-      "description": "Charles Schwab stock, along with Robinhood Markets, Ameriprise and LPL Financial, are in or near buy zones in the ongoing stock market action.",
-      "link": "https://www.investors.com/research/ibd-industry-themes/charles-schwab-stock-schw-brokerage-firms-in-or-near-buy-zones/",
-      "press": "Investor's Business Daily",
-      "pubDate": "2026-09-04T15:07:16+00:00",
-      "date": "2026-09-05",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab",
-        "Robinhood",
-        "Interactive Brokers"
       ]
     }
   ]
