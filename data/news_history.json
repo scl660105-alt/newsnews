@@ -1,16 +1,1761 @@
 {
-  "lastUpdated": "2026-11-07T01:36:55Z",
+  "lastUpdated": "2026-11-07T08:20:13Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 116823,
+  "count": 116963,
   "news": [
+    {
+      "title": "금융·공공·유통 가리지 않는다…개인정보 유출 '전방위 비상'",
+      "description": "미래에셋증권은 지난 4일 모바일 인증 서비스에 대한 외부의 비정상적 접근으로 고객 약 3천800명의 계좌번호가 유출됐다고 밝혔다. 하루 뒤에는 사내 그룹웨어가 추가 공격을 받아 퇴직자를 포함한 임직원 3만5천255명의...",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=928441",
+      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=928441",
+      "press": "",
+      "pubDate": "2026-11-07T17:10:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "전자빔 기술 국산화 앞세운 쎄크…방산 LINAC·의료 시장 진출",
+      "description": "유안타증권은 앞서 쎄크 관련 보고서에서 HBM 적층과 TSV 불량 검사를 위한 X-ray 수요 확대 가능성을 제시했다. 반도체뿐 아니라 배터리와 방산에서도 제품 내부의 결함을 확인해야 하는 만큼 전자빔 기반 비파괴검사...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502094",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502094",
+      "press": "",
+      "pubDate": "2026-11-07T17:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…3만 9천명 정보 유출",
+      "description": "",
+      "link": "https://n.news.naver.com/mnews/article/056/0012289332?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706696&ref=A",
+      "press": "",
+      "pubDate": "2026-11-07T17:05:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹...고객·임직원 일부 정보 유출",
+      "description": "최근 금융사 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 정보유출 사고가 발생했습니다. 은행, 보험사 등에 이어 대형 증권사까지 피해가 생기면서 우려가 커지고 있습니다. 취재기자 연결합니다. 김대근 기자!...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002429662?sid=101",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202611071651259938",
+      "press": "",
+      "pubDate": "2026-11-07T16:51:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "KB증권",
+        "신한투자증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출...김미섭·허선호 대표 \"고객님께...",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 국내 최대 증권사인 미래에셋증권에서도 해킹 사고로 고객 등의 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi...",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=242569",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=242569",
+      "press": "",
+      "pubDate": "2026-11-07T16:50:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 정보 유출에 사과…재발방지 대책 마련",
+      "description": "미래에셋증권이 고객·임직원 정보 유출 사고에 대해 사과했다. 7일 김미섭, 허선호 미래에셋증권 대표이사는 자사 홈페이지를 통해 \"보호해야 할 고객님의 개인(신용)정보가 유출된 데 대해 깊이 사과드린다\"고 했다....",
+      "link": "https://n.news.naver.com/mnews/article/119/0003152464?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1712087/?sc=Naver",
+      "press": "",
+      "pubDate": "2026-11-07T16:45:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미국발 AI 투자 불안에 코스피 11.7% 급락…반도체 쏠림이 낙폭 키웠다",
+      "description": "강진혁 신한투자증권 연구원도 \"기본적으로 시장이 프라이싱 하는 것은 구조적 위기론보다는 속도의 둔화일 가능성이 크다\"면서도 \"급격한 매도세의 여파로 다음 주 초까지 시장 변동성이 이어질 수 있다\"고...",
+      "link": "https://bizhankook.com/articles/kospi-plunges-on-ai-investment-fears.html",
+      "originallink": "https://bizhankook.com/articles/kospi-plunges-on-ai-investment-fears.html",
+      "press": "",
+      "pubDate": "2026-11-07T16:42:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "일본 시총 1위 도요타, 40년만 역대급 상승률…하루에만 ‘16%’, 도대체...",
+      "description": "하늘 NH투자증권 연구원은 “주가가 공개매수가를 크게 웃돌면서 기존 조건으로는 계획한 물량을 확보하기 어려울 수 있다”며 “다만 도요타는 자금 여력이 충분해 주주환원 의지를 유지한다면 더 높은 가격을...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002720244?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10929177?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-11-07T16:41:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "NH투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 이틀 연속 외부 공격에 개인정보 3만9000명 유출",
+      "description": "인더스트리뉴스 김은경 기자  미래에셋증권에서 고객과 임직원 등 약 3만9000명의 개인정보가 유출되는 사고가 발생했다. 고객 계좌번호에 이어 임직원과 퇴직자, 외주직원의 성명과 사번, 연락처, 암호화된 비밀번호 등이...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89092",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=89092",
+      "press": "",
+      "pubDate": "2026-11-07T16:34:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "다음주 5개 기업 IPO 수요예측…눈여겨볼 종목은?",
+      "description": "에스에프씨의 공모 희망 밴드는 3만1600∼3만6100원으로, 미래에셋증권이 대표주관사를 맡았습니다. 유캐스트는 공모 희망 밴드를 1만9000∼2만3000원으로 제시했습니다. 알츠하이머병 치료제 개발 기업 아델은 12...",
+      "link": "https://n.news.naver.com/mnews/article/374/0000542310?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000344921?division=NAVER",
+      "press": "",
+      "pubDate": "2026-11-07T16:34:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…당국 대책에도 또 '해킹'",
+      "description": "국내 최대 증권사인 미래에셋증권에서 고객과 임직원 등 3만 9천여명의 정보가 유출됐습니다. 금융당국이 전 금융권 보안체계 점검과 경영진 책임 강화를 발표한 가운데, 또 다시 해킹 사고가 확인되면서 보안 관리에...",
+      "link": "https://n.news.naver.com/mnews/article/422/0000923822?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107160940Rzt",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T16:10:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "‘DC 규제’ 타협하면 뭐하나, 더 쓸 돈이 없는데 [트럼프 스톡커]",
+      "description": "중 하나를 겪었다”며 “그 누구도 본 적 없는 수준에 도달하기 위해 정말 많은 노력이 필요했는데 결국... 오픈AI는 6월 1일 앤트로픽이 미국 증권거래위원회(SEC)에 IPO 신청서를 제출하자 일주일 뒤인 8일 덩달아...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004679745?sid=104",
+      "originallink": "https://www.sedaily.com/article/20111455?ref=naver",
+      "press": "서울경제",
+      "pubDate": "2026-11-07T16:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만 9천여 명 정보 유출…당국에 전날 밤 신고",
+      "description": "▲ 서울 중구 미래에셋증권 본사 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했습니다. 최근 금융권을 상대로 한 잇단 해킹과 이에 대한 대책 발표에도 불구하고...",
+      "link": "https://n.news.naver.com/mnews/article/055/0001401362?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835286&plink=ORI&cooper=NAVER",
+      "press": "",
+      "pubDate": "2026-11-07T15:55:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 고객·임직원 3만9000여 명 정보 유출…금융권 해킹 확산",
+      "description": "금융권 해킹 사고가 확산 중인 가운데, 대형 증권사인 미래에셋증권에서도 해킹으로 고객 및 임직원 총 3만9000여 명의 개인정보 유출이 발생했다. 유출된 고객 개인정보의 경우 계좌번호 1개 항목으로 제시됐다. 특히...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611071453081283179ad43907_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611071453081283179ad43907_18",
+      "press": "",
+      "pubDate": "2026-11-07T15:44:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "“속만 타는 주식, 이제 손 떼고 싶어요”…수천억 뭉칫돈 몰린 고금리...",
+      "description": "고금리 금융상품이 주목받고 있다. 시중은행 특판예금은 수천억원의 판매 한도가 조기 소진되고... 중시하는 투자자를 위한 상품을 내놓고 있다. 실제 NH농협은행이 올해 출시한 특판예금은 세 차례 판매에서 총...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005760367?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12201465",
+      "press": "매일경제",
+      "pubDate": "2026-11-07T15:34:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "NH투자증권, 불법사금융 피해 예방 '사람 살리는 금융' 캠페인 동참",
+      "description": "NH투자증권은 신재욱·배광수 대표이사가 서민금융진흥원 주관 '사람 살리는 금융' 릴레이 캠페인에 동참했다고 7일 밝혔다. 신·배 대표이사는 다음 주자로 김규빈 토스증권 대표와 박종성·손대희 웰컴저축은행...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364221",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364221",
+      "press": "",
+      "pubDate": "2026-11-07T15:30:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "NH투자증권",
+        "토스증권"
+      ]
+    },
+    {
+      "title": "국내 최대 증권사 미래에셋증권도 뚫렸다··· 3만9000여명 개인정보 유...",
+      "description": "국내 최대 증권사인 미래에셋증권이 외부 해킹 공격을 받아 임직원 3만5255명의 개인정보와 고객 3800여 명의 계좌번호가 유출된 것으로 확인됐다. 최근 은행, 가상자산 거래소 등 금융권을 대상으로 한 해킹 사고가...",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=559852",
+      "originallink": "https://www.dkilbo.com/news/articleView.html?idxno=559852",
+      "press": "",
+      "pubDate": "2026-11-07T15:20:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "카카오, AI 플랫폼 전환 본격화…톡비즈 광고 35% 성장",
+      "description": "IBK투자증권은 최근 보고서에서 카카오의 인공지능(AI) 플랫폼 전환이 본격화하는 가운데 기존 플랫폼... 플랫폼 기타 부문에서는 카카오페이와 모빌리티가 성장을 뒷받침했다. 카카오페이 거래액은 전년 동기 대비 14...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502088",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502088",
+      "press": "",
+      "pubDate": "2026-11-07T15:14:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "카카오페이증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 고객·임직원 정보유출...고객 3천800여명·임직원 3만5...",
+      "description": "최근 금융권을 상대로 한 잇단 해킹과 이에 대한 대책 발표에도 불구하고 국내 최대 증권사 미래에셋증권에서 해킹으로 고객과 임직원 3만9000여명의 개인 정보 유출 사고가 터졌다. 미래에셋그룹의 입장에서는...",
+      "link": "https://www.livebiz.today/news/articleView.html?idxno=206296",
+      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=206296",
+      "press": "",
+      "pubDate": "2026-11-07T15:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹...고객·임직원 일부 정보 유출",
+      "description": "최근 금융사 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 정보유출 사고가 발생했습니다. 은행, 보험사 등에 이어 대형 증권사까지 피해가 생기면서 우려가 커지고 있습니다. 취재기자 연결합니다. 김대근 기자!...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002429639?sid=101",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202611071504406735",
+      "press": "",
+      "pubDate": "2026-11-07T15:04:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "KB증권",
+        "신한투자증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[N위크] 금융사 지배구조 개선안 나온다...금융권 가계대출 다시 늘었나",
+      "description": "조치로 증권사의 신용융자 담보 비율 유지 의무가 9일부터 3개월간 면제된다. 현재는 증권사가 신용... 5대 은행(KB국민·신한·하나·우리·NH농협)의 10월 말 가계대출 잔액은 783조6천57억원으로, 전월 말보다 2조7천717억원...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=208706",
+      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=208706",
+      "press": "",
+      "pubDate": "2026-11-07T15:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…고객 3800명 계좌·임직원 3.5만명 정보 유출",
+      "description": "국내 최대 증권사 미래에셋증권에서 해킹으로 인한 정보 유출이 발생했다. 금융권을 겨냥한 연쇄 해킹과 잇단 대책 발표에도 피해가 이어지면서 추가 사고에 대한 우려가 커지고 있다. 7일 미래에셋증권은 지난 4일과 5일...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=304475",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=304475",
+      "press": "",
+      "pubDate": "2026-11-07T14:58:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "카카오 “AI 성과 기대 못 미쳐”…에이전트 출시로 반전 노린다",
+      "description": "고준혁 신한투자증권 연구원은 “국내 서비스 운영과 개인정보 검토 경험은 (카카오의) 강점”이라면서도 “해외 사업자도 법적 요건을 준수하며 정보를 수집·이용할 수 있다. 상용화·수익화 검증 과제에 대한...",
+      "link": "https://n.news.naver.com/mnews/article/022/0004173250?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261106512494?OutUrl=naver",
+      "press": "세계일보",
+      "pubDate": "2026-11-07T14:57:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권",
+        "대신증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "SK하이닉스 레버리지 ETF 90% 폭락…삼성전자 곱버스는 급등",
+      "description": "이경민 대신증권 연구원은 \"AI 인프라 투자 둔화 우려가 반도체 산업 전반으로 확산하면서 국내 증시 투자심리가 위축됐다\"며 \"코스피가 장중 5,000선 아래로 떨어졌지만 이후 낙폭을 일부 만회했다\"고...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794030897691499276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794030897691499276",
+      "press": "",
+      "pubDate": "2026-11-07T14:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "체성분 분석 수요 커진다…인바디, 3분기 어닝 서프라이즈",
+      "description": "미래에셋증권은 최근 보고서에서 인바디의 3분기 영업이익이 시장 전망치를 크게 웃돌았다며 북미를 중심으로 한 해외 사업 성장과 수익성 개선에 주목했다. 인바디의 2026년 3분기 연결 기준 매출액은 713억원으로 지난해...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502079",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502079",
+      "press": "",
+      "pubDate": "2026-11-07T14:48:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 고객·임직원 정보 유출",
+      "description": "서울 중구 미래에셋증권 센터원 빌딩. 사진=한국금융경제신문 한국금융경제신문=양지훈 기자 | 미래에셋증권에서 고객 개인정보 유출 사고에 이어 임직원 정보까지 외부 공격에 노출되는 보안사고가 발생했다. 모바일웹...",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=667703",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=667703",
+      "press": "",
+      "pubDate": "2026-11-07T14:44:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "서학개미, 국내 증시 급락 속 11월 첫 주 미국 주식 3조 순매수",
+      "description": "▲ 뉴욕증권거래소 국내 증시가 지지부진하다 최근 급락하면서 개인 투자자들이 미국 주식 매입... 전체 순매수액의 70% 이상이 이 상품 하나에 몰린 겁니다. 이어 알파벳을 4억 9천705만 달러어치, 나스닥100...",
+      "link": "https://n.news.naver.com/mnews/article/055/0001401349?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835191&plink=ORI&cooper=NAVER",
+      "press": "",
+      "pubDate": "2026-11-07T14:39:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋생명·운용 이어 증권도 해킹...계열사 연쇄 공격 확산",
+      "description": "미래에셋생명과 미래에셋자산운용에 이어 미래에셋증권에서도 해킹에 따른 정보 유출 사고가 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대전화 인증 로그인 서비스와 그룹웨어를 겨냥한 외부 공격이 발생해...",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713599",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713599",
+      "press": "",
+      "pubDate": "2026-11-07T14:38:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹···3만9000명 정보 유출",
+      "description": "미래에셋증권이 고객과 임직원 등 3만9000여명의 정보가 유출된 해킹 사고를 금융당국에 신고했다. 회사는 현재까지 확인된 금전적 피해는 없다고 밝혔다. 7일 금융권에 따르면 회사는 전날 밤 정보 유출 사고를 당국에...",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93138",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93138",
+      "press": "",
+      "pubDate": "2026-11-07T14:36:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "세계 증시 덮친 '블루웨이브 쇼크'…하루 새 시총 4773조원 증발",
+      "description": "코스피가 6% 넘게 급락해 5,000선을 '턱걸이'하며 마감한 6일 서울 중구 하나은행 본점 딜링룸에 코스피와... 골드만삭스증권의 이시바시 다카유키 부사장은 \"과거의 시장 하락기처럼 주가가 급반등할 만한 재료를...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880884",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880884",
+      "press": "",
+      "pubDate": "2026-11-07T14:36:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "'블루 쓰나미'에 퍼렇게 질린 증시...짓눌린 자산시장 향방은?",
+      "description": "또 하나는 수급이에요. 지금 외국인이 그동안 계속 팔았거든요. 올해만 230조 원 넘게 팔았어요. 이걸... 이게 사실 반대매매라는 게 증권사에서 빌렸는데 주가가 떨어지게 되면 증거금을 더 넣으십시오. 당일 몇 시까지...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002429630?sid=101",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202611071433539327",
+      "press": "",
+      "pubDate": "2026-11-07T14:33:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "0.11%P 지분싸움에 한진칼우 194% 폭등…‘경영권 프리미엄’ 어디까지...",
+      "description": "박세연 한화투자증권 연구원은 “올해 정기주주총회 출석률인 약 94%를 적용할 경우 이사 해임이나 정관 변경에 필요한 특별결의 기준이 전체 발행주식의 약 62.7%에 달한다”고 분석했다. 어느 쪽도 단독으로 이를...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005760355?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12201451",
+      "press": "매일경제",
+      "pubDate": "2026-11-07T14:29:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "LG에너지솔루션 지분 매각대금 20% 주주환원…LG화학 재평가 기대",
+      "description": "신한투자증권은 최근 보고서에서 석유화학 부문의 공급과잉이 당분간 지속될 것으로 예상되는 반면 양극재 출하량은 신규 고객사 확보와 LG에너지솔루션(LGES)향 공급 확대에 힘입어 내년 큰 폭으로 증가할 것 이라고...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502069",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502069",
+      "press": "",
+      "pubDate": "2026-11-07T14:26:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 3만9000여명 정보유출…김미섭·허선호 공동대표 '사과' [...",
+      "description": "미래에셋증권에서 외부 해킹으로 고객과 임직원 등 3만9000여명의 정보가 유출됐다. 김미섭·허선호 공동 대표는 공식 사과하고 재발방지 대책 마련을 다짐했다. 김미섭·허선호 미래에셋증권 공동 대표는 7일 홈페이지에...",
+      "link": "https://n.news.naver.com/mnews/article/031/0001073082?sid=101",
+      "originallink": "http://www.inews24.com/view/2023692",
+      "press": "아이뉴스24",
+      "pubDate": "2026-11-07T14:25:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 고객 및 임직원 정보 유출…3만9천명 규모",
+      "description": "금융권의 개인정보 유출 사고가 잇따르는 가운데 미래에셋증권에서 고객과 임직원 약 3만9000명의 개인정보가 유출되는 사고가 발생했다. 고객 계좌번호에 이어 임직원과 퇴직자, 외주직원의 성명과 연락처, 암호화된...",
+      "link": "https://www.ekn.kr/web/view.php?key=20261107028256678",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261107028256678",
+      "press": "",
+      "pubDate": "2026-11-07T14:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "JYP 주가 '반토막'인데…박진영 \"주식? 하나님이 다 해주신다, 서둘러 부...",
+      "description": "이날 박진영은 \"크리스천이 성경을 똑바로 알게 되면 이제 우리가 지켜야 할 계명은 딱 하나, '서로... 겹치면서 증권사들도 JYP의 목표주가를 잇달아 낮췄다. 다만 박진영은 방송 이후에 실제로 자사주 매입에 나서기도...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005839419?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026110714022197937",
+      "press": "아시아경제",
+      "pubDate": "2026-11-07T14:23:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다...3.9만명 개인정보 유출",
+      "description": "7일 서울 미래에셋증권 본사 모습. 사진=연합뉴스  미래에셋증권은 외부 해킹으로 개인 정보 3만9000여 건이 유출됐다고 7일 밝혔다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi...",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1422868",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1422868",
+      "press": "",
+      "pubDate": "2026-11-07T14:22:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "NH투자증권, 9일부터 반대매매 완화…내일부터 고객 동의 절차(종합)",
+      "description": "금융투자업계에 따르면 미래에셋증권은 9일부터 신용융자 담보비율을 국내 주식의 경우 기존 140%에서 130%로 하향한다. 해외 주식의 경우 기존대로 140%이지만 국내 주식 신용공여와 해외 주식 담보 융자가 모두 있으면...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005839417?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026110714072204823",
+      "press": "아시아경제",
+      "pubDate": "2026-11-07T14:07:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "美 AI 규제 공포에 코스피 이틀 새 11% 급락…외국인 6조원 팔았다",
+      "description": "서울 중구 하나은행 딜링룸에서 관계자들이 증시 상황을 살펴보고 있다. 미국발 인공지능(AI) 규제... 증권가는 4일 미국 증시에서 반도체주가 약세를 보인 영향으로 외국인이 반도체 대형주를 집중 매도했다고...",
+      "link": "https://n.news.naver.com/mnews/article/022/0004173245?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261107504844?OutUrl=naver",
+      "press": "세계일보",
+      "pubDate": "2026-11-07T14:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋 계열사 4곳 사이버 공격…증권도 고객 계좌번호 유출",
+      "description": "미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어 'mi-global'을 겨냥한 외부 공격이 하루 간격으로 발생했다고 7일 밝혔다. 미래에셋생명에서 고객 정보가 유출되고 운용 계열사 2곳에서 외부...",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730810",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1730810",
+      "press": "",
+      "pubDate": "2026-11-07T13:54:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객 3800명 계좌번호·임직원 정보 유출",
+      "description": "|중앙이코노미뉴스 정재혁 기자|미래에셋증권이 외부 해킹으로 고객 약 3800명의 계좌번호와 임직원 3만5000여명의 개인정보가 새 나간 사실을 확인했다. [사진=연합뉴스] 미래에셋증권이 외부 해킹으로 고객 약 3800명의...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=562078",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562078",
+      "press": "",
+      "pubDate": "2026-11-07T13:46:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…\"당국 신고·금전 피해 없어\"",
+      "description": "보안 사고로 미래에셋증권 고객과 임직원의 개인정보가 유출됐습니다. 미래에셋증권은 지난 4일 모바일웹 로그인 서비스 공격으로 고객 약 3,800명의 계좌번호가 유출됐고, 이튿날에는 그룹웨어 공격으로 임직원 약 3만...",
+      "link": "https://n.news.naver.com/mnews/article/422/0000923785?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107134442Zqm",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T13:45:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹 피해…고객·임직원 3만9000명 정보 유출",
+      "description": "미래에셋증권이 잇따른 외부 해킹 공격으로 고객 약 3800명의 계좌번호와 임직원 3만5000여명의 개인정보를 유출했다. 미래에셋증권은 지난 4일 모바일웹 휴대폰 인증 로그인 서비스에 외부의 비정상적인 접근이 발생해...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=286330",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=286330",
+      "press": "",
+      "pubDate": "2026-11-07T13:40:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 \"고객 3800명 계좌 및 임직원 3.5만명 개인정보 유출\" [전...",
+      "description": "미래에셋증권에서 보안사고로 고객 3800명의 계좌번호와 임직원 3만5225명의 개인정보가 유출되는 사고가 연달아 발생했다. 7일 미래에셋증권은 홈페이지를 통해 고객 계좌번호와 임직원 약 3만5255명의 개인정보가...",
+      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7244",
+      "originallink": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7244",
+      "press": "",
+      "pubDate": "2026-11-07T13:37:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 고객·임직원 3만9000명 정보 유출",
+      "description": "이달 4~5일 고객 3800명 계좌번호·임직원 3만5255명 개인정보 유출…\"책임 다하지 못해 사과\" 미래에셋그룹 계열사에서 잇따라 정보유출 사고가 발생한 가운데 미래에셋증권에서도 고객과 임직원 약 3만9000명의 개인정보가...",
+      "link": "https://dealsite.co.kr/articles/172311",
+      "originallink": "https://dealsite.co.kr/articles/172311",
+      "press": "",
+      "pubDate": "2026-11-07T13:36:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…고객·임직원 3만 9000명 정보 유출, 금융권 해...",
+      "description": "국내 최대 증권사 미래에셋증권에서 해킹으로 고객과 임직원 3만 9000여 명의 정보가 유출됐다. 회사는 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 노린 외부 공격이 하루 간격으로...",
+      "link": "https://n.news.naver.com/mnews/article/082/0001406068?sid=102",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026110713334468436",
+      "press": "",
+      "pubDate": "2026-11-07T13:34:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…3만9천여명 개인정보 유출",
+      "description": "최근 금융권을 겨냥한 연쇄 해킹 공격이 잇따르는 가운데, 국내 최대 증권사인 미래에셋증권마저 외부 침해로 인한 대규모 정보 유출 사태를 맞았다. 모바일웹 휴대폰 인증 로그인 서비스와 임직원 그룹웨어가 연속...",
+      "link": "https://www.globalepic.co.kr/view.php?ud=2026110713225872667cc35ccc5c_29",
+      "originallink": "https://www.globalepic.co.kr/view.php?ud=2026110713225872667cc35ccc5c_29",
+      "press": "",
+      "pubDate": "2026-11-07T13:30:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "“공공재 된 내 계좌번호?”…미래에셋·대신·한양 연쇄 털렸다",
+      "description": "서울 중구 미래에셋증권 본사 모습. 사진=뉴시스 국내 금융회사들을 겨냥한 외부 해킹 공격이 잇따르면서 고객 개인정보 유출에 대한 불안감과 함께 금융권 전반의 보안 관리 체계를 향한 비판이 고조되고 있다. 7일...",
+      "link": "http://www.segyebiz.com/newsView/20261107504676?OutUrl=naver",
+      "originallink": "http://www.segyebiz.com/newsView/20261107504676?OutUrl=naver",
+      "press": "",
+      "pubDate": "2026-11-07T13:26:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "美 '블루웨이브' 충격에 세계 증시 시총 하루 새 4800조원 증발",
+      "description": "com 6일 오전 서울 중구 하나은행 본점 딜링룸 전광판에 표시된 코스피 지수 [사진=연합뉴스] 미국... 6일 일본 도쿄증권거래소 프라임 시장에서는 약 77조엔(약 663조원)의 시가총액이 사라졌다. 대만 자취안지수는...",
+      "link": "https://www.ajunews.com/view/20261107132029865",
+      "originallink": "https://www.ajunews.com/view/20261107132029865",
+      "press": "아주경제",
+      "pubDate": "2026-11-07T13:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 이틀 연속 해킹 피해…고객 3800명·임직원 3만5255명 정보...",
+      "description": "미래에셋증권이 이틀 연속 외부 공격으로 고객과 임직원의 개인정보를 유출하는 보안 사고를 겪었다. 고객 약 3800명의 계좌번호가 유출된 데 이어 임직원과 퇴직자 등 3만5000여명의 개인정보까지 외부로 빠져나갔다. 7일...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202611071247236883be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202611071247236883be44c0aacd_30",
+      "press": "",
+      "pubDate": "2026-11-07T13:22:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "금융지주 회장 연임 문턱 높아지나…12일 개선안 주목",
+      "description": "10월에는 5대 은행(KB국민·신한·하나·우리·NH농협)의 가계대출이 증가세로 돌아섰다. 10월 말 잔액은... 자본시장에서는 9일부터 증권사의 신용융자 담보비율 유지 의무가 3개월간 면제된다. 주가 급락기에 반대매매가...",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730808",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1730808",
+      "press": "",
+      "pubDate": "2026-11-07T13:22:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "KB증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋증권, 해킹으로 3만9천여명 정보 유출",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446743",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446743",
+      "press": "",
+      "pubDate": "2026-11-07T13:18:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 해킹 유출 사과…재발 방지 대책 마련",
+      "description": "뉴스저널리즘 정세은 기자 = 미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다. 미래에셋그룹 계열사에서 잇따라 사이버 공격이 발생한 가운데 증권사까지...",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=555676",
+      "originallink": "https://www.ngetnews.com/news/articleView.html?idxno=555676",
+      "press": "전자신문",
+      "pubDate": "2026-11-07T13:18:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "\"내 개인정보가 공공재?\"…금융권 연쇄 해킹에 고객들 분통",
+      "description": "7일 금융투자업계에 따르면 미래에셋증권은 지난 4일 일부 내부 시스템에서 외부 해킹 정황을 포착했다. 이번 사고로 고객 3800여 명의 계좌번호와 전·현직 임직원 3만5000여 건의 개인정보가 유출된 것으로 파악됐다. 앞서...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307725?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261107_0003858827",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T13:17:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "“알리바바와 손잡고 AI 인재 발굴”…미래에셋증권, 중국서 글로벌 공...",
+      "description": "투자자가 주식을 사고판 이유를 기록하면 인공지능(AI)이 매매 습관을 분석해주는 애플리케이션(앱)이 미래에셋증권의 글로벌 대학생 공모전에서 우승했다. 미래에셋증권은 중국과 홍콩 대학생들의 AI 기술을...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002247642?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026110616151658343",
+      "press": "",
+      "pubDate": "2026-11-07T13:16:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋증권에 해킹 공격 '3만9천여명 정보 유출'",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446742",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446742",
+      "press": "",
+      "pubDate": "2026-11-07T13:16:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋증권, 3만9천여명 개인정보 유출",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446741",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446741",
+      "press": "",
+      "pubDate": "2026-11-07T13:14:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[포토] '외부 해킹' 미래에셋증권, 고객·임직원 3만9천여명 정보 유출",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446739",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446739",
+      "press": "",
+      "pubDate": "2026-11-07T13:10:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[포토] 개인정보 유출 피해 발생한 미래에셋증권",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446737",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446737",
+      "press": "",
+      "pubDate": "2026-11-07T13:08:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋증권 '개인정보 유출 피해 발생'",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446736",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446736",
+      "press": "",
+      "pubDate": "2026-11-07T13:08:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[토큰증권 지형도] 속도 내는 증권가, 상품부족·규제는 '우려'",
+      "description": "한국투자증권은 카카오뱅크·토스뱅크 등과 '한국투자 ST 프렌즈'를 꾸려 기술 실증을 마쳤고, 현재 채권과 머니마켓펀드(MMF) 토큰화를 위한 통합 플랫폼을 구축 중이다. KB증권은 자체 플랫폼 '깨비STO'를 기반으로...",
+      "link": "https://news.dealsitetv.com/articles/178165",
+      "originallink": "https://news.dealsitetv.com/articles/178165",
+      "press": "",
+      "pubDate": "2026-11-07T13:08:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "한국투자증권",
+        "KB증권",
+        "키움증권",
+        "하나증권",
+        "메리츠증권",
+        "토스증권"
+      ]
+    },
+    {
+      "title": "넷마블, 3분기 영업이익 44.6% 급감…내년 신작 13종으로 반등 승부수",
+      "description": "넷마블 관계자는 품질 검증 자동화 에이전트와 보고서 작성 에이전트 등 다양한 AI 에이전트를 연구·개발 중이라고 전했다.증권가는 신중…목표주가 4만2000원으로 낮춰하나증권은 6일 넷마블의 목표주가를 5만...",
+      "link": "https://www.wikitree.co.kr/articles/1172658",
+      "originallink": "https://www.wikitree.co.kr/articles/1172658",
+      "press": "",
+      "pubDate": "2026-11-07T13:08:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋 '외부 해킹으로 개인정보 유출 피해'",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446735",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446735",
+      "press": "",
+      "pubDate": "2026-11-07T13:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹, 3만9000여명 정보유출…금융당국에 신고",
+      "description": "미래에셋증권이 고객과 임직원 등 3만9000여명의 정보가 유출된 해킹 사고를 금융당국에 신고했다. 회사 측은 현재까지 확인된 금전적 피해는 없다고 밝혔다. 7일 금융권에 따르면 미래에셋증권은 전날 밤 금융당국에...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002720217?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10929197?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-11-07T13:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "11월 분주한 IPO 시장…눈여겨볼 유망주 보니",
+      "description": "윤철환 한국투자증권 애널리스트는 “주가 조정으로 PER이 유의미하게 하락한 만큼 보수적인 접근이 요구된다”며 “종목별 비교 기업의 주가 흐름과 투자 심리가 크게 벌어진 국면이기 때문에 공모주 경쟁률...",
+      "link": "https://n.news.naver.com/mnews/article/024/0000109465?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12200752",
+      "press": "매일경제",
+      "pubDate": "2026-11-07T13:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "한국투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹 피해…고객·임직원 3만9천 여명 정보 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 국내 최대 증권사인 미래에셋증권에서도 고객과 임직원 등...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309332",
+      "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309332",
+      "press": "",
+      "pubDate": "2026-11-07T13:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "한미약품·삼성증권, 27일 '바이오 이노베이션 데이' 개최",
+      "description": "한미약품이 삼성증권과 손잡고 신약 개발 및 인공지능(AI) 헬스케어 분야의 유망 바이오벤처와 투자자를 연결하는 행사를 개최한다. 한미약품은 삼성증권과 공동으로 11월 27일 서울 송파구 한미 C&C 스퀘어에서 '한미...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=190575",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=190575",
+      "press": "",
+      "pubDate": "2026-11-07T13:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "[포토] 미래에셋증권 '외부 해킹으로 개인정보 유출'",
+      "description": "미래에셋증권이 7일 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다고 밝혔다. 이들에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에 대한 외부...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3446733",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446733",
+      "press": "",
+      "pubDate": "2026-11-07T12:58:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "KODEX 200 거래대금 13조원 육박…코스피200 인버스 거래 활발",
+      "description": "상장지수증권(ETN)은 거래대금 상위 5종목이 모두 2배 인버스 상품으로 나타났다. 7일 한국거래소... (56억원), KB S&P 레버리지 WTI원유 선물 ETN B(54억원)가 포함됐다. 36~40위는 미래에셋 인버스 2X 구리...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794023582691491276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794023582691491276",
+      "press": "",
+      "pubDate": "2026-11-07T12:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹...고객·임직원 일부 정보 유출",
+      "description": "최근 금융사 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 정보유출 사고가 발생했습니다. 은행, 보험사 등에 이어 대형 증권사까지 피해가 생기면서 우려가 커지고 있습니다. 취재기자 연결합니다. 김대근 기자!...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002429600?sid=101",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202611071255500757",
+      "press": "",
+      "pubDate": "2026-11-07T12:55:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "KB증권",
+        "신한투자증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "'블루웨이브'에 AI주 급락…세계 시총 하루 4천773조원 증발",
+      "description": "코스피가 6% 넘게 급락해 5,000선을 '턱걸이'하며 마감한 6일 서울 중구 하나은행 본점 딜링룸에 코스피와... 6일 일본 도쿄증권거래소 프라임 시장에서는 시가총액 약 77조엔(약 663조원)이 사라졌다. 대만 증시의...",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309331",
+      "originallink": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309331",
+      "press": "",
+      "pubDate": "2026-11-07T12:54:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
+      "description": "가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 최근 금융권을 상대로 한 잇단 해킹과 이에 대한 대책 발표에도 불구하고 국내 최대 증권사인 미래에셋증권에서도 해킹 피해가 발생해 추가 해킹에 대한...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427803?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261107014453008?input=1195m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:47:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 중국 선전서 대학생 AI 공모전…북경대 팀 우승",
+      "description": "미래에셋증권이 알리바바 클라우드와 공동 개최한 대학생 AI 공모전에서 북경대학교 HSBC경영대학원 소속 'FindAlpha' 팀이 AI 매매 일지 서비스로 우승했다. 중국과 홍콩에서 100개 팀이 참가한 이번...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364753",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364753",
+      "press": "",
+      "pubDate": "2026-11-07T12:44:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권에 해킹 공격…고객·임직원 3만9000여명 정보 유출",
+      "description": "여의도 미래에셋증권. (사진=연합뉴스) 금융권에서 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 외부 공격으로 고객 3800여명과 임직원 3만5000여명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124547",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=124547",
+      "press": "",
+      "pubDate": "2026-11-07T12:40:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 해킹으로 3만 9천여 명 정보 유출",
+      "description": "국내 최대 증권사인 미래에셋증권에서도 해킹으로 인한 정보 유출 사고가 발생했습니다. 미래에셋증권은 지난 4일부터 이틀 동안 모바일웹 휴대폰 인증 로그인 서비스를 겨냥한 외부 공격으로 고객 3천 8백여 명의...",
+      "link": "https://n.news.naver.com/mnews/article/055/0001401340?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835139&plink=ORI&cooper=NAVER",
+      "press": "",
+      "pubDate": "2026-11-07T12:27:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…고객 3800여명·임직원 3만5천여명 정보 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)에 대한 외부의 공격이...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=208703",
+      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=208703",
+      "press": "",
+      "pubDate": "2026-11-07T12:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹 피해...고객 3800명 계좌번호 유출",
+      "description": "컨슈머타임스=전은정 기자 | 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4~5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi...",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=727012",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=727012",
+      "press": "",
+      "pubDate": "2026-11-07T12:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹사고…고객 3800명ㆍ임직원 3.2만명 정보 유출",
+      "description": "미래에셋증권에서 외부 해킹으로 고객과 임직원 개인정보가 대량으로 유출되는 사고가 발생했다. 미래에셋증권은 모바일웹의 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)에 대한 해킹이 지난 4일과 5일 각각...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071214148920053",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611071214148920053",
+      "press": "",
+      "pubDate": "2026-11-07T12:20:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "이번엔 미래에셋증권…고객·직원 정보 유출 어디까지",
+      "description": "이번엔 미래에셋증권입니다. 오늘(7일) 미래에셋증권은 지난 4일부터 이틀간 휴대폰 인증 로그인 서비스와 그룹웨어가 외부 공격을 받았다고 밝혔습니다. 이 사고로 유출된 정보는 고객 3800여 명의 계좌번호와 임직원...",
+      "link": "https://n.news.naver.com/mnews/article/437/0000519614?sid=101",
+      "originallink": "https://news.jtbc.co.kr/article/NB12326948?influxDiv=NAVER",
+      "press": "",
+      "pubDate": "2026-11-07T12:16:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 3만 9천명 정보유출...고객 3천8백여명· 전.현직 임직원 ...",
+      "description": "금융권에서 해킹 사고가 잇따르고 있는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했습니다. 최근 금융권을 상대로 한 잇단 해킹과 이에 대한 대책 발표에도 불구하고 국내 최대 증권사인...",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117231",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117231",
+      "press": "",
+      "pubDate": "2026-11-07T12:14:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 최근 5거래일 주가 하락세 지속",
+      "description": "|중앙이코노미뉴스 조용우 기자|  6일 KRX 마감 기준, 네이버페이 증권에 따르면 미래에셋증권은 11월 6일 장마감 기준 전일 대비 1,600원 하락한 22,450원에 거래를 마쳤다. 출처=네이버페이증권 이는 전일 종가...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=562059",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562059",
+      "press": "",
+      "pubDate": "2026-11-07T12:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 모바일 인증·그룹웨어 해킹…접속 차단하고 보안 점검 ...",
+      "description": "| 이코노미사이언스 박성현 기자 | 미래에셋증권의 모바일웹 휴대전화 인증 서비스와 사내 그룹웨어에서 잇따라 외부 공격이 발생했다. 고객 계좌번호와 임직원 개인정보가 각각 유출된 가운데 회사는 관련 서비스의 외부...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139186",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139186",
+      "press": "",
+      "pubDate": "2026-11-07T12:04:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427781?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107015800013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:02:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427780?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107015900013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:02:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427779?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016000013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:02:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427778?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016100013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427777?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016200013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427775?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016400013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427776?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016300013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "description": "금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부의...",
+      "link": "https://n.news.naver.com/mnews/article/001/0016427774?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261107016600013?input=1196m",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T12:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "이 시각 주요뉴스 (26. 11. 07. 12시)",
+      "description": "미래에셋증권, 3만여 명 정보 유출 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 미래에셋증권의 일부 내부 시스템이 외부 해킹에 노출돼 고객 계좌번호와 임직원 개인정보가 유출되는 사고가 발생했습니다. 다만...",
+      "link": "https://www.ktv.go.kr/content/view?content_id=763668",
+      "originallink": "https://www.ktv.go.kr/content/view?content_id=763668",
+      "press": "",
+      "pubDate": "2026-11-07T12:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "카카오뱅크, 대출증가율 초점…'총량 밖' 승부수 띄운다",
+      "description": "하나증권은 해당 상품이 4분기 대출 성장률을 약 3%p 끌어올려 연간 성장률이 7%대 초반에 이를 것으로 전망했다. 카카오뱅크의 3분기 당기순이익은 1417억원으로 전년 동기 대비 27.2% 증가했다. 그러나 전분기와...",
+      "link": "https://n.news.naver.com/mnews/article/293/0000092873?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=677991",
+      "press": "",
+      "pubDate": "2026-11-07T12:00:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…3만 9천명 정보 유출",
+      "description": "금융권에서 해킹 사고가 잇따르는 가운데, 이번엔 미래에셋증권이 뚫렸습니다. 고객과 임직원 등 4만 명 가까운 사람들의 정보가 유출됐습니다. 이재희 기자가 보도합니다. [리포트] 국내 대형 증권사인 미래에셋증권이...",
+      "link": "https://n.news.naver.com/mnews/article/056/0012289302?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706653&ref=A",
+      "press": "",
+      "pubDate": "2026-11-07T11:59:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "서학개미, 일주일 새 미국 주식 3조원 매수…SOXL에 70% 집중",
+      "description": "투자자예탁금은 주식 매수를 위해 증권 계좌에 맡겨둔 자금으로, 국내 증시의 투자 여력을 가늠하는 지표 가운데 하나다. 신용거래융자 잔고는 28조7715억원으로 28조원대를 기록했다. 신용거래융자는 투자자가...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502061",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502061",
+      "press": "",
+      "pubDate": "2026-11-07T11:54:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹… 3만9000명 정보 유출",
+      "description": "미래에셋증권의 일부 시스템이 외부 해킹 공격을 받아 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출됐다. 주민등록번호 등 고유식별정보와 민감정보는 유출되지 않았다는 게 회사 측 설명이다. 7일...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000481",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000481",
+      "press": "조선일보",
+      "pubDate": "2026-11-07T11:48:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹‥고객 3,800명 계좌번호 유출",
+      "description": "이번엔 미래에셋증권에서도 3천 명 넘는 고객들의 개인정보가 유출되며 그 피해가 확인됐습니다. 송서영 기자가 보도합니다. ◀ 리포트 ▶ 미래에셋증권에서도 해킹 공격으로 개인정보가 유출됐습니다. 유출된 정보는...",
+      "link": "https://n.news.naver.com/mnews/article/214/0001534112?sid=101",
+      "originallink": "https://imnews.imbc.com/replay/2026/nw1200/article/6863893_36967.html",
+      "press": "",
+      "pubDate": "2026-11-07T11:47:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "제이브이엠, 해외 수출 성장에 비대면 조제시장까지… 약국 자동화 수혜...",
+      "description": "신한투자증권은 최근 기업설명회(NDR) 후기를 통해 제이브이엠의 수출 성장과 약국 자동화 시장의 구조적 확대 가능성에 주목했다. 제이브이엠은 약국의 조제·관리 업무를 자동화하는 장비와 시스템을 개발·공급하는...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502058",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502058",
+      "press": "",
+      "pubDate": "2026-11-07T11:44:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋證, 이틀 연속 해킹…고객 계좌번호·임직원 정보까지 '줄유출...",
+      "description": "미래에셋증권에서 해킹으로 고객 3800여명의 계좌번호와 임직원 등 3만5255명의 개인정보가 유출된 사실이 확인됐다. 최근 미래에셋그룹 계열사 4곳이 잇따라 사이버 공격을 받은 데 이어 대신증권과 한양증권에서도 정보...",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=319598",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=319598",
+      "press": "",
+      "pubDate": "2026-11-07T11:42:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹 피해...고객 3천800여명·임직원 3만5천명 정보 유...",
+      "description": "회사 측 \"금전 피해·서비스 장애 없어\"...피싱·스미싱 등 2차 피해 주의 당부 국내 금융권에서 연쇄 해킹 사고가 잇따르는 가운데 국내 최대 증권사인 미래에셋증권에서도 외부 사이버 공격으로 고객과 임직원의...",
+      "link": "https://www.m-economynews.com/news/article.html?no=72721",
+      "originallink": "https://www.m-economynews.com/news/article.html?no=72721",
+      "press": "",
+      "pubDate": "2026-11-07T11:42:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "업계 1위 미래에셋도 털렸다…보안 둑 터진 증권가 '초비상'",
+      "description": "미래에셋증권에 대한 해킹으로 고객 및 임직원의 정보가 유출되는 사고가 발생했다. 최근 미래에셋그룹 내에서만 해킹 피해 및 시도가 총 4곳으로 확대되면서 그룹 차원의 보안 관리 역량이 시험대에 올랐다. 특히...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009275717?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6346351",
+      "press": "뉴스1",
+      "pubDate": "2026-11-07T11:34:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "2주 새 계열사 4곳 해킹 공격…미래에셋, 이번엔 '간판' 증권사 정보 유...",
+      "description": "고객 3800여명 계좌번호·임직원 3만5255명 정보 유출 모바일웹 로그인·그룹웨어 피격…금전 피해는 미확인 당국 경고·대책 발표 시점과 겹쳐…CEO 책임론 촉각 【 청년일보 】 미래에셋증권이 외부 해킹 공격을 받아 고객...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=229515",
+      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=229515",
+      "press": "",
+      "pubDate": "2026-11-07T11:32:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "AI 데이터센터 투자 확대 수혜…티엘비 수익성 개선 속도 빨라졌다",
+      "description": "네이버 증권. 티엘비가 고부가가치 제품 판매 확대에 힘입어 3분기 사상 최대 영업이익률을 달성했다.... 제품 믹스 개선은 제조업체의 수익성을 결정하는 핵심 요소 중 하나다. 동일한 생산능력을 보유하더라도...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502056",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502056",
+      "press": "",
+      "pubDate": "2026-11-07T11:32:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권",
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "한화투자증권 \"고려아연 영업이익 시장 예상 61% 밑돌아…고가 재고가 ...",
+      "description": "한화투자증권은 최근 보고서에서 상반기 높은 가격과 환율로 매입한 원재료 재고가 하반기 낮아진 판매가격에 반영되면서 수익성이 악화됐으며, 여기에 희소금속 가격 하락과 일부 회계 처리 변경까지 겹쳤다고 밝혔다....",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502055",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502055",
+      "press": "",
+      "pubDate": "2026-11-07T11:28:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "앤스로픽, AI 시제품 시험해 제품화…계획은 매달 다시 짠다",
+      "description": "중 하나처럼 느껴져야 한다”고 말한다고 밝혔다. 입사 초기부터 실제 업무를 맡기는 조직 문화를 설명한... 앤스로픽은 2026년 10월 26일 미 증권거래위원회(SEC)에 기업공개를 위한 S-1 신고서를 제출했다. 회사는...",
+      "link": "https://www.tokenpost.kr/news/ai/434381",
+      "originallink": "https://www.tokenpost.kr/news/ai/434381",
+      "press": "",
+      "pubDate": "2026-11-07T11:26:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "산일전기, 3분기 실적 주춤했지만 수주는 사상 최대…성장 기대 여전",
+      "description": "신한투자증권은 최근 보고서에서 선적 지연과 환율 영향으로 단기 실적은 시장 기대치를 밑돌았지만, 출고를 마친 미인식 매출과 분기 최대 수주 실적을 고려하면 전방 수요가 훼손된 상황은 아니라고 밝혔다. 산일전기의...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502054",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502054",
+      "press": "",
+      "pubDate": "2026-11-07T11:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "[Q4 전망] \"AI 전환 비용 딛고 체력 입증\" SK네트웍스…\"영업익 컨센서스...",
+      "description": "Q4: Q4 전망: \"판관비 절감·수익성 회복·AI 성과\"가 SK네트웍스 기업가치 좌우 신한투자증권 한승훈 연구원은 투자의견 '매수'와 목표주가 9,500원을 유지하며, 3분기 일회성 비용 반영이 마무리됨에 따라 4분기부터는...",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=425150",
+      "originallink": "http://www.economytalk.kr/news/articleView.html?idxno=425150",
+      "press": "",
+      "pubDate": "2026-11-07T11:24:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 외부 해킹으로 개인정보 유출 [뉴시스Pic]",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출되는 사고가 발생했다. 7일 미래에셋증권에 따르면 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307680?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20261107_0003858842",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T11:22:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객·임직원 3만 9천여명 정보 유출",
+      "description": "금융권에서 해킹 사고가 잇따르는 가운데 국내 최대 증권사인 미래에셋증권에서도 고객과 임직원 등 3만9천여명의 정보가 유출됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대전화 인증 로그인 서비스와 그룹웨어를...",
+      "link": "https://n.news.naver.com/mnews/article/079/0004207456?sid=102",
+      "originallink": "https://www.nocutnews.co.kr/news/6603550?utm_source=naver&utm_medium=article&utm_campaign=20261107112009",
+      "press": "",
+      "pubDate": "2026-11-07T11:21:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "11월 1주차 카카오 주가 변동성 확대",
+      "description": "|중앙이코노미뉴스 조용우 기자|  6일 KRX 마감 기준, 네이버페이 증권에 따르면 카카오는 11월 첫째 주에 상당한 주가 변동성을 나타내며 6일 장을 32,000원에 마감했다. 출처=네이버페이증권 이는 전 거래일...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=562043",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562043",
+      "press": "",
+      "pubDate": "2026-11-07T11:20:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "카카오페이증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹에 고객 3,800명 계좌번호·임직원 3만5천명 개인정보...",
+      "description": "AI이미지 미래에셋증권 임직원 약 3만5255명의 개인정보가 유출된 사실이 확인됐다. 이번 유출로 인해 성명, 사번, 이메일주소, 휴대폰번호, 암호화된 비밀번호 등이 외부로 빠져나갔으나, 주민등록번호, 여권번호...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744981",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744981",
+      "press": "",
+      "pubDate": "2026-11-07T11:18:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "중국 자동차 수출이 바꾼 해운시장…현대글로비스 실적 성장 주목",
+      "description": "신한투자증권은 최근 보고서에서 중국 자동차 수출 증가와 선박 공급 부족이 맞물리면서 자동차운반선 운임 강세가 상당 기간 이어질 가능성이 높다고 밝혔다. 자동차운반선 시장은 글로벌 완성차 업체들의 수출 확대와...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502053",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502053",
+      "press": "",
+      "pubDate": "2026-11-07T11:16:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 임직원·고객 3만9000여 명 정보 유출...\"7일 오후 5시까...",
+      "description": "미래에셋증권에서 해킹 공격으로 임직원과 고객 등 3만9000여 명의 개인정보가 유출되는 사고가 발생했다. 모바일웹 로그인 서비스에 이어 사내 그룹웨어까지 잇따라 공격받으면서 고객 계좌번호와 임직원 개인정보가...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=767749",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=767749",
+      "press": "",
+      "pubDate": "2026-11-07T11:14:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "KB증권",
+        "하나증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[집중분석] 비트코인, 2027년 다시 날아오를까?…과세 유예와 맞물린 '회...",
+      "description": "비트코인 반감기와 4년 주기설이란?…현물 ETF가 앞당긴 상승 시계 신한투자증권은 지난달 16일과 23일 ▶'2027년 미리보기-비트코인 4년 주기설 점검' ▶'2027년 미리보기-비트코인 가격 전망'이란 제목의 보고서를...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=325507",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325507",
+      "press": "",
+      "pubDate": "2026-11-07T11:12:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "MR 운임 상승 효과 본격 반영…팬오션 실적 개선 속도 붙나",
+      "description": "대신증권은  최근 보고서에서 팬오션의 3분기 탱커 부문 실적을 분석하며 운임 강세가 이어지는 가운데 비용 정산과 신규 선박 투입이 맞물려 4분기 영업이익이 큰 폭으로 증가할 것으로 내다봤다. 팬오션의 3분기 탱커...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502051",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502051",
+      "press": "",
+      "pubDate": "2026-11-07T11:08:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 \"해킹 사고 당국 신고·정보주체 통지 완료\"",
+      "description": "미래에셋증권이 최근 발생한 해킹 사고와 관련해 금융당국에 신고하고 정보 유출 대상자에 대한 개별 통지를 완료했다고 밝혔습니다. 미래에셋증권은 오늘(7일) 모바일 웹과 그룹웨어에서 발생한 보안 사고와 관련해...",
+      "link": "https://n.news.naver.com/mnews/article/422/0000923762?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261107110602mLw",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T11:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "\"시장에 공포·피 넘쳐날 때 사라\"는데...급락한 AI·반도체주, 사도 될...",
+      "description": "미래에셋증권은 국내 주식 담보유지비율을 140%에서 130%로 낮추되 관리종목과 정리매매 종목은 기존 160%를 유지한다. 키움증권은 장 마감 기준 담보비율이 130% 이상 140% 미만인 반대매매 대상 계좌에 대해 신청을 받아...",
+      "link": "https://www.insight.co.kr/news/581038",
+      "originallink": "https://www.insight.co.kr/news/581038",
+      "press": "",
+      "pubDate": "2026-11-07T11:06:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "키움증권",
+        "대신증권",
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "[이시각헤드라인] 11월 7일 토요와이드 (11시)",
+      "description": "■미래에셋증권도 해킹 피해…3만명 넘게 정보 유출■ 미래에셋증권에서 잇따른 보안 사고로 고객과 임직원의 개인정보가 유출됐습니다. 고객 약 3,800명의 계좌번호와 임직원 약 3만5천명의 성명과 사번, 이메일 주소...",
+      "link": "https://n.news.naver.com/mnews/article/422/0000923761?sid=102",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202611071104539Bx",
+      "press": "연합뉴스",
+      "pubDate": "2026-11-07T11:05:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "[판으로 읽는 경제] 美 '블루 쓰나미'에 코스피 붕괴…왜 한국이 더 아팠...",
+      "description": "실제로 키움증권에 따르면 5일 코스피 하락률 5.28% 가운데 반도체 업종의 하락 기여도는 약 4.6%포인트에 달했다.매도세는 반도체 장비와 전자부품, 전력기기 등 AI 투자 관련 종목으로 확대됐다. 6일 코스피 대형주...",
+      "link": "https://news.mtn.co.kr/article/2026110709474749771",
+      "originallink": "https://news.mtn.co.kr/article/2026110709474749771",
+      "press": "머니투데이방송",
+      "pubDate": "2026-11-07T11:02:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "키움증권"
+      ]
+    },
+    {
+      "title": "AI가 AI를 만드는 단계 왔다…“시스템 종료 거부할 수도”[김현지의 wi...",
+      "description": "앤스로픽은 11월 2일(현지시간) 미 증권거래위원회(SEC)에 제출한 수정 증권신고서(S-1/A)에서 이 모델이 자사... ● “수익 압박서 안전 분리”…지배구조가 안전판 앤스로픽이 대응책으로 내세운 것 중 하나는 5가지...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003760781?sid=101",
+      "originallink": "https://www.donga.com/news/article/all/20261106/134971335/1",
+      "press": "동아일보",
+      "pubDate": "2026-11-07T11:01:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹...고객·임직원 일부 정보 유출",
+      "description": "최근 금융사 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 정보유출 사고가 발생했습니다. 은행, 보험사 등에 이어 대형 증권사까지 피해가 생기면서 우려가 커지고 있습니다. 취재기자 연결합니다. 김대근 기자!...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002429571?sid=101",
+      "originallink": "https://www.ytn.co.kr/_ln/0102_202611071058581436",
+      "press": "",
+      "pubDate": "2026-11-07T10:58:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "KB증권",
+        "신한투자증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋, 고객·임직원 3만9000여명 정보 유출",
+      "description": "미래에셋증권에서 해킹으로 인한 정보 유출 피해가 발생했다. 7일 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를 겨냥한 외부 공격이 하루 간격으로 발생했으며 이로 인해...",
+      "link": "https://n.news.naver.com/mnews/article/053/0000062888?sid=101",
+      "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=56943",
+      "press": "조선일보",
+      "pubDate": "2026-11-07T10:58:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 외부 해킹으로 개인정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307649?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523170",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 외부 해킹으로 개인정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307655?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523174",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹…임직원 3만5000여명 정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307648?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523167",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹 사고…고객·임직원 정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307656?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523185",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹…임직원 3만5000여명 정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307646?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523168",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권 해킹 사고…고객·임직원 정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307658?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523183",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 외부 해킹으로 개인정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307647?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523172",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…고객 계좌번호 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307653?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523179",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다…고객 계좌번호 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307651?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523181",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "고객·임직원 정보 유출된 미래에셋증권",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307650?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523177",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "고객·임직원 정보 유출된 미래에셋증권",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3800여명의 계좌번호와 임직원 3만5255명의 개인정보가 유출된 것으로 확인됐다. 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어에...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014307652?sid=102",
+      "originallink": "https://www.newsis.com/view/NISI20261107_0021523175",
+      "press": "뉴시스",
+      "pubDate": "2026-11-07T10:56:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "솔루스첨단소재 헝가리 1공장 멈췄다…2공장은 정상 가동",
+      "description": "SK증권은 최근 보고서에서 1공장 가동 중단 사실은 확인됐지만 현재는 조사 단계이며, 헝가리 2공장은 정상... 헝가리는 유럽 전기차 배터리 산업의 주요 생산 거점 가운데 하나다. 글로벌 배터리 제조사와 완성차업체들이...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502049",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502049",
+      "press": "",
+      "pubDate": "2026-11-07T10:54:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "하나증권",
+        "SK증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객 3800명·임직원 3.5만명 정보유출",
+      "description": "뉴스토마토 = 김진양 기자 | 금융권에서 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 해킹으로 인한 정보 유출이 발생했습니다. 미래에셋증권(006800)은 지난 4~5일 최근 일부 모바일웹과 그룹웨어 시스템(mi-global)...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1319600&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1319600&inflow=N",
+      "press": "",
+      "pubDate": "2026-11-07T10:48:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "온라인 강의 매출 1092억원…디지털대성 성장 엔진 가속",
+      "description": "유안타증권은 최근 보고서에서 고등 온라인 교육을 중심으로 수강생 증가와 판매가격 상승이 동시에 나타나면서 외형과 수익성이 함께 개선되고 있다고 밝혔다. 디지털대성의 3분기 연결 기준 매출액은 889억8000만원으로...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502048",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502048",
+      "press": "",
+      "pubDate": "2026-11-07T10:48:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 당했다…해킹 '약한 고리' 직원전용 채널 뚫려",
+      "description": "미래에셋증권은 7일 고객 개인(신용) 정보 및 임직원 개인정보가 유출됐다고 밝혔다. 앞서 해킹 공격이 발생한 미래에셋생명, 미래에셋자산운용, 에너지인프라자산운용 이어 증권까지 사이버 위협에 노출된 셈이다. 고객...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003152429?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1712032/?sc=Naver",
+      "press": "",
+      "pubDate": "2026-11-07T10:45:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "국내 최대 증권사 미래에셋증권도 해킹, 고객 계좌번호 유출",
+      "description": "국내 최대 증권사인 미래에셋증권에서도 해킹이 발생했다. 증권사 고객 3800여명의 계좌번호가 유출된 것으로 조사됐다. 7일 미래에셋증권은 지난 4일과 5일 모바일웹 휴대폰 인증 로그인 서비스와 그룹웨어(mi-global)를...",
+      "link": "https://n.news.naver.com/mnews/article/243/0000105338?sid=101",
+      "originallink": "https://economist.co.kr/article/view/ecn202611070003",
+      "press": "",
+      "pubDate": "2026-11-07T10:42:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 뚫렸다 … 고객 계좌·임직원 정보 유출",
+      "description": "미래에셋증권에서 전산망 외부 침입으로 소비자 계좌와 임직원 개인정보가 대규모로 노출되는 사고가 일어났다. 미래에셋증권은 4일 모바일웹 휴대폰 인증 서비스와 5일 사내 그룹웨어(mi-global)에 외부 비정상 접근이...",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=247288",
+      "originallink": "https://www.safetimes.co.kr/news/articleView.html?idxno=247288",
+      "press": "",
+      "pubDate": "2026-11-07T10:40:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 해킹으로 고객 계좌정보·임직원 개인정보 유출",
+      "description": "미래에셋증권에서 외부 해킹 공격으로 고객 3천800여명의 계좌번호와 임직원 3만5천255명의 개인정보가 유출됐다. 회사는 외부의 비정상적인 접근을 확인한 뒤 공격 경로를 차단하고 관계 당국에 사고 사실을 보고했다. 7일...",
+      "link": "https://www.lawissue.co.kr/view.php?ud=202611071038587250204ead0791_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=202611071038587250204ead0791_12",
+      "press": "",
+      "pubDate": "2026-11-07T10:40:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 그룹웨어 해킹에 임직원 3만5255명 정보 유출",
+      "description": "퇴직자·외주직원 포함…성명·연락처·암호화된 비밀번호 노출 4일 고객 계좌번호 유출 이어 5일 그룹웨어 외부 공격 관련 서버 연결 차단…외부 접속 가능한 사내 시스템 점검 확대 미래에셋증권 사옥 전경/미래에셋증권...",
+      "link": "http://www.metroseoul.co.kr/article/20261107500012",
+      "originallink": "http://www.metroseoul.co.kr/article/20261107500012",
+      "press": "서울신문",
+      "pubDate": "2026-11-07T10:38:00+09:00",
+      "date": "2026-11-07",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
     {
       "title": "‘은둔 고수’ 소문난 김대리, 주식계좌 확인해보니…“이정도면 상위...",
       "description": "5일 미래에셋증권과 NH투자증권의 연령대별 국내 주식 보유 현황을 분석한 결과 올해 9월 말 두 증권사 고객의 주식 평가잔고는 총 444조7524억원으로 집계됐다. 이 가운데 각 연령대에서 보유액 상위 10%에 해당하는...",
       "link": "https://n.news.naver.com/mnews/article/009/0005760333?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201398",
       "press": "매일경제",
-      "pubDate": "2026-11-07T10:34:00+09:00",
+      "pubDate": "2026-11-07T01:34:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -23,7 +1768,7 @@
       "link": "https://www.the-today.com/news/articleView.html?idxno=93224",
       "originallink": "https://www.the-today.com/news/articleView.html?idxno=93224",
       "press": "",
-      "pubDate": "2026-11-07T10:32:00+09:00",
+      "pubDate": "2026-11-07T01:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권",
@@ -36,7 +1781,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427725?sid=103",
       "originallink": "https://www.yna.co.kr/view/AKR20261107025000011?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T10:30:00+09:00",
+      "pubDate": "2026-11-07T01:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -48,7 +1793,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502045",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502045",
       "press": "",
-      "pubDate": "2026-11-07T10:30:00+09:00",
+      "pubDate": "2026-11-07T01:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -60,7 +1805,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275686?sid=101",
       "originallink": "https://www.news1.kr/photos/8201857",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -72,7 +1817,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275685?sid=101",
       "originallink": "https://www.news1.kr/photos/8201858",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -84,7 +1829,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275688?sid=101",
       "originallink": "https://www.news1.kr/photos/8201859",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -96,7 +1841,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275689?sid=101",
       "originallink": "https://www.news1.kr/photos/8201861",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -108,7 +1853,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275687?sid=101",
       "originallink": "https://www.news1.kr/photos/8201860",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -120,7 +1865,7 @@
       "link": "https://n.news.naver.com/mnews/article/629/0000549654?sid=101",
       "originallink": "https://news.tf.co.kr/read/economy/2386028.htm",
       "press": "",
-      "pubDate": "2026-11-07T10:26:00+09:00",
+      "pubDate": "2026-11-07T01:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -132,7 +1877,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502044",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502044",
       "press": "",
-      "pubDate": "2026-11-07T10:22:00+09:00",
+      "pubDate": "2026-11-07T01:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -144,7 +1889,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003483169?sid=101",
       "originallink": "https://www.etnews.com/20261107000011",
       "press": "전자신문",
-      "pubDate": "2026-11-07T10:19:00+09:00",
+      "pubDate": "2026-11-07T01:19:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -156,7 +1901,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839398?sid=102",
       "originallink": "https://view.asiae.co.kr/article/2026110710061020851",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T10:17:00+09:00",
+      "pubDate": "2026-11-07T01:17:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권"
@@ -168,7 +1913,7 @@
       "link": "https://www.tfmedia.co.kr/news/article.html?no=208699",
       "originallink": "https://www.tfmedia.co.kr/news/article.html?no=208699",
       "press": "",
-      "pubDate": "2026-11-07T10:16:00+09:00",
+      "pubDate": "2026-11-07T01:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -183,7 +1928,7 @@
       "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957216",
       "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957216",
       "press": "",
-      "pubDate": "2026-11-07T10:16:00+09:00",
+      "pubDate": "2026-11-07T01:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -195,7 +1940,7 @@
       "link": "https://www.newsway.co.kr/news/view?ud=2026110710151849067",
       "originallink": "https://www.newsway.co.kr/news/view?ud=2026110710151849067",
       "press": "",
-      "pubDate": "2026-11-07T10:16:00+09:00",
+      "pubDate": "2026-11-07T01:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -207,7 +1952,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202611071009594080fbbec65dfb_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202611071009594080fbbec65dfb_1",
       "press": "",
-      "pubDate": "2026-11-07T10:16:00+09:00",
+      "pubDate": "2026-11-07T01:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권"
@@ -219,7 +1964,7 @@
       "link": "https://www.hidomin.com/news/articleView.html?idxno=728278",
       "originallink": "https://www.hidomin.com/news/articleView.html?idxno=728278",
       "press": "",
-      "pubDate": "2026-11-07T10:14:00+09:00",
+      "pubDate": "2026-11-07T01:14:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -232,7 +1977,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502043",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502043",
       "press": "",
-      "pubDate": "2026-11-07T10:14:00+09:00",
+      "pubDate": "2026-11-07T01:14:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -244,7 +1989,7 @@
       "link": "https://n.news.naver.com/mnews/article/215/0001271988?sid=103",
       "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611070018&t=NN",
       "press": "한국경제TV",
-      "pubDate": "2026-11-07T10:13:00+09:00",
+      "pubDate": "2026-11-07T01:13:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -256,7 +2001,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645285",
       "originallink": "https://www.etoday.co.kr/news/view/2645285",
       "press": "",
-      "pubDate": "2026-11-07T10:10:00+09:00",
+      "pubDate": "2026-11-07T01:10:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -269,7 +2014,7 @@
       "link": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600216.html",
       "originallink": "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600216.html",
       "press": "",
-      "pubDate": "2026-11-07T10:08:00+09:00",
+      "pubDate": "2026-11-07T01:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -281,7 +2026,7 @@
       "link": "https://www.jemin.com/news/articleView.html?idxno=846388",
       "originallink": "https://www.jemin.com/news/articleView.html?idxno=846388",
       "press": "",
-      "pubDate": "2026-11-07T10:06:00+09:00",
+      "pubDate": "2026-11-07T01:06:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -293,7 +2038,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502041",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502041",
       "press": "",
-      "pubDate": "2026-11-07T10:06:00+09:00",
+      "pubDate": "2026-11-07T01:06:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -305,7 +2050,7 @@
       "link": "https://www.newspim.com/news/view/20261107000031",
       "originallink": "https://www.newspim.com/news/view/20261107000031",
       "press": "뉴스핌",
-      "pubDate": "2026-11-07T10:04:00+09:00",
+      "pubDate": "2026-11-07T01:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -317,7 +2062,7 @@
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=884562",
       "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=884562",
       "press": "",
-      "pubDate": "2026-11-07T10:04:00+09:00",
+      "pubDate": "2026-11-07T01:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -330,7 +2075,7 @@
       "link": "https://n.news.naver.com/mnews/article/469/0000964185?sid=101",
       "originallink": "https://www.hankookilbo.com/news/article/A2026110709410001222?did=NA",
       "press": "",
-      "pubDate": "2026-11-07T10:03:00+09:00",
+      "pubDate": "2026-11-07T01:03:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -343,7 +2088,7 @@
       "link": "https://n.news.naver.com/mnews/article/366/0001203208?sid=101",
       "originallink": "https://biz.chosun.com/science-chosun/bio/2026/11/07/EQZUNYJGVVGD3MG7SMQT2SL67I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선일보",
-      "pubDate": "2026-11-07T10:03:00+09:00",
+      "pubDate": "2026-11-07T01:03:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -356,7 +2101,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502040",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502040",
       "press": "",
-      "pubDate": "2026-11-07T10:02:00+09:00",
+      "pubDate": "2026-11-07T01:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -368,7 +2113,7 @@
       "link": "https://n.news.naver.com/mnews/article/028/0002831133?sid=102",
       "originallink": "https://www.hani.co.kr/arti/society/society_general/1286223.html",
       "press": "한겨레",
-      "pubDate": "2026-11-07T10:00:00+09:00",
+      "pubDate": "2026-11-07T01:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -380,7 +2125,7 @@
       "link": "https://www.mediapen.com/news/view/1135954",
       "originallink": "https://www.mediapen.com/news/view/1135954",
       "press": "",
-      "pubDate": "2026-11-07T10:00:00+09:00",
+      "pubDate": "2026-11-07T01:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -393,7 +2138,7 @@
       "link": "https://n.news.naver.com/mnews/article/648/0000052384?sid=101",
       "originallink": "https://news.bizwatch.co.kr/article/market/2026/11/07/0002",
       "press": "",
-      "pubDate": "2026-11-07T10:00:00+09:00",
+      "pubDate": "2026-11-07T01:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -405,7 +2150,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839393?sid=110",
       "originallink": "https://view.asiae.co.kr/article/2026110601394419469",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T10:00:00+09:00",
+      "pubDate": "2026-11-07T01:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -417,7 +2162,7 @@
       "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=730894",
       "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=730894",
       "press": "",
-      "pubDate": "2026-11-07T10:00:00+09:00",
+      "pubDate": "2026-11-07T01:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "메리츠증권",
@@ -430,7 +2175,7 @@
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325141",
       "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325141",
       "press": "",
-      "pubDate": "2026-11-07T09:58:00+09:00",
+      "pubDate": "2026-11-07T00:58:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -442,7 +2187,7 @@
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=667685",
       "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=667685",
       "press": "",
-      "pubDate": "2026-11-07T09:58:00+09:00",
+      "pubDate": "2026-11-07T00:58:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -463,7 +2208,7 @@
       "link": "https://www.wikitree.co.kr/articles/1172636",
       "originallink": "https://www.wikitree.co.kr/articles/1172636",
       "press": "",
-      "pubDate": "2026-11-07T09:58:00+09:00",
+      "pubDate": "2026-11-07T00:58:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -475,7 +2220,7 @@
       "link": "https://n.news.naver.com/mnews/article/138/0002247640?sid=101",
       "originallink": "https://www.ddaily.co.kr/page/view/2026110709344396266",
       "press": "",
-      "pubDate": "2026-11-07T09:57:00+09:00",
+      "pubDate": "2026-11-07T00:57:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -488,7 +2233,7 @@
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=884540",
       "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=884540",
       "press": "",
-      "pubDate": "2026-11-07T09:56:00+09:00",
+      "pubDate": "2026-11-07T00:56:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "대신증권"
@@ -500,7 +2245,7 @@
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=884539",
       "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=884539",
       "press": "",
-      "pubDate": "2026-11-07T09:56:00+09:00",
+      "pubDate": "2026-11-07T00:56:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "대신증권"
@@ -512,7 +2257,7 @@
       "link": "https://news.mtn.co.kr/article/2026110709535485346",
       "originallink": "https://news.mtn.co.kr/article/2026110709535485346",
       "press": "머니투데이방송",
-      "pubDate": "2026-11-07T09:54:00+09:00",
+      "pubDate": "2026-11-07T00:54:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -524,7 +2269,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=401612",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=401612",
       "press": "",
-      "pubDate": "2026-11-07T09:52:00+09:00",
+      "pubDate": "2026-11-07T00:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -536,7 +2281,7 @@
       "link": "https://n.news.naver.com/mnews/article/117/0004122898?sid=103",
       "originallink": "https://www.mydaily.co.kr/page/view/2026110709500609986",
       "press": "",
-      "pubDate": "2026-11-07T09:52:00+09:00",
+      "pubDate": "2026-11-07T00:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -549,7 +2294,7 @@
       "link": "https://www.viva100.com/article/20261107500031",
       "originallink": "https://www.viva100.com/article/20261107500031",
       "press": "",
-      "pubDate": "2026-11-07T09:50:00+09:00",
+      "pubDate": "2026-11-07T00:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -562,7 +2307,7 @@
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=902288",
       "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=902288",
       "press": "",
-      "pubDate": "2026-11-07T09:50:00+09:00",
+      "pubDate": "2026-11-07T00:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -574,7 +2319,7 @@
       "link": "https://www.g-enews.com/view.php?ud=20261107094454511424debea800_1",
       "originallink": "https://www.g-enews.com/view.php?ud=20261107094454511424debea800_1",
       "press": "",
-      "pubDate": "2026-11-07T09:48:00+09:00",
+      "pubDate": "2026-11-07T00:48:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -587,7 +2332,7 @@
       "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=269914",
       "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=269914",
       "press": "",
-      "pubDate": "2026-11-07T09:48:00+09:00",
+      "pubDate": "2026-11-07T00:48:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -599,7 +2344,7 @@
       "link": "https://n.news.naver.com/mnews/article/123/0002393573?sid=101",
       "originallink": "http://www.joseilbo.com/news/news_read.php?uid=579160&class=1&grp=",
       "press": "",
-      "pubDate": "2026-11-07T09:47:00+09:00",
+      "pubDate": "2026-11-07T00:47:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -612,7 +2357,7 @@
       "link": "https://www.boannews.com/news/articleView.html?idxno=147084",
       "originallink": "https://www.boannews.com/news/articleView.html?idxno=147084",
       "press": "",
-      "pubDate": "2026-11-07T09:46:00+09:00",
+      "pubDate": "2026-11-07T00:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -625,7 +2370,7 @@
       "link": "https://n.news.naver.com/mnews/article/092/0002444313?sid=105",
       "originallink": "https://zdnet.co.kr/view/?no=20261107091854",
       "press": "",
-      "pubDate": "2026-11-07T09:44:00+09:00",
+      "pubDate": "2026-11-07T00:44:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -637,7 +2382,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502039",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502039",
       "press": "",
-      "pubDate": "2026-11-07T09:44:00+09:00",
+      "pubDate": "2026-11-07T00:44:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -649,7 +2394,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502038",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502038",
       "press": "",
-      "pubDate": "2026-11-07T09:42:00+09:00",
+      "pubDate": "2026-11-07T00:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -661,7 +2406,7 @@
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87330",
       "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87330",
       "press": "",
-      "pubDate": "2026-11-07T09:40:00+09:00",
+      "pubDate": "2026-11-07T00:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -677,7 +2422,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006405469?sid=102",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02223846645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-07T09:40:00+09:00",
+      "pubDate": "2026-11-07T00:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -689,7 +2434,7 @@
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=325462",
       "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325462",
       "press": "",
-      "pubDate": "2026-11-07T09:40:00+09:00",
+      "pubDate": "2026-11-07T00:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "메리츠증권"
@@ -701,7 +2446,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502037",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502037",
       "press": "",
-      "pubDate": "2026-11-07T09:38:00+09:00",
+      "pubDate": "2026-11-07T00:38:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -713,7 +2458,7 @@
       "link": "https://n.news.naver.com/mnews/article/654/0000209852?sid=102",
       "originallink": "https://www.kado.net/news/articleView.html?idxno=2083175",
       "press": "",
-      "pubDate": "2026-11-07T09:37:00+09:00",
+      "pubDate": "2026-11-07T00:37:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -725,7 +2470,7 @@
       "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130696",
       "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=130696",
       "press": "",
-      "pubDate": "2026-11-07T09:36:00+09:00",
+      "pubDate": "2026-11-07T00:36:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -737,7 +2482,7 @@
       "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=269866",
       "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=269866",
       "press": "",
-      "pubDate": "2026-11-07T09:36:00+09:00",
+      "pubDate": "2026-11-07T00:36:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "IBK투자증권"
@@ -749,7 +2494,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502036",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502036",
       "press": "",
-      "pubDate": "2026-11-07T09:34:00+09:00",
+      "pubDate": "2026-11-07T00:34:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -761,7 +2506,7 @@
       "link": "https://n.news.naver.com/mnews/article/056/0012289280?sid=101",
       "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706630&ref=A",
       "press": "",
-      "pubDate": "2026-11-07T09:33:00+09:00",
+      "pubDate": "2026-11-07T00:33:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -773,7 +2518,7 @@
       "link": "http://www.segyebiz.com/newsView/20261107503239?OutUrl=naver",
       "originallink": "http://www.segyebiz.com/newsView/20261107503239?OutUrl=naver",
       "press": "",
-      "pubDate": "2026-11-07T09:32:00+09:00",
+      "pubDate": "2026-11-07T00:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -785,7 +2530,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502035",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502035",
       "press": "",
-      "pubDate": "2026-11-07T09:32:00+09:00",
+      "pubDate": "2026-11-07T00:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -797,7 +2542,7 @@
       "link": "https://n.news.naver.com/mnews/article/057/0001977098?sid=101",
       "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229522",
       "press": "매일경제",
-      "pubDate": "2026-11-07T09:31:00+09:00",
+      "pubDate": "2026-11-07T00:31:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -810,7 +2555,7 @@
       "link": "https://n.news.naver.com/mnews/article/214/0001534105?sid=101",
       "originallink": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html",
       "press": "",
-      "pubDate": "2026-11-07T09:29:00+09:00",
+      "pubDate": "2026-11-07T00:29:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -822,7 +2567,7 @@
       "link": "https://n.news.naver.com/mnews/article/119/0003152417?sid=101",
       "originallink": "https://www.dailian.co.kr/news/view/1712025/?sc=Naver",
       "press": "",
-      "pubDate": "2026-11-07T09:28:00+09:00",
+      "pubDate": "2026-11-07T00:28:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -834,7 +2579,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502034",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502034",
       "press": "",
-      "pubDate": "2026-11-07T09:28:00+09:00",
+      "pubDate": "2026-11-07T00:28:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -846,7 +2591,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033",
       "press": "",
-      "pubDate": "2026-11-07T09:24:00+09:00",
+      "pubDate": "2026-11-07T00:24:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "신한투자증권"
@@ -858,7 +2603,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760325?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201388",
       "press": "매일경제",
-      "pubDate": "2026-11-07T09:23:00+09:00",
+      "pubDate": "2026-11-07T00:23:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -873,7 +2618,7 @@
       "link": "https://www.bigtanews.co.kr/article/view/big202611070004",
       "originallink": "https://www.bigtanews.co.kr/article/view/big202611070004",
       "press": "",
-      "pubDate": "2026-11-07T09:22:00+09:00",
+      "pubDate": "2026-11-07T00:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -885,7 +2630,7 @@
       "link": "https://n.news.naver.com/mnews/article/437/0000519603?sid=101",
       "originallink": "https://news.jtbc.co.kr/article/NB12326943?influxDiv=NAVER",
       "press": "",
-      "pubDate": "2026-11-07T09:22:00+09:00",
+      "pubDate": "2026-11-07T00:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -897,7 +2642,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502032",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502032",
       "press": "",
-      "pubDate": "2026-11-07T09:22:00+09:00",
+      "pubDate": "2026-11-07T00:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한화투자증권"
@@ -909,7 +2654,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839383?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110709185850012",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T09:18:00+09:00",
+      "pubDate": "2026-11-07T00:18:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -921,7 +2666,7 @@
       "link": "https://n.news.naver.com/mnews/article/031/0001073075?sid=101",
       "originallink": "http://www.inews24.com/view/2023682",
       "press": "아이뉴스24",
-      "pubDate": "2026-11-07T09:18:00+09:00",
+      "pubDate": "2026-11-07T00:18:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -934,7 +2679,7 @@
       "link": "https://www.bigtanews.co.kr/article/view/big202611070003",
       "originallink": "https://www.bigtanews.co.kr/article/view/big202611070003",
       "press": "",
-      "pubDate": "2026-11-07T09:18:00+09:00",
+      "pubDate": "2026-11-07T00:18:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -947,7 +2692,7 @@
       "link": "https://n.news.naver.com/mnews/article/655/0000033481?sid=102",
       "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261107501&PRO_CODE=99",
       "press": "",
-      "pubDate": "2026-11-07T09:17:00+09:00",
+      "pubDate": "2026-11-07T00:17:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -959,7 +2704,7 @@
       "link": "https://www.bigtanews.co.kr/article/view/big202611070002",
       "originallink": "https://www.bigtanews.co.kr/article/view/big202611070002",
       "press": "",
-      "pubDate": "2026-11-07T09:16:00+09:00",
+      "pubDate": "2026-11-07T00:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -973,7 +2718,7 @@
       "link": "https://n.news.naver.com/mnews/article/020/0003760775?sid=102",
       "originallink": "https://www.donga.com/news/Society/article/all/20261107/134983071/2",
       "press": "동아일보",
-      "pubDate": "2026-11-07T09:15:00+09:00",
+      "pubDate": "2026-11-07T00:15:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -985,7 +2730,7 @@
       "link": "https://www.mediapen.com/news/view/1135903",
       "originallink": "https://www.mediapen.com/news/view/1135903",
       "press": "",
-      "pubDate": "2026-11-07T09:14:00+09:00",
+      "pubDate": "2026-11-07T00:14:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권",
@@ -1001,7 +2746,7 @@
       "link": "https://www.greened.kr/news/articleView.html?idxno=354094",
       "originallink": "https://www.greened.kr/news/articleView.html?idxno=354094",
       "press": "",
-      "pubDate": "2026-11-07T09:12:00+09:00",
+      "pubDate": "2026-11-07T00:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1013,7 +2758,7 @@
       "link": "https://n.news.naver.com/mnews/article/448/0000649560?sid=101",
       "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790012.html",
       "press": "조선일보",
-      "pubDate": "2026-11-07T09:10:00+09:00",
+      "pubDate": "2026-11-07T00:10:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1025,7 +2770,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0004008318?sid=105",
       "originallink": "https://www.chosun.com/economy/tech_it/2026/11/07/DFY5AYSMAVA2HIQSV7DT2S43I4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-11-07T09:09:00+09:00",
+      "pubDate": "2026-11-07T00:09:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1037,7 +2782,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001883587?sid=102",
       "originallink": "https://www.kmib.co.kr/article/20261107500012",
       "press": "국민일보",
-      "pubDate": "2026-11-07T09:08:00+09:00",
+      "pubDate": "2026-11-07T00:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1050,7 +2795,7 @@
       "link": "https://www.newscj.com/news/articleView.html?idxno=3446700",
       "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446700",
       "press": "",
-      "pubDate": "2026-11-07T09:06:00+09:00",
+      "pubDate": "2026-11-07T00:06:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1063,7 +2808,7 @@
       "link": "https://n.news.naver.com/mnews/article/310/0000141515?sid=101",
       "originallink": "https://www.womennews.co.kr/news/articleView.html?idxno=284216",
       "press": "",
-      "pubDate": "2026-11-07T09:06:00+09:00",
+      "pubDate": "2026-11-07T00:06:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1075,7 +2820,7 @@
       "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8186",
       "originallink": "https://www.moneystorm.kr/news/articleView.html?idxno=8186",
       "press": "",
-      "pubDate": "2026-11-07T09:03:00+09:00",
+      "pubDate": "2026-11-07T00:03:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1089,7 +2834,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427688?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261107017800002?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T09:02:00+09:00",
+      "pubDate": "2026-11-07T00:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -1103,7 +2848,7 @@
       "link": "https://www.asiatime.co.kr/article/20261106500320",
       "originallink": "https://www.asiatime.co.kr/article/20261106500320",
       "press": "",
-      "pubDate": "2026-11-07T09:02:00+09:00",
+      "pubDate": "2026-11-07T00:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -1116,7 +2861,7 @@
       "link": "https://n.news.naver.com/mnews/article/024/0000109461?sid=101",
       "originallink": "https://www.mk.co.kr/article/12200541",
       "press": "매일경제",
-      "pubDate": "2026-11-07T09:01:00+09:00",
+      "pubDate": "2026-11-07T00:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1128,7 +2873,7 @@
       "link": "https://n.news.naver.com/mnews/article/024/0000109460?sid=101",
       "originallink": "https://www.mk.co.kr/article/12200539",
       "press": "매일경제",
-      "pubDate": "2026-11-07T09:01:00+09:00",
+      "pubDate": "2026-11-07T00:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -1141,7 +2886,7 @@
       "link": "https://n.news.naver.com/mnews/article/469/0000964179?sid=102",
       "originallink": "https://www.hankookilbo.com/news/article/A2026110708460001744?did=NA",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1153,7 +2898,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443599",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443599",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1165,7 +2910,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427682?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261106071100008?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1184,7 +2929,7 @@
       "link": "https://www.kukinews.com/article/view/kuk202611070005",
       "originallink": "https://www.kukinews.com/article/view/kuk202611070005",
       "press": "쿠키뉴스",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1197,7 +2942,7 @@
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285388",
       "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=285388",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1213,7 +2958,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645001",
       "originallink": "https://www.etoday.co.kr/news/view/2645001",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1231,7 +2976,7 @@
       "link": "https://n.news.naver.com/mnews/article/138/0002247637?sid=101",
       "originallink": "https://www.ddaily.co.kr/page/view/2026110616095195295",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -1249,7 +2994,7 @@
       "link": "https://www.ekn.kr/web/view.php?key=20261106027586451",
       "originallink": "https://www.ekn.kr/web/view.php?key=20261106027586451",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -1262,7 +3007,7 @@
       "link": "https://m.sports.naver.com/general/article/481/0000014683",
       "originallink": "https://www.tennis.co.kr/news/articleView.html?idxno=54248",
       "press": "",
-      "pubDate": "2026-11-07T09:00:00+09:00",
+      "pubDate": "2026-11-07T00:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1274,7 +3019,7 @@
       "link": "https://n.news.naver.com/mnews/article/052/0002429552?sid=101",
       "originallink": "https://www.ytn.co.kr/_ln/0102_202611070859482684",
       "press": "",
-      "pubDate": "2026-11-07T08:59:00+09:00",
+      "pubDate": "2026-11-06T23:59:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1286,7 +3031,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839381?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110616430860561",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T08:58:00+09:00",
+      "pubDate": "2026-11-06T23:58:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -1299,7 +3044,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014307545?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261107_0003858758",
       "press": "뉴시스",
-      "pubDate": "2026-11-07T08:57:00+09:00",
+      "pubDate": "2026-11-06T23:57:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1312,7 +3057,7 @@
       "link": "https://n.news.naver.com/mnews/article/056/0012289274?sid=101",
       "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706623&ref=A",
       "press": "",
-      "pubDate": "2026-11-07T08:57:00+09:00",
+      "pubDate": "2026-11-06T23:57:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1324,7 +3069,7 @@
       "link": "https://m.sports.naver.com/general/article/481/0000014682",
       "originallink": "https://www.tennis.co.kr/news/articleView.html?idxno=54247",
       "press": "",
-      "pubDate": "2026-11-07T08:57:00+09:00",
+      "pubDate": "2026-11-06T23:57:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1336,7 +3081,7 @@
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730798",
       "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1730798",
       "press": "",
-      "pubDate": "2026-11-07T08:56:00+09:00",
+      "pubDate": "2026-11-06T23:56:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1348,7 +3093,7 @@
       "link": "https://bravo.etoday.co.kr/view/atc_view/20442",
       "originallink": "https://bravo.etoday.co.kr/view/atc_view/20442",
       "press": "",
-      "pubDate": "2026-11-07T08:52:00+09:00",
+      "pubDate": "2026-11-06T23:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1360,7 +3105,7 @@
       "link": "https://www.getnews.co.kr/news/articleView.html?idxno=886364",
       "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=886364",
       "press": "",
-      "pubDate": "2026-11-07T08:52:00+09:00",
+      "pubDate": "2026-11-06T23:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "대신증권"
@@ -1372,7 +3117,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275626?sid=101",
       "originallink": "https://www.news1.kr/finance/general-stock/6346292",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T08:50:00+09:00",
+      "pubDate": "2026-11-06T23:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1384,7 +3129,7 @@
       "link": "https://www.jasm.co.kr/news/view/324514/?sc=Naver",
       "originallink": "https://www.jasm.co.kr/news/view/324514/?sc=Naver",
       "press": "",
-      "pubDate": "2026-11-07T08:50:00+09:00",
+      "pubDate": "2026-11-06T23:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1396,7 +3141,7 @@
       "link": "https://www.viewsnnews.com/article?q=239554",
       "originallink": "https://www.viewsnnews.com/article?q=239554",
       "press": "",
-      "pubDate": "2026-11-07T08:48:00+09:00",
+      "pubDate": "2026-11-06T23:48:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1408,7 +3153,7 @@
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87328",
       "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87328",
       "press": "",
-      "pubDate": "2026-11-07T08:48:00+09:00",
+      "pubDate": "2026-11-06T23:48:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1420,7 +3165,7 @@
       "link": "https://n.news.naver.com/mnews/article/660/0000120790?sid=101",
       "originallink": "https://www.ikbc.co.kr/article/view/kbc202611070007",
       "press": "",
-      "pubDate": "2026-11-07T08:47:00+09:00",
+      "pubDate": "2026-11-06T23:47:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1432,7 +3177,7 @@
       "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67279",
       "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=67279",
       "press": "",
-      "pubDate": "2026-11-07T08:46:00+09:00",
+      "pubDate": "2026-11-06T23:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1444,7 +3189,7 @@
       "link": "http://www.sisacast.kr/news/articleView.html?idxno=101694",
       "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=101694",
       "press": "",
-      "pubDate": "2026-11-07T08:46:00+09:00",
+      "pubDate": "2026-11-06T23:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -1457,7 +3202,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006405455?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02164806645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-07T08:46:00+09:00",
+      "pubDate": "2026-11-06T23:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "DB금융투자"
@@ -1469,7 +3214,7 @@
       "link": "https://n.news.naver.com/mnews/article/366/0001203204?sid=101",
       "originallink": "https://biz.chosun.com/topics/topics_social/2026/11/07/O3LBV6D5UFBOXDDQXILXEC4LYE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선일보",
-      "pubDate": "2026-11-07T08:45:00+09:00",
+      "pubDate": "2026-11-06T23:45:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1481,7 +3226,7 @@
       "link": "https://n.news.naver.com/mnews/article/422/0000923713?sid=101",
       "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261107084425UUh",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T08:45:00+09:00",
+      "pubDate": "2026-11-06T23:45:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1493,7 +3238,7 @@
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080680",
       "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080680",
       "press": "",
-      "pubDate": "2026-11-07T08:42:00+09:00",
+      "pubDate": "2026-11-06T23:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1505,7 +3250,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600757?sid=101",
       "originallink": "https://www.fnnews.com/news/202611070825226459",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-07T08:40:00+09:00",
+      "pubDate": "2026-11-06T23:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1517,7 +3262,7 @@
       "link": "http://www.4th.kr/news/articleView.html?idxno=2121359",
       "originallink": "http://www.4th.kr/news/articleView.html?idxno=2121359",
       "press": "",
-      "pubDate": "2026-11-07T08:38:00+09:00",
+      "pubDate": "2026-11-06T23:38:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1529,7 +3274,7 @@
       "link": "https://n.news.naver.com/mnews/article/050/0000112954?sid=101",
       "originallink": "https://magazine.hankyung.com/business/article/202611072001b",
       "press": "한국경제",
-      "pubDate": "2026-11-07T08:37:00+09:00",
+      "pubDate": "2026-11-06T23:37:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1541,7 +3286,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427662?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261107014452008?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T08:35:00+09:00",
+      "pubDate": "2026-11-06T23:35:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1554,7 +3299,7 @@
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880852",
       "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880852",
       "press": "",
-      "pubDate": "2026-11-07T08:34:00+09:00",
+      "pubDate": "2026-11-06T23:34:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1566,7 +3311,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006405453?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02148406645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-07T08:32:00+09:00",
+      "pubDate": "2026-11-06T23:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1578,7 +3323,7 @@
       "link": "https://www.slist.kr/news/articleView.html?idxno=779728",
       "originallink": "https://www.slist.kr/news/articleView.html?idxno=779728",
       "press": "",
-      "pubDate": "2026-11-07T08:32:00+09:00",
+      "pubDate": "2026-11-06T23:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1590,7 +3335,7 @@
       "link": "https://n.news.naver.com/mnews/article/449/0000366705?sid=101",
       "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558840",
       "press": "",
-      "pubDate": "2026-11-07T08:32:00+09:00",
+      "pubDate": "2026-11-06T23:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1602,7 +3347,7 @@
       "link": "https://www.itdaily.kr/news/articleView.html?idxno=242758",
       "originallink": "https://www.itdaily.kr/news/articleView.html?idxno=242758",
       "press": "",
-      "pubDate": "2026-11-07T08:30:00+09:00",
+      "pubDate": "2026-11-06T23:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1614,7 +3359,7 @@
       "link": "https://www.sentv.co.kr/article/view/sentv202611070002",
       "originallink": "https://www.sentv.co.kr/article/view/sentv202611070002",
       "press": "",
-      "pubDate": "2026-11-07T08:30:00+09:00",
+      "pubDate": "2026-11-06T23:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1626,7 +3371,7 @@
       "link": "https://www.newspim.com/news/view/20261107000022",
       "originallink": "https://www.newspim.com/news/view/20261107000022",
       "press": "뉴스핌",
-      "pubDate": "2026-11-07T08:30:00+09:00",
+      "pubDate": "2026-11-06T23:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1638,7 +3383,7 @@
       "link": "https://www.ajunews.com/view/20261107082005748",
       "originallink": "https://www.ajunews.com/view/20261107082005748",
       "press": "아주경제",
-      "pubDate": "2026-11-07T08:28:00+09:00",
+      "pubDate": "2026-11-06T23:28:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1650,7 +3395,7 @@
       "link": "https://n.news.naver.com/mnews/article/021/0002831008?sid=102",
       "originallink": "https://www.munhwa.com/article/11629495?ref=naver",
       "press": "",
-      "pubDate": "2026-11-07T08:26:00+09:00",
+      "pubDate": "2026-11-06T23:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1662,7 +3407,7 @@
       "link": "https://n.news.naver.com/mnews/article/417/0001163543?sid=101",
       "originallink": "https://www.sidae.com/article/2026110708232672830",
       "press": "",
-      "pubDate": "2026-11-07T08:25:00+09:00",
+      "pubDate": "2026-11-06T23:25:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1674,7 +3419,7 @@
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3744935",
       "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3744935",
       "press": "",
-      "pubDate": "2026-11-07T08:24:00+09:00",
+      "pubDate": "2026-11-06T23:24:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1686,7 +3431,7 @@
       "link": "https://n.news.naver.com/mnews/article/215/0001271981?sid=101",
       "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611070009&t=NN",
       "press": "한국경제TV",
-      "pubDate": "2026-11-07T08:23:00+09:00",
+      "pubDate": "2026-11-06T23:23:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1698,7 +3443,7 @@
       "link": "https://n.news.naver.com/mnews/article/024/0000109459?sid=102",
       "originallink": "https://www.mk.co.kr/article/12201377",
       "press": "매일경제",
-      "pubDate": "2026-11-07T08:23:00+09:00",
+      "pubDate": "2026-11-06T23:23:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1710,7 +3455,7 @@
       "link": "https://www.tokenpost.kr/news/market/434318",
       "originallink": "https://www.tokenpost.kr/news/market/434318",
       "press": "",
-      "pubDate": "2026-11-07T08:22:00+09:00",
+      "pubDate": "2026-11-06T23:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1722,7 +3467,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006405449?sid=105",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02125446645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-07T08:22:00+09:00",
+      "pubDate": "2026-11-06T23:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -1735,7 +3480,7 @@
       "link": "https://n.news.naver.com/mnews/article/016/0002720172?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10929086?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-11-07T08:20:00+09:00",
+      "pubDate": "2026-11-06T23:20:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1747,7 +3492,7 @@
       "link": "https://www.kbmaeil.com/article/20261107500030",
       "originallink": "https://www.kbmaeil.com/article/20261107500030",
       "press": "",
-      "pubDate": "2026-11-07T08:18:00+09:00",
+      "pubDate": "2026-11-06T23:18:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1759,7 +3504,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005437915?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/07/2026110708104962354",
       "press": "머니투데이",
-      "pubDate": "2026-11-07T08:18:00+09:00",
+      "pubDate": "2026-11-06T23:18:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1771,7 +3516,7 @@
       "link": "http://www.srtimes.kr/news/articleView.html?idxno=216969",
       "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=216969",
       "press": "",
-      "pubDate": "2026-11-07T08:16:00+09:00",
+      "pubDate": "2026-11-06T23:16:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1784,7 +3529,7 @@
       "link": "https://n.news.naver.com/mnews/article/658/0000160606?sid=102",
       "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261107.99099002092",
       "press": "",
-      "pubDate": "2026-11-07T08:15:00+09:00",
+      "pubDate": "2026-11-06T23:15:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1796,7 +3541,7 @@
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87327",
       "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87327",
       "press": "",
-      "pubDate": "2026-11-07T08:14:00+09:00",
+      "pubDate": "2026-11-06T23:14:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1808,7 +3553,7 @@
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000080413",
       "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000080413",
       "press": "",
-      "pubDate": "2026-11-07T08:13:00+09:00",
+      "pubDate": "2026-11-06T23:13:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1820,7 +3565,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009275617?sid=101",
       "originallink": "https://www.news1.kr/finance/general-stock/6346282",
       "press": "뉴스1",
-      "pubDate": "2026-11-07T08:12:00+09:00",
+      "pubDate": "2026-11-06T23:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1832,7 +3577,7 @@
       "link": "https://www.ajunews.com/view/20261107080943740",
       "originallink": "https://www.ajunews.com/view/20261107080943740",
       "press": "아주경제",
-      "pubDate": "2026-11-07T08:12:00+09:00",
+      "pubDate": "2026-11-06T23:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1845,7 +3590,7 @@
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7192725",
       "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7192725",
       "press": "",
-      "pubDate": "2026-11-07T08:12:00+09:00",
+      "pubDate": "2026-11-06T23:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1857,7 +3602,7 @@
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700006.html",
       "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700006.html",
       "press": "",
-      "pubDate": "2026-11-07T08:12:00+09:00",
+      "pubDate": "2026-11-06T23:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1869,7 +3614,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679686?sid=101",
       "originallink": "https://www.sedaily.com/article/20111406?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-07T08:12:00+09:00",
+      "pubDate": "2026-11-06T23:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1881,7 +3626,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600754?sid=101",
       "originallink": "https://www.fnnews.com/news/202611070803069202",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-07T08:11:00+09:00",
+      "pubDate": "2026-11-06T23:11:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1893,7 +3638,7 @@
       "link": "https://n.news.naver.com/mnews/article/088/0001038910?sid=105",
       "originallink": "https://www.imaeil.com/page/view/2026110708064913991",
       "press": "",
-      "pubDate": "2026-11-07T08:11:00+09:00",
+      "pubDate": "2026-11-06T23:11:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1905,7 +3650,7 @@
       "link": "https://n.news.naver.com/mnews/article/088/0001038908?sid=101",
       "originallink": "https://www.imaeil.com/page/view/2026110708065050795",
       "press": "",
-      "pubDate": "2026-11-07T08:10:00+09:00",
+      "pubDate": "2026-11-06T23:10:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -1918,7 +3663,7 @@
       "link": "https://www.getnews.co.kr/news/articleView.html?idxno=886361",
       "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=886361",
       "press": "",
-      "pubDate": "2026-11-07T08:10:00+09:00",
+      "pubDate": "2026-11-06T23:10:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1930,7 +3675,7 @@
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=642187",
       "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=642187",
       "press": "",
-      "pubDate": "2026-11-07T08:09:00+09:00",
+      "pubDate": "2026-11-06T23:09:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -1942,7 +3687,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645176",
       "originallink": "https://www.etoday.co.kr/news/view/2645176",
       "press": "",
-      "pubDate": "2026-11-07T08:08:00+09:00",
+      "pubDate": "2026-11-06T23:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권"
@@ -1954,7 +3699,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443592",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443592",
       "press": "",
-      "pubDate": "2026-11-07T08:08:00+09:00",
+      "pubDate": "2026-11-06T23:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권"
@@ -1966,7 +3711,7 @@
       "link": "https://n.news.naver.com/mnews/article/656/0000191715?sid=101",
       "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2311994",
       "press": "",
-      "pubDate": "2026-11-07T08:07:00+09:00",
+      "pubDate": "2026-11-06T23:07:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1978,7 +3723,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003057594?sid=105",
       "originallink": "https://www.dt.co.kr/article/12093636?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-11-07T08:07:00+09:00",
+      "pubDate": "2026-11-06T23:07:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -1990,7 +3735,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014307527?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261107_0003858751",
       "press": "뉴시스",
-      "pubDate": "2026-11-07T08:04:00+09:00",
+      "pubDate": "2026-11-06T23:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2002,7 +3747,7 @@
       "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100809",
       "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100809",
       "press": "",
-      "pubDate": "2026-11-07T08:04:00+09:00",
+      "pubDate": "2026-11-06T23:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2014,7 +3759,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645272",
       "originallink": "https://www.etoday.co.kr/news/view/2645272",
       "press": "",
-      "pubDate": "2026-11-07T08:02:00+09:00",
+      "pubDate": "2026-11-06T23:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2026,7 +3771,7 @@
       "link": "https://news.dealsitetv.com/articles/178027",
       "originallink": "https://news.dealsitetv.com/articles/178027",
       "press": "",
-      "pubDate": "2026-11-07T08:02:00+09:00",
+      "pubDate": "2026-11-06T23:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권"
@@ -2038,7 +3783,7 @@
       "link": "https://www.sentv.co.kr/article/view/sentv202611060081",
       "originallink": "https://www.sentv.co.kr/article/view/sentv202611060081",
       "press": "",
-      "pubDate": "2026-11-07T08:02:00+09:00",
+      "pubDate": "2026-11-06T23:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -2053,7 +3798,7 @@
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700004.html",
       "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/07/2026110700004.html",
       "press": "",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2065,7 +3810,7 @@
       "link": "https://n.news.naver.com/mnews/article/032/0003481213?sid=101",
       "originallink": "https://www.khan.co.kr/article/202611070800031",
       "press": "경향신문",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2077,7 +3822,7 @@
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=642153",
       "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=642153",
       "press": "",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2099,7 +3844,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005437907?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/07/2026110616161056087",
       "press": "머니투데이",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권",
@@ -2113,7 +3858,7 @@
       "link": "http://www.srtimes.kr/news/articleView.html?idxno=216936",
       "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=216936",
       "press": "",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권"
@@ -2125,7 +3870,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014307519?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261106_0003858526",
       "press": "뉴시스",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -2138,7 +3883,7 @@
       "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260812",
       "originallink": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260812",
       "press": "",
-      "pubDate": "2026-11-07T08:00:00+09:00",
+      "pubDate": "2026-11-06T23:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2150,7 +3895,7 @@
       "link": "https://www.fetv.co.kr/news/articleView.html?idxno=313295",
       "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=313295",
       "press": "",
-      "pubDate": "2026-11-07T07:56:00+09:00",
+      "pubDate": "2026-11-06T22:56:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2162,7 +3907,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427640?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261107014451008?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T07:56:00+09:00",
+      "pubDate": "2026-11-06T22:56:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2174,7 +3919,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600750?sid=101",
       "originallink": "https://www.fnnews.com/news/202611070752505816",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-07T07:54:00+09:00",
+      "pubDate": "2026-11-06T22:54:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2186,7 +3931,7 @@
       "link": "https://www.newscj.com/news/articleView.html?idxno=3446687",
       "originallink": "https://www.newscj.com/news/articleView.html?idxno=3446687",
       "press": "",
-      "pubDate": "2026-11-07T07:54:00+09:00",
+      "pubDate": "2026-11-06T22:54:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2198,7 +3943,7 @@
       "link": "http://www.newskr.kr/news/articleView.html?idxno=107790",
       "originallink": "http://www.newskr.kr/news/articleView.html?idxno=107790",
       "press": "",
-      "pubDate": "2026-11-07T07:52:00+09:00",
+      "pubDate": "2026-11-06T22:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2210,7 +3955,7 @@
       "link": "https://n.news.naver.com/mnews/article/666/0000130981?sid=101",
       "originallink": "https://www.kyeonggi.com/article/20261107580011",
       "press": "",
-      "pubDate": "2026-11-07T07:52:00+09:00",
+      "pubDate": "2026-11-06T22:52:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2222,7 +3967,7 @@
       "link": "https://www.ajunews.com/view/20261107074703738",
       "originallink": "https://www.ajunews.com/view/20261107074703738",
       "press": "아주경제",
-      "pubDate": "2026-11-07T07:50:00+09:00",
+      "pubDate": "2026-11-06T22:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2234,7 +3979,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443589",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443589",
       "press": "",
-      "pubDate": "2026-11-07T07:50:00+09:00",
+      "pubDate": "2026-11-06T22:50:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2247,7 +3992,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563471?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476570",
       "press": "중앙일보",
-      "pubDate": "2026-11-07T07:48:00+09:00",
+      "pubDate": "2026-11-06T22:48:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2259,7 +4004,7 @@
       "link": "https://n.news.naver.com/mnews/article/119/0003152406?sid=101",
       "originallink": "https://www.dailian.co.kr/news/view/1712022/?sc=Naver",
       "press": "",
-      "pubDate": "2026-11-07T07:47:00+09:00",
+      "pubDate": "2026-11-06T22:47:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2271,7 +4016,7 @@
       "link": "https://n.news.naver.com/mnews/article/050/0000112951?sid=101",
       "originallink": "https://magazine.hankyung.com/business/article/202611060202b",
       "press": "한국경제",
-      "pubDate": "2026-11-07T07:47:00+09:00",
+      "pubDate": "2026-11-06T22:47:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권"
@@ -2283,7 +4028,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645115",
       "originallink": "https://www.etoday.co.kr/news/view/2645115",
       "press": "",
-      "pubDate": "2026-11-07T07:46:00+09:00",
+      "pubDate": "2026-11-06T22:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2297,7 +4042,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645269",
       "originallink": "https://www.etoday.co.kr/news/view/2645269",
       "press": "",
-      "pubDate": "2026-11-07T07:46:00+09:00",
+      "pubDate": "2026-11-06T22:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2309,7 +4054,7 @@
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285382",
       "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=285382",
       "press": "",
-      "pubDate": "2026-11-07T07:46:00+09:00",
+      "pubDate": "2026-11-06T22:46:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2321,7 +4066,7 @@
       "link": "https://n.news.naver.com/mnews/article/052/0002429542?sid=104",
       "originallink": "https://www.ytn.co.kr/_ln/0104_202611070745152278",
       "press": "",
-      "pubDate": "2026-11-07T07:45:00+09:00",
+      "pubDate": "2026-11-06T22:45:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2333,7 +4078,7 @@
       "link": "https://n.news.naver.com/mnews/article/422/0000923706?sid=101",
       "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261107074331vqW",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T07:44:00+09:00",
+      "pubDate": "2026-11-06T22:44:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2345,7 +4090,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760314?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201367",
       "press": "매일경제",
-      "pubDate": "2026-11-07T07:44:00+09:00",
+      "pubDate": "2026-11-06T22:44:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2357,7 +4102,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014307511?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261107_0003858744",
       "press": "뉴시스",
-      "pubDate": "2026-11-07T07:43:00+09:00",
+      "pubDate": "2026-11-06T22:43:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2369,7 +4114,7 @@
       "link": "https://n.news.naver.com/mnews/article/022/0004173206?sid=101",
       "originallink": "https://www.segye.com/newsView/20261107502349?OutUrl=naver",
       "press": "세계일보",
-      "pubDate": "2026-11-07T07:43:00+09:00",
+      "pubDate": "2026-11-06T22:43:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2381,7 +4126,7 @@
       "link": "https://n.news.naver.com/mnews/article/374/0000542277?sid=101",
       "originallink": "https://biz.sbs.co.kr/article_hub/20000344899?division=NAVER",
       "press": "",
-      "pubDate": "2026-11-07T07:42:00+09:00",
+      "pubDate": "2026-11-06T22:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2393,7 +4138,7 @@
       "link": "https://n.news.naver.com/mnews/article/055/0001401319?sid=101",
       "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834969&plink=ORI&cooper=NAVER",
       "press": "",
-      "pubDate": "2026-11-07T07:42:00+09:00",
+      "pubDate": "2026-11-06T22:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2405,7 +4150,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443587",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443587",
       "press": "",
-      "pubDate": "2026-11-07T07:42:00+09:00",
+      "pubDate": "2026-11-06T22:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2418,7 +4163,7 @@
       "link": "https://n.news.naver.com/mnews/article/081/0003696797?sid=102",
       "originallink": "https://www.seoul.co.kr/news/society/2026/11/07/20261107500005?wlog_tag3=naver",
       "press": "서울신문",
-      "pubDate": "2026-11-07T07:42:00+09:00",
+      "pubDate": "2026-11-06T22:42:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2430,7 +4175,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351354?sid=102",
       "originallink": "https://www.hankyung.com/article/2026110719497",
       "press": "한국경제",
-      "pubDate": "2026-11-07T07:40:00+09:00",
+      "pubDate": "2026-11-06T22:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2442,7 +4187,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679680?sid=105",
       "originallink": "https://www.sedaily.com/article/20111404?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-07T07:39:00+09:00",
+      "pubDate": "2026-11-06T22:39:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2454,7 +4199,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427636?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261107014400008?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T07:36:00+09:00",
+      "pubDate": "2026-11-06T22:36:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2466,7 +4211,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443586",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443586",
       "press": "",
-      "pubDate": "2026-11-07T07:36:00+09:00",
+      "pubDate": "2026-11-06T22:36:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권",
@@ -2479,7 +4224,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443584",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443584",
       "press": "",
-      "pubDate": "2026-11-07T07:32:00+09:00",
+      "pubDate": "2026-11-06T22:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -2492,7 +4237,7 @@
       "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205816",
       "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=205816",
       "press": "",
-      "pubDate": "2026-11-07T07:30:00+09:00",
+      "pubDate": "2026-11-06T22:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2504,7 +4249,7 @@
       "link": "https://www.newsway.co.kr/news/view?ud=2026110617095870929",
       "originallink": "https://www.newsway.co.kr/news/view?ud=2026110617095870929",
       "press": "",
-      "pubDate": "2026-11-07T07:28:00+09:00",
+      "pubDate": "2026-11-06T22:28:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권",
@@ -2517,7 +4262,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443583",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443583",
       "press": "",
-      "pubDate": "2026-11-07T07:28:00+09:00",
+      "pubDate": "2026-11-06T22:28:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권"
@@ -2529,7 +4274,7 @@
       "link": "https://n.news.naver.com/mnews/article/050/0000112948?sid=101",
       "originallink": "https://magazine.hankyung.com/business/article/202611056855b",
       "press": "한국경제",
-      "pubDate": "2026-11-07T07:26:00+09:00",
+      "pubDate": "2026-11-06T22:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -2542,7 +4287,7 @@
       "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044296",
       "originallink": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044296",
       "press": "",
-      "pubDate": "2026-11-07T07:26:00+09:00",
+      "pubDate": "2026-11-06T22:26:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2554,7 +4299,7 @@
       "link": "https://n.news.naver.com/mnews/article/050/0000112947?sid=101",
       "originallink": "https://magazine.hankyung.com/business/article/202611056841b",
       "press": "한국경제",
-      "pubDate": "2026-11-07T07:22:00+09:00",
+      "pubDate": "2026-11-06T22:22:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "유안타증권"
@@ -2566,7 +4311,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839366?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110515452539389",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T07:19:00+09:00",
+      "pubDate": "2026-11-06T22:19:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2578,7 +4323,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839365?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110516403252399",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T07:14:00+09:00",
+      "pubDate": "2026-11-06T22:14:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "신한투자증권"
@@ -2590,7 +4335,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443581",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443581",
       "press": "",
-      "pubDate": "2026-11-07T07:12:00+09:00",
+      "pubDate": "2026-11-06T22:12:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2603,7 +4348,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351351?sid=101",
       "originallink": "https://www.hankyung.com/article/2026110610246",
       "press": "한국경제",
-      "pubDate": "2026-11-07T07:10:00+09:00",
+      "pubDate": "2026-11-06T22:10:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "키움증권",
@@ -2616,7 +4361,7 @@
       "link": "https://news.dealsitetv.com/articles/178164",
       "originallink": "https://news.dealsitetv.com/articles/178164",
       "press": "",
-      "pubDate": "2026-11-07T07:08:00+09:00",
+      "pubDate": "2026-11-06T22:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2628,7 +4373,7 @@
       "link": "https://www.newsway.co.kr/news/view?ud=2026110614103403338",
       "originallink": "https://www.newsway.co.kr/news/view?ud=2026110614103403338",
       "press": "",
-      "pubDate": "2026-11-07T07:08:00+09:00",
+      "pubDate": "2026-11-06T22:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2640,7 +4385,7 @@
       "link": "https://n.news.naver.com/mnews/article/055/0001401311?sid=101",
       "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834874&plink=ORI&cooper=NAVER",
       "press": "",
-      "pubDate": "2026-11-07T07:08:00+09:00",
+      "pubDate": "2026-11-06T22:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2652,7 +4397,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839362?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110514313386242",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T07:08:00+09:00",
+      "pubDate": "2026-11-06T22:08:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "메리츠증권"
@@ -2664,7 +4409,7 @@
       "link": "https://n.news.naver.com/mnews/article/055/0001401310?sid=101",
       "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834873&plink=ORI&cooper=NAVER",
       "press": "",
-      "pubDate": "2026-11-07T07:04:00+09:00",
+      "pubDate": "2026-11-06T22:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권"
@@ -2676,7 +4421,7 @@
       "link": "https://www.newsway.co.kr/news/view?ud=2026110612254679970",
       "originallink": "https://www.newsway.co.kr/news/view?ud=2026110612254679970",
       "press": "",
-      "pubDate": "2026-11-07T07:04:00+09:00",
+      "pubDate": "2026-11-06T22:04:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -2689,7 +4434,7 @@
       "link": "https://www.ajunews.com/view/20261106162200085",
       "originallink": "https://www.ajunews.com/view/20261106162200085",
       "press": "아주경제",
-      "pubDate": "2026-11-07T07:02:00+09:00",
+      "pubDate": "2026-11-06T22:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "삼성증권",
@@ -2704,7 +4449,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006405433?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=01908966645643424&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-07T07:02:00+09:00",
+      "pubDate": "2026-11-06T22:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2716,7 +4461,7 @@
       "link": "https://www.sentv.co.kr/article/view/sentv202611050214",
       "originallink": "https://www.sentv.co.kr/article/view/sentv202611050214",
       "press": "",
-      "pubDate": "2026-11-07T07:02:00+09:00",
+      "pubDate": "2026-11-06T22:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2728,7 +4473,7 @@
       "link": "https://n.news.naver.com/mnews/article/037/0000039106?sid=102",
       "originallink": "https://weekly.donga.com/3/all/11/6449005/1",
       "press": "동아일보",
-      "pubDate": "2026-11-07T07:02:00+09:00",
+      "pubDate": "2026-11-06T22:02:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2740,7 +4485,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839361?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110615255597890",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T07:01:00+09:00",
+      "pubDate": "2026-11-06T22:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "키움증권"
@@ -2752,7 +4497,7 @@
       "link": "https://n.news.naver.com/mnews/article/243/0000105327?sid=101",
       "originallink": "https://economist.co.kr/article/view/ecn202610300013",
       "press": "",
-      "pubDate": "2026-11-07T07:01:00+09:00",
+      "pubDate": "2026-11-06T22:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2764,7 +4509,7 @@
       "link": "https://n.news.naver.com/mnews/article/262/0000019824?sid=101",
       "originallink": "https://shindonga.donga.com/3/all/13/6444739/1",
       "press": "동아일보",
-      "pubDate": "2026-11-07T07:01:00+09:00",
+      "pubDate": "2026-11-06T22:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -2778,7 +4523,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679670?sid=101",
       "originallink": "https://www.sedaily.com/article/20111262?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-07T07:01:00+09:00",
+      "pubDate": "2026-11-06T22:01:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "SK증권"
@@ -2790,7 +4535,7 @@
       "link": "https://www.fetv.co.kr/news/articleView.html?idxno=313276",
       "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=313276",
       "press": "",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권"
@@ -2802,7 +4547,7 @@
       "link": "https://www.ceoscoredaily.com/page/view/2026110515512989192",
       "originallink": "https://www.ceoscoredaily.com/page/view/2026110515512989192",
       "press": "",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "미래에셋증권",
@@ -2820,7 +4565,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563467?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476566",
       "press": "중앙일보",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한국투자증권",
@@ -2836,7 +4581,7 @@
       "link": "https://www.newspim.com/news/view/20261106000831",
       "originallink": "https://www.newspim.com/news/view/20261106000831",
       "press": "뉴스핌",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권",
@@ -2850,7 +4595,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005437896?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/07/2026110616282621049",
       "press": "머니투데이",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권"
@@ -2862,7 +4607,7 @@
       "link": "https://www.goodkyung.com/news/articleView.html?idxno=293205",
       "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=293205",
       "press": "",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "키움증권"
@@ -2874,7 +4619,7 @@
       "link": "http://www.press9.kr/news/articleView.html?idxno=85764",
       "originallink": "http://www.press9.kr/news/articleView.html?idxno=85764",
       "press": "",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "키움증권"
@@ -2886,7 +4631,7 @@
       "link": "https://n.news.naver.com/mnews/article/001/0016427609?sid=101",
       "originallink": "https://www.yna.co.kr/view/AKR20261104152200008?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권",
@@ -2900,7 +4645,7 @@
       "link": "https://www.newspim.com/news/view/20261106000964",
       "originallink": "https://www.newspim.com/news/view/20261106000964",
       "press": "뉴스핌",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2912,7 +4657,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014307488?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261106_0003858395",
       "press": "뉴시스",
-      "pubDate": "2026-11-07T07:00:00+09:00",
+      "pubDate": "2026-11-06T22:00:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "한화투자증권"
@@ -2924,7 +4669,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839358?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110516151055280",
       "press": "아시아경제",
-      "pubDate": "2026-11-07T06:47:00+09:00",
+      "pubDate": "2026-11-06T21:47:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "메리츠증권"
@@ -2936,7 +4681,7 @@
       "link": "https://n.news.naver.com/mnews/article/052/0002429532?sid=104",
       "originallink": "https://www.ytn.co.kr/_ln/0104_202611070640485291",
       "press": "",
-      "pubDate": "2026-11-07T06:40:00+09:00",
+      "pubDate": "2026-11-06T21:40:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2948,7 +4693,7 @@
       "link": "https://www.theguru.co.kr/news/article.html?no=109325",
       "originallink": "https://www.theguru.co.kr/news/article.html?no=109325",
       "press": "",
-      "pubDate": "2026-11-07T06:32:00+09:00",
+      "pubDate": "2026-11-06T21:32:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
@@ -2960,7 +4705,7 @@
       "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000422",
       "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000422",
       "press": "조선일보",
-      "pubDate": "2026-11-07T06:30:00+09:00",
+      "pubDate": "2026-11-06T21:30:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "NH투자증권",
@@ -2975,7 +4720,7 @@
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880527",
       "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880527",
       "press": "",
-      "pubDate": "2026-11-07T06:20:00+09:00",
+      "pubDate": "2026-11-06T21:20:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권",
@@ -2988,7 +4733,7 @@
       "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000354",
       "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000354",
       "press": "조선일보",
-      "pubDate": "2026-11-07T06:20:00+09:00",
+      "pubDate": "2026-11-06T21:20:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "KB증권"
@@ -3000,34 +4745,10 @@
       "link": "https://m.sports.naver.com/general/article/001/0016427595",
       "originallink": "https://www.yna.co.kr/view/AKR20261106029400007?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-07T06:15:00+09:00",
+      "pubDate": "2026-11-06T21:15:00+00:00",
       "date": "2026-11-07",
       "companies": [
         "하나증권"
-      ]
-    },
-    {
-      "title": "증시 급락에 개미 비명…코스피 하락 어디까지?",
-      "description": "[정용택/IBK투자증권 수석연구위원 : \"고금리나 지금 나타나고 있는 AI 과잉 투자에 대한 조정이나 이런 부분들은 다 경기 조정 요인이거든요.\"] 이달 말 한국은행, 다음 달 미국 연준이 기준금리를 결정하는데 인상...",
-      "link": "https://n.news.naver.com/mnews/article/056/0012289229?sid=101",
-      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706550&ref=A",
-      "press": "",
-      "pubDate": "2026-11-07T06:09:00+09:00",
-      "date": "2026-11-07",
-      "companies": [
-        "IBK투자증권"
-      ]
-    },
-    {
-      "title": "미 선거 충격에 ‘검은 금요일’…9달 전으로 돌아간 코스피",
-      "description": "[김동원/KB증권 리서치센터장 : \"천문학적 금액을 (투자)하는데 '과연 돈을 벌 수가 있어?' 수익성 우려가 나온 거죠. 이제 민주당이 AI 규제까지, 인허가부터 신규 허가 아예 중단하겠다고 그러니까….\"] 반도체 투톱...",
-      "link": "https://n.news.naver.com/mnews/article/056/0012289228?sid=101",
-      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706549&ref=A",
-      "press": "",
-      "pubDate": "2026-11-07T06:07:00+09:00",
-      "date": "2026-11-07",
-      "companies": [
-        "KB증권"
       ]
     },
     {
@@ -3061,6 +4782,30 @@
         "하나증권",
         "토스증권",
         "카카오페이증권"
+      ]
+    },
+    {
+      "title": "증시 급락에 개미 비명…코스피 하락 어디까지?",
+      "description": "[정용택/IBK투자증권 수석연구위원 : \"고금리나 지금 나타나고 있는 AI 과잉 투자에 대한 조정이나 이런 부분들은 다 경기 조정 요인이거든요.\"] 이달 말 한국은행, 다음 달 미국 연준이 기준금리를 결정하는데 인상...",
+      "link": "https://n.news.naver.com/mnews/article/056/0012289229?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706550&ref=A",
+      "press": "",
+      "pubDate": "2026-11-06T21:09:00+00:00",
+      "date": "2026-11-07",
+      "companies": [
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "미 선거 충격에 ‘검은 금요일’…9달 전으로 돌아간 코스피",
+      "description": "[김동원/KB증권 리서치센터장 : \"천문학적 금액을 (투자)하는데 '과연 돈을 벌 수가 있어?' 수익성 우려가 나온 거죠. 이제 민주당이 AI 규제까지, 인허가부터 신규 허가 아예 중단하겠다고 그러니까….\"] 반도체 투톱...",
+      "link": "https://n.news.naver.com/mnews/article/056/0012289228?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706549&ref=A",
+      "press": "",
+      "pubDate": "2026-11-06T21:07:00+00:00",
+      "date": "2026-11-07",
+      "companies": [
+        "KB증권"
       ]
     },
     {
