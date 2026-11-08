@@ -1,16 +1,780 @@
 {
-  "lastUpdated": "2026-11-08T11:42:04Z",
+  "lastUpdated": "2026-11-08T17:38:03Z",
   "source": "Naver News Search API",
   "retentionDays": 90,
-  "count": 117155,
+  "count": 117214,
   "news": [
+    {
+      "title": "저PBR 꼬리표 붙은 한화생명…자본관리 부담 속 주주환원 딜레마",
+      "description": "KB증권 분석에 따르면 한화생명의 PBR은 2024년 5월 0.15배에서 지난해 5월 0.13배까지 하락했다. 이후 올해 5월 0.25배로 상승했지만 여전히 낮은 수준에 머물고 있다. 증권가에서는 한화생명의 저PBR이 지속되는 주요...",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=425139",
+      "originallink": "http://www.economytalk.kr/news/articleView.html?idxno=425139",
+      "press": "",
+      "pubDate": "2026-11-09T01:48:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 김시현, 볼 인사로 마무리",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 김시현(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488732",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688846",
+      "press": "",
+      "pubDate": "2026-11-09T01:27:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 김시현, 벙커 탈출",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 김시현(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488734",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688850",
+      "press": "",
+      "pubDate": "2026-11-09T01:27:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "비트코인, 가장 완만한 약세장 지나나…크라켄 공동 CEO \"이미 벗어나는...",
+      "description": "반면 최근에는 은행·증권사·거래소가 개방형 암호화폐 네트워크를 받아들이면서 더 빠르고 저렴한... 리플리는 유럽이 초기 진출 시장이자 현재도 가장 큰 시장 중 하나라며, 이미 결제와 일부 대출·수익형 상품을...",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/434814",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/434814",
+      "press": "",
+      "pubDate": "2026-11-09T01:20:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "효성중공업 주가 한 주간 12.82% 하락…마지막 이틀 23% 폭락",
+      "description": "한화투자증권은 지난 2일 효성중공업의 3분기 실적이 시장 전망치를 밑돌았다며 목표주가를 350만원으로 하향 조정했다. 다만 매출 인식이 지연된 물량이 4분기에 반영되고 미국 중심의 수주 확대가 이어질...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794153584691624276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794153584691624276",
+      "press": "",
+      "pubDate": "2026-11-09T01:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "\"농민들은 제값, 소비자는 할인\"…모두가 웃었다[같이의 가치]",
+      "description": "지난여름 NH투자증권은 농산물 상생마케팅 출연금 7억원 중 4억원을 양파, 오이, 애호박 할인에 사용했다. 농협 유통 계열사와 전국 농·축협 협약 마트에서 개최한 행사에서 양파(3㎏)는 32만4720망이나 팔렸다. 1년 전보다...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014309506?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261106_0003858406",
+      "press": "뉴시스",
+      "pubDate": "2026-11-09T01:01:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "증시 급락에 신용공여 담보비율 완화…변동성 방지 나선다",
+      "description": "미래에셋증권은 9일부터 국내 주식 신용·대출 담보유지비율을 140%에서 130%로 낮추고, 관리종목과 정리매매 종목은 기존 160%를 유지한다고 안내했다. 한국투자증권과 키움증권은 별도 신청 고객에 한해 한시적으로...",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623762",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623762",
+      "press": "",
+      "pubDate": "2026-11-09T01:00:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "키움증권",
+        "신한투자증권"
+      ]
+    },
+    {
+      "title": "외국인, 국내 ETF 12주 만에 순매도…일주일 만에 다시 매수 우위",
+      "description": "서상영 미래에셋증권 상무는 미국 데이터센터 규제와 AI 기업들의 신용 위험, 물가지표와 금리 변화 등이 이번 주 증시 방향을 결정할 것으로 전망했다. 반면 이경민 대신증권 연구원은 코스피 5,300선 이하를...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794152667691527276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794152667691527276",
+      "press": "",
+      "pubDate": "2026-11-09T00:46:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "대신증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 버디 성공 후 터치 인사",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488692",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688744",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영-이윤상, 버디는 언제나 즐거워",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488682",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688724",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 최애 간식 너무 좋아요",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 15번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488690",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688741",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 살피고 또 살핀다",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488686",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688732",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 집중해서 날린다",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 15번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488687",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688735",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 버디 성공했어요",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488685",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688731",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 들어가라 버디",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488689",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688739",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영-이윤상, 나이스 버디",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488694",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688748",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 볼 마크",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488693",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688747",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 버디 반드시 잡는다",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 14번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488683",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688726",
+      "press": "",
+      "pubDate": "2026-11-09T00:45:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[mhn포토] 이가영, 최애 간식입니다",
+      "description": "컨트리클럽 서원힐스(파72ㅣ6,649야드)에서 2026시즌 KLPGA투어 최종전 ‘대보 하우스디 챔피언십(총상금 12억 원, 우승상금 3억 원)’ 최종 3라운드가 열렸다. 이가영(NH투자증권)이 15번홀 경기를 펼치고 있다.",
+      "link": "https://m.sports.naver.com/golf/article/445/0000488680",
+      "originallink": "https://mhnse.com/news/articleView.html?idxno=1688702",
+      "press": "",
+      "pubDate": "2026-11-09T00:35:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "증시 급락에… 상장사 3분의 1, 주가 연중 최저",
+      "description": "지난 6일 미래에셋증권은 2만2150원, 한국금융지주 12만1600원, 삼성증권 7만4000원에 마감하는 등 줄줄이 연중 최저가를 기록했다. ◇ETF 시장, 4개월 만에 141조원 증발 지난 6일 국내 상장 ETF 1184개의 시가총액은 약...",
+      "link": "https://n.news.naver.com/mnews/article/023/0004008462?sid=101",
+      "originallink": "https://www.chosun.com/economy/money/2026/11/09/W34VRUG42ZBHPJQHZY53L67AQU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "press": "조선일보",
+      "pubDate": "2026-11-09T00:33:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "국내 상장사 32% 주가, 이달 장중 연중최저",
+      "description": "코스피 하락의 여파로 수익이 악화할 것이란 우려가 커진 미래에셋증권, 한국금융지주, 삼성증권, 키움증권 등 주요 증권주도 연중 최저 수준으로 내렸다. 코스닥에서는 시총 1∼3위인 알테오젠과 에코프로...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003760914?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261108/134987349/2",
+      "press": "동아일보",
+      "pubDate": "2026-11-09T00:31:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "‘블루 쓰나미’ 휩쓸린 美 AI산업, 뒤돌아 웃는 中",
+      "description": "하나증권은 한국이 아시아 AI 인프라 거점으로 성장하고 정부의 적극적인 투자 지원이 뒷받침될 경우 2030년 AI 데이터센터 시장이 7.1∼9.0GW(기가와트) 규모로 성장할 것이라고 전망했다. 현재 정해진 수요 기준 전망치(5....",
+      "link": "https://n.news.naver.com/mnews/article/020/0003760904?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261108/134987373/2",
+      "press": "동아일보",
+      "pubDate": "2026-11-09T00:31:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "은행의 암호화폐 도입, 법안 기다리지 않는다…핵심은 지갑 인프라",
+      "description": "다만 제도 정비가 하나의 대형 법안으로 완결될 것이라는 기대에는 신중한 태도를 보였다. 미국 증권법도 여러 해에 걸쳐 마련됐다는 점을 들어 암호화폐 규제 역시 단계적으로 구축될 수 있다고 설명했다. 금융기관의...",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/434804",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/434804",
+      "press": "",
+      "pubDate": "2026-11-09T00:26:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[부음] 황성철(하나증권 IB지원본부 본부장)씨 모친상",
+      "description": "▲박정금씨 별세, 황성범·완철·성철(하나증권 IB지원본부 본부장) 모친상, 안정은·김해인·장미화씨 시모상, 황재욱·인호·인성·인경·인영 조모상=7일, 이대서울병원장례식장 특실3호, 발인 10일...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000504",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000504",
+      "press": "조선일보",
+      "pubDate": "2026-11-09T00:26:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "증권사 3분기 순이익 반토막…한국투자·키움 60~70% 급감",
+      "description": "2분기 1조9천52억원의 순이익을 기록했던 미래에셋증권은 3분기 적자 전환 가능성이 제기된다. 스페이스X 지분 가치 하락에 따른 평가손실이 주요 변수로 꼽힌다. 삼성증권의 3분기 순이익 전망치는...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794151253691531276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794151253691531276",
+      "press": "",
+      "pubDate": "2026-11-09T00:22:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "AI 반도체 올인한 개미들 ‘비명’… 빚투 반대매매는 일단 숨통",
+      "description": "이재만 하나증권 연구원은 “기술주가 성장을 위한 투자를 계속하고 있지만 내년 이익 증가를 믿기 어려워하고, 추정치 하향 조정 가능성이 있다는 점이 주가 하락의 이유다”라며 “이익 추정치에 대한 신뢰 회복이...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001883780?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/20261108501401",
+      "press": "국민일보",
+      "pubDate": "2026-11-09T00:21:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "외국인, 삼성전자·SK하이닉스 7.6조 순매도…보유율 17년·5년 만에 최저",
+      "description": "서상영 미래에셋증권 상무는 미국 경제지표 개선과 달러 강세, 금리 영향으로 외국인 수급 부담이 이어질 것으로 전망했다. 다만 코스피 주가는 기업 실적과 비교해 역사적인 저평가 영역에 진입했다고...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794150792691526276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794150792691526276",
+      "press": "",
+      "pubDate": "2026-11-09T00:16:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "트럼프 냉대 보릿고개 넘은 K태양광·풍력 볕든다",
+      "description": "중 하나다. 미국 청정에너지협회(ACP)는 미 국방부의 심사 지연으로 영향을 받은 육상풍력 발전사업이 최소 44GW에 달하는 것으로 추산하기도 했다. 교보증권은 지난 5일 “새 의회의 행정부 견제와 초당파 인허가 개혁...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001883777?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/20261108501370",
+      "press": "국민일보",
+      "pubDate": "2026-11-09T00:14:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권",
+        "교보증권"
+      ]
+    },
+    {
+      "title": "코스피·코스닥 상장사 844곳 올해 최저가…전체 31.7%",
+      "description": "이미지=아이클릭아트-지난주 코스피 272곳·코스닥 572곳 장중 신저가 -6일 하루에만 720곳…올해 최저 종가 기록 806곳 -현대차·한화에어로스페이스·미래에셋증권 등 약세 -삼성전자·SK하이닉스 7개월 만에 저점...",
+      "link": "http://www.kjdaily.com/article.php?aid=1794150282691530276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1794150282691530276",
+      "press": "",
+      "pubDate": "2026-11-09T00:06:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "NH투자증권, 정형증권 중심 토큰화 검토…“MTS 고객경험 유지” [날개 ...",
+      "description": "<편집자 주> NH투자증권(대표이사 신재욱·배광수)은 토큰증권(STO) 사업을 단기적으로 확대하기보다 시장 변화에 유연하게 대응할 수 있는 기반과 역량을 갖추는 데 주력하고 있다. 우선 상품 측면에서 정형증권...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611062131517509dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611062131517509dd55077bc2_18",
+      "press": "",
+      "pubDate": "2026-11-09T00:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "금융그룹, 역대 최대 이익에도 부실 대비 여력은 약해져",
+      "description": "3분기 만에 누적 순이익 1조원을 넘어선 KB증권도 증시 거래가 줄어든 3분기에는 순이익이 전 분기보다 39.4% 감소했다. 비은행 계열사의 수익만으로 은행의 부담을 보완하기 어려운 상황에서 금융그룹들은 연말까지...",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93675",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93675",
+      "press": "",
+      "pubDate": "2026-11-09T00:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "‘올 영업익 13조ʼ SK이노…‘석유 → 전기ʼ 대전환 시도",
+      "description": "하나증권은 SK이노베이션 올해 연간 영업이익을 12조5229억 원으로 추정했다. 지난해 영업이익이 4066억 원에 그쳤던 점을 고려하면 실적 회복 폭이 상당하다. 3분기까지 누적 영업이익은 9조 원대를 넘어섰다. 연간...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611062216314823dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611062216314823dd55077bc2_18",
+      "press": "",
+      "pubDate": "2026-11-09T00:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[연중기획-새로운 리스크, 새로운 규제 ⑨-2] 퇴직연금 기금형 키우고 ...",
+      "description": "한화금융 4개사(한화생명·한화손보·한화투자증권·한화자산운용)는 지난달 30일 서울 여의도 63빌딩에서 '퇴직연금 2030+ VISION 선포식'을 열고, 퇴직연금 운용 전문성과 관리 역량을 강화하기 위한 공동 대응 전략을...",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93689",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93689",
+      "press": "",
+      "pubDate": "2026-11-09T00:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "한화투자증권",
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "몸값은 얼마?…‘성장 프리미엄’, 시험대 올랐다 [무신사 IPO ②]",
+      "description": "조경진 IBK투자증권 연구원은 지난 10월 보고서에서 무신사의 기업가치를 약 1조6000억~6조4000억 원으로 추정했다. 글로벌 이커머스 및 의류기업을 비교기업으로 선정해 EV/EBITDA(기업가치 대비 상각 전 영업이익) 등 이익...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611062233199117dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611062233199117dd55077bc2_18",
+      "press": "",
+      "pubDate": "2026-11-09T00:02:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "IBK투자증권"
+      ]
+    },
+    {
+      "title": "[자본효율 트래커] KB금융, ROA·ROE 선방에도 비은행 '온도차'…증권·보...",
+      "description": "특히 KB증권의 누적 순이익은 1조675억원으로 전년 동기보다 114.9% 급증했다. KB국민카드 역시 3317억원의 순이익을 거두며 18.2% 증가했다. 그러나 분기별 실적으로 범위를 좁히면 다른 흐름이 나타난다. KB금융의...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000549788?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2385703.htm",
+      "press": "",
+      "pubDate": "2026-11-09T00:01:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "KB증권"
+      ]
+    },
+    {
+      "title": "1만피 간다더니 5000도 위태…못 믿을 증권가 ‘뒷북 리포트’",
+      "description": "대신증권, DB증권도 올해 4분기 코스피 예상 범위를 각각 5200~6700, 5000~7300으로 낮췄다. 지난 6월 두 증권사가 제시했던 연내 상단은 각각 1만1500, 1만1700이었다. 상반기 코스피가 8000, 9000선을 연달아 넘으며 질주할...",
+      "link": "https://n.news.naver.com/mnews/article/025/0003563647?sid=101",
+      "originallink": "https://www.joongang.co.kr/article/25476760",
+      "press": "중앙일보",
+      "pubDate": "2026-11-09T00:01:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "대신증권",
+        "유안타증권",
+        "현대차증권",
+        "DB금융투자"
+      ]
+    },
+    {
+      "title": "김동선, 한화M&S 2차 공개매수…270억 더 투입해 지분 37%로",
+      "description": "공개매수 사무취급자는 NH투자증권이며 결제일은 다음달 2일이다. 이번 공개매수는 지난 2일 종료된 1차 공개매수의 후속 조치다. 김 사장은 지난달 12일부터 이달 2일까지 보통주 2620만3000주를 주당 8000원에...",
+      "link": "https://n.news.naver.com/mnews/article/015/0005351608?sid=101",
+      "originallink": "https://www.hankyung.com/article/202611083273r",
+      "press": "한국경제",
+      "pubDate": "2026-11-09T00:00:00+09:00",
+      "date": "2026-11-09",
+      "companies": [
+        "NH투자증권"
+      ]
+    },
+    {
+      "title": "[금융권 이모저모]카카오뱅크, 기부 마라톤서 16억5000만원 전달 外",
+      "description": "NH농협은행과 NH투자증권 등 농협금융 계열사가 모펀드 출자자로 참여했다. NH벤처투자는 업무집행조합원(GP)을 맡아 자펀드 운용사 선정과 출자 등 펀드 운용을 담당한다. 운용계획에 따르면 결성액의 60% 이상을 외부...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=119475",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=119475",
+      "press": "",
+      "pubDate": "2026-11-08T23:32:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "NH투자증권",
+        "토스증권"
+      ]
+    },
+    {
+      "title": "[부고] 황성철(하나증권 IB지원본부 본부장)씨 모친상",
+      "description": "라이센스뉴스 = 김재용 기자 | 박정금씨 별세, 황성철(하나증권 IB지원본부 본부장)씨 모친상=7일, (마곡)이대서울병원장례식장 특실3호, 발인=10일. ☎",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211013",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=211013",
+      "press": "",
+      "pubDate": "2026-11-08T23:16:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "하이퍼리퀴드 스트래티지스, FCM 구축에 한 자릿수 백만 달러…미국 고...",
+      "description": "이 계약은 CFTC와 증권거래위원회에 모두 등록된 거래소 요건을 충족해야 한다. 이 발언은... 그래서 FCM 고객은 HYPE를 하나도 들고 있지 않아도 매일 거래할 수 있다. 토큰과 FCM은 프로토콜로 이어진다. HIP-3...",
+      "link": "https://www.wikitree.co.kr/articles/1172898",
+      "originallink": "https://www.wikitree.co.kr/articles/1172898",
+      "press": "",
+      "pubDate": "2026-11-08T23:08:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객 3800명·임직원 3.5만명 정보 유출",
+      "description": "미래에셋증권이 외부 해킹 공격으로 고객 3800여명의 계좌번호와 전·현직 임직원 3만5255명의 개인정보가 유출되는 사고를 겪었다. 생명보험, 자산운용 등 계열사에서 잇따라 사이버 침해 사고가 발생한 가운데 그룹 핵심...",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258396",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258396",
+      "press": "",
+      "pubDate": "2026-11-08T22:44:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자...",
+      "description": "금융투자업계에 따르면 한화투자증권은 6일 보고서에서 과거 하락장마다 악재와 하락 기간은 달랐어도 저점은 비슷한 밸류에이션(기업가치 평가) 구간에서 형성됐다며, 삼성전자가 이미 그 구간에 들어섰다고...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002720478?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10929185?ref=naver",
+      "press": "헤럴드경제",
+      "pubDate": "2026-11-08T22:41:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "한화투자증권"
+      ]
+    },
+    {
+      "title": "‘AI 쇼크’ 한파 맞은 금융시장…반등할까",
+      "description": "서상영 미래에셋증권 상무는 8일 “국내 증시에선 삼성전자와 에스케이(SK)하이닉스가 전체 시가총액 중 50%가량을 차지하고, 반도체 관련 종목 비중은 70~80%로 올라간다”며 “이 때문에 ‘필라델피아 반도체지수’에...",
+      "link": "https://n.news.naver.com/mnews/article/028/0002831267?sid=101",
+      "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1286356.html",
+      "press": "한겨레",
+      "pubDate": "2026-11-08T22:38:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "증시 11% 폭락에 상장사 3곳 중 1곳 '연중 최저' … 720곳 하루 만에 추...",
+      "description": "미래에셋증권과 한국금융지주, 삼성증권, 키움증권이 나란히 연중 최저 종가를 기록했다. 상승장에서 수혜를 누렸던 금융투자업계가 시장 급락의 영향을 직접적으로 받는 양상이다. 코스닥에서는 시가총액 상위...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800101.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800101.html",
+      "press": "",
+      "pubDate": "2026-11-08T22:12:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "미래에셋증권, 글로벌 대학생 AI 공모전 'Global AI Festival 2026' 성료 外",
+      "description": "미래에셋증권, 글로벌 대학생 AI 공모전 'Global AI Festival 2026' 성료 미래에셋증권(대표이사 김미섭·허선호)은 중국 선전에서 글로벌 대학생을 대상으로 개최한 인공지능(AI) 공모전 'Global AI Festival 2026'의 결선 및...",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32008",
+      "originallink": "https://www.rcast.co.kr/news/articleView.html?idxno=32008",
+      "press": "",
+      "pubDate": "2026-11-08T22:00:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "NH투자증권",
+        "KB증권",
+        "키움증권",
+        "하나증권",
+        "DB금융투자",
+        "토스증권",
+        "카카오페이증권"
+      ]
+    },
+    {
+      "title": "한온시스템 원가 개선에 미래에셋증권 ‘매수’로 상향",
+      "description": "미래에셋증권이 한온시스템(018880)의 투자의견을 기존 ‘중립’에서 ‘매수’로 상향하고 목표주가는 4600원으로 유지했다. 김진석 연구원이 지난 6일 발간한 3분기 리뷰 보고서에 담긴 판단이다. 미래에셋증권은...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=402234",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=402234",
+      "press": "",
+      "pubDate": "2026-11-08T21:52:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권"
+      ]
+    },
+    {
+      "title": "밸류업 ETF 4개월 새 최대 47% 폭락...기업가치 제고 기대에도 주가 방어...",
+      "description": "미래에셋자산운용의 TIGER 코리아밸류업은 37.91%, KB자산운용의 RISE 코리아밸류업은 37.96% 각각 떨어졌다.... KRX 기계장비지수도 43.04% 떨어졌으며 KRX 증권지수는 37.91% 하락했다. 전통적으로 배당과 주주환원 정책에...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502200",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502200",
+      "press": "",
+      "pubDate": "2026-11-08T21:34:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "KB증권",
+        "신한투자증권",
+        "하나증권"
+      ]
+    },
+    {
+      "title": "[부고] 황성철 하나증권 IB지원본부 본부장 모친상",
+      "description": "▲박정금(향년 93세) 씨 별세, 황성범·완철·성철(하나증권 IB지원본부 본부장) 씨 모친상, 안정은(안은숙)·김해인·장미화 씨 시모상, 황재욱(황인태)·인호·인성·인경·인영 씨 조모상 □ 별세: 2026년 11월...",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052934",
+      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3052934",
+      "press": "",
+      "pubDate": "2026-11-08T21:34:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "하나증권, CJ ENM 목표주가 17% 올려 5만6000원",
+      "description": "하나증권이 CJ ENM(035760)의 목표주가를 5만6000원으로 17% 상향하고 투자의견 ‘매수’를 유지했다. 이기훈 연구원은 지난 6일 발간한 보고서에서 TV 광고 회복세와 티빙 성장, 넷마블 지분 및 영화·드라마 부문의...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=402226",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=402226",
+      "press": "",
+      "pubDate": "2026-11-08T21:34:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "'232억원 펀드 불완전판매' 삼성증권 전 임원 감봉 취소…법원 \"제재 과...",
+      "description": "금융투자상품 불완전판매에 대한 관리 책임을 물어 감봉 처분을 받은 삼성증권 전 임원이 법원 판단으로 구제됐다. 금융당국이 제재 수위를 결정하면서 투자자 수와 피해 규모, 사후 배상 노력 등을 충분히 반영하지...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=756426",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=756426",
+      "press": "",
+      "pubDate": "2026-11-08T21:28:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "삼성증권"
+      ]
+    },
+    {
+      "title": "삼성은 왜 업비트에 6128억원을 투자했나…금융시장 겨냥한 삼성 세 계...",
+      "description": "삼성증권과 삼성SDS, 삼성카드는 지난 5월 두나무 지분 총 4%를 취득하기로 결정했다. 삼성증권이 2%, 삼성SDS와 삼성카드가 각각 1%를 확보하는 구조다. 투자금액을 전체 지분에 단순 적용하면 두나무의 기업가치는 약...",
+      "link": "https://www.betanews.net/article/view/beta202611080045",
+      "originallink": "https://www.betanews.net/article/view/beta202611080045",
+      "press": "",
+      "pubDate": "2026-11-08T21:26:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "삼성증권"
+      ]
+    },
+    {
+      "title": "금감원, 증권사 신용융자 담보비율 유지 의무 3개월 면제",
+      "description": "◆미래에셋증권 담보비율 130%로 하향…일부 증권사 반대매매 유예 증권사들도 담보비율 조정에 나섰다. 미래에셋증권은 9일부터 국내 주식 신용·대출의 담보유지비율을 기존 140%에서 130%로 낮추기로 했다. 다만...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=756425",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=756425",
+      "press": "",
+      "pubDate": "2026-11-08T21:14:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "코스피 5천선 아슬아슬⋯상장사 3곳 중 1곳 '올해 최저가'",
+      "description": "증권업계 시가총액 1위인 미래에셋증권(2만2150원)을 비롯, 한국투자증권의 모회사인 한국금융지주(12만1600원)와 삼성증권(7만4000원), 키움증권(18만6400원)이 모두 올해 최저 종가로 거래를 마쳤다. 코스닥에선 시총...",
+      "link": "https://n.news.naver.com/mnews/article/031/0001073184?sid=101",
+      "originallink": "http://www.inews24.com/view/2023823",
+      "press": "아이뉴스24",
+      "pubDate": "2026-11-08T21:07:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "한국투자증권",
+        "삼성증권",
+        "키움증권",
+        "메리츠증권",
+        "한화투자증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "개미 덮친 증시 한파…국내 상장사 3곳 중 1곳 연중 최저가",
+      "description": "코스피 하락의 여파로 수익이 악화할 것이란 우려가 커진 미래에셋증권, 한국금융지주, 삼성증권, 키움증권 등 주요 증권주도 연중 최저 수준으로 내렸다. 코스닥에서는 시총 1~3위인 알테오젠과 에코프로...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003760877?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261108/134986134/1",
+      "press": "동아일보",
+      "pubDate": "2026-11-08T21:05:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "삼성증권",
+        "키움증권"
+      ]
+    },
+    {
+      "title": "코스피 5천선 방어 시험대…美 물가·외국인 수급이 반등 가른다",
+      "description": "미래에셋증권을 비롯해 한국금융지주, 삼성증권, 키움증권 등 주요 증권사 주가가 연중 최저 종가를 기록했다. 코스닥에서는 시가총액 상위 종목들의 하락이 두드러졌다. 알테오젠과 에코프로, 에코프로비엠...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=756424",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=756424",
+      "press": "",
+      "pubDate": "2026-11-08T21:04:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "미래에셋증권",
+        "NH투자증권",
+        "삼성증권",
+        "KB증권",
+        "키움증권",
+        "신한투자증권",
+        "하나증권",
+        "메리츠증권",
+        "대신증권",
+        "한화투자증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "title": "[부고] 황성철(하나증권 IB지원본부 본부장) 모친상",
+      "description": "\"삼가 고인의 명복을 빕니다.\" ▲ 박정금씨 별세(향년 93세), 황성범·황완철·황성철(하나증권 IB지원본부 본부장)씨 모친상, 안정은(안은숙)·김해인·장미화씨 시모상 = 7일, 이대서울병원 장례식장 특실3호, 발인...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=229534",
+      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=229534",
+      "press": "",
+      "pubDate": "2026-11-08T21:02:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "하나증권"
+      ]
+    },
+    {
+      "title": "SK증권우 단기과열 연장…11일까지 단일가매매",
+      "description": "한국거래소 유가증권시장본부가 지난 6일 SK증권우(001515)의 단기과열종목 지정 기간을 연장했다. SK증권우에는 오는 9일부터 11일까지 3거래일간 30분 단위 단일가매매가 적용된다. 거래소의 연장 기준은 종료일...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=402207",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=402207",
+      "press": "",
+      "pubDate": "2026-11-08T20:52:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "SK증권"
+      ]
+    },
+    {
+      "title": "카카오게임즈 기관투자자 대상 IR 17~25일 진행",
+      "description": "카카오게임즈(293490)가 오는 17~18일 현대차증권 NDR을, 25일 NH투자증권 Corporate Day를 진행한다. 두 일정은 기관투자자를 대상으로 서울 여의도 등에서 열린다. 회사가 5일 금융감독원 전자공시시스템(DART)에 공시한...",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=402206",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=402206",
+      "press": "",
+      "pubDate": "2026-11-08T20:50:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "NH투자증권",
+        "현대차증권"
+      ]
+    },
+    {
+      "title": "[공시] 한진칼우 '매매거래정지 예고', 미래나노텍·성창기업지주 '공매...",
+      "description": "◆ SK증권우·계양전기우 등 단기과열 연장…대호특수강우 지정예고 SK증권(001510)의 SK증권우, 계양전기(012200)의 계양전기우, 성문전자(014910)의 성문전자우, 태영건설(009410)의 태영건설우 등 4개 우선주는...",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=727309",
+      "originallink": "https://www.newstnt.com/news/articleView.html?idxno=727309",
+      "press": "",
+      "pubDate": "2026-11-08T20:44:00+09:00",
+      "date": "2026-11-08",
+      "companies": [
+        "SK증권"
+      ]
+    },
     {
       "title": "[증시 예보] 5천피 붕괴·서킷브레이커 발동…더 조심해야 할 게 있어?",
       "description": "김주연 미래에셋증권 연구원은 “민주당의 미국 의회 양원 장악 이후 데이터센터 중심의 AI 인프라 규제 강화에 대한 경계감이 확산됐다”며 “메모리 반도체뿐 아니라 전력과 원전, 에너지저장장치(ESS) 등 관련 업종...",
       "link": "https://n.news.naver.com/mnews/article/016/0002720465?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10929180?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-11-08T20:40:00+09:00",
+      "pubDate": "2026-11-08T11:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -24,7 +788,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402202",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402202",
       "press": "",
-      "pubDate": "2026-11-08T20:40:00+09:00",
+      "pubDate": "2026-11-08T11:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권",
@@ -37,7 +801,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402200",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402200",
       "press": "",
-      "pubDate": "2026-11-08T20:36:00+09:00",
+      "pubDate": "2026-11-08T11:36:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
@@ -50,7 +814,7 @@
       "link": "https://n.news.naver.com/mnews/article/081/0003696930?sid=101",
       "originallink": "https://www.seoul.co.kr/news/economy/securities/2026/11/09/20261109029001?wlog_tag3=naver",
       "press": "서울신문",
-      "pubDate": "2026-11-08T20:34:00+09:00",
+      "pubDate": "2026-11-08T11:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -64,7 +828,7 @@
       "link": "https://n.news.naver.com/mnews/article/032/0003481391?sid=101",
       "originallink": "https://www.khan.co.kr/article/202611082026005",
       "press": "경향신문",
-      "pubDate": "2026-11-08T20:26:00+09:00",
+      "pubDate": "2026-11-08T11:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -76,7 +840,7 @@
       "link": "https://n.news.naver.com/mnews/article/022/0004173466?sid=101",
       "originallink": "https://www.segye.com/newsView/20261108509245?OutUrl=naver",
       "press": "세계일보",
-      "pubDate": "2026-11-08T20:22:00+09:00",
+      "pubDate": "2026-11-08T11:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -89,7 +853,7 @@
       "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=649110",
       "originallink": "https://www.gnnews.co.kr/news/articleView.html?idxno=649110",
       "press": "",
-      "pubDate": "2026-11-08T20:22:00+09:00",
+      "pubDate": "2026-11-08T11:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권",
@@ -102,7 +866,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402194",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402194",
       "press": "",
-      "pubDate": "2026-11-08T20:20:00+09:00",
+      "pubDate": "2026-11-08T11:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -115,7 +879,7 @@
       "link": "https://n.news.naver.com/mnews/article/032/0003481382?sid=101",
       "originallink": "https://www.khan.co.kr/article/202611082019015",
       "press": "경향신문",
-      "pubDate": "2026-11-08T20:19:00+09:00",
+      "pubDate": "2026-11-08T11:19:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -129,7 +893,7 @@
       "link": "https://n.news.naver.com/mnews/article/055/0001401524?sid=101",
       "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836149&plink=ORI&cooper=NAVER",
       "press": "",
-      "pubDate": "2026-11-08T20:15:00+09:00",
+      "pubDate": "2026-11-08T11:15:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -141,7 +905,7 @@
       "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158909",
       "originallink": "https://www.koreaittimes.com/news/articleView.html?idxno=158909",
       "press": "",
-      "pubDate": "2026-11-08T20:14:00+09:00",
+      "pubDate": "2026-11-08T11:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -153,7 +917,7 @@
       "link": "https://n.news.naver.com/mnews/article/214/0001534233?sid=101",
       "originallink": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864083_37004.html",
       "press": "",
-      "pubDate": "2026-11-08T20:13:00+09:00",
+      "pubDate": "2026-11-08T11:13:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -165,7 +929,7 @@
       "link": "https://www.newstnt.com/news/articleView.html?idxno=727307",
       "originallink": "https://www.newstnt.com/news/articleView.html?idxno=727307",
       "press": "",
-      "pubDate": "2026-11-08T20:04:00+09:00",
+      "pubDate": "2026-11-08T11:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권",
@@ -178,7 +942,7 @@
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543037",
       "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543037",
       "press": "",
-      "pubDate": "2026-11-08T19:58:00+09:00",
+      "pubDate": "2026-11-08T10:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "IBK투자증권"
@@ -190,7 +954,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402181",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402181",
       "press": "",
-      "pubDate": "2026-11-08T19:54:00+09:00",
+      "pubDate": "2026-11-08T10:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -202,7 +966,7 @@
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=151213",
       "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=151213",
       "press": "",
-      "pubDate": "2026-11-08T19:44:00+09:00",
+      "pubDate": "2026-11-08T10:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -214,7 +978,7 @@
       "link": "https://n.news.naver.com/mnews/article/031/0001073180?sid=101",
       "originallink": "http://www.inews24.com/view/2023816",
       "press": "아이뉴스24",
-      "pubDate": "2026-11-08T19:33:00+09:00",
+      "pubDate": "2026-11-08T10:33:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -226,7 +990,7 @@
       "link": "https://n.news.naver.com/mnews/article/658/0000160691?sid=101",
       "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261109.22015001443",
       "press": "",
-      "pubDate": "2026-11-08T19:31:00+09:00",
+      "pubDate": "2026-11-08T10:31:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권",
@@ -240,7 +1004,7 @@
       "link": "https://n.news.naver.com/mnews/article/016/0002720462?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10929782?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-11-08T19:27:00+09:00",
+      "pubDate": "2026-11-08T10:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -252,7 +1016,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351595?sid=101",
       "originallink": "https://www.hankyung.com/article/2026110833407",
       "press": "한국경제",
-      "pubDate": "2026-11-08T19:24:00+09:00",
+      "pubDate": "2026-11-08T10:24:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -264,7 +1028,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402168",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402168",
       "press": "",
-      "pubDate": "2026-11-08T19:22:00+09:00",
+      "pubDate": "2026-11-08T10:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -276,7 +1040,7 @@
       "link": "https://n.news.naver.com/mnews/article/658/0000160684?sid=101",
       "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261109.22014002353",
       "press": "",
-      "pubDate": "2026-11-08T19:17:00+09:00",
+      "pubDate": "2026-11-08T10:17:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권",
@@ -289,7 +1053,7 @@
       "link": "https://n.news.naver.com/mnews/article/021/0002831193?sid=101",
       "originallink": "https://www.munhwa.com/article/11629681?ref=naver",
       "press": "",
-      "pubDate": "2026-11-08T19:15:00+09:00",
+      "pubDate": "2026-11-08T10:15:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -303,7 +1067,7 @@
       "link": "https://www.kyeongin.com/article/1774306",
       "originallink": "https://www.kyeongin.com/article/1774306",
       "press": "",
-      "pubDate": "2026-11-08T19:08:00+09:00",
+      "pubDate": "2026-11-08T10:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -315,7 +1079,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402160",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402160",
       "press": "",
-      "pubDate": "2026-11-08T19:04:00+09:00",
+      "pubDate": "2026-11-08T10:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -327,7 +1091,7 @@
       "link": "https://n.news.naver.com/mnews/article/005/0001883743?sid=101",
       "originallink": "https://www.kmib.co.kr/article/20261108501098",
       "press": "국민일보",
-      "pubDate": "2026-11-08T19:03:00+09:00",
+      "pubDate": "2026-11-08T10:03:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권",
@@ -340,7 +1104,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003057787?sid=101",
       "originallink": "https://www.dt.co.kr/article/12093828?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-11-08T19:01:00+09:00",
+      "pubDate": "2026-11-08T10:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -352,7 +1116,7 @@
       "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54436",
       "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=54436",
       "press": "",
-      "pubDate": "2026-11-08T18:52:00+09:00",
+      "pubDate": "2026-11-08T09:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -364,7 +1128,7 @@
       "link": "https://www.newsway.co.kr/news/view?ud=2026110818512362581",
       "originallink": "https://www.newsway.co.kr/news/view?ud=2026110818512362581",
       "press": "",
-      "pubDate": "2026-11-08T18:52:00+09:00",
+      "pubDate": "2026-11-08T09:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -376,7 +1140,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760681?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201928",
       "press": "매일경제",
-      "pubDate": "2026-11-08T18:51:00+09:00",
+      "pubDate": "2026-11-08T09:51:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -392,7 +1156,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402154",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402154",
       "press": "",
-      "pubDate": "2026-11-08T18:48:00+09:00",
+      "pubDate": "2026-11-08T09:48:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -404,7 +1168,7 @@
       "link": "https://n.news.naver.com/mnews/article/016/0002720453?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10929178?ref=naver",
       "press": "헤럴드경제",
-      "pubDate": "2026-11-08T18:40:00+09:00",
+      "pubDate": "2026-11-08T09:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -416,7 +1180,7 @@
       "link": "https://www.jjan.kr/article/20261108500390",
       "originallink": "https://www.jjan.kr/article/20261108500390",
       "press": "",
-      "pubDate": "2026-11-08T18:36:00+09:00",
+      "pubDate": "2026-11-08T09:36:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권"
@@ -428,7 +1192,7 @@
       "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002966",
       "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002966",
       "press": "",
-      "pubDate": "2026-11-08T18:34:00+09:00",
+      "pubDate": "2026-11-08T09:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -449,7 +1213,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214567",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182948815231792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:31:00+09:00",
+      "pubDate": "2026-11-08T09:31:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -461,7 +1225,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214568",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108183009410731792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:31:00+09:00",
+      "pubDate": "2026-11-08T09:31:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -473,7 +1237,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214566",
       "originallink": "https://www.maniareport.com/view.php?ud=2026110818290322731792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:30:00+09:00",
+      "pubDate": "2026-11-08T09:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -485,7 +1249,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214564",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182816407431792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:29:00+09:00",
+      "pubDate": "2026-11-08T09:29:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -497,7 +1261,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214565",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182840667231792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:29:00+09:00",
+      "pubDate": "2026-11-08T09:29:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -509,7 +1273,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214563",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182751861831792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:29:00+09:00",
+      "pubDate": "2026-11-08T09:29:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -521,7 +1285,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214561",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182648152831792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:28:00+09:00",
+      "pubDate": "2026-11-08T09:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -533,7 +1297,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214562",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182713188031792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:28:00+09:00",
+      "pubDate": "2026-11-08T09:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -545,7 +1309,7 @@
       "link": "https://m.sports.naver.com/golf/article/425/0000214560",
       "originallink": "https://www.maniareport.com/view.php?ud=20261108182544395931792476ff_19",
       "press": "",
-      "pubDate": "2026-11-08T18:27:00+09:00",
+      "pubDate": "2026-11-08T09:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -557,7 +1321,7 @@
       "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54434",
       "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=54434",
       "press": "",
-      "pubDate": "2026-11-08T18:26:00+09:00",
+      "pubDate": "2026-11-08T09:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -569,7 +1333,7 @@
       "link": "https://n.news.naver.com/mnews/article/469/0000964341?sid=101",
       "originallink": "https://www.hankookilbo.com/news/article/A2026110815070002989?did=NA",
       "press": "",
-      "pubDate": "2026-11-08T18:23:00+09:00",
+      "pubDate": "2026-11-08T09:23:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -581,7 +1345,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003483339?sid=101",
       "originallink": "https://www.etnews.com/20261108000069",
       "press": "전자신문",
-      "pubDate": "2026-11-08T18:20:00+09:00",
+      "pubDate": "2026-11-08T09:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -593,7 +1357,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005601013?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081818015063",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:19:00+09:00",
+      "pubDate": "2026-11-08T09:19:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -605,7 +1369,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006406283?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02200886645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-08T18:18:00+09:00",
+      "pubDate": "2026-11-08T09:18:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -622,7 +1386,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679933?sid=101",
       "originallink": "https://www.sedaily.com/article/20111654?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T18:17:00+09:00",
+      "pubDate": "2026-11-08T09:17:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "SK증권"
@@ -634,7 +1398,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005601008?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081815343315",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:16:00+09:00",
+      "pubDate": "2026-11-08T09:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권"
@@ -646,7 +1410,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679929?sid=101",
       "originallink": "https://www.sedaily.com/article/20111650?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T18:15:00+09:00",
+      "pubDate": "2026-11-08T09:15:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -659,7 +1423,7 @@
       "link": "https://n.news.naver.com/mnews/article/082/0001406161?sid=101",
       "originallink": "https://www.busan.com/view/busan/view.php?code=2026110818112315138",
       "press": "",
-      "pubDate": "2026-11-08T18:14:00+09:00",
+      "pubDate": "2026-11-08T09:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -671,7 +1435,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005601007?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081810418615",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:12:00+09:00",
+      "pubDate": "2026-11-08T09:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -684,7 +1448,7 @@
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=139115",
       "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=139115",
       "press": "",
-      "pubDate": "2026-11-08T18:12:00+09:00",
+      "pubDate": "2026-11-08T09:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -696,7 +1460,7 @@
       "link": "https://n.news.naver.com/mnews/article/028/0002831239?sid=101",
       "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1286328.html",
       "press": "한겨레",
-      "pubDate": "2026-11-08T18:10:00+09:00",
+      "pubDate": "2026-11-08T09:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권",
@@ -709,7 +1473,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679925?sid=101",
       "originallink": "https://www.sedaily.com/article/20111645?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T18:09:00+09:00",
+      "pubDate": "2026-11-08T09:09:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -722,7 +1486,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005601004?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081807560738",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:09:00+09:00",
+      "pubDate": "2026-11-08T09:09:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권",
@@ -736,7 +1500,7 @@
       "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100833",
       "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100833",
       "press": "",
-      "pubDate": "2026-11-08T18:08:00+09:00",
+      "pubDate": "2026-11-08T09:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -748,7 +1512,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402136",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402136",
       "press": "",
-      "pubDate": "2026-11-08T18:08:00+09:00",
+      "pubDate": "2026-11-08T09:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권",
@@ -761,7 +1525,7 @@
       "link": "https://n.news.naver.com/mnews/article/028/0002831237?sid=101",
       "originallink": "https://www.hani.co.kr/arti/economy/economy_general/1286326.html",
       "press": "한겨레",
-      "pubDate": "2026-11-08T18:06:00+09:00",
+      "pubDate": "2026-11-08T09:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -773,7 +1537,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351561?sid=102",
       "originallink": "https://www.hankyung.com/article/2026110832771",
       "press": "한국경제",
-      "pubDate": "2026-11-08T18:05:00+09:00",
+      "pubDate": "2026-11-08T09:05:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -785,7 +1549,7 @@
       "link": "https://n.news.naver.com/mnews/article/277/0005839627?sid=101",
       "originallink": "https://view.asiae.co.kr/article/2026110416291825618",
       "press": "아시아경제",
-      "pubDate": "2026-11-08T18:03:00+09:00",
+      "pubDate": "2026-11-08T09:03:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -797,7 +1561,7 @@
       "link": "https://www.ajunews.com/view/20261106181300452",
       "originallink": "https://www.ajunews.com/view/20261106181300452",
       "press": "아주경제",
-      "pubDate": "2026-11-08T18:02:00+09:00",
+      "pubDate": "2026-11-08T09:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -811,7 +1575,7 @@
       "link": "https://www.ajunews.com/view/20261106161258053",
       "originallink": "https://www.ajunews.com/view/20261106161258053",
       "press": "아주경제",
-      "pubDate": "2026-11-08T18:02:00+09:00",
+      "pubDate": "2026-11-08T09:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -828,7 +1592,7 @@
       "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003002",
       "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003002",
       "press": "",
-      "pubDate": "2026-11-08T18:02:00+09:00",
+      "pubDate": "2026-11-08T09:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -842,7 +1606,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402133",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402133",
       "press": "",
-      "pubDate": "2026-11-08T18:02:00+09:00",
+      "pubDate": "2026-11-08T09:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -854,7 +1618,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600990?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081759575925",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:01:00+09:00",
+      "pubDate": "2026-11-08T09:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -866,7 +1630,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600991?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081759585152",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:01:00+09:00",
+      "pubDate": "2026-11-08T09:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -878,7 +1642,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600989?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081759568125",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:01:00+09:00",
+      "pubDate": "2026-11-08T09:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권",
@@ -892,7 +1656,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600988?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081759540934",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T18:01:00+09:00",
+      "pubDate": "2026-11-08T09:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "DB금융투자"
@@ -904,7 +1668,7 @@
       "link": "https://n.news.naver.com/mnews/article/417/0001163603?sid=110",
       "originallink": "https://www.sidae.com/article/2026110813135424379",
       "press": "",
-      "pubDate": "2026-11-08T18:00:00+09:00",
+      "pubDate": "2026-11-08T09:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -917,7 +1681,7 @@
       "link": "https://n.news.naver.com/mnews/article/293/0000092902?sid=101",
       "originallink": "https://www.bloter.net/news/articleView.html?idxno=678018",
       "press": "",
-      "pubDate": "2026-11-08T18:00:00+09:00",
+      "pubDate": "2026-11-08T09:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -929,7 +1693,7 @@
       "link": "https://n.news.naver.com/mnews/article/053/0000062911?sid=104",
       "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=56923",
       "press": "조선일보",
-      "pubDate": "2026-11-08T18:00:00+09:00",
+      "pubDate": "2026-11-08T09:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -941,7 +1705,7 @@
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=902335",
       "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=902335",
       "press": "",
-      "pubDate": "2026-11-08T18:00:00+09:00",
+      "pubDate": "2026-11-08T09:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -953,7 +1717,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600984?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081758240399",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T17:59:00+09:00",
+      "pubDate": "2026-11-08T08:59:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -966,7 +1730,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600983?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081758203217",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T17:59:00+09:00",
+      "pubDate": "2026-11-08T08:59:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -980,7 +1744,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679911?sid=101",
       "originallink": "https://www.sedaily.com/article/20111629?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T17:58:00+09:00",
+      "pubDate": "2026-11-08T08:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -994,7 +1758,7 @@
       "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003001",
       "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003001",
       "press": "",
-      "pubDate": "2026-11-08T17:58:00+09:00",
+      "pubDate": "2026-11-08T08:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -1006,7 +1770,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679908?sid=101",
       "originallink": "https://www.sedaily.com/article/20111626?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T17:56:00+09:00",
+      "pubDate": "2026-11-08T08:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1021,7 +1785,7 @@
       "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003000",
       "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003000",
       "press": "",
-      "pubDate": "2026-11-08T17:56:00+09:00",
+      "pubDate": "2026-11-08T08:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -1036,7 +1800,7 @@
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363741855",
       "originallink": "https://www.joongboo.com/news/articleView.html?idxno=363741855",
       "press": "",
-      "pubDate": "2026-11-08T17:56:00+09:00",
+      "pubDate": "2026-11-08T08:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1048,7 +1812,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402130",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402130",
       "press": "",
-      "pubDate": "2026-11-08T17:54:00+09:00",
+      "pubDate": "2026-11-08T08:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -1060,7 +1824,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679900?sid=101",
       "originallink": "https://www.sedaily.com/article/20111618?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T17:53:00+09:00",
+      "pubDate": "2026-11-08T08:53:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1076,7 +1840,7 @@
       "link": "http://www.lkp.news/news/articleView.html?idxno=85886",
       "originallink": "http://www.lkp.news/news/articleView.html?idxno=85886",
       "press": "",
-      "pubDate": "2026-11-08T17:50:00+09:00",
+      "pubDate": "2026-11-08T08:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1088,7 +1852,7 @@
       "link": "https://n.news.naver.com/mnews/article/022/0004173422?sid=101",
       "originallink": "https://www.segye.com/newsView/20261108509480?OutUrl=naver",
       "press": "세계일보",
-      "pubDate": "2026-11-08T17:47:00+09:00",
+      "pubDate": "2026-11-08T08:47:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1101,7 +1865,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402126",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402126",
       "press": "",
-      "pubDate": "2026-11-08T17:46:00+09:00",
+      "pubDate": "2026-11-08T08:46:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신영증권"
@@ -1113,7 +1877,7 @@
       "link": "http://www.newsprime.co.kr/news/article.html?no=754050",
       "originallink": "http://www.newsprime.co.kr/news/article.html?no=754050",
       "press": "",
-      "pubDate": "2026-11-08T17:44:00+09:00",
+      "pubDate": "2026-11-08T08:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -1125,7 +1889,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679894?sid=101",
       "originallink": "https://www.sedaily.com/article/20111612?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T17:44:00+09:00",
+      "pubDate": "2026-11-08T08:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "DB금융투자"
@@ -1137,7 +1901,7 @@
       "link": "https://n.news.naver.com/mnews/article/011/0004679893?sid=101",
       "originallink": "https://www.sedaily.com/article/20111611?ref=naver",
       "press": "서울경제",
-      "pubDate": "2026-11-08T17:43:00+09:00",
+      "pubDate": "2026-11-08T08:43:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -1150,7 +1914,7 @@
       "link": "https://n.news.naver.com/mnews/article/468/0001279457?sid=101",
       "originallink": "https://www.sportsseoul.com/news/read/1648283?ref=naver",
       "press": "",
-      "pubDate": "2026-11-08T17:41:00+09:00",
+      "pubDate": "2026-11-08T08:41:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -1162,7 +1926,7 @@
       "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424873",
       "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=424873",
       "press": "",
-      "pubDate": "2026-11-08T17:40:00+09:00",
+      "pubDate": "2026-11-08T08:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1178,7 +1942,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645297",
       "originallink": "https://www.etoday.co.kr/news/view/2645297",
       "press": "",
-      "pubDate": "2026-11-08T17:40:00+09:00",
+      "pubDate": "2026-11-08T08:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권"
@@ -1190,7 +1954,7 @@
       "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100831",
       "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100831",
       "press": "",
-      "pubDate": "2026-11-08T17:40:00+09:00",
+      "pubDate": "2026-11-08T08:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1202,7 +1966,7 @@
       "link": "https://www.newswhoplus.com/news/articleView.html?idxno=73750",
       "originallink": "https://www.newswhoplus.com/news/articleView.html?idxno=73750",
       "press": "",
-      "pubDate": "2026-11-08T17:38:00+09:00",
+      "pubDate": "2026-11-08T08:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1214,7 +1978,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402122",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402122",
       "press": "",
-      "pubDate": "2026-11-08T17:36:00+09:00",
+      "pubDate": "2026-11-08T08:36:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -1226,7 +1990,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438131?sid=102",
       "originallink": "https://www.mt.co.kr/society/2026/11/08/2026110817283729202",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T17:34:00+09:00",
+      "pubDate": "2026-11-08T08:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1238,7 +2002,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402118",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402118",
       "press": "",
-      "pubDate": "2026-11-08T17:28:00+09:00",
+      "pubDate": "2026-11-08T08:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신영증권"
@@ -1250,7 +2014,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760592?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201813",
       "press": "매일경제",
-      "pubDate": "2026-11-08T17:27:00+09:00",
+      "pubDate": "2026-11-08T08:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1262,7 +2026,7 @@
       "link": "https://www.ajunews.com/view/20261106170209251",
       "originallink": "https://www.ajunews.com/view/20261106170209251",
       "press": "아주경제",
-      "pubDate": "2026-11-08T17:22:00+09:00",
+      "pubDate": "2026-11-08T08:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권",
@@ -1275,7 +2039,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760585?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201802",
       "press": "매일경제",
-      "pubDate": "2026-11-08T17:21:00+09:00",
+      "pubDate": "2026-11-08T08:21:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1287,7 +2051,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006406257?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02112326645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-08T17:18:00+09:00",
+      "pubDate": "2026-11-08T08:18:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1307,7 +2071,7 @@
       "link": "https://n.news.naver.com/mnews/article/082/0001406137?sid=101",
       "originallink": "https://www.busan.com/view/busan/view.php?code=2026110817130662379",
       "press": "",
-      "pubDate": "2026-11-08T17:17:00+09:00",
+      "pubDate": "2026-11-08T08:17:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권",
@@ -1320,7 +2084,7 @@
       "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54433",
       "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=54433",
       "press": "",
-      "pubDate": "2026-11-08T17:16:00+09:00",
+      "pubDate": "2026-11-08T08:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1337,7 +2101,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006406254?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=02102486645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-08T17:15:00+09:00",
+      "pubDate": "2026-11-08T08:15:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -1353,7 +2117,7 @@
       "link": "https://www.bigtanews.co.kr/article/view/big202611080004",
       "originallink": "https://www.bigtanews.co.kr/article/view/big202611080004",
       "press": "",
-      "pubDate": "2026-11-08T17:14:00+09:00",
+      "pubDate": "2026-11-08T08:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권"
@@ -1365,7 +2129,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502186",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502186",
       "press": "",
-      "pubDate": "2026-11-08T17:14:00+09:00",
+      "pubDate": "2026-11-08T08:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1377,7 +2141,7 @@
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=667717",
       "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=667717",
       "press": "",
-      "pubDate": "2026-11-08T17:14:00+09:00",
+      "pubDate": "2026-11-08T08:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -1389,7 +2153,7 @@
       "link": "http://www.newsprime.co.kr/news/article.html?no=754048",
       "originallink": "http://www.newsprime.co.kr/news/article.html?no=754048",
       "press": "",
-      "pubDate": "2026-11-08T17:12:00+09:00",
+      "pubDate": "2026-11-08T08:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1401,7 +2165,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502185",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502185",
       "press": "",
-      "pubDate": "2026-11-08T17:10:00+09:00",
+      "pubDate": "2026-11-08T08:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -1413,7 +2177,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351511?sid=105",
       "originallink": "https://www.hankyung.com/article/2026110831571",
       "press": "한국경제",
-      "pubDate": "2026-11-08T17:08:00+09:00",
+      "pubDate": "2026-11-08T08:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "카카오페이증권"
@@ -1425,7 +2189,7 @@
       "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336240",
       "originallink": "https://www.incheonilbo.com/news/articleView.html?idxno=1336240",
       "press": "",
-      "pubDate": "2026-11-08T17:06:00+09:00",
+      "pubDate": "2026-11-08T08:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1437,7 +2201,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502184",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502184",
       "press": "",
-      "pubDate": "2026-11-08T17:06:00+09:00",
+      "pubDate": "2026-11-08T08:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "IBK투자증권"
@@ -1449,7 +2213,7 @@
       "link": "https://n.news.naver.com/mnews/article/056/0012289524?sid=104",
       "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706938&ref=A",
       "press": "",
-      "pubDate": "2026-11-08T17:04:00+09:00",
+      "pubDate": "2026-11-08T08:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1461,7 +2225,7 @@
       "link": "https://www.econovill.com/news/articleView.html?idxno=756411",
       "originallink": "https://www.econovill.com/news/articleView.html?idxno=756411",
       "press": "",
-      "pubDate": "2026-11-08T17:04:00+09:00",
+      "pubDate": "2026-11-08T08:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1473,7 +2237,7 @@
       "link": "https://www.econovill.com/news/articleView.html?idxno=756327",
       "originallink": "https://www.econovill.com/news/articleView.html?idxno=756327",
       "press": "",
-      "pubDate": "2026-11-08T17:04:00+09:00",
+      "pubDate": "2026-11-08T08:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -1485,7 +2249,7 @@
       "link": "https://www.etoday.co.kr/news/view/2645166",
       "originallink": "https://www.etoday.co.kr/news/view/2645166",
       "press": "",
-      "pubDate": "2026-11-08T17:02:00+09:00",
+      "pubDate": "2026-11-08T08:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
@@ -1498,7 +2262,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003483325?sid=101",
       "originallink": "https://www.etnews.com/20261105000132",
       "press": "전자신문",
-      "pubDate": "2026-11-08T17:01:00+09:00",
+      "pubDate": "2026-11-08T08:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권",
@@ -1513,7 +2277,7 @@
       "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=730877",
       "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=730877",
       "press": "",
-      "pubDate": "2026-11-08T17:00:00+09:00",
+      "pubDate": "2026-11-08T08:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -1526,7 +2290,7 @@
       "link": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91742",
       "originallink": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91742",
       "press": "",
-      "pubDate": "2026-11-08T17:00:00+09:00",
+      "pubDate": "2026-11-08T08:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1538,7 +2302,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202611061710191869112616b072_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202611061710191869112616b072_1",
       "press": "",
-      "pubDate": "2026-11-08T17:00:00+09:00",
+      "pubDate": "2026-11-08T08:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -1550,7 +2314,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502183",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502183",
       "press": "",
-      "pubDate": "2026-11-08T16:58:00+09:00",
+      "pubDate": "2026-11-08T07:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1562,7 +2326,7 @@
       "link": "https://m.sports.naver.com/general/article/055/0001401487",
       "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836056&plink=ORI&cooper=NAVER",
       "press": "",
-      "pubDate": "2026-11-08T16:58:00+09:00",
+      "pubDate": "2026-11-08T07:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1574,7 +2338,7 @@
       "link": "https://www.newspim.com/news/view/20261108000103",
       "originallink": "https://www.newspim.com/news/view/20261108000103",
       "press": "뉴스핌",
-      "pubDate": "2026-11-08T16:57:00+09:00",
+      "pubDate": "2026-11-08T07:57:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1586,7 +2350,7 @@
       "link": "https://www.ajunews.com/view/20261106170701280",
       "originallink": "https://www.ajunews.com/view/20261106170701280",
       "press": "아주경제",
-      "pubDate": "2026-11-08T16:56:00+09:00",
+      "pubDate": "2026-11-08T07:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -1598,7 +2362,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502181",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502181",
       "press": "",
-      "pubDate": "2026-11-08T16:54:00+09:00",
+      "pubDate": "2026-11-08T07:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "IBK투자증권"
@@ -1610,7 +2374,7 @@
       "link": "https://n.news.naver.com/mnews/article/003/0014309123?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20261108_0003859447",
       "press": "뉴시스",
-      "pubDate": "2026-11-08T16:53:00+09:00",
+      "pubDate": "2026-11-08T07:53:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권",
@@ -1624,7 +2388,7 @@
       "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100829",
       "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100829",
       "press": "",
-      "pubDate": "2026-11-08T16:52:00+09:00",
+      "pubDate": "2026-11-08T07:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권"
@@ -1636,7 +2400,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402103",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402103",
       "press": "",
-      "pubDate": "2026-11-08T16:52:00+09:00",
+      "pubDate": "2026-11-08T07:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -1648,7 +2412,7 @@
       "link": "https://n.news.naver.com/mnews/article/081/0003696895?sid=101",
       "originallink": "https://www.seoul.co.kr/news/economy/2026/11/08/20261108500057?wlog_tag3=naver",
       "press": "서울신문",
-      "pubDate": "2026-11-08T16:50:00+09:00",
+      "pubDate": "2026-11-08T07:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1660,7 +2424,7 @@
       "link": "https://n.news.naver.com/mnews/article/081/0003696898?sid=101",
       "originallink": "https://www.seoul.co.kr/news/economy/2026/11/08/20261108500061?wlog_tag3=naver",
       "press": "서울신문",
-      "pubDate": "2026-11-08T16:50:00+09:00",
+      "pubDate": "2026-11-08T07:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
@@ -1674,7 +2438,7 @@
       "link": "https://n.news.naver.com/mnews/article/009/0005760559?sid=102",
       "originallink": "https://www.mk.co.kr/article/12201764",
       "press": "매일경제",
-      "pubDate": "2026-11-08T16:48:00+09:00",
+      "pubDate": "2026-11-08T07:48:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -1686,7 +2450,7 @@
       "link": "https://www.newsgn.com/news/articleView.html?idxno=584013",
       "originallink": "https://www.newsgn.com/news/articleView.html?idxno=584013",
       "press": "",
-      "pubDate": "2026-11-08T16:48:00+09:00",
+      "pubDate": "2026-11-08T07:48:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -1698,7 +2462,7 @@
       "link": "https://n.news.naver.com/mnews/article/082/0001406127?sid=101",
       "originallink": "https://www.busan.com/view/busan/view.php?code=2026110816353090938",
       "press": "",
-      "pubDate": "2026-11-08T16:42:00+09:00",
+      "pubDate": "2026-11-08T07:42:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1711,7 +2475,7 @@
       "link": "https://www.newsian.co.kr/news/articleView.html?idxno=100828",
       "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=100828",
       "press": "",
-      "pubDate": "2026-11-08T16:42:00+09:00",
+      "pubDate": "2026-11-08T07:42:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1723,7 +2487,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402099",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402099",
       "press": "",
-      "pubDate": "2026-11-08T16:42:00+09:00",
+      "pubDate": "2026-11-08T07:42:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "현대차증권"
@@ -1735,7 +2499,7 @@
       "link": "https://n.news.naver.com/mnews/article/021/0002831176?sid=101",
       "originallink": "https://www.munhwa.com/article/11629664?ref=naver",
       "press": "",
-      "pubDate": "2026-11-08T16:41:00+09:00",
+      "pubDate": "2026-11-08T07:41:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -1747,7 +2511,7 @@
       "link": "https://n.news.naver.com/mnews/article/079/0004207563?sid=101",
       "originallink": "https://www.nocutnews.co.kr/news/6603663?utm_source=naver&utm_medium=article&utm_campaign=20261108163924",
       "press": "",
-      "pubDate": "2026-11-08T16:40:00+09:00",
+      "pubDate": "2026-11-08T07:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1762,7 +2526,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502179",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502179",
       "press": "",
-      "pubDate": "2026-11-08T16:40:00+09:00",
+      "pubDate": "2026-11-08T07:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -1774,7 +2538,7 @@
       "link": "https://n.news.naver.com/mnews/article/422/0000924027?sid=101",
       "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261108163817ll9",
       "press": "연합뉴스",
-      "pubDate": "2026-11-08T16:39:00+09:00",
+      "pubDate": "2026-11-08T07:39:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1788,7 +2552,7 @@
       "link": "https://n.news.naver.com/mnews/article/032/0003481339?sid=101",
       "originallink": "https://www.khan.co.kr/article/202611081638001",
       "press": "경향신문",
-      "pubDate": "2026-11-08T16:38:00+09:00",
+      "pubDate": "2026-11-08T07:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -1801,7 +2565,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502178",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502178",
       "press": "",
-      "pubDate": "2026-11-08T16:34:00+09:00",
+      "pubDate": "2026-11-08T07:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1813,7 +2577,7 @@
       "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107696",
       "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=107696",
       "press": "",
-      "pubDate": "2026-11-08T16:32:00+09:00",
+      "pubDate": "2026-11-08T07:32:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1825,7 +2589,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003057756?sid=105",
       "originallink": "https://www.dt.co.kr/article/12093792?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-11-08T16:31:00+09:00",
+      "pubDate": "2026-11-08T07:31:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1837,7 +2601,7 @@
       "link": "https://www.g-enews.com/view.php?ud=202611061555223685139bf6e4b2_1",
       "originallink": "https://www.g-enews.com/view.php?ud=202611061555223685139bf6e4b2_1",
       "press": "",
-      "pubDate": "2026-11-08T16:30:00+09:00",
+      "pubDate": "2026-11-08T07:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1849,7 +2613,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563607?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476718",
       "press": "중앙일보",
-      "pubDate": "2026-11-08T16:28:00+09:00",
+      "pubDate": "2026-11-08T07:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -1861,7 +2625,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502177",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502177",
       "press": "",
-      "pubDate": "2026-11-08T16:28:00+09:00",
+      "pubDate": "2026-11-08T07:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -1873,7 +2637,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438118?sid=101",
       "originallink": "https://www.mt.co.kr/finance/2026/11/08/2026110814564286627",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T16:26:00+09:00",
+      "pubDate": "2026-11-08T07:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -1885,7 +2649,7 @@
       "link": "https://n.news.naver.com/mnews/article/092/0002444363?sid=105",
       "originallink": "https://zdnet.co.kr/view/?no=20261108162434",
       "press": "",
-      "pubDate": "2026-11-08T16:25:00+09:00",
+      "pubDate": "2026-11-08T07:25:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "DB금융투자"
@@ -1897,7 +2661,7 @@
       "link": "https://www.m-economynews.com/news/article.html?no=72738",
       "originallink": "https://www.m-economynews.com/news/article.html?no=72738",
       "press": "",
-      "pubDate": "2026-11-08T16:24:00+09:00",
+      "pubDate": "2026-11-08T07:24:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1912,7 +2676,7 @@
       "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369163",
       "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=369163",
       "press": "",
-      "pubDate": "2026-11-08T16:24:00+09:00",
+      "pubDate": "2026-11-08T07:24:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -1924,7 +2688,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563606?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476717",
       "press": "중앙일보",
-      "pubDate": "2026-11-08T16:22:00+09:00",
+      "pubDate": "2026-11-08T07:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -1936,7 +2700,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502176",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502176",
       "press": "",
-      "pubDate": "2026-11-08T16:22:00+09:00",
+      "pubDate": "2026-11-08T07:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -1948,7 +2712,7 @@
       "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82307",
       "originallink": "http://www.newsfc.co.kr/news/articleView.html?idxno=82307",
       "press": "",
-      "pubDate": "2026-11-08T16:20:00+09:00",
+      "pubDate": "2026-11-08T07:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -1960,7 +2724,7 @@
       "link": "https://n.news.naver.com/mnews/article/082/0001406122?sid=101",
       "originallink": "https://www.busan.com/view/busan/view.php?code=2026110816144627434",
       "press": "",
-      "pubDate": "2026-11-08T16:16:00+09:00",
+      "pubDate": "2026-11-08T07:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -1977,7 +2741,7 @@
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022587",
       "originallink": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022587",
       "press": "",
-      "pubDate": "2026-11-08T16:16:00+09:00",
+      "pubDate": "2026-11-08T07:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -1992,7 +2756,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502174",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502174",
       "press": "",
-      "pubDate": "2026-11-08T16:16:00+09:00",
+      "pubDate": "2026-11-08T07:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2004,7 +2768,7 @@
       "link": "https://www.mediapen.com/news/view/1136046",
       "originallink": "https://www.mediapen.com/news/view/1136046",
       "press": "",
-      "pubDate": "2026-11-08T16:12:00+09:00",
+      "pubDate": "2026-11-08T07:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2019,7 +2783,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502172",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502172",
       "press": "",
-      "pubDate": "2026-11-08T16:12:00+09:00",
+      "pubDate": "2026-11-08T07:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2031,7 +2795,7 @@
       "link": "https://www.m-economynews.com/news/article.html?no=72737",
       "originallink": "https://www.m-economynews.com/news/article.html?no=72737",
       "press": "",
-      "pubDate": "2026-11-08T16:10:00+09:00",
+      "pubDate": "2026-11-08T07:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -2043,7 +2807,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502171",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502171",
       "press": "",
-      "pubDate": "2026-11-08T16:10:00+09:00",
+      "pubDate": "2026-11-08T07:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2055,7 +2819,7 @@
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080988",
       "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080988",
       "press": "",
-      "pubDate": "2026-11-08T16:08:00+09:00",
+      "pubDate": "2026-11-08T07:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2067,7 +2831,7 @@
       "link": "http://www.seouleconews.com/news/articleView.html?idxno=94865",
       "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=94865",
       "press": "",
-      "pubDate": "2026-11-08T16:06:00+09:00",
+      "pubDate": "2026-11-08T07:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -2079,7 +2843,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351500?sid=102",
       "originallink": "https://www.hankyung.com/article/2026110831056",
       "press": "한국경제",
-      "pubDate": "2026-11-08T16:06:00+09:00",
+      "pubDate": "2026-11-08T07:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2091,7 +2855,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438112?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/08/2026110720215514860",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T16:05:00+09:00",
+      "pubDate": "2026-11-08T07:05:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2105,7 +2869,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563604?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476715",
       "press": "중앙일보",
-      "pubDate": "2026-11-08T16:05:00+09:00",
+      "pubDate": "2026-11-08T07:05:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2122,7 +2886,7 @@
       "link": "https://m.sports.naver.com/general/article/449/0000366779",
       "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558933",
       "press": "",
-      "pubDate": "2026-11-08T16:05:00+09:00",
+      "pubDate": "2026-11-08T07:05:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2134,7 +2898,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502170",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502170",
       "press": "",
-      "pubDate": "2026-11-08T16:04:00+09:00",
+      "pubDate": "2026-11-08T07:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2146,7 +2910,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600956?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081001209599",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T16:02:00+09:00",
+      "pubDate": "2026-11-08T07:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -2159,7 +2923,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600957?sid=101",
       "originallink": "https://www.fnnews.com/news/202611062109226897",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T16:02:00+09:00",
+      "pubDate": "2026-11-08T07:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2173,7 +2937,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600955?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081213238443",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T16:02:00+09:00",
+      "pubDate": "2026-11-08T07:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "DB금융투자"
@@ -2185,7 +2949,7 @@
       "link": "https://n.news.naver.com/mnews/article/002/0002464808?sid=101",
       "originallink": "https://www.pressian.com/pages/articles/2026110814505827483?utm_source=naver&utm_medium=search",
       "press": "",
-      "pubDate": "2026-11-08T16:01:00+09:00",
+      "pubDate": "2026-11-08T07:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2199,7 +2963,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438110?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/08/2026110616074192944",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T16:00:00+09:00",
+      "pubDate": "2026-11-08T07:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2212,7 +2976,7 @@
       "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=730858",
       "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=730858",
       "press": "",
-      "pubDate": "2026-11-08T16:00:00+09:00",
+      "pubDate": "2026-11-08T07:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2225,7 +2989,7 @@
       "link": "https://n.news.naver.com/mnews/article/053/0000062909?sid=101",
       "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=56922",
       "press": "조선일보",
-      "pubDate": "2026-11-08T16:00:00+09:00",
+      "pubDate": "2026-11-08T07:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2237,7 +3001,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502169",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502169",
       "press": "",
-      "pubDate": "2026-11-08T16:00:00+09:00",
+      "pubDate": "2026-11-08T07:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2249,7 +3013,7 @@
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=562143",
       "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562143",
       "press": "",
-      "pubDate": "2026-11-08T15:58:00+09:00",
+      "pubDate": "2026-11-08T06:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2261,7 +3025,7 @@
       "link": "https://www.newspim.com/news/view/20261108000079",
       "originallink": "https://www.newspim.com/news/view/20261108000079",
       "press": "뉴스핌",
-      "pubDate": "2026-11-08T15:57:00+09:00",
+      "pubDate": "2026-11-08T06:57:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2273,7 +3037,7 @@
       "link": "https://n.news.naver.com/mnews/article/366/0001203312?sid=102",
       "originallink": "https://biz.chosun.com/notice/obituary/2026/11/08/3K7CED6MHFADJJMJXEJR75QVKQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선일보",
-      "pubDate": "2026-11-08T15:57:00+09:00",
+      "pubDate": "2026-11-08T06:57:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2285,7 +3049,7 @@
       "link": "https://www.vegannews.co.kr/news/article.html?no=402077",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=402077",
       "press": "",
-      "pubDate": "2026-11-08T15:56:00+09:00",
+      "pubDate": "2026-11-08T06:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -2297,7 +3061,7 @@
       "link": "https://www.ajunews.com/view/20261108154553699",
       "originallink": "https://www.ajunews.com/view/20261108154553699",
       "press": "아주경제",
-      "pubDate": "2026-11-08T15:56:00+09:00",
+      "pubDate": "2026-11-08T06:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2310,7 +3074,7 @@
       "link": "https://m.sports.naver.com/general/article/481/0000014698",
       "originallink": "https://www.tennis.co.kr/news/articleView.html?idxno=54264",
       "press": "",
-      "pubDate": "2026-11-08T15:56:00+09:00",
+      "pubDate": "2026-11-08T06:56:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2322,7 +3086,7 @@
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443640",
       "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443640",
       "press": "",
-      "pubDate": "2026-11-08T15:54:00+09:00",
+      "pubDate": "2026-11-08T06:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2337,7 +3101,7 @@
       "link": "https://www.fetv.co.kr/news/articleView.html?idxno=313300",
       "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=313300",
       "press": "",
-      "pubDate": "2026-11-08T15:54:00+09:00",
+      "pubDate": "2026-11-08T06:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2349,7 +3113,7 @@
       "link": "http://www.press9.kr/news/articleView.html?idxno=85767",
       "originallink": "http://www.press9.kr/news/articleView.html?idxno=85767",
       "press": "",
-      "pubDate": "2026-11-08T15:52:00+09:00",
+      "pubDate": "2026-11-08T06:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2362,7 +3126,7 @@
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=562138",
       "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562138",
       "press": "",
-      "pubDate": "2026-11-08T15:52:00+09:00",
+      "pubDate": "2026-11-08T06:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -2374,7 +3138,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502168",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502168",
       "press": "",
-      "pubDate": "2026-11-08T15:52:00+09:00",
+      "pubDate": "2026-11-08T06:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -2386,7 +3150,7 @@
       "link": "https://n.news.naver.com/mnews/article/025/0003563602?sid=101",
       "originallink": "https://www.joongang.co.kr/article/25476713",
       "press": "중앙일보",
-      "pubDate": "2026-11-08T15:51:00+09:00",
+      "pubDate": "2026-11-08T06:51:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2402,7 +3166,7 @@
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451458",
       "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451458",
       "press": "",
-      "pubDate": "2026-11-08T15:50:00+09:00",
+      "pubDate": "2026-11-08T06:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -2414,7 +3178,7 @@
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=562134",
       "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562134",
       "press": "",
-      "pubDate": "2026-11-08T15:50:00+09:00",
+      "pubDate": "2026-11-08T06:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -2426,7 +3190,7 @@
       "link": "https://www.huffingtonpost.kr/article/261892",
       "originallink": "https://www.huffingtonpost.kr/article/261892",
       "press": "",
-      "pubDate": "2026-11-08T15:46:00+09:00",
+      "pubDate": "2026-11-08T06:46:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2441,7 +3205,7 @@
       "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957467",
       "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005957467",
       "press": "",
-      "pubDate": "2026-11-08T15:46:00+09:00",
+      "pubDate": "2026-11-08T06:46:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2458,7 +3222,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502167",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502167",
       "press": "",
-      "pubDate": "2026-11-08T15:44:00+09:00",
+      "pubDate": "2026-11-08T06:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -2470,7 +3234,7 @@
       "link": "https://n.news.naver.com/mnews/article/119/0003152598?sid=102",
       "originallink": "https://www.dailian.co.kr/news/view/1712207/?sc=Naver",
       "press": "",
-      "pubDate": "2026-11-08T15:44:00+09:00",
+      "pubDate": "2026-11-08T06:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2482,7 +3246,7 @@
       "link": "http://www.srtimes.kr/news/articleView.html?idxno=216988",
       "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=216988",
       "press": "",
-      "pubDate": "2026-11-08T15:44:00+09:00",
+      "pubDate": "2026-11-08T06:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2494,7 +3258,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003483299?sid=101",
       "originallink": "https://www.etnews.com/20261108000078",
       "press": "전자신문",
-      "pubDate": "2026-11-08T15:43:00+09:00",
+      "pubDate": "2026-11-08T06:43:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "토스증권"
@@ -2506,7 +3270,7 @@
       "link": "http://www.segyebiz.com/newsView/20261108508332?OutUrl=naver",
       "originallink": "http://www.segyebiz.com/newsView/20261108508332?OutUrl=naver",
       "press": "",
-      "pubDate": "2026-11-08T15:42:00+09:00",
+      "pubDate": "2026-11-08T06:42:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2520,7 +3284,7 @@
       "link": "https://www.job-post.co.kr/news/articleView.html?idxno=237068",
       "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=237068",
       "press": "",
-      "pubDate": "2026-11-08T15:42:00+09:00",
+      "pubDate": "2026-11-08T06:42:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2533,7 +3297,7 @@
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16271187",
       "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16271187",
       "press": "",
-      "pubDate": "2026-11-08T15:40:00+09:00",
+      "pubDate": "2026-11-08T06:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2545,7 +3309,7 @@
       "link": "https://bizhankook.com/articles/lotte-rental-delisting-tpg-acquisition.html",
       "originallink": "https://bizhankook.com/articles/lotte-rental-delisting-tpg-acquisition.html",
       "press": "",
-      "pubDate": "2026-11-08T15:38:00+09:00",
+      "pubDate": "2026-11-08T06:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -2557,7 +3321,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502166",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502166",
       "press": "",
-      "pubDate": "2026-11-08T15:38:00+09:00",
+      "pubDate": "2026-11-08T06:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권",
@@ -2570,7 +3334,7 @@
       "link": "https://bizhankook.com/articles/hyundai-kia-stock-trump-tariffs.html",
       "originallink": "https://bizhankook.com/articles/hyundai-kia-stock-trump-tariffs.html",
       "press": "",
-      "pubDate": "2026-11-08T15:38:00+09:00",
+      "pubDate": "2026-11-08T06:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "메리츠증권"
@@ -2582,7 +3346,7 @@
       "link": "https://n.news.naver.com/mnews/article/024/0000109487?sid=101",
       "originallink": "https://www.mk.co.kr/article/12201703",
       "press": "매일경제",
-      "pubDate": "2026-11-08T15:34:00+09:00",
+      "pubDate": "2026-11-08T06:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2598,7 +3362,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438107?sid=101",
       "originallink": "https://www.mt.co.kr/stock/2026/11/08/2026110814164042802",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T15:33:00+09:00",
+      "pubDate": "2026-11-08T06:33:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
@@ -2613,7 +3377,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502165",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502165",
       "press": "",
-      "pubDate": "2026-11-08T15:30:00+09:00",
+      "pubDate": "2026-11-08T06:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -2625,7 +3389,7 @@
       "link": "https://m.sports.naver.com/general/article/079/0004207557",
       "originallink": "https://www.nocutnews.co.kr/news/6603654?utm_source=naver&utm_medium=article&utm_campaign=20261108152823",
       "press": "",
-      "pubDate": "2026-11-08T15:29:00+09:00",
+      "pubDate": "2026-11-08T06:29:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2637,7 +3401,7 @@
       "link": "https://n.news.naver.com/mnews/article/022/0004173407?sid=102",
       "originallink": "https://www.segye.com/newsView/20261108508071?OutUrl=naver",
       "press": "세계일보",
-      "pubDate": "2026-11-08T15:27:00+09:00",
+      "pubDate": "2026-11-08T06:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -2652,7 +3416,7 @@
       "link": "https://m.sports.naver.com/general/article/001/0016429175",
       "originallink": "https://www.yna.co.kr/view/AKR20261108032400007?input=1195m",
       "press": "연합뉴스",
-      "pubDate": "2026-11-08T15:27:00+09:00",
+      "pubDate": "2026-11-08T06:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2664,7 +3428,7 @@
       "link": "https://n.news.naver.com/mnews/article/029/0003057735?sid=105",
       "originallink": "https://www.dt.co.kr/article/12093772?ref=naver",
       "press": "디지털타임스",
-      "pubDate": "2026-11-08T15:25:00+09:00",
+      "pubDate": "2026-11-08T06:25:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -2678,7 +3442,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600944?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081514308869",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T15:25:00+09:00",
+      "pubDate": "2026-11-08T06:25:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -2690,7 +3454,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502163",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502163",
       "press": "",
-      "pubDate": "2026-11-08T15:24:00+09:00",
+      "pubDate": "2026-11-08T06:24:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -2702,7 +3466,7 @@
       "link": "http://www.newslock.co.kr/news/articleView.html?idxno=139574",
       "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=139574",
       "press": "",
-      "pubDate": "2026-11-08T15:22:00+09:00",
+      "pubDate": "2026-11-08T06:22:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -2714,7 +3478,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502162",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502162",
       "press": "",
-      "pubDate": "2026-11-08T15:20:00+09:00",
+      "pubDate": "2026-11-08T06:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2726,7 +3490,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502161",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502161",
       "press": "",
-      "pubDate": "2026-11-08T15:16:00+09:00",
+      "pubDate": "2026-11-08T06:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "IBK투자증권"
@@ -2738,7 +3502,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600932?sid=101",
       "originallink": "https://www.fnnews.com/news/202611061459230691",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T15:15:00+09:00",
+      "pubDate": "2026-11-08T06:15:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권"
@@ -2750,7 +3514,7 @@
       "link": "https://n.news.naver.com/mnews/article/015/0005351497?sid=101",
       "originallink": "https://www.hankyung.com/article/2026110830387",
       "press": "한국경제",
-      "pubDate": "2026-11-08T15:13:00+09:00",
+      "pubDate": "2026-11-08T06:13:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2765,7 +3529,7 @@
       "link": "https://www.ziksir.com/news/articleView.html?idxno=152436",
       "originallink": "https://www.ziksir.com/news/articleView.html?idxno=152436",
       "press": "",
-      "pubDate": "2026-11-08T15:12:00+09:00",
+      "pubDate": "2026-11-08T06:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2779,7 +3543,7 @@
       "link": "https://www.mediapen.com/news/view/1136045",
       "originallink": "https://www.mediapen.com/news/view/1136045",
       "press": "",
-      "pubDate": "2026-11-08T15:12:00+09:00",
+      "pubDate": "2026-11-08T06:12:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2791,7 +3555,7 @@
       "link": "https://n.news.naver.com/mnews/article/014/0005600930?sid=101",
       "originallink": "https://www.fnnews.com/news/202611081355599141",
       "press": "파이낸셜뉴스",
-      "pubDate": "2026-11-08T15:07:00+09:00",
+      "pubDate": "2026-11-08T06:07:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권",
@@ -2805,7 +3569,7 @@
       "link": "http://www.metroseoul.co.kr/article/20261108500165",
       "originallink": "http://www.metroseoul.co.kr/article/20261108500165",
       "press": "서울신문",
-      "pubDate": "2026-11-08T15:06:00+09:00",
+      "pubDate": "2026-11-08T06:06:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "DB금융투자"
@@ -2817,7 +3581,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502158",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502158",
       "press": "",
-      "pubDate": "2026-11-08T15:04:00+09:00",
+      "pubDate": "2026-11-08T06:04:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "키움증권"
@@ -2829,7 +3593,7 @@
       "link": "https://www.namdonews.com/news/articleView.html?idxno=928483",
       "originallink": "https://www.namdonews.com/news/articleView.html?idxno=928483",
       "press": "",
-      "pubDate": "2026-11-08T15:02:00+09:00",
+      "pubDate": "2026-11-08T06:02:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2843,7 +3607,7 @@
       "link": "https://www.g-enews.com/view.php?ud=20261106133909544027fa31d75c_1",
       "originallink": "https://www.g-enews.com/view.php?ud=20261106133909544027fa31d75c_1",
       "press": "",
-      "pubDate": "2026-11-08T15:00:00+09:00",
+      "pubDate": "2026-11-08T06:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -2857,7 +3621,7 @@
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7192605",
       "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7192605",
       "press": "",
-      "pubDate": "2026-11-08T15:00:00+09:00",
+      "pubDate": "2026-11-08T06:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2871,7 +3635,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502157",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502157",
       "press": "",
-      "pubDate": "2026-11-08T15:00:00+09:00",
+      "pubDate": "2026-11-08T06:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2883,7 +3647,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006406189?sid=101",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=01889286645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-08T14:58:00+09:00",
+      "pubDate": "2026-11-08T05:58:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2903,7 +3667,7 @@
       "link": "https://www.viva100.com/article/20261108500410",
       "originallink": "https://www.viva100.com/article/20261108500410",
       "press": "",
-      "pubDate": "2026-11-08T14:52:00+09:00",
+      "pubDate": "2026-11-08T05:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -2917,7 +3681,7 @@
       "link": "https://www.ngonews.kr/news/articleView.html?idxno=242601",
       "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=242601",
       "press": "",
-      "pubDate": "2026-11-08T14:52:00+09:00",
+      "pubDate": "2026-11-08T05:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -2931,7 +3695,7 @@
       "link": "https://www.kgnews.co.kr/news/article.html?no=918625",
       "originallink": "https://www.kgnews.co.kr/news/article.html?no=918625",
       "press": "",
-      "pubDate": "2026-11-08T14:52:00+09:00",
+      "pubDate": "2026-11-08T05:52:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2943,7 +3707,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502154",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502154",
       "press": "",
-      "pubDate": "2026-11-08T14:48:00+09:00",
+      "pubDate": "2026-11-08T05:48:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2955,7 +3719,7 @@
       "link": "https://n.news.naver.com/mnews/article/032/0003481314?sid=101",
       "originallink": "https://www.khan.co.kr/article/202611081447001",
       "press": "경향신문",
-      "pubDate": "2026-11-08T14:47:00+09:00",
+      "pubDate": "2026-11-08T05:47:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -2969,7 +3733,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502153",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502153",
       "press": "",
-      "pubDate": "2026-11-08T14:44:00+09:00",
+      "pubDate": "2026-11-08T05:44:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -2981,7 +3745,7 @@
       "link": "https://n.news.naver.com/mnews/article/018/0006406188?sid=102",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=01886006645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
       "press": "이데일리",
-      "pubDate": "2026-11-08T14:43:00+09:00",
+      "pubDate": "2026-11-08T05:43:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -2993,7 +3757,7 @@
       "link": "http://www.metroseoul.co.kr/article/20261108500151",
       "originallink": "http://www.metroseoul.co.kr/article/20261108500151",
       "press": "서울신문",
-      "pubDate": "2026-11-08T14:40:00+09:00",
+      "pubDate": "2026-11-08T05:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3009,7 +3773,7 @@
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081336324120098",
       "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081336324120098",
       "press": "",
-      "pubDate": "2026-11-08T14:40:00+09:00",
+      "pubDate": "2026-11-08T05:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권"
@@ -3021,7 +3785,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502152",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502152",
       "press": "",
-      "pubDate": "2026-11-08T14:40:00+09:00",
+      "pubDate": "2026-11-08T05:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "신한투자증권"
@@ -3033,7 +3797,7 @@
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451455",
       "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451455",
       "press": "",
-      "pubDate": "2026-11-08T14:38:00+09:00",
+      "pubDate": "2026-11-08T05:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3045,7 +3809,7 @@
       "link": "https://m.skyedaily.com/news_view.html?ID=314264",
       "originallink": "https://m.skyedaily.com/news_view.html?ID=314264",
       "press": "",
-      "pubDate": "2026-11-08T14:38:00+09:00",
+      "pubDate": "2026-11-08T05:38:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
@@ -3058,7 +3822,7 @@
       "link": "https://n.news.naver.com/mnews/article/088/0001039076?sid=101",
       "originallink": "https://www.imaeil.com/page/view/2026110808165736688",
       "press": "",
-      "pubDate": "2026-11-08T14:32:00+09:00",
+      "pubDate": "2026-11-08T05:32:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권"
@@ -3070,7 +3834,7 @@
       "link": "https://n.news.naver.com/mnews/article/088/0001039074?sid=101",
       "originallink": "https://www.imaeil.com/page/view/2026110614473088256",
       "press": "",
-      "pubDate": "2026-11-08T14:31:00+09:00",
+      "pubDate": "2026-11-08T05:31:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -3083,7 +3847,7 @@
       "link": "https://n.news.naver.com/mnews/article/293/0000092894?sid=101",
       "originallink": "https://www.bloter.net/news/articleView.html?idxno=678033",
       "press": "",
-      "pubDate": "2026-11-08T14:30:00+09:00",
+      "pubDate": "2026-11-08T05:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3095,7 +3859,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502150",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502150",
       "press": "",
-      "pubDate": "2026-11-08T14:30:00+09:00",
+      "pubDate": "2026-11-08T05:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "대신증권"
@@ -3107,7 +3871,7 @@
       "link": "https://www.pennmike.com/news/articleView.html?idxno=131298",
       "originallink": "https://www.pennmike.com/news/articleView.html?idxno=131298",
       "press": "",
-      "pubDate": "2026-11-08T14:30:00+09:00",
+      "pubDate": "2026-11-08T05:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -3119,7 +3883,7 @@
       "link": "http://www.segyebiz.com/newsView/20261108507238?OutUrl=naver",
       "originallink": "http://www.segyebiz.com/newsView/20261108507238?OutUrl=naver",
       "press": "",
-      "pubDate": "2026-11-08T14:28:00+09:00",
+      "pubDate": "2026-11-08T05:28:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -3133,7 +3897,7 @@
       "link": "https://n.news.naver.com/mnews/article/119/0003152591?sid=101",
       "originallink": "https://www.dailian.co.kr/news/view/1712196/?sc=Naver",
       "press": "",
-      "pubDate": "2026-11-08T14:27:00+09:00",
+      "pubDate": "2026-11-08T05:27:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3148,7 +3912,7 @@
       "link": "https://www.ajunews.com/view/20261108140621510",
       "originallink": "https://www.ajunews.com/view/20261108140621510",
       "press": "아주경제",
-      "pubDate": "2026-11-08T14:26:00+09:00",
+      "pubDate": "2026-11-08T05:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3162,7 +3926,7 @@
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800048.html",
       "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800048.html",
       "press": "",
-      "pubDate": "2026-11-08T14:26:00+09:00",
+      "pubDate": "2026-11-08T05:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3175,7 +3939,7 @@
       "link": "https://n.news.naver.com/mnews/article/422/0000923995?sid=101",
       "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20261108142533ME3",
       "press": "연합뉴스",
-      "pubDate": "2026-11-08T14:26:00+09:00",
+      "pubDate": "2026-11-08T05:26:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3190,7 +3954,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502149",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502149",
       "press": "",
-      "pubDate": "2026-11-08T14:24:00+09:00",
+      "pubDate": "2026-11-08T05:24:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한화투자증권"
@@ -3202,7 +3966,7 @@
       "link": "https://n.news.naver.com/mnews/article/448/0000649714?sid=101",
       "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/08/2026110890063.html",
       "press": "조선일보",
-      "pubDate": "2026-11-08T14:23:00+09:00",
+      "pubDate": "2026-11-08T05:23:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "KB증권",
@@ -3217,7 +3981,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276828?sid=101",
       "originallink": "https://www.news1.kr/photos/8202901",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:21:00+09:00",
+      "pubDate": "2026-11-08T05:21:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3229,7 +3993,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276829?sid=101",
       "originallink": "https://www.news1.kr/photos/8202900",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:21:00+09:00",
+      "pubDate": "2026-11-08T05:21:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3241,7 +4005,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438096?sid=105",
       "originallink": "https://www.mt.co.kr/tech/2026/11/08/2026110811173886836",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T14:20:00+09:00",
+      "pubDate": "2026-11-08T05:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3254,7 +4018,7 @@
       "link": "https://www.ekn.kr/web/view.php?key=20261108020136749",
       "originallink": "https://www.ekn.kr/web/view.php?key=20261108020136749",
       "press": "",
-      "pubDate": "2026-11-08T14:20:00+09:00",
+      "pubDate": "2026-11-08T05:20:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3266,7 +4030,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0004008412?sid=105",
       "originallink": "https://www.chosun.com/economy/tech_it/2026/11/08/KOJY5OT5FNDCHAB6SERKORKRAA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-11-08T14:19:00+09:00",
+      "pubDate": "2026-11-08T05:19:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3278,7 +4042,7 @@
       "link": "https://www.viva100.com/article/20261106500010",
       "originallink": "https://www.viva100.com/article/20261106500010",
       "press": "",
-      "pubDate": "2026-11-08T14:16:00+09:00",
+      "pubDate": "2026-11-08T05:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3290,7 +4054,7 @@
       "link": "http://www.metroseoul.co.kr/article/20261108500141",
       "originallink": "http://www.metroseoul.co.kr/article/20261108500141",
       "press": "서울신문",
-      "pubDate": "2026-11-08T14:16:00+09:00",
+      "pubDate": "2026-11-08T05:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3302,7 +4066,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502148",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502148",
       "press": "",
-      "pubDate": "2026-11-08T14:16:00+09:00",
+      "pubDate": "2026-11-08T05:16:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -3314,7 +4078,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276795?sid=101",
       "originallink": "https://www.news1.kr/photos/8202886",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3326,7 +4090,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276792?sid=101",
       "originallink": "https://www.news1.kr/photos/8202881",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3338,7 +4102,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276793?sid=101",
       "originallink": "https://www.news1.kr/photos/8202882",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3350,7 +4114,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276794?sid=101",
       "originallink": "https://www.news1.kr/photos/8202884",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3362,7 +4126,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276796?sid=101",
       "originallink": "https://www.news1.kr/photos/8202885",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3374,7 +4138,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276797?sid=101",
       "originallink": "https://www.news1.kr/photos/8202887",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T14:14:00+09:00",
+      "pubDate": "2026-11-08T05:14:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3386,7 +4150,7 @@
       "link": "https://www.news2day.co.kr/article/20261108500020",
       "originallink": "https://www.news2day.co.kr/article/20261108500020",
       "press": "",
-      "pubDate": "2026-11-08T14:10:00+09:00",
+      "pubDate": "2026-11-08T05:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권"
@@ -3398,7 +4162,7 @@
       "link": "https://www.namdonews.com/news/articleView.html?idxno=928463",
       "originallink": "https://www.namdonews.com/news/articleView.html?idxno=928463",
       "press": "",
-      "pubDate": "2026-11-08T14:10:00+09:00",
+      "pubDate": "2026-11-08T05:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3412,7 +4176,7 @@
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502147",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502147",
       "press": "",
-      "pubDate": "2026-11-08T14:10:00+09:00",
+      "pubDate": "2026-11-08T05:10:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "유안타증권"
@@ -3424,7 +4188,7 @@
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285434",
       "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=285434",
       "press": "",
-      "pubDate": "2026-11-08T14:08:00+09:00",
+      "pubDate": "2026-11-08T05:08:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "메리츠증권"
@@ -3436,7 +4200,7 @@
       "link": "https://n.news.naver.com/mnews/article/030/0003483286?sid=101",
       "originallink": "https://www.etnews.com/20261106000027",
       "press": "전자신문",
-      "pubDate": "2026-11-08T14:01:00+09:00",
+      "pubDate": "2026-11-08T05:01:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3448,7 +4212,7 @@
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=902250",
       "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=902250",
       "press": "",
-      "pubDate": "2026-11-08T14:00:00+09:00",
+      "pubDate": "2026-11-08T05:00:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "NH투자증권",
@@ -3462,7 +4226,7 @@
       "link": "https://www.ppss.kr/news/articleView.html?idxno=319652",
       "originallink": "https://www.ppss.kr/news/articleView.html?idxno=319652",
       "press": "",
-      "pubDate": "2026-11-08T13:54:00+09:00",
+      "pubDate": "2026-11-08T04:54:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3476,7 +4240,7 @@
       "link": "https://www.idaegu.com/news/articleView.html?idxno=666803",
       "originallink": "https://www.idaegu.com/news/articleView.html?idxno=666803",
       "press": "",
-      "pubDate": "2026-11-08T13:50:00+09:00",
+      "pubDate": "2026-11-08T04:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3489,7 +4253,7 @@
       "link": "https://n.news.naver.com/mnews/article/008/0005438091?sid=101",
       "originallink": "https://www.mt.co.kr/thebio/2026/11/08/2026110811333996742",
       "press": "머니투데이",
-      "pubDate": "2026-11-08T13:50:00+09:00",
+      "pubDate": "2026-11-08T04:50:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -3502,7 +4266,7 @@
       "link": "https://n.news.naver.com/mnews/article/382/0001303514?sid=103",
       "originallink": "https://sports.donga.com/life/article/all/20261108/134985067/1",
       "press": "동아일보",
-      "pubDate": "2026-11-08T13:47:00+09:00",
+      "pubDate": "2026-11-08T04:47:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "하나증권"
@@ -3514,7 +4278,7 @@
       "link": "https://n.news.naver.com/mnews/article/023/0004008403?sid=101",
       "originallink": "https://www.chosun.com/economy/economy_general/2026/11/08/SA7EK64MSVEDDGZ5IGVWYMVMRY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "press": "조선일보",
-      "pubDate": "2026-11-08T13:43:00+09:00",
+      "pubDate": "2026-11-08T04:43:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3527,7 +4291,7 @@
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1730827",
       "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1730827",
       "press": "",
-      "pubDate": "2026-11-08T13:40:00+09:00",
+      "pubDate": "2026-11-08T04:40:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "삼성증권",
@@ -3540,7 +4304,7 @@
       "link": "https://n.news.naver.com/mnews/article/366/0001203297?sid=101",
       "originallink": "https://biz.chosun.com/stock/stock_general/2026/11/08/3N3FO3SK6RHQZG2FLCL37RLIZU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "press": "조선일보",
-      "pubDate": "2026-11-08T13:34:00+09:00",
+      "pubDate": "2026-11-08T04:34:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "미래에셋증권",
@@ -3554,7 +4318,7 @@
       "link": "https://n.news.naver.com/mnews/article/421/0009276715?sid=101",
       "originallink": "https://www.news1.kr/finance/general-stock/6346758",
       "press": "뉴스1",
-      "pubDate": "2026-11-08T13:30:00+09:00",
+      "pubDate": "2026-11-08T04:30:00+00:00",
       "date": "2026-11-08",
       "companies": [
         "한국투자증권",
