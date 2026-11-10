@@ -1,15 +1,102 @@
 {
-  "lastUpdated": "2026-11-10T01:04:14Z",
+  "lastUpdated": "2026-11-10T14:08:48Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 368,
+  "count": 375,
   "news": [
+    {
+      "title": "Robinhood Expands US IPO Access to UK Retail Investors",
+      "description": "Robinhood has expanded its IPO access program to the UK, allowing retail investors to request shares in eligible US initial public offerings before",
+      "link": "https://www.cryptobreaking.com/robinhood-expands-us-ipo-access/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-11-10T09:35:09+09:00",
+      "date": "2026-11-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "AVAX Leads Broad Crypto Gains After NYSE Tokenization Deal",
+      "description": "Avalanche’s AVAX surged on Monday after the New York Stock Exchange announced it has selected Avalanche as the core blockchain ledger for an upcoming",
+      "link": "https://www.cryptobreaking.com/avax-leads-broad-crypto-gains/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-11-10T08:33:18+09:00",
+      "date": "2026-11-10",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "NYSE Picks Tokenization Partner As 24/7 Stock Trading Gets Closer",
+      "description": "The New York Stock Exchange has picked the Avalanche blockchain platform for its tokenized stock trading system. The NYSe move moves tokenized trading one step closer.",
+      "link": "https://www.investors.com/news/nyse-stock-trading-tokenization-avalanche/",
+      "press": "Investor's Business Daily",
+      "pubDate": "2026-11-10T04:53:38+09:00",
+      "date": "2026-11-10",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Charles Schwab Expands Crypto Trading to SOL, AVAX and LINK, XRP Not Included",
+      "description": "Charles Schwab has expanded its crypto trading platform by adding Solana, Avalanche and Chainlink, but XRP remains conspicuously absent despite the brokerage giant's aggressive push into digital assets.",
+      "link": "https://u.today/charles-schwab-expands-crypto-trading-to-sol-avax-and-link-xrp-not-included",
+      "press": "U.Today",
+      "pubDate": "2026-11-10T03:37:51+09:00",
+      "date": "2026-11-10",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "$13T Charles Schwab expands crypto trading to 5 assets with SOL, AVAX, and LINK",
+      "description": "Charles Schwab adds Solana, Avalanche and Chainlink trading, expanding Schwab Crypto to five assets with a 0.75% fee for eligible US buyers.",
+      "link": "https://coingape.com/13t-charles-schwab-expands-crypto-trading-to-5-assets-with-sol-avax-and-link/",
+      "press": "CoinGape",
+      "pubDate": "2026-11-10T02:56:57+09:00",
+      "date": "2026-11-10",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Charles Schwab opens Solana, Avalanche and Chainlink trading to US clients",
+      "description": "Charles Schwab has added Solana, Avalanche and Chainlink to its crypto platform, bringing the total to five tokens available to eligible US retail clients.",
+      "link": "https://crypto.news/charles-schwab-opens-solana-avalanche-and-chainlink-trading-to-us-clients/",
+      "press": "Crypto News",
+      "pubDate": "2026-11-09T23:28:47+09:00",
+      "date": "2026-11-09",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "NYSE Picks Avalanche over Ethereum, Solana To Settle Tokenized Stock Trades",
+      "description": "The NYSE has chosen Avalanche as the exclusive settlement layer for its tokenized stocks trading platform, which could launch by year-end.",
+      "link": "https://coingape.com/nyse-picks-avalanche-over-ethereum-solana-to-settle-tokenized-stock-trades/",
+      "press": "CoinGape",
+      "pubDate": "2026-11-09T23:02:23+09:00",
+      "date": "2026-11-09",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "Robinhood expands beyond crypto with US IPO access for UK investors",
       "description": "Robinhood has launched IPO Access in the UK, allowing retail investors to request shares in eligible US public offerings at the offer price without commissions.",
       "link": "https://crypto.news/robinhood-us-ipo-access-uk-retail-investors/",
       "press": "Crypto News",
-      "pubDate": "2026-11-09T21:39:29+09:00",
+      "pubDate": "2026-11-09T12:39:29+00:00",
       "date": "2026-11-09",
       "category": "broker",
       "companies": [
@@ -21,7 +108,7 @@
       "description": "Robinhood is bringing its IPO Access service to UK retail investors, offering a way to request shares in selected US offerings before they start trading.",
       "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors",
       "press": "Cointelegraph",
-      "pubDate": "2026-11-09T20:14:08+09:00",
+      "pubDate": "2026-11-09T11:14:08+00:00",
       "date": "2026-11-09",
       "category": "broker",
       "companies": [
@@ -33,7 +120,7 @@
       "description": "Justin Sun says U.S. stock trading is live on HTX as the exchange lists 20 tokenized stocks and ETFs with USDT pairs, fees and eligibility restrictions.",
       "link": "https://crypto.news/justin-sun-htx-us-stock-trading-tokenized-stocks/",
       "press": "Crypto News",
-      "pubDate": "2026-11-09T17:14:55+09:00",
+      "pubDate": "2026-11-09T08:14:55+00:00",
       "date": "2026-11-09",
       "category": "theme",
       "companies": [
@@ -45,7 +132,7 @@
       "description": "Aster DM Quality Care Limited certified the distribution of net proceeds from fractional shares to former Quality Care India Limited shareholders. The company sold 65 consolidated fractional shares at an average price of ₹676.0669 per share on October 8, 2026. Net sale proceeds of ₹43,834.43 were available for distribution after deducting brokerage and statutory charges. An amount of ₹1,886.45 relating to eight shareholders remains undistributed due to failed remittances and is held by the company.",
       "link": "https://scanx.trade/stock-market-news/companies/aster-dm-quality-care-certifies-fractional-share-payout-qcil/55748819",
       "press": "scanx.trade",
-      "pubDate": "2026-11-09T14:47:12+09:00",
+      "pubDate": "2026-11-09T05:47:12+00:00",
       "date": "2026-11-09",
       "category": "theme",
       "companies": [
@@ -57,7 +144,7 @@
       "description": "Nvidia shares fell about 3.7% on Robinhood's overnight platform after CEO Jensen Huang admitted an affair and the board launched a probe. Analysts flagged leadership risks ahead of earnings.",
       "link": "https://www.moneycontrol.com/news/business/jensen-huang-s-affair-rattles-nvidia-stock-shares-drop-nearly-4-in-overnight-trading-14075186.html",
       "press": "Moneycontrol",
-      "pubDate": "2026-11-09T13:17:32+09:00",
+      "pubDate": "2026-11-09T04:17:32+00:00",
       "date": "2026-11-09",
       "category": "broker",
       "companies": [
