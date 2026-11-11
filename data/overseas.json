@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-11-10T22:44:17Z",
+  "lastUpdated": "2026-11-11T04:14:21Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 24,
+  "count": 25,
   "news": [
+    {
+      "title": "New joint venture looking to revive Robinhood",
+      "description": "The SET-listed tech company SKY ICT and the shipping conglomerate Thoresen Thai Agencies (TTA) are joining forces to secure the intellectual property of the homegrown food delivery app Robinhood in a 100-million-baht deal.",
+      "link": "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood",
+      "press": "Bangkok Post",
+      "pubDate": "2026-11-10T21:09:00+09:00",
+      "date": "2026-11-10",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "That RICO suit vs. Robinson/TQL? Jury selection starts in '28",
+      "description": "As the two sides in the RICO case against brokerage giants C.H. Robinson (NASDAQ: CHRW) and TQL begin to make their case in legal filings, a sobering",
+      "link": "https://www.freightwaves.com/news/that-rico-suit-vs-robinson-tql-jury-selection-starts-in-28",
+      "press": "FreightWaves",
+      "pubDate": "2026-11-10T21:00:00+09:00",
+      "date": "2026-11-10",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Robinhood Expands US IPO Access to UK Retail Investors",
       "description": "Robinhood has expanded its IPO access program to the UK, allowing retail investors to request shares in eligible US initial public offerings before",
@@ -184,18 +208,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Investing in US stocks from India: Check how these 5 platforms stack up",
-      "description": "Fees, structure and tax help differ across INDmoney, Interactive Brokers, Vested Finance, Paasa and ZFunds",
-      "link": "https://www.business-standard.com/markets/news/investing-in-us-stocks-from-india-check-how-these-5-platforms-stack-up-126110601421_1.html",
-      "press": "Business Standard",
-      "pubDate": "2026-11-06T21:13:01+09:00",
-      "date": "2026-11-06",
-      "category": "broker",
-      "companies": [
-        "Interactive Brokers"
       ]
     },
     {
