@@ -1,15 +1,39 @@
 {
-  "lastUpdated": "2026-11-11T04:14:21Z",
+  "lastUpdated": "2026-11-11T13:25:23Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 372,
+  "count": 374,
   "news": [
+    {
+      "title": "Kimber Digital Securities Secures SEC Registration for Tokenized Stocks",
+      "description": "Plume affiliate Kimber Digital Securities secures SEC broker-dealer registration as it prepares to offer tokenized US stocks, ETFs and bonds in self-custodial wallets.",
+      "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+      "press": "Cointelegraph",
+      "pubDate": "2026-11-11T05:26:02+09:00",
+      "date": "2026-11-11",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Tokenization: The next evolution of the stock market",
+      "description": "Tokenization is beginning to change how investors can access, transfer and use stocks without replacing the market infrastructure beneath them.",
+      "link": "https://www.cnbc.com/2026/11/10/tokenization-market-evolution.html",
+      "press": "CNBC",
+      "pubDate": "2026-11-11T03:28:16+09:00",
+      "date": "2026-11-11",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "New joint venture looking to revive Robinhood",
       "description": "The SET-listed tech company SKY ICT and the shipping conglomerate Thoresen Thai Agencies (TTA) are joining forces to secure the intellectual property of the homegrown food delivery app Robinhood in a 100-million-baht deal.",
       "link": "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood",
       "press": "Bangkok Post",
-      "pubDate": "2026-11-10T21:09:00+09:00",
+      "pubDate": "2026-11-10T12:09:00+00:00",
       "date": "2026-11-10",
       "category": "broker",
       "companies": [
@@ -21,7 +45,7 @@
       "description": "As the two sides in the RICO case against brokerage giants C.H. Robinson (NASDAQ: CHRW) and TQL begin to make their case in legal filings, a sobering",
       "link": "https://www.freightwaves.com/news/that-rico-suit-vs-robinson-tql-jury-selection-starts-in-28",
       "press": "FreightWaves",
-      "pubDate": "2026-11-10T21:00:00+09:00",
+      "pubDate": "2026-11-10T12:00:00+00:00",
       "date": "2026-11-10",
       "category": "market",
       "companies": [
