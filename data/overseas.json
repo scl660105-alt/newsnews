@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-11-11T23:56:53Z",
+  "lastUpdated": "2026-11-12T05:50:57Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 24,
   "news": [
+    {
+      "title": "ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "description": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
+      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+      "press": "Decrypt",
+      "pubDate": "2026-11-12T01:14:01+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Kimber Digital Securities Secures SEC Registration for Tokenized Stocks",
       "description": "Plume affiliate Kimber Digital Securities secures SEC broker-dealer registration as it prepares to offer tokenized US stocks, ETFs and bonds in self-custodial wallets.",
@@ -211,18 +223,6 @@
       ]
     },
     {
-      "title": "Pump.fun moves $6.85m SOL as traders favor Robinhood",
-      "description": "Pump.fun sent $6.85 million in SOL to Kraken after a reported 15-day pause, as traders criticized its fee model and backed Robinhood as a challenger.",
-      "link": "https://crypto.news/pump-fun-sol-kraken-transfers-robinhood-criticism/",
-      "press": "Crypto News",
-      "pubDate": "2026-11-07T01:01:17+09:00",
-      "date": "2026-11-07",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "NYSE-backed crypto venture faces 90% stock rejection as $92 liquidity problem threatens tokenization dream",
       "description": "An OKX and NYSE-backed tokenization venture faces opposition from 67 major US companies, including Microsoft, Amazon and Tesla.",
       "link": "https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
@@ -289,18 +289,6 @@
       "press": "NDTV Profit",
       "pubDate": "2026-10-22T12:25:07+09:00",
       "date": "2026-10-22",
-      "category": "market",
-      "companies": [
-        "거래소·규제"
-      ]
-    },
-    {
-      "title": "Top NBFC stocks to buy: HDFC Sec recommend 15 shares to add in portfolio ahead of Q2 results",
-      "description": "Top NBFC stocks to buy: The brokerage firm highlighted that NBFC credit growth has sustained the growth momentum in Aug-26 (16% YoY), driven largely by retail and services segment.",
-      "link": "https://www.livemint.com/market/stock-market-news/top-nbfc-stocks-to-buy-hdfc-sec-recommend-15-shares-to-add-in-portfolio-ahead-of-q2-results-check-rating-target-11791792673950.html",
-      "press": "Livemint",
-      "pubDate": "2026-10-12T18:01:52+09:00",
-      "date": "2026-10-12",
       "category": "market",
       "companies": [
         "거래소·규제"
