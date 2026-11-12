@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-11-12T05:50:57Z",
+  "lastUpdated": "2026-11-12T14:29:51Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 24,
   "news": [
+    {
+      "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
+      "description": "The DP World Tour season concludes this week with a star-studded showdown in Dubai, the PGA and LPGA tours return to the United States, and the PGA Tour Champions' season closes with the Charles Schwab Cup Championship.",
+      "link": "https://www.yardbarker.com/golf/articles/golf_glance_pga_lpga_return_to_us_dp_champions_set_for_finales/s1_17051_44549355",
+      "press": "Yardbarker",
+      "pubDate": "2026-11-12T08:59:14+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "OKX ICE Advances Tokenized Stocks as Blue-Chip Demand Rises",
+      "description": "OKX and Intercontinental Exchange (ICE) are preparing to launch OKXICE, a tokenized stock trading venue, on Nov. 23—despite objections from 67 public",
+      "link": "https://www.cryptobreaking.com/okx-ice-advances-tokenized-stocks/",
+      "press": "Crypto Breaking News",
+      "pubDate": "2026-11-12T04:30:03+09:00",
+      "date": "2026-11-12",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
       "description": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
@@ -211,18 +236,6 @@
       ]
     },
     {
-      "title": "Splash Wallet Adds Support for Robinhood Chain",
-      "description": "Splash Wallet adds Robinhood Chain support to its non-custodial Chrome extension, letting users hold assets and access applications from a single interface.",
-      "link": "https://cryptoslate.com/press-releases/revolutionary-defi-splash-wallet-integrates-robinhood-chain/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-11-08T19:50:10+09:00",
-      "date": "2026-11-08",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "NYSE-backed crypto venture faces 90% stock rejection as $92 liquidity problem threatens tokenization dream",
       "description": "An OKX and NYSE-backed tokenization venture faces opposition from 67 major US companies, including Microsoft, Amazon and Tesla.",
       "link": "https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
@@ -241,18 +254,6 @@
       "press": "Cointelegraph",
       "pubDate": "2026-11-06T03:09:38+09:00",
       "date": "2026-11-06",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "OpenWorld Brings Its Nasdaq-Listed Stock to Solana Through Sunrise and Backpack Securities",
-      "description": "LAKE MARY, Fla., Nov. 05, 2026 (GLOBE NEWSWIRE) -- OpenWorld, Inc. (Nasdaq: OPNW) ('OpenWorld” or the 'Company”), a blockchain innovation company advancing real-world asset tokenization, today announced that its common stock is now available on Solana as tokenized OPNW. Issued by Backpack Securities and launched through Sunrise, the day one asset gateway of Solana made by Wormhole Labs, tokenized OPNW is now accessible across Solana’s markets.",
-      "link": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/openworld-brings-its-nasdaq-listed-stock-to-solana-through-sunrise-and-backpack-securities/2463032",
-      "press": "The Manila Times",
-      "pubDate": "2026-11-05T22:49:53+09:00",
-      "date": "2026-11-05",
       "category": "theme",
       "companies": [
         "업계테마"
