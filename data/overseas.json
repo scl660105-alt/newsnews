@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-11-12T23:05:28Z",
+  "lastUpdated": "2026-11-13T04:40:45Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
+      "description": "Charles Schwab on Thursday introduced new artificial intelligence capabilities across its trading platforms, including its own Model Context Protocol server, thinkorswim Assistant and expanded...",
+      "link": "https://www.marketscreener.com/news/charles-schwab-introduces-new-ai-capabilities-across-trading-platforms-ce785ed8de8af625",
+      "press": "MarketScreener",
+      "pubDate": "2026-11-12T23:49:15+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Why Anthropic’s IPO could trigger record retail investor demand",
       "description": "AI giant’s Nasdaq debut could attract $250 million in net retail buying, nearly double the record set by SpaceX, as pre-IPO futures trading signals unprecedented investor appetite.",
@@ -13,6 +26,18 @@
       "category": "market",
       "companies": [
         "거래소·규제"
+      ]
+    },
+    {
+      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
+      "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
+      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
+      "press": "WBRZ",
+      "pubDate": "2026-11-12T09:00:00+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
       ]
     },
     {
@@ -200,18 +225,6 @@
       ]
     },
     {
-      "title": "Robinhood Launches US IPO Access for UK Retail Investors",
-      "description": "Robinhood is bringing its IPO Access service to UK retail investors, offering a way to request shares in selected US offerings before they start trading.",
-      "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors",
-      "press": "Cointelegraph",
-      "pubDate": "2026-11-09T20:14:08+09:00",
-      "date": "2026-11-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Justin Sun launches tokenized US stock trading on HTX with 20 assets",
       "description": "Justin Sun says U.S. stock trading is live on HTX as the exchange lists 20 tokenized stocks and ETFs with USDT pairs, fees and eligibility restrictions.",
       "link": "https://crypto.news/justin-sun-htx-us-stock-trading-tokenized-stocks/",
@@ -233,18 +246,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Jensen Huang's affair rattles Nvidia stock: Shares drop nearly 4% in overnight trading",
-      "description": "Nvidia shares fell about 3.7% on Robinhood's overnight platform after CEO Jensen Huang admitted an affair and the board launched a probe. Analysts flagged leadership risks ahead of earnings.",
-      "link": "https://www.moneycontrol.com/news/business/jensen-huang-s-affair-rattles-nvidia-stock-shares-drop-nearly-4-in-overnight-trading-14075186.html",
-      "press": "Moneycontrol",
-      "pubDate": "2026-11-09T13:17:32+09:00",
-      "date": "2026-11-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {

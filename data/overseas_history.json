@@ -1,15 +1,40 @@
 {
-  "lastUpdated": "2026-11-12T23:05:28Z",
+  "lastUpdated": "2026-11-13T04:40:45Z",
   "source": "GNews.io",
   "retentionDays": 60,
   "count": 372,
   "news": [
     {
+      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
+      "description": "Charles Schwab on Thursday introduced new artificial intelligence capabilities across its trading platforms, including its own Model Context Protocol server, thinkorswim Assistant and expanded...",
+      "link": "https://www.marketscreener.com/news/charles-schwab-introduces-new-ai-capabilities-across-trading-platforms-ce785ed8de8af625",
+      "press": "MarketScreener",
+      "pubDate": "2026-11-12T23:49:15+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
+      "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
+      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
+      "press": "WBRZ",
+      "pubDate": "2026-11-12T09:00:00+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
       "title": "Why Anthropic’s IPO could trigger record retail investor demand",
       "description": "AI giant’s Nasdaq debut could attract $250 million in net retail buying, nearly double the record set by SpaceX, as pre-IPO futures trading signals unprecedented investor appetite.",
       "link": "https://www.firstpost.com/business/why-anthropics-ipo-could-trigger-record-retail-investor-demand-14059467.html",
       "press": "Firstpost",
-      "pubDate": "2026-11-12T14:51:06+09:00",
+      "pubDate": "2026-11-12T05:51:06+00:00",
       "date": "2026-11-12",
       "category": "market",
       "companies": [
@@ -4507,30 +4532,6 @@
       "category": "broker",
       "companies": [
         "Robinhood",
-        "업계테마"
-      ]
-    },
-    {
-      "title": "AMC CEO challenges Robinhood’s 1:1 token backing",
-      "description": "AMC CEO Adam Aron questioned whether Robinhood’s stock tokens remain fully backed if collateral shares are lent to short sellers.",
-      "link": "https://crypto.news/amc-ceo-challenges-robinhoods-11-token-backing/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-13T10:19:48+00:00",
-      "date": "2026-09-13",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Base tokenized stock volume reaches $100 million",
-      "description": "Base tokenized stocks reached a $100 million daily DEX record, while Aerodrome captured 76% of the $730.9 million monthly volume.",
-      "link": "https://crypto.news/base-tokenized-stock-volume-reaches-100-million/",
-      "press": "Crypto News",
-      "pubDate": "2026-09-13T09:38:29+00:00",
-      "date": "2026-09-13",
-      "category": "theme",
-      "companies": [
         "업계테마"
       ]
     }
