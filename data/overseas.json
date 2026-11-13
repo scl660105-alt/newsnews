@@ -1,8 +1,57 @@
 {
-  "lastUpdated": "2026-11-13T13:47:12Z",
+  "lastUpdated": "2026-11-13T23:08:23Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
-  "count": 25,
+  "count": 26,
   "news": [
+    {
+      "title": "After Robinhood Chain, Memecoins Arrive on Canton. Can They Outlast Day One?",
+      "description": "Memecoins have arrived on Canton Network via OnePump, following Robinhood Chain's surge.",
+      "link": "https://coingape.com/blog/after-robinhood-chain-memecoins-arrive-on-canton-can-they-outlast-day-one/",
+      "press": "CoinGape",
+      "pubDate": "2026-11-13T19:46:39+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "UP Fintech Holding Limited to Report Third Quarter 2026 Financial Results on November 24, 2026",
+      "description": "SINGAPORE, Nov. 13, 2026 (GLOBE NEWSWIRE) -- UP Fintech Holding Limited ('UP Fintech” or the 'Company”) (NASDAQ: TIGR), a leading online brokerage firm focusing on global investors, today announced that it will report its financial results for the third quarter ended September 30, 2026, before the U.S. market opens on November 24, 2026.",
+      "link": "https://www.manilatimes.net/2026/11/13/tmt-newswire/globenewswire/up-fintech-holding-limited-to-report-third-quarter-2026-financial-results-on-november-24-2026/2469355",
+      "press": "The Manila Times",
+      "pubDate": "2026-11-13T17:08:50+09:00",
+      "date": "2026-11-13",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
+      "title": "Exclusive: Canton Strategic CEO warns MEV could raise costs for tokenized stock traders",
+      "description": "Canton Strategic CEO Mark Wendland warns that MEV and validator tips can raise trading costs as issuers choose blockchains for tokenized stocks.",
+      "link": "https://crypto.news/canton-strategic-ceo-mev-tokenized-stock-costs/",
+      "press": "Crypto News",
+      "pubDate": "2026-11-13T16:48:16+09:00",
+      "date": "2026-11-13",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Defending champ Stewart Cink grabs lead at PGA Tour Champions finale",
+      "description": "Stewart Cink, aiming for his second consecutive PGA Tour Champions season title, leads by one stroke after the first round of the year-ending Charles Schwab Cup Championship on Thursday in Phoenix.",
+      "link": "https://www.yardbarker.com/golf/articles/defending_champ_stewart_cink_grabs_lead_at_pga_tour_champions_finale/s1_17060_44554446",
+      "press": "Yardbarker",
+      "pubDate": "2026-11-13T12:10:35+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Judge orders halt to prediction markets in Louisiana",
       "description": "A Louisiana judge ordered that Kalshi, Polymarket, Robinhood and other prediction markets in the state temporarily halt operations in the state, shortly after Attorney General Liz Murrill filed a lawsuit against the companies earlier in the day.",
@@ -128,18 +177,6 @@
       ]
     },
     {
-      "title": "ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
-      "description": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
-      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
-      "press": "Decrypt",
-      "pubDate": "2026-11-12T01:14:01+09:00",
-      "date": "2026-11-12",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Kimber Digital Securities Secures SEC Registration for Tokenized Stocks",
       "description": "Plume affiliate Kimber Digital Securities secures SEC broker-dealer registration as it prepares to offer tokenized US stocks, ETFs and bonds in self-custodial wallets.",
       "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
@@ -161,18 +198,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "New joint venture looking to revive Robinhood",
-      "description": "The SET-listed tech company SKY ICT and the shipping conglomerate Thoresen Thai Agencies (TTA) are joining forces to secure the intellectual property of the homegrown food delivery app Robinhood in a 100-million-baht deal.",
-      "link": "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood",
-      "press": "Bangkok Post",
-      "pubDate": "2026-11-10T21:09:00+09:00",
-      "date": "2026-11-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
@@ -253,18 +278,6 @@
       "link": "https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
       "press": "CryptoSlate",
       "pubDate": "2026-11-06T21:30:58+09:00",
-      "date": "2026-11-06",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Amundi Expands into Tokenized Stocks with STOXX 600 Fund",
-      "description": "Amundi brings European equity exposure onchain through a new Ethereum-based share class as the tokenized stock market reaches $4.24 billion.",
-      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
-      "press": "Cointelegraph",
-      "pubDate": "2026-11-06T03:09:38+09:00",
       "date": "2026-11-06",
       "category": "theme",
       "companies": [
