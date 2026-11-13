@@ -1,8 +1,46 @@
 {
-  "lastUpdated": "2026-11-13T04:40:45Z",
+  "lastUpdated": "2026-11-13T13:47:12Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 25,
   "news": [
+    {
+      "title": "Judge orders halt to prediction markets in Louisiana",
+      "description": "A Louisiana judge ordered that Kalshi, Polymarket, Robinhood and other prediction markets in the state temporarily halt operations in the state, shortly after Attorney General Liz Murrill filed a lawsuit against the companies earlier in the day.",
+      "link": "https://www.theadvocate.com/baton_rouge/news/judge-tro-halt-kalshi-polymarket-robinhood-liz-murrill-louisiana-lawsuit/article_c8b1f6b5-e7c8-5acb-8b8c-f4f6cd96b1d2.html",
+      "press": "Baton Rouge Advocate",
+      "pubDate": "2026-11-13T10:40:00+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab Cup Championship Tour Scores",
+      "description": "Thursday At Phoenix Country Club Phoenix Purse: $3 million Yardage: 6,860; Par: 71 First Round Stewart Cink 30-33—63 Ernie Els 32-32—64 Steve Allan 31-34—65 Ric",
+      "link": "https://wtop.com/sports/2026/11/charles-schwab-cup-championship-tour-scores/",
+      "press": "WTOP",
+      "pubDate": "2026-11-13T09:13:32+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Charles Schwab Cup Championship Par Scores",
+      "description": "Thursday At Phoenix Country Club Phoenix Purse: $3 million Yardage: 6,860; Par: 71 First Round Stewart Cink 30-33—63 -8 Ernie Els 32-32—64 -7 Steve Allan 31-34—",
+      "link": "https://wtop.com/sports/2026/11/charles-schwab-cup-championship-par-scores/",
+      "press": "WTOP",
+      "pubDate": "2026-11-13T09:13:23+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
       "description": "Charles Schwab on Thursday introduced new artificial intelligence capabilities across its trading platforms, including its own Model Context Protocol server, thinkorswim Assistant and expanded...",
@@ -29,6 +67,18 @@
       ]
     },
     {
+      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's illegal betting claims",
+      "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
+      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-illegal-betting-claims",
+      "press": "WBRZ",
+      "pubDate": "2026-11-12T09:00:00+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
       "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
       "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
       "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
@@ -51,6 +101,18 @@
       "companies": [
         "Charles Schwab",
         "Schwab"
+      ]
+    },
+    {
+      "title": "Change in Robinhood ownership welcomed",
+      "description": "The ownership change at food delivery platform Robinhood could improve competition in the food delivery market, but its long-term success will depend on financial strength, economies of scale and a sustainable business model -- not simply lower commissions or promotional subsidies.",
+      "link": "https://www.bangkokpost.com/business/general/3352964/change-in-robinhood-ownership-welcomed",
+      "press": "Bangkok Post",
+      "pubDate": "2026-11-12T07:12:00+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
       ]
     },
     {
@@ -126,18 +188,6 @@
       ]
     },
     {
-      "title": "Robinhood Expands US IPO Access to UK Retail Investors",
-      "description": "Robinhood has expanded its IPO access program to the UK, allowing retail investors to request shares in eligible US initial public offerings before",
-      "link": "https://www.cryptobreaking.com/robinhood-expands-us-ipo-access/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-11-10T09:35:09+09:00",
-      "date": "2026-11-10",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "AVAX Leads Broad Crypto Gains After NYSE Tokenization Deal",
       "description": "Avalanche’s AVAX surged on Monday after the New York Stock Exchange announced it has selected Avalanche as the core blockchain ledger for an upcoming",
       "link": "https://www.cryptobreaking.com/avax-leads-broad-crypto-gains/",
@@ -162,45 +212,6 @@
       ]
     },
     {
-      "title": "Charles Schwab Expands Crypto Trading to SOL, AVAX and LINK, XRP Not Included",
-      "description": "Charles Schwab has expanded its crypto trading platform by adding Solana, Avalanche and Chainlink, but XRP remains conspicuously absent despite the brokerage giant's aggressive push into digital assets.",
-      "link": "https://u.today/charles-schwab-expands-crypto-trading-to-sol-avax-and-link-xrp-not-included",
-      "press": "U.Today",
-      "pubDate": "2026-11-10T03:37:51+09:00",
-      "date": "2026-11-10",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "$13T Charles Schwab expands crypto trading to 5 assets with SOL, AVAX, and LINK",
-      "description": "Charles Schwab adds Solana, Avalanche and Chainlink trading, expanding Schwab Crypto to five assets with a 0.75% fee for eligible US buyers.",
-      "link": "https://coingape.com/13t-charles-schwab-expands-crypto-trading-to-5-assets-with-sol-avax-and-link/",
-      "press": "CoinGape",
-      "pubDate": "2026-11-10T02:56:57+09:00",
-      "date": "2026-11-10",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Charles Schwab opens Solana, Avalanche and Chainlink trading to US clients",
-      "description": "Charles Schwab has added Solana, Avalanche and Chainlink to its crypto platform, bringing the total to five tokens available to eligible US retail clients.",
-      "link": "https://crypto.news/charles-schwab-opens-solana-avalanche-and-chainlink-trading-to-us-clients/",
-      "press": "Crypto News",
-      "pubDate": "2026-11-09T23:28:47+09:00",
-      "date": "2026-11-09",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
       "title": "NYSE Picks Avalanche over Ethereum, Solana To Settle Tokenized Stock Trades",
       "description": "The NYSE has chosen Avalanche as the exclusive settlement layer for its tokenized stocks trading platform, which could launch by year-end.",
       "link": "https://coingape.com/nyse-picks-avalanche-over-ethereum-solana-to-settle-tokenized-stock-trades/",
@@ -210,18 +221,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood expands beyond crypto with US IPO access for UK investors",
-      "description": "Robinhood has launched IPO Access in the UK, allowing retail investors to request shares in eligible US public offerings at the offer price without commissions.",
-      "link": "https://crypto.news/robinhood-us-ipo-access-uk-retail-investors/",
-      "press": "Crypto News",
-      "pubDate": "2026-11-09T21:39:29+09:00",
-      "date": "2026-11-09",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {

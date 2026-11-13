@@ -1,16 +1,28 @@
 {
-  "lastUpdated": "2026-11-13T04:40:45Z",
+  "lastUpdated": "2026-11-13T13:47:12Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 372,
+  "count": 377,
   "news": [
     {
-      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
-      "description": "Charles Schwab on Thursday introduced new artificial intelligence capabilities across its trading platforms, including its own Model Context Protocol server, thinkorswim Assistant and expanded...",
-      "link": "https://www.marketscreener.com/news/charles-schwab-introduces-new-ai-capabilities-across-trading-platforms-ce785ed8de8af625",
-      "press": "MarketScreener",
-      "pubDate": "2026-11-12T23:49:15+09:00",
-      "date": "2026-11-12",
+      "title": "Judge orders halt to prediction markets in Louisiana",
+      "description": "A Louisiana judge ordered that Kalshi, Polymarket, Robinhood and other prediction markets in the state temporarily halt operations in the state, shortly after Attorney General Liz Murrill filed a lawsuit against the companies earlier in the day.",
+      "link": "https://www.theadvocate.com/baton_rouge/news/judge-tro-halt-kalshi-polymarket-robinhood-liz-murrill-louisiana-lawsuit/article_c8b1f6b5-e7c8-5acb-8b8c-f4f6cd96b1d2.html",
+      "press": "Baton Rouge Advocate",
+      "pubDate": "2026-11-13T10:40:00+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab Cup Championship Tour Scores",
+      "description": "Thursday At Phoenix Country Club Phoenix Purse: $3 million Yardage: 6,860; Par: 71 First Round Stewart Cink 30-33—63 Ernie Els 32-32—64 Steve Allan 31-34—65 Ric",
+      "link": "https://wtop.com/sports/2026/11/charles-schwab-cup-championship-tour-scores/",
+      "press": "WTOP",
+      "pubDate": "2026-11-13T09:13:32+09:00",
+      "date": "2026-11-13",
       "category": "broker",
       "companies": [
         "Charles Schwab",
@@ -18,15 +30,53 @@
       ]
     },
     {
-      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
+      "title": "Charles Schwab Cup Championship Par Scores",
+      "description": "Thursday At Phoenix Country Club Phoenix Purse: $3 million Yardage: 6,860; Par: 71 First Round Stewart Cink 30-33—63 -8 Ernie Els 32-32—64 -7 Steve Allan 31-34—",
+      "link": "https://wtop.com/sports/2026/11/charles-schwab-cup-championship-par-scores/",
+      "press": "WTOP",
+      "pubDate": "2026-11-13T09:13:23+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's illegal betting claims",
       "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
-      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
+      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-illegal-betting-claims",
       "press": "WBRZ",
       "pubDate": "2026-11-12T09:00:00+09:00",
       "date": "2026-11-12",
       "category": "broker",
       "companies": [
         "Robinhood"
+      ]
+    },
+    {
+      "title": "Change in Robinhood ownership welcomed",
+      "description": "The ownership change at food delivery platform Robinhood could improve competition in the food delivery market, but its long-term success will depend on financial strength, economies of scale and a sustainable business model -- not simply lower commissions or promotional subsidies.",
+      "link": "https://www.bangkokpost.com/business/general/3352964/change-in-robinhood-ownership-welcomed",
+      "press": "Bangkok Post",
+      "pubDate": "2026-11-12T07:12:00+09:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab Introduces New AI Capabilities Across Trading Platforms",
+      "description": "Charles Schwab on Thursday introduced new artificial intelligence capabilities across its trading platforms, including its own Model Context Protocol server, thinkorswim Assistant and expanded...",
+      "link": "https://www.marketscreener.com/news/charles-schwab-introduces-new-ai-capabilities-across-trading-platforms-ce785ed8de8af625",
+      "press": "MarketScreener",
+      "pubDate": "2026-11-12T14:49:15+00:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
       ]
     },
     {
@@ -39,6 +89,18 @@
       "category": "market",
       "companies": [
         "거래소·규제"
+      ]
+    },
+    {
+      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
+      "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
+      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
+      "press": "WBRZ",
+      "pubDate": "2026-11-12T00:00:00+00:00",
+      "date": "2026-11-12",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
       ]
     },
     {
