@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-11-13T23:08:23Z",
+  "lastUpdated": "2026-11-14T04:36:05Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "Robinhood Crypto Volume Falls 48% As Event Contracts Double",
+      "description": "Robinhood's crypto trading volume fell 48% year over year to $17 billion in October, while event contracts traded jumped 136% to 5.9 billion.",
+      "link": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
+      "press": "Bitcoin Magazine",
+      "pubDate": "2026-11-14T00:30:00+09:00",
+      "date": "2026-11-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab October Client Assets, Core Net New Assets Increase",
+      "description": "Charles Schwab said Friday that its total client assets were $13.27 trillion by the end of October, up 12% from a year earlier. The company also reported $66.5 billion in core net new assets for the...",
+      "link": "https://www.marketscreener.com/news/charles-schwab-october-client-assets-core-net-new-assets-increase-ce785ed9d18bf727",
+      "press": "MarketScreener",
+      "pubDate": "2026-11-13T23:18:36+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Supreme Court to decide tax bill for prediction market operators",
+      "description": "Robinhood hasn’t collected federal wagering taxes on its prediction markets, and the Supreme Court could weigh in on whether taxes apply.",
+      "link": "https://protos.com/supreme-court-to-decide-tax-bill-for-prediction-market-operators/",
+      "press": "Protos",
+      "pubDate": "2026-11-13T21:58:18+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "After Robinhood Chain, Memecoins Arrive on Canton. Can They Outlast Day One?",
       "description": "Memecoins have arrived on Canton Network via OnePump, following Robinhood Chain's surge.",
@@ -116,48 +153,11 @@
       ]
     },
     {
-      "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's illegal betting claims",
-      "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
-      "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-illegal-betting-claims",
-      "press": "WBRZ",
-      "pubDate": "2026-11-12T09:00:00+09:00",
-      "date": "2026-11-12",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
       "title": "Louisiana judge blocks prediction markets, crypto platforms over AG's unlicensed betting claims",
       "description": "- Prediction markets: Kalshi Inc., QCX LLC (doing business as Polymarket US), ForecastEx LLC, Ludlow Exchange LLC (Novig), and ProphetX Opco LLC (ProphetX).\n- Financial and crypto platforms: Robinhood Markets Inc., Coinbase Global Inc., Foris DAX Inc. (Crypto.com) and Gemini Trust Company LLC.\n- Sports and derivatives entities: Underdog Sports Holdings Inc., North American Derivatives Exchange Inc. and IG Group Holdings PLC.",
       "link": "https://www.wbrz.com/news/louisiana-judge-blocks-prediction-markets-crypto-platforms-over-ag-s-unlicensed-betting-claims",
       "press": "WBRZ",
       "pubDate": "2026-11-12T09:00:00+09:00",
-      "date": "2026-11-12",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
-      "description": "The DP World Tour season concludes this week with a star-studded showdown in Dubai, the PGA and LPGA tours return to the United States, and the PGA Tour Champions' season closes with the Charles Schwab Cup Championship.",
-      "link": "https://www.yardbarker.com/golf/articles/golf_glance_pga_lpga_return_to_us_dp_champions_set_for_finales/s1_17051_44549355",
-      "press": "Yardbarker",
-      "pubDate": "2026-11-12T08:59:14+09:00",
-      "date": "2026-11-12",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Change in Robinhood ownership welcomed",
-      "description": "The ownership change at food delivery platform Robinhood could improve competition in the food delivery market, but its long-term success will depend on financial strength, economies of scale and a sustainable business model -- not simply lower commissions or promotional subsidies.",
-      "link": "https://www.bangkokpost.com/business/general/3352964/change-in-robinhood-ownership-welcomed",
-      "press": "Bangkok Post",
-      "pubDate": "2026-11-12T07:12:00+09:00",
       "date": "2026-11-12",
       "category": "broker",
       "companies": [

@@ -1,15 +1,52 @@
 {
-  "lastUpdated": "2026-11-13T23:08:23Z",
+  "lastUpdated": "2026-11-14T04:36:05Z",
   "source": "GNews.io",
   "retentionDays": 60,
   "count": 381,
   "news": [
     {
+      "title": "Robinhood Crypto Volume Falls 48% As Event Contracts Double",
+      "description": "Robinhood's crypto trading volume fell 48% year over year to $17 billion in October, while event contracts traded jumped 136% to 5.9 billion.",
+      "link": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
+      "press": "Bitcoin Magazine",
+      "pubDate": "2026-11-14T00:30:00+09:00",
+      "date": "2026-11-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Charles Schwab October Client Assets, Core Net New Assets Increase",
+      "description": "Charles Schwab said Friday that its total client assets were $13.27 trillion by the end of October, up 12% from a year earlier. The company also reported $66.5 billion in core net new assets for the...",
+      "link": "https://www.marketscreener.com/news/charles-schwab-october-client-assets-core-net-new-assets-increase-ce785ed9d18bf727",
+      "press": "MarketScreener",
+      "pubDate": "2026-11-13T23:18:36+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Supreme Court to decide tax bill for prediction market operators",
+      "description": "Robinhood hasn’t collected federal wagering taxes on its prediction markets, and the Supreme Court could weigh in on whether taxes apply.",
+      "link": "https://protos.com/supreme-court-to-decide-tax-bill-for-prediction-market-operators/",
+      "press": "Protos",
+      "pubDate": "2026-11-13T21:58:18+09:00",
+      "date": "2026-11-13",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
       "title": "After Robinhood Chain, Memecoins Arrive on Canton. Can They Outlast Day One?",
       "description": "Memecoins have arrived on Canton Network via OnePump, following Robinhood Chain's surge.",
       "link": "https://coingape.com/blog/after-robinhood-chain-memecoins-arrive-on-canton-can-they-outlast-day-one/",
       "press": "CoinGape",
-      "pubDate": "2026-11-13T19:46:39+09:00",
+      "pubDate": "2026-11-13T10:46:39+00:00",
       "date": "2026-11-13",
       "category": "broker",
       "companies": [
@@ -21,7 +58,7 @@
       "description": "SINGAPORE, Nov. 13, 2026 (GLOBE NEWSWIRE) -- UP Fintech Holding Limited ('UP Fintech” or the 'Company”) (NASDAQ: TIGR), a leading online brokerage firm focusing on global investors, today announced that it will report its financial results for the third quarter ended September 30, 2026, before the U.S. market opens on November 24, 2026.",
       "link": "https://www.manilatimes.net/2026/11/13/tmt-newswire/globenewswire/up-fintech-holding-limited-to-report-third-quarter-2026-financial-results-on-november-24-2026/2469355",
       "press": "The Manila Times",
-      "pubDate": "2026-11-13T17:08:50+09:00",
+      "pubDate": "2026-11-13T08:08:50+00:00",
       "date": "2026-11-13",
       "category": "market",
       "companies": [
@@ -33,7 +70,7 @@
       "description": "Canton Strategic CEO Mark Wendland warns that MEV and validator tips can raise trading costs as issuers choose blockchains for tokenized stocks.",
       "link": "https://crypto.news/canton-strategic-ceo-mev-tokenized-stock-costs/",
       "press": "Crypto News",
-      "pubDate": "2026-11-13T16:48:16+09:00",
+      "pubDate": "2026-11-13T07:48:16+00:00",
       "date": "2026-11-13",
       "category": "theme",
       "companies": [
@@ -45,7 +82,7 @@
       "description": "Stewart Cink, aiming for his second consecutive PGA Tour Champions season title, leads by one stroke after the first round of the year-ending Charles Schwab Cup Championship on Thursday in Phoenix.",
       "link": "https://www.yardbarker.com/golf/articles/defending_champ_stewart_cink_grabs_lead_at_pga_tour_champions_finale/s1_17060_44554446",
       "press": "Yardbarker",
-      "pubDate": "2026-11-13T12:10:35+09:00",
+      "pubDate": "2026-11-13T03:10:35+00:00",
       "date": "2026-11-13",
       "category": "broker",
       "companies": [
@@ -4606,44 +4643,6 @@
       "companies": [
         "Charles Schwab",
         "Schwab"
-      ]
-    },
-    {
-      "title": "Bittensor’s TAO Goes Live on Robinhood Chain via Chainlink CCIP After Base Expansion",
-      "description": "Bittensor's TAO is now live on Robinhood Chain. Forever Money built the bridge using Chainlink CCIP, giving the leading decentralized-AI token a 1:1",
-      "link": "https://coingape.com/bittensors-tao-goes-live-on-robinhood-chain-via-chainlink-ccip-after-base-expansion/",
-      "press": "CoinGape",
-      "pubDate": "2026-09-14T13:10:51+00:00",
-      "date": "2026-09-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "What the Robinhood-AMC fight over tokenized stocks is really about",
-      "description": "The CEO of AMC ranted that Robinhood offering a tokenized version of its stock is \"detestable, inexcusable, vile\"—which sounds a lot like fear of a superior technology.",
-      "link": "https://fortune.com/2026/09/14/robinhood-amc-tokenized-stocks/",
-      "press": "Fortune",
-      "pubDate": "2026-09-14T12:36:52+00:00",
-      "date": "2026-09-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Robinhood CEO Defends Tokenized Stocks After AMC Criticism",
-      "description": "Robinhood CEO Vlad Tenev said companies should not have veto power over tokenized stock products that do not change issuer rights or obligations.",
-      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks",
-      "press": "Cointelegraph",
-      "pubDate": "2026-09-14T04:55:28+00:00",
-      "date": "2026-09-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "업계테마"
       ]
     }
   ]
