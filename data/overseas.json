@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-11-14T12:51:21Z",
+  "lastUpdated": "2026-11-14T21:53:40Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 26,
   "news": [
+    {
+      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
+      "description": "Robinhood Markets has filed an appeal with the US Supreme Court concerning a class action lawsuit brought forth by investors. The lawsuit claims the company misled investors ahead of its IPO in July 2021 by not revealing how reduced trading volumes would affect their investments. After initially dismissing the case, the 9th Circuit Court of Appeals has reopened it, with Supreme Court deliberations expected by late June.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-11-14T12:44:00+09:00",
+      "date": "2026-11-14",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Stewart Cink leads by 6 as he closes in on second Charles Schwab Cup",
+      "description": "Stewart Cink caught fire on the back nine and opened up a six-shot lead at the Charles Schwab Cup Championship on Friday in Phoenix. Cink is two rounds away from capturing his second consecutive Charles Schwab Cup, the PGA Tour Champions' season-long title.",
+      "link": "https://www.yardbarker.com/golf/articles/stewart_cink_leads_by_6_as_he_closes_in_on_second_charles_schwab_cup/s1_17060_44558634",
+      "press": "Yardbarker",
+      "pubDate": "2026-11-14T10:28:41+09:00",
+      "date": "2026-11-14",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Charles Schwab Cup Championship Par Scores",
       "description": "Friday At Phoenix Country Club Phoenix Purse: $3 million Yardage: 6,860; Par: 71 Second Round Stewart Cink 63-65—128 -14 Steve Allan 65-69—134 -8 Steven Alker 6",
@@ -95,31 +120,6 @@
       "link": "https://crypto.news/robinhood-crypto-volume-october-2026/",
       "press": "Crypto News",
       "pubDate": "2026-11-14T02:00:00+09:00",
-      "date": "2026-11-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "'Investing Should be Disciplined Process Over Time,' Says Liz Ann Sonders",
-      "description": "Rebecca Patterson, Senior Fellow at Council on Foreign Relations and Liz Ann Sonders, Chief Investment Strategist at Charles Schwab, discuss the markets, their investing outlook and Rebecca's...",
-      "link": "https://www.marketscreener.com/news/investing-should-be-disciplined-process-over-time-says-liz-ann-sonders-ce785ed9d08af524",
-      "press": "MarketScreener",
-      "pubDate": "2026-11-14T01:50:21+09:00",
-      "date": "2026-11-14",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "Robinhood Crypto Volume Falls 48% As Event Contracts Double",
-      "description": "Robinhood's crypto trading volume fell 48% year over year to $17 billion in October, while event contracts traded jumped 136% to 5.9 billion.",
-      "link": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
-      "press": "Bitcoin Magazine",
-      "pubDate": "2026-11-14T00:30:00+09:00",
       "date": "2026-11-14",
       "category": "broker",
       "companies": [
