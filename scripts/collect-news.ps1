@@ -22,7 +22,7 @@
 param(
   [string]$DataDir = (Join-Path $PSScriptRoot '..' 'data'),
   [int]$PagesPerCompany = 2,          # 증권사당 페이지 수 (1페이지=100건, start=1,101,...)
-  [int]$HistoryRetentionDays = 90,
+  [int]$HistoryRetentionDays = 30,    # 누적 보존 일수 (파일 용량 관리: 30일 ≈ 30MB, 90일 ≈ 84MB)
   [int]$ThrottleMs = 120              # 콜 간 간격(과호출 방지)
 )
 $ErrorActionPreference = 'Stop'

@@ -9,7 +9,7 @@
 scripts/collect-news.ps1          # 수집기
 data/companies.json               # 모니터링 대상 증권사 (편집 가능)
 data/news.json                    # 최근 실행 스냅샷 (자동 생성)
-data/news_history.json            # 누적·중복제거·보존 90일 (자동 생성, 현재는 샘플)
+data/news_history.json            # 누적·중복제거·보존 30일 (자동 생성, 현재는 샘플)
 .github/workflows/fetch-news.yml  # 1시간 간격 자동 수집·커밋
 index.html                        # 모니터링 화면
 ```
@@ -38,7 +38,7 @@ pwsh ./scripts/collect-news.ps1
 → `data/news.json`, `data/news_history.json` 갱신. 콘솔에 증권사별 건수가 출력됩니다.
 모니터링 대상은 `data/companies.json` 에서 자유롭게 추가/삭제하세요.
 
-옵션: `-PagesPerCompany 3`(증권사당 최대 300건), `-HistoryRetentionDays 120` 등.
+옵션: `-PagesPerCompany 3`(증권사당 최대 300건), `-HistoryRetentionDays 60`(보존 일수, 기본 30) 등.
 
 ---
 
@@ -109,6 +109,7 @@ python -m http.server 8080
 - **GitHub Secret 등록**: `gh secret set GNEWS_API_KEY --body <키> --repo <o>/<r>`.
 
 ## 참고 / 한계
+- `data/news_history.json` 은 **보존 30일** 기준 약 30MB 입니다(90일이면 84MB). GitHub 은 파일 50MB 초과 시 경고, 100MB 초과 시 푸시를 차단하므로 보존 일수(`-HistoryRetentionDays`)를 늘릴 때는 용량을 확인하세요. 화면의 날짜 프리셋(오늘/7일/30일)은 30일 보존과 맞춰져 있습니다.
 - 네이버 검색 API 는 **날짜 범위 파라미터가 없어** 최신순(`sort=date`)으로만 조회 → 과거 날짜대는 **가동 이후 누적분**에서 검색됩니다(첫 실행 시점부터 쌓임).
 - 언론사명은 API 가 직접 주지 않아 `originallink` 호스트로 추정합니다(미상이면 공백). `collect-news.ps1` 의 `$PRESS_MAP` 에서 보강 가능.
 - 검색 결과에 동명·무관 맥락 노이즈가 섞일 수 있습니다 → 필요 시 `companies.json` 의 `query` 를 정교화하세요.
