@@ -1,15 +1,41 @@
 {
-  "lastUpdated": "2026-11-18T14:57:30Z",
+  "lastUpdated": "2026-11-18T23:47:54Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 373,
+  "count": 375,
   "news": [
+    {
+      "title": "outages that hit Microsoft, Apple, FAA, JPMorgan, other US systems in a week",
+      "description": "Recent outages affecting US tech systems, including Apple and Microsoft, have been deemed unrelated by officials. Secretary of State Marco Rubio expressed that there is no evidence linking these disruptions to cyberattacks or malicious actors. The Federal Aviation Administration experienced a nationwide ground stop, impacting air travel significantly. Other services such as Charles Schwab and JPMorgan Chase faced disruptions but were attributed to technical issues.",
+      "link": "https://economictimes.indiatimes.com/world/us/marco-rubio-says-zero-evidence-of-cyberattack-9-major-outages-that-hit-microsoft-apple-faa-jpmorgan-united-airlines-and-other-us-systems-in-a-week/articleshow/135952081.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-11-18T15:30:00+09:00",
+      "date": "2026-11-18",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Charles Schwab Website Briefly Goes Down As Users Report Issues",
+      "description": "Charles Schwab's website briefly went down on Tuesday, displaying an error code before coming back online around 10:38 a.m. ET.",
+      "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
+      "press": "Business Insider",
+      "pubDate": "2026-11-18T03:26:22+09:00",
+      "date": "2026-11-18",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
     {
       "title": "Schwab compared 5 ways to invest $2,000 a year for 20 years: One investor made $186,077 by buying at market lows, while another who kept waiting for the perfect moment got just $47,357",
       "description": "Best time to invest in the stock market: Discover the implications of delaying stock market investments. Learn why investing sooner is often more profitable, even if done at higher prices, based on a 20-year study by Charles Schwab.",
       "link": "https://economictimes.indiatimes.com/world/money/schwab-compared-5-ways-to-invest-2000-a-year-for-20-years-one-investor-made-186077-by-buying-at-market-lows-while-another-who-kept-waiting-for-the-perfect-moment-got-just-47357/articleshow/135934562.cms",
       "press": "The Economic Times",
-      "pubDate": "2026-11-18T03:30:00+09:00",
+      "pubDate": "2026-11-17T18:30:00+00:00",
       "date": "2026-11-18",
       "category": "broker",
       "companies": [
@@ -22,7 +48,7 @@
       "description": "Charles Schwab Corp experienced a brief loading issue on their website that has now been resolved. Trading services continued to remain available throughout this disruption for clients. Users were able to access their accounts via the website or the Schwab Mobile app. The company issued an apology for the inconvenience caused by the technical problem. Overall, clients experienced minimal disruption during this period of website maintenance.",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/charles-schwab-resolves-brief-website-loading-issue-says-trading-remained-available/articleshow/135935334.cms",
       "press": "The Economic Times",
-      "pubDate": "2026-11-18T02:33:00+09:00",
+      "pubDate": "2026-11-17T17:33:00+00:00",
       "date": "2026-11-18",
       "category": "broker",
       "companies": [
@@ -35,7 +61,7 @@
       "description": "Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.",
       "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
       "press": "Decrypt",
-      "pubDate": "2026-11-18T01:41:38+09:00",
+      "pubDate": "2026-11-17T16:41:38+00:00",
       "date": "2026-11-18",
       "category": "broker",
       "companies": [
@@ -47,7 +73,7 @@
       "description": "Charles Schwab user reports are indicating an outage, according to Downdetector data on Tuesday. Downdetector's website was showing about 1,300 user reports indicating issues at around 10:30 am ET....",
       "link": "https://www.marketscreener.com/news/charles-schwab-user-reports-indicating-outage-downdetector-data-shows-ce785edcda8ff026",
       "press": "MarketScreener",
-      "pubDate": "2026-11-18T01:09:45+09:00",
+      "pubDate": "2026-11-17T16:09:45+00:00",
       "date": "2026-11-18",
       "category": "broker",
       "companies": [
@@ -60,23 +86,11 @@
       "description": "Pawan Kumar Mittal released encumbrance on 22,33,614 shares. The release covers 14.83% of Rita Finance's total share capital. Shares were previously pledged to MSB e-trade Securities Limited. Release date was November 12, 2026.",
       "link": "https://scanx.trade/stock-market-news/companies/rita-finance-promoter-releases-14-83-pledged-shares/56466091",
       "press": "scanx.trade",
-      "pubDate": "2026-11-17T22:01:43+09:00",
+      "pubDate": "2026-11-17T13:01:43+00:00",
       "date": "2026-11-17",
       "category": "broker",
       "companies": [
         "리테일브로커"
-      ]
-    },
-    {
-      "title": "Former Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades",
-      "description": "Huaisong Xiang pleaded guilty to wire fraud, agreed to forfeit $125,523, and is set for sentencing on Feb. 25, 2027.",
-      "link": "https://sainteur.com/article/former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-hyperliquid-trades",
-      "press": "Sainteur",
-      "pubDate": "2026-11-17T12:55:16+09:00",
-      "date": "2026-11-17",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
@@ -97,6 +111,18 @@
       "link": "https://crypto.news/former-robinhood-engineer-pleads-guilty-in-125k-hyperliquid-fraud-case/",
       "press": "Crypto News",
       "pubDate": "2026-11-17T06:12:21+00:00",
+      "date": "2026-11-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Former Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades",
+      "description": "Huaisong Xiang pleaded guilty to wire fraud, agreed to forfeit $125,523, and is set for sentencing on Feb. 25, 2027.",
+      "link": "https://sainteur.com/article/former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-hyperliquid-trades",
+      "press": "Sainteur",
+      "pubDate": "2026-11-17T03:55:16+00:00",
       "date": "2026-11-17",
       "category": "broker",
       "companies": [
