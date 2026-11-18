@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-11-17T15:22:52Z",
+  "lastUpdated": "2026-11-18T00:23:27Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Robinhood Engineer Pleads Guilty to $125K Crypto Trading Fraud",
+      "description": "A former Robinhood engineer pleaded guilty to using confidential crypto listing information to trade on Hyperliquid, generating $125,523 in illicit profits.",
+      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud",
+      "press": "Cointelegraph",
+      "pubDate": "2026-11-17T15:35:19+09:00",
+      "date": "2026-11-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
+    {
+      "title": "Former Robinhood engineer pleads guilty in $125K Hyperliquid fraud case",
+      "description": "Former Robinhood engineer Huaisong Xiang pleaded guilty to wire fraud after making $125,523 through Hyperliquid trades ahead of confidential crypto listings.",
+      "link": "https://crypto.news/former-robinhood-engineer-pleads-guilty-in-125k-hyperliquid-fraud-case/",
+      "press": "Crypto News",
+      "pubDate": "2026-11-17T15:12:21+09:00",
+      "date": "2026-11-17",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "‘Takes a Lot Out of Me’: Stewart Cink Expresses Disappointment With Season Despite Charles Schwab Cup Victory",
       "description": "Eight-time PGA Tour champion Stewart Cink has set exceptionally high standards for himself. Despite clinching the Charles Schwab Cup at Phoenix Country Club on Sunday, the 53-year-old isn’t satisfied with how his season unfolded.",
@@ -172,31 +196,6 @@
       "press": "The Arizona Republic",
       "pubDate": "2026-11-15T05:37:35+09:00",
       "date": "2026-11-15",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
-      ]
-    },
-    {
-      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
-      "description": "Robinhood Markets has filed an appeal with the US Supreme Court concerning a class action lawsuit brought forth by investors. The lawsuit claims the company misled investors ahead of its IPO in July 2021 by not revealing how reduced trading volumes would affect their investments. After initially dismissing the case, the 9th Circuit Court of Appeals has reopened it, with Supreme Court deliberations expected by late June.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-11-14T12:44:00+09:00",
-      "date": "2026-11-14",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Stewart Cink leads by 6 as he closes in on second Charles Schwab Cup",
-      "description": "Stewart Cink caught fire on the back nine and opened up a six-shot lead at the Charles Schwab Cup Championship on Friday in Phoenix. Cink is two rounds away from capturing his second consecutive Charles Schwab Cup, the PGA Tour Champions' season-long title.",
-      "link": "https://www.yardbarker.com/golf/articles/stewart_cink_leads_by_6_as_he_closes_in_on_second_charles_schwab_cup/s1_17060_44558634",
-      "press": "Yardbarker",
-      "pubDate": "2026-11-14T10:28:41+09:00",
-      "date": "2026-11-14",
       "category": "broker",
       "companies": [
         "Charles Schwab",
