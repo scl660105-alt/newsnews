@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-11-18T23:47:54Z",
+  "lastUpdated": "2026-11-19T05:33:50Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Got Anthropic IPO shares on Robinhood? Sell within 30 days and you could be banned from future IPOs for two months",
+      "description": "Robinhood customers receiving Anthropic IPO shares need to watch the selling deadline. Selling ANT stock within 30 days could block access to future IPOs for 60 days. SoFi imposes a longer 180-day restriction for early sales, while Fidelity can suspend repeat offenders for up to a year or permanently.",
+      "link": "https://economictimes.indiatimes.com/world/us/got-anthropic-ipo-shares-on-robinhood-sell-within-30-days-and-you-could-be-banned-from-future-ipos-for-two-months/articleshow/135962739.cms",
+      "press": "The Economic Times",
+      "pubDate": "2026-11-19T01:44:00+09:00",
+      "date": "2026-11-19",
+      "category": "broker",
+      "companies": [
+        "Robinhood",
+        "Fidelity"
+      ]
+    },
     {
       "title": "outages that hit Microsoft, Apple, FAA, JPMorgan, other US systems in a week",
       "description": "Recent outages affecting US tech systems, including Apple and Microsoft, have been deemed unrelated by officials. Secretary of State Marco Rubio expressed that there is no evidence linking these disruptions to cyberattacks or malicious actors. The Federal Aviation Administration experienced a nationwide ground stop, impacting air travel significantly. Other services such as Charles Schwab and JPMorgan Chase faced disruptions but were attributed to technical issues.",
@@ -110,18 +123,6 @@
       "link": "https://crypto.news/former-robinhood-engineer-pleads-guilty-in-125k-hyperliquid-fraud-case/",
       "press": "Crypto News",
       "pubDate": "2026-11-17T15:12:21+09:00",
-      "date": "2026-11-17",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Former Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades",
-      "description": "Huaisong Xiang pleaded guilty to wire fraud, agreed to forfeit $125,523, and is set for sentencing on Feb. 25, 2027.",
-      "link": "https://sainteur.com/article/former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-hyperliquid-trades",
-      "press": "Sainteur",
-      "pubDate": "2026-11-17T12:55:16+09:00",
       "date": "2026-11-17",
       "category": "broker",
       "companies": [
