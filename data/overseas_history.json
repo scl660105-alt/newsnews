@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-11-21T14:01:20Z",
+  "lastUpdated": "2026-11-21T22:41:20Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 374,
+  "count": 375,
   "news": [
+    {
+      "title": "Analysts Have Conflicting Sentiments on These Financial Companies: Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RDM) and Robinhood (HOOD)",
+      "description": "Companies in the Financial sector have received a lot of coverage today as analysts weigh in on Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RD...",
+      "link": "https://markets.businessinsider.com/news/stocks/analysts-have-conflicting-sentiments-on-these-financial-companies-aviva-plc-gb-av-abn-amro-group-n-v-gb-0rdm-and-robinhood-hood-1036789810",
+      "press": "Markets Insider",
+      "pubDate": "2026-11-21T19:01:17+09:00",
+      "date": "2026-11-21",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Bitcoin Falls Below $60K, Lagarde Warns on Tokenization",
       "description": "Today in crypto, Bitcoin falls below $60,000 amid a US stock selloff, ECB President Christine Lagarde warns of fragmented tokenized markets, and institutional Bitcoin ETF holdings hit a record high.",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "press": "Cointelegraph",
-      "pubDate": "2026-11-20T22:29:58+09:00",
+      "pubDate": "2026-11-20T13:29:58+00:00",
       "date": "2026-11-20",
       "category": "theme",
       "companies": [
