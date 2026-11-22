@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-11-21T22:41:20Z",
+  "lastUpdated": "2026-11-22T04:40:41Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "founder plans Bitcoin exit after Anthropic IPO",
+      "description": "Artemis co-founder Jon Ma says he plans to sell Bitcoin and Robinhood after putting about half his net worth in Anthropic, which closed a $93.5B IPO.",
+      "link": "https://crypto.news/artemis-jon-ma-bitcoin-exit-anthropic-ipo/",
+      "press": "Crypto News",
+      "pubDate": "2026-11-21T20:17:53+09:00",
+      "date": "2026-11-21",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "Analysts Have Conflicting Sentiments on These Financial Companies: Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RDM) and Robinhood (HOOD)",
       "description": "Companies in the Financial sector have received a lot of coverage today as analysts weigh in on Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RD...",
@@ -195,19 +207,6 @@
       "companies": [
         "Robinhood",
         "Fidelity"
-      ]
-    },
-    {
-      "title": "outages that hit Microsoft, Apple, FAA, JPMorgan, other US systems in a week",
-      "description": "Recent outages affecting US tech systems, including Apple and Microsoft, have been deemed unrelated by officials. Secretary of State Marco Rubio expressed that there is no evidence linking these disruptions to cyberattacks or malicious actors. The Federal Aviation Administration experienced a nationwide ground stop, impacting air travel significantly. Other services such as Charles Schwab and JPMorgan Chase faced disruptions but were attributed to technical issues.",
-      "link": "https://economictimes.indiatimes.com/world/us/marco-rubio-says-zero-evidence-of-cyberattack-9-major-outages-that-hit-microsoft-apple-faa-jpmorgan-united-airlines-and-other-us-systems-in-a-week/articleshow/135952081.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-11-18T15:30:00+09:00",
-      "date": "2026-11-18",
-      "category": "broker",
-      "companies": [
-        "Charles Schwab",
-        "Schwab"
       ]
     },
     {
