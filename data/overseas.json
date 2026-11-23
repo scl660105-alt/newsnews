@@ -1,8 +1,20 @@
 {
-  "lastUpdated": "2026-11-23T05:17:39Z",
+  "lastUpdated": "2026-11-23T17:07:57Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Webull HK Launches Korean Stock Trading",
+      "description": "**media[1320540]**Offering low commissions, no platform fees and direct trading using US dollars to help investors diversify into the Korean equity market",
+      "link": "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/webull-hk-launches-korean-stock-trading/2475847",
+      "press": "The Manila Times",
+      "pubDate": "2026-11-23T13:27:44+09:00",
+      "date": "2026-11-23",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
     {
       "title": "Radar Crypto Stock Could Surprise Everyone",
       "description": "Asset tokenization could provide a huge boost to the future growth prospects of Securitize.",
@@ -194,19 +206,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Got Anthropic IPO shares on Robinhood? Sell within 30 days and you could be banned from future IPOs for two months",
-      "description": "Robinhood customers receiving Anthropic IPO shares need to watch the selling deadline. Selling ANT stock within 30 days could block access to future IPOs for 60 days. SoFi imposes a longer 180-day restriction for early sales, while Fidelity can suspend repeat offenders for up to a year or permanently.",
-      "link": "https://economictimes.indiatimes.com/world/us/got-anthropic-ipo-shares-on-robinhood-sell-within-30-days-and-you-could-be-banned-from-future-ipos-for-two-months/articleshow/135962739.cms",
-      "press": "The Economic Times",
-      "pubDate": "2026-11-19T01:44:00+09:00",
-      "date": "2026-11-19",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
-        "Fidelity"
       ]
     },
     {
