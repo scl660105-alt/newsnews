@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-11-24T03:42:57Z",
+  "lastUpdated": "2026-11-24T16:51:43Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 354,
+  "count": 355,
   "news": [
+    {
+      "title": "Robinhood adds its first actively managed ETF Stock Token",
+      "description": "Robinhood has launched its first Stock Token tied to an actively managed ETF, offering eligible users exposure to T. Rowe Price’s Technology ETF.",
+      "link": "https://crypto.news/robinhood-tteq-first-active-etf-stock-token/",
+      "press": "Crypto News",
+      "pubDate": "2026-11-24T02:52:17+09:00",
+      "date": "2026-11-24",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "OKXICE launches tokenized stock trading despite objections from 90% of firms",
       "description": "OKXICE launches tokenized stock trading despite objections from 56 of 62 companies, with Coinbase, Robinhood and Strategy among its first listed assets.",
       "link": "https://crypto.news/okxice-launches-tokenized-stock-trading-despite-objections-from-90-of-firms/",
       "press": "Crypto News",
-      "pubDate": "2026-11-23T23:30:55+09:00",
+      "pubDate": "2026-11-23T14:30:55+00:00",
       "date": "2026-11-23",
       "category": "broker",
       "companies": [
