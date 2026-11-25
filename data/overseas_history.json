@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-11-24T16:51:43Z",
+  "lastUpdated": "2026-11-25T01:50:18Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 355,
+  "count": 353,
   "news": [
+    {
+      "title": "MoneyHero Group to Announce Third Quarter 2026 Results",
+      "description": "HONG KONG and SINGAPORE, Nov. 24, 2026 (GLOBE NEWSWIRE) -- MoneyHero Limited (Nasdaq: MNY) ('MoneyHero” or the 'Company”), a leading tech- and AI-powered personal finance aggregation and comparison platform and a digital insurance brokerage provider in Greater Southeast Asia, today announced that it will release its third quarter 2026 results on Thursday, December 3, 2026 before market opens and will hold a related conference call to discuss the results at 8:00 a.m. ET (or 9:00 p.m. Hong Kong / Singapore time) on the same day.",
+      "link": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/moneyhero-group-to-announce-third-quarter-2026-results/2477021",
+      "press": "The Manila Times",
+      "pubDate": "2026-11-24T20:38:47+09:00",
+      "date": "2026-11-24",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
     {
       "title": "Robinhood adds its first actively managed ETF Stock Token",
       "description": "Robinhood has launched its first Stock Token tied to an actively managed ETF, offering eligible users exposure to T. Rowe Price’s Technology ETF.",
       "link": "https://crypto.news/robinhood-tteq-first-active-etf-stock-token/",
       "press": "Crypto News",
-      "pubDate": "2026-11-24T02:52:17+09:00",
+      "pubDate": "2026-11-23T17:52:17+00:00",
       "date": "2026-11-24",
       "category": "broker",
       "companies": [
@@ -4301,43 +4313,6 @@
       "date": "2026-09-26",
       "category": "theme",
       "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Arbitrum Price Prediction Gets $10 Bank Target as Remittix Sets a $0.46 Final Presale Stage and Crypto Experts Eye $5",
-      "description": "Standard Chartered has initiated coverage of Arbitrum with a long-term forecast that places ARB at $10 by the end of 2030. The bank expects tokenized assets and activity from Robinhood Chain to strengthen the network, although its nearer 2026 target is $0.50 rather than $10.",
-      "link": "https://techbullion.com/arbitrum-price-prediction-gets-10-bank-target-as-remittix-sets-a-0-46-final-presale-stage-and-crypto-experts-eye-5/",
-      "press": "TechBullion",
-      "pubDate": "2026-09-25T11:20:18+00:00",
-      "date": "2026-09-25",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-      "description": "The group aims to link onchain shares to official shareholder records following the U.S. SEC's innovation exemption for tokenized stock trading.",
-      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-24T20:05:00+00:00",
-      "date": "2026-09-25",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "The stock token debate, and the gap nobody can close alone",
-      "description": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
-      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-      "press": "CoinDesk",
-      "pubDate": "2026-09-24T20:03:21+00:00",
-      "date": "2026-09-25",
-      "category": "broker",
-      "companies": [
-        "Robinhood",
         "업계테마"
       ]
     }
