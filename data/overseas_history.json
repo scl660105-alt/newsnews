@@ -1,15 +1,52 @@
 {
-  "lastUpdated": "2026-11-26T01:27:22Z",
+  "lastUpdated": "2026-11-26T16:13:40Z",
   "source": "GNews.io",
   "retentionDays": 60,
-  "count": 357,
+  "count": 360,
   "news": [
+    {
+      "title": "Charles Schwab (SCHW) Gets a Buy from Truist Financial",
+      "description": "Truist Financial analyst David Smith -CFA maintained a Buy rating on Charles Schwab yesterday and set a price target of $110.00. According to Ti...",
+      "link": "https://markets.businessinsider.com/news/stocks/charles-schwab-schw-gets-a-buy-from-truist-financial-1036802392",
+      "press": "Markets Insider",
+      "pubDate": "2026-11-26T12:25:20+09:00",
+      "date": "2026-11-26",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Webull Canada Announces Integration with TradingView",
+      "description": "Webull Canada customers will be able to access TradingView's advanced charting and execute trades with their Webull accounts directly from the TradingView",
+      "link": "https://www.thewhig.com/press-releases/pr-newswire/webull-canada-announces-integration-with-tradingview/",
+      "press": "The Kingston Whig-Standard",
+      "pubDate": "2026-11-25T23:06:35+09:00",
+      "date": "2026-11-25",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "AI Trading in India Promises Smarter Investment Bets-At a Steep New Risk",
+      "description": "AI-powered stock discovery tools are minimising the effort involved in research. However, building a financial chatbot comes with a significant challenge",
+      "link": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
+      "press": "Analytics India Magazine",
+      "pubDate": "2026-11-25T22:31:32+09:00",
+      "date": "2026-11-25",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise",
       "description": "NSE Share Price Target: ICICI Securities said that India's capital market is a multi-decade growth story, and NSE could be one of its biggest beneficiaries. The brokerage has set the NSE share price target at ₹2,650.",
       "link": "https://www.business-standard.com/markets/news/nse-jumps-5-to-new-high-on-icici-sec-s-buy-call-target-signals-20-rise-126112500598_1.html",
       "press": "Business Standard",
-      "pubDate": "2026-11-25T18:33:26+09:00",
+      "pubDate": "2026-11-25T09:33:26+00:00",
       "date": "2026-11-25",
       "category": "market",
       "companies": [

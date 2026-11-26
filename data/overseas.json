@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-11-26T01:27:22Z",
+  "lastUpdated": "2026-11-26T16:13:40Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Charles Schwab (SCHW) Gets a Buy from Truist Financial",
+      "description": "Truist Financial analyst David Smith -CFA maintained a Buy rating on Charles Schwab yesterday and set a price target of $110.00. According to Ti...",
+      "link": "https://markets.businessinsider.com/news/stocks/charles-schwab-schw-gets-a-buy-from-truist-financial-1036802392",
+      "press": "Markets Insider",
+      "pubDate": "2026-11-26T12:25:20+09:00",
+      "date": "2026-11-26",
+      "category": "broker",
+      "companies": [
+        "Charles Schwab",
+        "Schwab"
+      ]
+    },
+    {
+      "title": "Webull Canada Announces Integration with TradingView",
+      "description": "Webull Canada customers will be able to access TradingView's advanced charting and execute trades with their Webull accounts directly from the TradingView",
+      "link": "https://www.thewhig.com/press-releases/pr-newswire/webull-canada-announces-integration-with-tradingview/",
+      "press": "The Kingston Whig-Standard",
+      "pubDate": "2026-11-25T23:06:35+09:00",
+      "date": "2026-11-25",
+      "category": "broker",
+      "companies": [
+        "Webull"
+      ]
+    },
+    {
+      "title": "AI Trading in India Promises Smarter Investment Bets-At a Steep New Risk",
+      "description": "AI-powered stock discovery tools are minimising the effort involved in research. However, building a financial chatbot comes with a significant challenge",
+      "link": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
+      "press": "Analytics India Magazine",
+      "pubDate": "2026-11-25T22:31:32+09:00",
+      "date": "2026-11-25",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
     {
       "title": "NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise",
       "description": "NSE Share Price Target: ICICI Securities said that India's capital market is a multi-decade growth story, and NSE could be one of its biggest beneficiaries. The brokerage has set the NSE share price target at ₹2,650.",
@@ -133,30 +170,6 @@
       "category": "theme",
       "companies": [
         "업계테마"
-      ]
-    },
-    {
-      "title": "founder plans Bitcoin exit after Anthropic IPO",
-      "description": "Artemis co-founder Jon Ma says he plans to sell Bitcoin and Robinhood after putting about half his net worth in Anthropic, which closed a $93.5B IPO.",
-      "link": "https://crypto.news/artemis-jon-ma-bitcoin-exit-anthropic-ipo/",
-      "press": "Crypto News",
-      "pubDate": "2026-11-21T20:17:53+09:00",
-      "date": "2026-11-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
-      ]
-    },
-    {
-      "title": "Analysts Have Conflicting Sentiments on These Financial Companies: Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RDM) and Robinhood (HOOD)",
-      "description": "Companies in the Financial sector have received a lot of coverage today as analysts weigh in on Aviva plc (GB:AV), ABN AMRO Group N.V. (GB:0RD...",
-      "link": "https://markets.businessinsider.com/news/stocks/analysts-have-conflicting-sentiments-on-these-financial-companies-aviva-plc-gb-av-abn-amro-group-n-v-gb-0rdm-and-robinhood-hood-1036789810",
-      "press": "Markets Insider",
-      "pubDate": "2026-11-21T19:01:17+09:00",
-      "date": "2026-11-21",
-      "category": "broker",
-      "companies": [
-        "Robinhood"
       ]
     },
     {
@@ -346,18 +359,6 @@
       "press": "CNBC",
       "pubDate": "2026-11-11T03:28:16+09:00",
       "date": "2026-11-11",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "AVAX Leads Broad Crypto Gains After NYSE Tokenization Deal",
-      "description": "Avalanche’s AVAX surged on Monday after the New York Stock Exchange announced it has selected Avalanche as the core blockchain ledger for an upcoming",
-      "link": "https://www.cryptobreaking.com/avax-leads-broad-crypto-gains/",
-      "press": "Crypto Breaking News",
-      "pubDate": "2026-11-10T08:33:18+09:00",
-      "date": "2026-11-10",
       "category": "theme",
       "companies": [
         "업계테마"
