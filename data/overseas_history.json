@@ -1,15 +1,27 @@
 {
-  "lastUpdated": "2026-11-26T16:13:40Z",
+  "lastUpdated": "2026-11-27T01:24:31Z",
   "source": "GNews.io",
   "retentionDays": 60,
   "count": 360,
   "news": [
     {
+      "title": "BSE shares jump 48% in 2026 so far: HDFC Securities upgrades to BUY, hikes target; sees 18% returns",
+      "description": "BSE shares rose about 3% after HDFC Sec upgraded the stock to Buy from Add and raised its target price to ₹4,450. The brokerage cited recovering derivatives volumes, market-share gains and regulatory changes, while noting that Oct’s activity was boosted by volatility and an extra Sensex expiry.",
+      "link": "https://www.livemint.com/market/stock-market-news/bse-shares-jump-48-in-2026-so-far-hdfc-securities-upgrades-to-buy-hikes-target-sees-18-returns-revised-price-11795665701890.html",
+      "press": "Livemint",
+      "pubDate": "2026-11-26T13:57:32+09:00",
+      "date": "2026-11-26",
+      "category": "market",
+      "companies": [
+        "거래소·규제"
+      ]
+    },
+    {
       "title": "Charles Schwab (SCHW) Gets a Buy from Truist Financial",
       "description": "Truist Financial analyst David Smith -CFA maintained a Buy rating on Charles Schwab yesterday and set a price target of $110.00. According to Ti...",
       "link": "https://markets.businessinsider.com/news/stocks/charles-schwab-schw-gets-a-buy-from-truist-financial-1036802392",
       "press": "Markets Insider",
-      "pubDate": "2026-11-26T12:25:20+09:00",
+      "pubDate": "2026-11-26T03:25:20+00:00",
       "date": "2026-11-26",
       "category": "broker",
       "companies": [
@@ -22,7 +34,7 @@
       "description": "Webull Canada customers will be able to access TradingView's advanced charting and execute trades with their Webull accounts directly from the TradingView",
       "link": "https://www.thewhig.com/press-releases/pr-newswire/webull-canada-announces-integration-with-tradingview/",
       "press": "The Kingston Whig-Standard",
-      "pubDate": "2026-11-25T23:06:35+09:00",
+      "pubDate": "2026-11-25T14:06:35+00:00",
       "date": "2026-11-25",
       "category": "broker",
       "companies": [
@@ -34,7 +46,7 @@
       "description": "AI-powered stock discovery tools are minimising the effort involved in research. However, building a financial chatbot comes with a significant challenge",
       "link": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
       "press": "Analytics India Magazine",
-      "pubDate": "2026-11-25T22:31:32+09:00",
+      "pubDate": "2026-11-25T13:31:32+00:00",
       "date": "2026-11-25",
       "category": "theme",
       "companies": [
@@ -4387,18 +4399,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Why your tokenized stock could stop trading for three months",
-      "description": "What are tokenized stocks, and why can trading pause for three months? Understand the SEC experiment, volume caps, and possible exits.",
-      "link": "https://cryptoslate.com/why-your-tokenized-stock-could-stop-trading-for-three-months/",
-      "press": "CryptoSlate",
-      "pubDate": "2026-09-27T09:01:10+00:00",
-      "date": "2026-09-27",
-      "category": "theme",
-      "companies": [
-        "업계테마"
       ]
     }
   ]
