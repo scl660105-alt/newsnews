@@ -1,8 +1,32 @@
 {
-  "lastUpdated": "2026-11-27T01:24:31Z",
+  "lastUpdated": "2026-11-27T15:58:33Z",
   "source": "GNews.io (https://gnews.io/api/v4/search)",
   "count": 30,
   "news": [
+    {
+      "title": "Injective Pushes SEC to Extend Tokenized Stocks to Orderbooks",
+      "description": "Injective urges the SEC to extend its tokenized stock framework to on-chain orderbooks, arguing they match AMMs on investor protection.",
+      "link": "https://coingape.com/injective-pushes-sec-to-extend-tokenized-stock-framework-to-on-chain-orderbooks/",
+      "press": "CoinGape",
+      "pubDate": "2026-11-27T01:40:20+09:00",
+      "date": "2026-11-27",
+      "category": "theme",
+      "companies": [
+        "업계테마"
+      ]
+    },
+    {
+      "title": "Stellar (XLM) Beats XRP in Daily Tokenized Fund Growth",
+      "description": "XRP’s rival Stellar has recorded the highest increase in tokenized fund growth over the last 24 hours, beating XRP and Robinhood Chain.",
+      "link": "https://u.today/stellar-xlm-beats-xrp-in-daily-tokenized-fund-growth",
+      "press": "U.Today",
+      "pubDate": "2026-11-27T00:49:52+09:00",
+      "date": "2026-11-27",
+      "category": "broker",
+      "companies": [
+        "Robinhood"
+      ]
+    },
     {
       "title": "BSE shares jump 48% in 2026 so far: HDFC Securities upgrades to BUY, hikes target; sees 18% returns",
       "description": "BSE shares rose about 3% after HDFC Sec upgraded the stock to Buy from Add and raised its target price to ₹4,450. The brokerage cited recovering derivatives volumes, market-share gains and regulatory changes, while noting that Oct’s activity was boosted by volatility and an extra Sensex expiry.",
@@ -158,18 +182,6 @@
       "category": "broker",
       "companies": [
         "Robinhood"
-      ]
-    },
-    {
-      "title": "Webull HK Launches Korean Stock Trading",
-      "description": "**media[1320540]**Offering low commissions, no platform fees and direct trading using US dollars to help investors diversify into the Korean equity market",
-      "link": "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/webull-hk-launches-korean-stock-trading/2475847",
-      "press": "The Manila Times",
-      "pubDate": "2026-11-23T13:27:44+09:00",
-      "date": "2026-11-23",
-      "category": "broker",
-      "companies": [
-        "Webull"
       ]
     },
     {
@@ -346,18 +358,6 @@
       "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
       "press": "Cointelegraph",
       "pubDate": "2026-11-11T05:26:02+09:00",
-      "date": "2026-11-11",
-      "category": "theme",
-      "companies": [
-        "업계테마"
-      ]
-    },
-    {
-      "title": "Tokenization: The next evolution of the stock market",
-      "description": "Tokenization is beginning to change how investors can access, transfer and use stocks without replacing the market infrastructure beneath them.",
-      "link": "https://www.cnbc.com/2026/11/10/tokenization-market-evolution.html",
-      "press": "CNBC",
-      "pubDate": "2026-11-11T03:28:16+09:00",
       "date": "2026-11-11",
       "category": "theme",
       "companies": [
